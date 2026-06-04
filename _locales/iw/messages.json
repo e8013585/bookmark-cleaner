@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "מנקה סימניות"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "מצא כפילויות, קישורים שבורים, ארגן וחפש בכל הסימניות שלך - מהיר ונקי."
+  },
+  "popupBookmarks": {
+    "message": "סימניות"
+  },
+  "popupFolders": {
+    "message": "תיקיות"
+  },
+  "popupOpenManager": {
+    "message": "פתח את מנהל הסימניות"
+  },
+  "popupTagline": {
+    "message": "נקי · ארגן · חיפוש"
+  },
+  "popupLoading": {
+    "message": "טוען נתונים סטטיסטיים..."
+  },
+  "navHome": {
+    "message": "בַּיִת"
+  },
+  "navDuplicates": {
+    "message": "מצא כפילויות"
+  },
+  "navBroken": {
+    "message": "קישורים שבורים"
+  },
+  "navOrganize": {
+    "message": "ארגן ומיון"
+  },
+  "navSearch": {
+    "message": "חיפוש וסינון"
+  },
+  "navTheme": {
+    "message": "החלף ערכת נושא"
+  },
+  "statBookmarks": {
+    "message": "סימניות"
+  },
+  "statFolders": {
+    "message": "תיקיות"
+  },
+  "statDuplicates": {
+    "message": "כפילויות"
+  },
+  "statEmptyFolders": {
+    "message": "תיקיות ריקות"
+  },
+  "featureDupTitle": {
+    "message": "מצא כפילויות"
+  },
+  "featureDupDesc": {
+    "message": "זיהוי והסר ערכי סימניה שחולקים את אותה כתובת אתר."
+  },
+  "featureBrkTitle": {
+    "message": "קישורים שבורים"
+  },
+  "featureBrkDesc": {
+    "message": "זהה סימניות עם כתובות URL לא חוקיות, ריקות או שאינן אינטרנטיות."
+  },
+  "featureOrgTitle": {
+    "message": "ארגן ומיון"
+  },
+  "featureOrgDesc": {
+    "message": "מיין סימניות בסדר אלפביתי והסר תיקיות ריקות."
+  },
+  "featureSrchTitle": {
+    "message": "חיפוש וסינון"
+  },
+  "featureSrchDesc": {
+    "message": "חפש באופן מיידי בכל הסימניות שלך לפי כותרת או כתובת אתר."
+  },
+  "featureRunBtn": {
+    "message": "לָרוּץ"
+  },
+  "loadingBookmarks": {
+    "message": "טוען את הסימניות שלך..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "טעינת הסימניות נכשלה. אנא נסה שוב."
+  },
+  "duplicatesSubtitle": {
+    "message": "סימניות שחולקות את אותה כתובת אתר מקובצות למטה. שמור אחד, מחק את השאר."
+  },
+  "dupScanBtn": {
+    "message": "סרוק לאיתור כפילויות"
+  },
+  "dupSmartSelectBtn": {
+    "message": "בחירה אוטומטית (שמור על הישן ביותר)"
+  },
+  "dupDeleteBtn": {
+    "message": "מחק את נבחרות"
+  },
+  "dupDeleteBtnCount": {
+    "message": "מחק $1 סימניות",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "שמור את זה"
+  },
+  "dupGroupCount": {
+    "message": "$1 עותקים",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "סימניות של $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "סורק תיקיות..."
+  },
+  "emptyDupTitle": {
+    "message": "לא נמצאו כפילויות"
+  },
+  "emptyDupDesc": {
+    "message": "לאוסף הסימניות שלך אין כתובות אתרים כפולות. עבודה נהדרת!"
+  },
+  "brokenSubtitle": {
+    "message": "סימניות עם כתובות אתרים לא חוקיות, ריקות או שאינן אינטרנט מפורטות להלן."
+  },
+  "brkScanBtn": {
+    "message": "סרוק לאיתור בעיות"
+  },
+  "brkDeleteBtn": {
+    "message": "מחק את נבחרות"
+  },
+  "badgeEmptyUrl": {
+    "message": "כתובת אתר ריקה"
+  },
+  "badgeInvalidUrl": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "badgeLocalFile": {
+    "message": "קובץ מקומי"
+  },
+  "badgeNonWeb": {
+    "message": "לא אינטרנט"
+  },
+  "badgeSuspicious": {
+    "message": "חָשׁוּד"
+  },
+  "emptyBrkTitle": {
+    "message": "לא נמצאו בעיות"
+  },
+  "emptyBrkDesc": {
+    "message": "נראה שלכל הסימניות שלך יש כתובות אתרים חוקיות."
+  },
+  "orgTabSort": {
+    "message": "מיין סימניות"
+  },
+  "orgTabEmpty": {
+    "message": "תיקיות ריקות"
+  },
+  "sortSelectFolder": {
+    "message": "בחר תיקייה"
+  },
+  "sortAllBookmarks": {
+    "message": "כל הסימניות"
+  },
+  "sortOrder": {
+    "message": "סדר מיון"
+  },
+  "sortAZ": {
+    "message": "A → Z (לפי כותרת)"
+  },
+  "sortZA": {
+    "message": "Z → A (לפי כותרת)"
+  },
+  "sortDomain": {
+    "message": "לפי דומיין כתובת אתר (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "תחילה תיקיות ולאחר מכן סימניות"
+  },
+  "sortRecursive": {
+    "message": "מיון רקורסיבי (חל על כל תיקיות המשנה)"
+  },
+  "sortPreviewBtn": {
+    "message": "תצוגה מקדימה"
+  },
+  "sortApplyBtn": {
+    "message": "החל מיון"
+  },
+  "sortPreviewLabel": {
+    "message": "תצוגה מקדימה - לאחר מיון:"
+  },
+  "sortPreviewMore": {
+    "message": "… ועוד $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "לתיקיה זו אין סימניות למיין."
+  },
+  "sortSuccess": {
+    "message": "הסימניות מוינו בהצלחה."
+  },
+  "emptyScanBtn": {
+    "message": "סרוק לאיתור תיקיות ריקות"
+  },
+  "emptyDeleteBtn": {
+    "message": "מחק תיקיות נבחרות"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "אין תיקיות ריקות"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "כל התיקיות שלך מכילות פריט אחד לפחות."
+  },
+  "deletedFolders": {
+    "message": "תיקיות $1 נמחקו.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "חפש בסימניות לפי כותרת או כתובת אתר..."
+  },
+  "chipAll": {
+    "message": "כֹּל"
+  },
+  "searchResultCount": {
+    "message": "תוצאות $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "לִפְתוֹחַ"
+  },
+  "searchEditBtn": {
+    "message": "לַעֲרוֹך"
+  },
+  "searchCancelEditBtn": {
+    "message": "לְבַטֵל"
+  },
+  "searchDeleteBtn": {
+    "message": "לִמְחוֹק"
+  },
+  "searchSaveBtn": {
+    "message": "לְהַצִיל"
+  },
+  "searchCancelBtn": {
+    "message": "לְבַטֵל"
+  },
+  "emptySearchTitle": {
+    "message": "לא נמצאו תוצאות"
+  },
+  "emptySearchDesc": {
+    "message": "נסה מונח חיפוש או מסנן אחר."
+  },
+  "deleteConfirmMsg": {
+    "message": "האם אתה בטוח שברצונך למחוק את הסימניה הזו?"
+  },
+  "deleteConfirmYes": {
+    "message": "כן, מחק"
+  },
+  "deleteConfirmNo": {
+    "message": "לְבַטֵל"
+  },
+  "toastDeleted": {
+    "message": "$1 סימניות נמחקו.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "המחיקה בוטלה. הסימניות שוחזרו."
+  },
+  "undoBtn": {
+    "message": "לְבַטֵל"
+  },
+  "bookmarkUpdated": {
+    "message": "כותרת הסימניה עודכנה."
+  },
+  "errorGeneric": {
+    "message": "אירעה שגיאה. אנא נסה שוב."
+  },
+  "noTitle": {
+    "message": "(ללא כותרת)"
+  },
+  "unknownFolder": {
+    "message": "(תיקיה לא ידועה)"
+  },
+  "rootFolder": {
+    "message": "שורש סימניות"
+  },
+  "ariaNav": {
+    "message": "ניווט ראשי"
+  },
+  "ariaThemeToggle": {
+    "message": "החלף בין נושא כהה/בהיר"
+  },
+  "ariaSidebarToggle": {
+    "message": "החלף את סרגל הצד"
+  },
+  "ariaClearSearch": {
+    "message": "נקה חיפוש"
+  },
+  "ariaFilterChips": {
+    "message": "סינון לפי תיקיה"
+  },
+  "ariaMarkForDeletion": {
+    "message": "סמן למחיקה:"
+  },
+  "ariaEditTitle": {
+    "message": "ערוך את כותרת הסימניה"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Dupatî, girêdanên şikestî bibînin, hemî nîşangirên xwe birêxistin bikin û bigerin - zû û paqij."
+  },
+  "popupBookmarks": {
+    "message": "Bookmarks"
+  },
+  "popupFolders": {
+    "message": "Folders"
+  },
+  "popupOpenManager": {
+    "message": "Rêvebirê Pirtûkan vekin"
+  },
+  "popupTagline": {
+    "message": "Paqij · Rêxistin · Lêgerîn"
+  },
+  "popupLoading": {
+    "message": "Barkirina statîstîkan…"
+  },
+  "navHome": {
+    "message": "Xane"
+  },
+  "navDuplicates": {
+    "message": "Duplicates bibînin"
+  },
+  "navBroken": {
+    "message": "Girêdanên şikestî"
+  },
+  "navOrganize": {
+    "message": "Rêxistin & Rêzkirin"
+  },
+  "navSearch": {
+    "message": "Lêgerîn & Parzûnkirin"
+  },
+  "navTheme": {
+    "message": "Mijar biguherîne"
+  },
+  "statBookmarks": {
+    "message": "Bookmarks"
+  },
+  "statFolders": {
+    "message": "Folders"
+  },
+  "statDuplicates": {
+    "message": "Duplicates"
+  },
+  "statEmptyFolders": {
+    "message": "Peldankên vala"
+  },
+  "featureDupTitle": {
+    "message": "Duplicates bibînin"
+  },
+  "featureDupDesc": {
+    "message": "Navnîşanên nîşangirên ku heman URL-ê parve dikin kifş bikin û jêbirin."
+  },
+  "featureBrkTitle": {
+    "message": "Girêdanên şikestî"
+  },
+  "featureBrkDesc": {
+    "message": "Nîşaneyên bi URL-yên nederbasdar, vala, an ne-web-ê destnîşan bikin."
+  },
+  "featureOrgTitle": {
+    "message": "Rêxistin & Rêzkirin"
+  },
+  "featureOrgDesc": {
+    "message": "Nîşanan li gorî alfabetîk rêz bikin û peldankên vala derxînin."
+  },
+  "featureSrchTitle": {
+    "message": "Lêgerîn & Parzûnkirin"
+  },
+  "featureSrchDesc": {
+    "message": "Bi sernav an URL-ê tavilê li hemî nîşangirên xwe bigerin."
+  },
+  "featureRunBtn": {
+    "message": "Rev"
+  },
+  "loadingBookmarks": {
+    "message": "Nîşaneyên we tê barkirin…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Barkirina nîşanan bi ser neket. Ji kerema xwe dîsa biceribîne."
+  },
+  "duplicatesSubtitle": {
+    "message": "Nîşaneyên ku heman URL-yê parve dikin li jêr têne kom kirin. Yek bihêle, yên mayî jêbirin."
+  },
+  "dupScanBtn": {
+    "message": "Scan bo Duplicates"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Hilbijartina Xweser (Yê Kevin Bihêle)"
+  },
+  "dupDeleteBtn": {
+    "message": "Hilbijartî jêbirin"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 nîşanan jêbikin",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Keep Ev"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopiyên",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Nîşaneyên $1 / $2 kontrol kirin",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Peldankan dikole…"
+  },
+  "emptyDupTitle": {
+    "message": "Dûber nehat dîtin"
+  },
+  "emptyDupDesc": {
+    "message": "Kolek nîşana we URL-yên dubare tune. Karê mezin!"
+  },
+  "brokenSubtitle": {
+    "message": "Nîşaneyên bi URL-yên nederbasdar, vala, an ne-web-ê li jêr têne rêz kirin."
+  },
+  "brkScanBtn": {
+    "message": "Ji bo Pirsgirêkan Scan"
+  },
+  "brkDeleteBtn": {
+    "message": "Hilbijartî jêbirin"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL vala"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL nederbasdar"
+  },
+  "badgeLocalFile": {
+    "message": "Pelê Herêmî"
+  },
+  "badgeNonWeb": {
+    "message": "Ne-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Nebawer"
+  },
+  "emptyBrkTitle": {
+    "message": "Pirsgirêk nehat dîtin"
+  },
+  "emptyBrkDesc": {
+    "message": "Hemî nîşangirên we URLên derbasdar xuya dikin."
+  },
+  "orgTabSort": {
+    "message": "Bişkojka Sort bike"
+  },
+  "orgTabEmpty": {
+    "message": "Peldankên vala"
+  },
+  "sortSelectFolder": {
+    "message": "Peldanka Hilbijêre"
+  },
+  "sortAllBookmarks": {
+    "message": "Hemû Bookmarks"
+  },
+  "sortOrder": {
+    "message": "Sort Order"
+  },
+  "sortAZ": {
+    "message": "A → Z (bi sernavê)"
+  },
+  "sortZA": {
+    "message": "Z → A (bi sernavê)"
+  },
+  "sortDomain": {
+    "message": "Li gorî domaina URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Pêşî peldank, paşê nîşanker"
+  },
+  "sortRecursive": {
+    "message": "Bi vegerî rêz bike (ji bo hemî binpeldankan bicîh bîne)"
+  },
+  "sortPreviewBtn": {
+    "message": "Pêşnerîn"
+  },
+  "sortApplyBtn": {
+    "message": "Bicivîne Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Pêşdîtin - piştî rêzkirinê:"
+  },
+  "sortPreviewMore": {
+    "message": "… û $1 zêdetir",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Di vê peldankê de nîşangirên ji bo rêzkirinê tune."
+  },
+  "sortSuccess": {
+    "message": "Nîşan bi serkeftî hatin rêzkirin."
+  },
+  "emptyScanBtn": {
+    "message": "Ji bo Peldankên Vala Bigerin"
+  },
+  "emptyDeleteBtn": {
+    "message": "Peldankên Hilbijartî jêbirin"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Peldankên vala tune"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Hemî peldankên we herî kêm yek tişt dihewîne."
+  },
+  "deletedFolders": {
+    "message": "Peldanka $1 hat jêbirin.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Bi sernav an URL-ê li nîşankan bigerin…"
+  },
+  "chipAll": {
+    "message": "Gişt"
+  },
+  "searchResultCount": {
+    "message": "$1 encamên",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Vekirî"
+  },
+  "searchEditBtn": {
+    "message": "Weşandin"
+  },
+  "searchCancelEditBtn": {
+    "message": "Bişûndekirin"
+  },
+  "searchDeleteBtn": {
+    "message": "Jêbirin"
+  },
+  "searchSaveBtn": {
+    "message": "Rizgarkirin"
+  },
+  "searchCancelBtn": {
+    "message": "Bişûndekirin"
+  },
+  "emptySearchTitle": {
+    "message": "Encam nehat dîtin"
+  },
+  "emptySearchDesc": {
+    "message": "Peyvek lêgerîn an parzûnek cihê biceribîne."
+  },
+  "deleteConfirmMsg": {
+    "message": "Ma hûn pê bawer in ku hûn dixwazin vê nîşankerê jêbikin?"
+  },
+  "deleteConfirmYes": {
+    "message": "Erê, jêbirin"
+  },
+  "deleteConfirmNo": {
+    "message": "Bişûndekirin"
+  },
+  "toastDeleted": {
+    "message": "$1 nîşana(ên) jêbirin.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Jêbirin betal kirin. Bookmarks restore."
+  },
+  "undoBtn": {
+    "message": "Undo"
+  },
+  "bookmarkUpdated": {
+    "message": "Sernavê nîşanê hate nûve kirin."
+  },
+  "errorGeneric": {
+    "message": "Çewtiyek derket. Ji kerema xwe dîsa biceribîne."
+  },
+  "noTitle": {
+    "message": "(Bê Sernav)"
+  },
+  "unknownFolder": {
+    "message": "(Peldanka nenas)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks Root"
+  },
+  "ariaNav": {
+    "message": "Navîgasyon sereke"
+  },
+  "ariaThemeToggle": {
+    "message": "Mijara tarî/ronahî biguherîne"
+  },
+  "ariaSidebarToggle": {
+    "message": "Barê kêlekê biguherîne"
+  },
+  "ariaClearSearch": {
+    "message": "Lêgerînê paqij bike"
+  },
+  "ariaFilterChips": {
+    "message": "Parzûn bi peldankê"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Ji bo jêbirinê nîşan bide:"
+  },
+  "ariaEditTitle": {
+    "message": "Sernavê nîşankê biguherîne"
+  }
+}

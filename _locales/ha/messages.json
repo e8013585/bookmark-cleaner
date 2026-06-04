@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Mai tsaftace alamar shafi"
+  },
+  "extShortName": {
+    "message": "Mai tsabtace BK"
+  },
+  "extDescription": {
+    "message": "Nemo kwafi, karya hanyoyin haɗin gwiwa, tsarawa da bincika duk alamomin ku - sauri da tsabta."
+  },
+  "popupBookmarks": {
+    "message": "Alamomi"
+  },
+  "popupFolders": {
+    "message": "Jakunkuna"
+  },
+  "popupOpenManager": {
+    "message": "Buɗe Manajan Alamomin shafi"
+  },
+  "popupTagline": {
+    "message": "Tsaftace · Tsara · Bincika"
+  },
+  "popupLoading": {
+    "message": "Ana loda ƙididdiga…"
+  },
+  "navHome": {
+    "message": "Gida"
+  },
+  "navDuplicates": {
+    "message": "Nemo Kwafi"
+  },
+  "navBroken": {
+    "message": "Matsalolin da aka karye"
+  },
+  "navOrganize": {
+    "message": "Tsara & Rarraba"
+  },
+  "navSearch": {
+    "message": "Bincika & Tace"
+  },
+  "navTheme": {
+    "message": "Juya Jigo"
+  },
+  "statBookmarks": {
+    "message": "Alamomi"
+  },
+  "statFolders": {
+    "message": "Jakunkuna"
+  },
+  "statDuplicates": {
+    "message": "Kwafi"
+  },
+  "statEmptyFolders": {
+    "message": "Fayiloli marasa komai"
+  },
+  "featureDupTitle": {
+    "message": "Nemo Kwafi"
+  },
+  "featureDupDesc": {
+    "message": "Gano kuma cire abubuwan shigar da alamar shafi suna raba URL iri ɗaya."
+  },
+  "featureBrkTitle": {
+    "message": "Matsalolin da aka karye"
+  },
+  "featureBrkDesc": {
+    "message": "Gano alamun shafi marasa inganci, fanko, ko URLs marasa inganci."
+  },
+  "featureOrgTitle": {
+    "message": "Tsara & Rarraba"
+  },
+  "featureOrgDesc": {
+    "message": "Tsara alamomin haruffa da haruffa kuma cire manyan fayiloli marasa komai."
+  },
+  "featureSrchTitle": {
+    "message": "Bincika & Tace"
+  },
+  "featureSrchDesc": {
+    "message": "Nemo nan take a cikin dukkan alamomin ku ta take ko URL."
+  },
+  "featureRunBtn": {
+    "message": "Gudu"
+  },
+  "loadingBookmarks": {
+    "message": "Ana loda alamomin ku…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "An kasa loda alamun shafi. Da fatan za a sake gwadawa."
+  },
+  "duplicatesSubtitle": {
+    "message": "Alamomin raba URL iri ɗaya an haɗa su a ƙasa. Ajiye daya, share sauran."
+  },
+  "dupScanBtn": {
+    "message": "Duba don Kwafi"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Zaɓa ta atomatik (Kiyaye Mafi tsufa)"
+  },
+  "dupDeleteBtn": {
+    "message": "Share Zaɓaɓɓen"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Share $1 Alamomin shafi",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Rike Wannan"
+  },
+  "dupGroupCount": {
+    "message": "$1 kwafi",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "An duba $1 / $2 alamun shafi",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Ana duba manyan fayiloli…"
+  },
+  "emptyDupTitle": {
+    "message": "Ba a Samu Kwafi ba"
+  },
+  "emptyDupDesc": {
+    "message": "Tarin alamar ku ba shi da kwafin URLs. Babban aiki!"
+  },
+  "brokenSubtitle": {
+    "message": "Alamomin shafi marasa inganci, fanko, ko URLs marasa inganci an jera su a ƙasa."
+  },
+  "brkScanBtn": {
+    "message": "Duba ga Matsaloli"
+  },
+  "brkDeleteBtn": {
+    "message": "Share Zaɓaɓɓen"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL mara komai"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL mara inganci"
+  },
+  "badgeLocalFile": {
+    "message": "Fayil na gida"
+  },
+  "badgeNonWeb": {
+    "message": "Ba Yanar Gizo ba"
+  },
+  "badgeSuspicious": {
+    "message": "Abin tuhuma"
+  },
+  "emptyBrkTitle": {
+    "message": "Ba a Samu Matsalolin Ba"
+  },
+  "emptyBrkDesc": {
+    "message": "Duk alamun ku sun bayyana suna da ingantattun URLs."
+  },
+  "orgTabSort": {
+    "message": "Tsara Alamomi"
+  },
+  "orgTabEmpty": {
+    "message": "Fayiloli marasa komai"
+  },
+  "sortSelectFolder": {
+    "message": "Zaɓi Jaka"
+  },
+  "sortAllBookmarks": {
+    "message": "Duk Alamomin"
+  },
+  "sortOrder": {
+    "message": "Tsarin oda"
+  },
+  "sortAZ": {
+    "message": "A → Z (ta take)"
+  },
+  "sortZA": {
+    "message": "Z → A (ta take)"
+  },
+  "sortDomain": {
+    "message": "Ta hanyar URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Fayiloli da farko, sannan alamun shafi"
+  },
+  "sortRecursive": {
+    "message": "Rarraba akai-akai (a shafi duk manyan fayiloli)"
+  },
+  "sortPreviewBtn": {
+    "message": "Dubawa"
+  },
+  "sortApplyBtn": {
+    "message": "Aiwatar Rarraba"
+  },
+  "sortPreviewLabel": {
+    "message": "Dubawa - bayan an rarraba:"
+  },
+  "sortPreviewMore": {
+    "message": "… da $1 ƙari",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Wannan babban fayil ɗin ba shi da alamomin da za a warware."
+  },
+  "sortSuccess": {
+    "message": "An jera alamomi cikin nasara."
+  },
+  "emptyScanBtn": {
+    "message": "Duba Fayilolin da Ba komai"
+  },
+  "emptyDeleteBtn": {
+    "message": "Share Zaɓaɓɓun Jakunkuna"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Babu Fayiloli marasa wofi"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Duk manyan fayilolinku sun ƙunshi aƙalla abu ɗaya."
+  },
+  "deletedFolders": {
+    "message": "An share babban fayil (s) $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Bincika alamun shafi ta take ko URL…"
+  },
+  "chipAll": {
+    "message": "Duka"
+  },
+  "searchResultCount": {
+    "message": "Sakamakon $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Bude"
+  },
+  "searchEditBtn": {
+    "message": "Gyara"
+  },
+  "searchCancelEditBtn": {
+    "message": "Soke"
+  },
+  "searchDeleteBtn": {
+    "message": "Share"
+  },
+  "searchSaveBtn": {
+    "message": "Ajiye"
+  },
+  "searchCancelBtn": {
+    "message": "Soke"
+  },
+  "emptySearchTitle": {
+    "message": "Ba a Samu Sakamako ba"
+  },
+  "emptySearchDesc": {
+    "message": "Gwada wani kalmar bincike daban ko tace."
+  },
+  "deleteConfirmMsg": {
+    "message": "Shin kun tabbata kuna son share wannan alamar?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ee, Share"
+  },
+  "deleteConfirmNo": {
+    "message": "Soke"
+  },
+  "toastDeleted": {
+    "message": "$1 alamar (s) an goge.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "An soke sharewa. An dawo da alamun shafi."
+  },
+  "undoBtn": {
+    "message": "Gyara"
+  },
+  "bookmarkUpdated": {
+    "message": "An sabunta taken alamar shafi."
+  },
+  "errorGeneric": {
+    "message": "An sami kuskure Da fatan za a sake gwadawa."
+  },
+  "noTitle": {
+    "message": "(Babu Take)"
+  },
+  "unknownFolder": {
+    "message": "(Jakar da ba a sani ba)"
+  },
+  "rootFolder": {
+    "message": "Tushen Alamomi"
+  },
+  "ariaNav": {
+    "message": "Babban kewayawa"
+  },
+  "ariaThemeToggle": {
+    "message": "Juya taken duhu/ haske"
+  },
+  "ariaSidebarToggle": {
+    "message": "Juya labarun gefe"
+  },
+  "ariaClearSearch": {
+    "message": "Share bincike"
+  },
+  "ariaFilterChips": {
+    "message": "Tace da babban fayil"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Alama don sharewa:"
+  },
+  "ariaEditTitle": {
+    "message": "Gyara taken alamar shafi"
+  }
+}

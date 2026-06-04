@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Legomarko Purigilo"
+  },
+  "extShortName": {
+    "message": "BK Purigilo"
+  },
+  "extDescription": {
+    "message": "Trovu duplikatojn, rompitajn ligilojn, organizu kaj serĉu ĉiujn viajn legosignojn - rapide kaj puraj."
+  },
+  "popupBookmarks": {
+    "message": "Legosignoj"
+  },
+  "popupFolders": {
+    "message": "Dosierujoj"
+  },
+  "popupOpenManager": {
+    "message": "Malfermu Legosignmanaĝeron"
+  },
+  "popupTagline": {
+    "message": "Purigi · Organizi · Serĉi"
+  },
+  "popupLoading": {
+    "message": "Ŝarĝante statistikojn..."
+  },
+  "navHome": {
+    "message": "Hejmo"
+  },
+  "navDuplicates": {
+    "message": "Trovu Duplikatojn"
+  },
+  "navBroken": {
+    "message": "Rompitaj Ligiloj"
+  },
+  "navOrganize": {
+    "message": "Organizi & Ordigi"
+  },
+  "navSearch": {
+    "message": "Serĉu & Filtrilon"
+  },
+  "navTheme": {
+    "message": "Baskuligi Temon"
+  },
+  "statBookmarks": {
+    "message": "Legosignoj"
+  },
+  "statFolders": {
+    "message": "Dosierujoj"
+  },
+  "statDuplicates": {
+    "message": "Duplikatoj"
+  },
+  "statEmptyFolders": {
+    "message": "Malplenaj Dosierujoj"
+  },
+  "featureDupTitle": {
+    "message": "Trovu Duplikatojn"
+  },
+  "featureDupDesc": {
+    "message": "Detektu kaj forigu legosignojn kunhavanta la saman URL."
+  },
+  "featureBrkTitle": {
+    "message": "Rompitaj Ligiloj"
+  },
+  "featureBrkDesc": {
+    "message": "Identigu legosignojn kun nevalidaj, malplenaj aŭ ne-retaj URL-oj."
+  },
+  "featureOrgTitle": {
+    "message": "Organizi & Ordigi"
+  },
+  "featureOrgDesc": {
+    "message": "Ordigu legosignojn alfabete kaj forigu malplenajn dosierujojn."
+  },
+  "featureSrchTitle": {
+    "message": "Serĉu & Filtrilon"
+  },
+  "featureSrchDesc": {
+    "message": "Tuj serĉu tra ĉiuj viaj legosignoj laŭ titolo aŭ URL."
+  },
+  "featureRunBtn": {
+    "message": "Kuru"
+  },
+  "loadingBookmarks": {
+    "message": "Ŝargante viajn legosignojn..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Malsukcesis ŝargi legosignojn. Bonvolu provi denove."
+  },
+  "duplicatesSubtitle": {
+    "message": "Legosignoj kunhavanta la saman URL estas grupigitaj malsupre. Konservu unu, forigu la ceterajn."
+  },
+  "dupScanBtn": {
+    "message": "Skanu por Duplikatoj"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Aŭtomata Elekto (Konservu Plej Malnova)"
+  },
+  "dupDeleteBtn": {
+    "message": "Forigi Elektitajn"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Forigu $1 Legosignojn",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Konservu Ĉi tion"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopioj",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Kontrolitaj $1 / $2 legosignoj",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Skanante dosierujojn..."
+  },
+  "emptyDupTitle": {
+    "message": "Neniuj Duplikatoj Trovitaj"
+  },
+  "emptyDupDesc": {
+    "message": "Via legosignkolekto ne havas duplikatajn URL-ojn. Bonega laboro!"
+  },
+  "brokenSubtitle": {
+    "message": "Legosignoj kun malvalidaj, malplenaj aŭ ne-retaj URL-oj estas listigitaj malsupre."
+  },
+  "brkScanBtn": {
+    "message": "Skanu por Problemoj"
+  },
+  "brkDeleteBtn": {
+    "message": "Forigi Elektitajn"
+  },
+  "badgeEmptyUrl": {
+    "message": "Malplena URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Nevalida URL"
+  },
+  "badgeLocalFile": {
+    "message": "Loka Dosiero"
+  },
+  "badgeNonWeb": {
+    "message": "Ne-retejo"
+  },
+  "badgeSuspicious": {
+    "message": "Suspektinda"
+  },
+  "emptyBrkTitle": {
+    "message": "Neniuj Problemoj Trovitaj"
+  },
+  "emptyBrkDesc": {
+    "message": "Ĉiuj viaj legosignoj ŝajnas havi validajn URL-ojn."
+  },
+  "orgTabSort": {
+    "message": "Ordigi Legosignojn"
+  },
+  "orgTabEmpty": {
+    "message": "Malplenaj Dosierujoj"
+  },
+  "sortSelectFolder": {
+    "message": "Elektu Dosierujon"
+  },
+  "sortAllBookmarks": {
+    "message": "Ĉiuj Legosignoj"
+  },
+  "sortOrder": {
+    "message": "Ordigo"
+  },
+  "sortAZ": {
+    "message": "A → Z (laŭ titolo)"
+  },
+  "sortZA": {
+    "message": "Z → A (laŭ titolo)"
+  },
+  "sortDomain": {
+    "message": "Per URL-domajno (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Unue dosierujoj, poste legosignoj"
+  },
+  "sortRecursive": {
+    "message": "Ordigi rekursie (aplikas al ĉiuj subdosierujoj)"
+  },
+  "sortPreviewBtn": {
+    "message": "Antaŭrigardo"
+  },
+  "sortApplyBtn": {
+    "message": "Apliki Ordigon"
+  },
+  "sortPreviewLabel": {
+    "message": "Antaŭrigardo — post ordigo:"
+  },
+  "sortPreviewMore": {
+    "message": "… kaj $1 pli",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ĉi tiu dosierujo ne havas legosignojn por ordigi."
+  },
+  "sortSuccess": {
+    "message": "Legosignoj ordigitaj sukcese."
+  },
+  "emptyScanBtn": {
+    "message": "Skanu por Malplenaj Dosierujoj"
+  },
+  "emptyDeleteBtn": {
+    "message": "Forigu Elektitajn Dosierujojn"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Neniuj Malplenaj Dosierujoj"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Ĉiuj viaj dosierujoj enhavas almenaŭ unu eron."
+  },
+  "deletedFolders": {
+    "message": "Forigita(j)n $1 dosierujo(j).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Serĉu legosignojn laŭ titolo aŭ URL..."
+  },
+  "chipAll": {
+    "message": "Ĉiuj"
+  },
+  "searchResultCount": {
+    "message": "$1 rezultoj",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Malfermu"
+  },
+  "searchEditBtn": {
+    "message": "Redakti"
+  },
+  "searchCancelEditBtn": {
+    "message": "Nuligi"
+  },
+  "searchDeleteBtn": {
+    "message": "Forigi"
+  },
+  "searchSaveBtn": {
+    "message": "Konservu"
+  },
+  "searchCancelBtn": {
+    "message": "Nuligi"
+  },
+  "emptySearchTitle": {
+    "message": "Neniuj Rezultoj Trovitaj"
+  },
+  "emptySearchDesc": {
+    "message": "Provu alian serĉterminon aŭ filtrilon."
+  },
+  "deleteConfirmMsg": {
+    "message": "Ĉu vi certas, ke vi volas forigi ĉi tiun legosignon?"
+  },
+  "deleteConfirmYes": {
+    "message": "Jes, Forigu"
+  },
+  "deleteConfirmNo": {
+    "message": "Nuligi"
+  },
+  "toastDeleted": {
+    "message": "$1 legosigno(j) forigita(j).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Forigo malfarita. Legosignoj restarigitaj."
+  },
+  "undoBtn": {
+    "message": "Malfari"
+  },
+  "bookmarkUpdated": {
+    "message": "Legomarktitolo ĝisdatigita."
+  },
+  "errorGeneric": {
+    "message": "Okazis eraro. Bonvolu provi denove."
+  },
+  "noTitle": {
+    "message": "(Neniu Titolo)"
+  },
+  "unknownFolder": {
+    "message": "(Nekonata Dosierujo)"
+  },
+  "rootFolder": {
+    "message": "Legosignoj Radiko"
+  },
+  "ariaNav": {
+    "message": "Ĉefa navigado"
+  },
+  "ariaThemeToggle": {
+    "message": "Ŝaltu malhelan/luman temon"
+  },
+  "ariaSidebarToggle": {
+    "message": "Baskulu flanka kolumno"
+  },
+  "ariaClearSearch": {
+    "message": "Klara serĉo"
+  },
+  "ariaFilterChips": {
+    "message": "Filtru laŭ dosierujo"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marku por forigo:"
+  },
+  "ariaEditTitle": {
+    "message": "Redaktu legosigntitolon"
+  }
+}

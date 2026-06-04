@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Почистване на отметки"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Намерете дубликати, повредени връзки, организирайте и търсете във всичките си отметки — бързо и чисто."
+  },
+  "popupBookmarks": {
+    "message": "Отметки"
+  },
+  "popupFolders": {
+    "message": "Папки"
+  },
+  "popupOpenManager": {
+    "message": "Отворете Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Почистване · Организиране · Търсене"
+  },
+  "popupLoading": {
+    "message": "Зарежда се статистика..."
+  },
+  "navHome": {
+    "message": "Начало"
+  },
+  "navDuplicates": {
+    "message": "Намерете дубликати"
+  },
+  "navBroken": {
+    "message": "Неработещи връзки"
+  },
+  "navOrganize": {
+    "message": "Организирайте и сортирайте"
+  },
+  "navSearch": {
+    "message": "Търсене и филтриране"
+  },
+  "navTheme": {
+    "message": "Превключване на темата"
+  },
+  "statBookmarks": {
+    "message": "Отметки"
+  },
+  "statFolders": {
+    "message": "Папки"
+  },
+  "statDuplicates": {
+    "message": "Дубликати"
+  },
+  "statEmptyFolders": {
+    "message": "Празни папки"
+  },
+  "featureDupTitle": {
+    "message": "Намерете дубликати"
+  },
+  "featureDupDesc": {
+    "message": "Откриване и премахване на записи в отметки, споделящи един и същ URL адрес."
+  },
+  "featureBrkTitle": {
+    "message": "Неработещи връзки"
+  },
+  "featureBrkDesc": {
+    "message": "Идентифицирайте отметки с невалидни, празни или неуеб адреси."
+  },
+  "featureOrgTitle": {
+    "message": "Организирайте и сортирайте"
+  },
+  "featureOrgDesc": {
+    "message": "Сортирайте отметките по азбучен ред и премахнете празните папки."
+  },
+  "featureSrchTitle": {
+    "message": "Търсене и филтриране"
+  },
+  "featureSrchDesc": {
+    "message": "Незабавно търсете във всичките си отметки по заглавие или URL."
+  },
+  "featureRunBtn": {
+    "message": "Бягай"
+  },
+  "loadingBookmarks": {
+    "message": "Вашите отметки се зареждат..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Неуспешно зареждане на отметките. Моля, опитайте отново."
+  },
+  "duplicatesSubtitle": {
+    "message": "Отметките, споделящи един и същи URL адрес, са групирани по-долу. Запазете едно, изтрийте останалите."
+  },
+  "dupScanBtn": {
+    "message": "Сканиране за дубликати"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Автоматичен избор (Запазване на най-старите)"
+  },
+  "dupDeleteBtn": {
+    "message": "Изтриване на избраното"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Изтриване на $1 отметки",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Запазете това"
+  },
+  "dupGroupCount": {
+    "message": "$1 копия",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Проверени отметки $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Сканиране на папки..."
+  },
+  "emptyDupTitle": {
+    "message": "Няма открити дубликати"
+  },
+  "emptyDupDesc": {
+    "message": "Вашата колекция от отметки няма дублирани URL адреси. Страхотна работа!"
+  },
+  "brokenSubtitle": {
+    "message": "По-долу са изброени отметки с невалидни, празни или неуеб адреси."
+  },
+  "brkScanBtn": {
+    "message": "Сканиране за проблеми"
+  },
+  "brkDeleteBtn": {
+    "message": "Изтриване на избраното"
+  },
+  "badgeEmptyUrl": {
+    "message": "Празен URL адрес"
+  },
+  "badgeInvalidUrl": {
+    "message": "Невалиден URL адрес"
+  },
+  "badgeLocalFile": {
+    "message": "Локален файл"
+  },
+  "badgeNonWeb": {
+    "message": "Не-уеб"
+  },
+  "badgeSuspicious": {
+    "message": "Подозрително"
+  },
+  "emptyBrkTitle": {
+    "message": "Няма открити проблеми"
+  },
+  "emptyBrkDesc": {
+    "message": "Всички ваши отметки изглежда имат валидни URL адреси."
+  },
+  "orgTabSort": {
+    "message": "Сортиране на отметки"
+  },
+  "orgTabEmpty": {
+    "message": "Празни папки"
+  },
+  "sortSelectFolder": {
+    "message": "Изберете папка"
+  },
+  "sortAllBookmarks": {
+    "message": "Всички отметки"
+  },
+  "sortOrder": {
+    "message": "Ред на сортиране"
+  },
+  "sortAZ": {
+    "message": "А → Я (по заглавие)"
+  },
+  "sortZA": {
+    "message": "Я → А (по заглавие)"
+  },
+  "sortDomain": {
+    "message": "По URL домейн (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Първо папки, след това отметки"
+  },
+  "sortRecursive": {
+    "message": "Сортиране рекурсивно (прилага се за всички подпапки)"
+  },
+  "sortPreviewBtn": {
+    "message": "Преглед"
+  },
+  "sortApplyBtn": {
+    "message": "Прилагане на сортиране"
+  },
+  "sortPreviewLabel": {
+    "message": "Преглед — след сортиране:"
+  },
+  "sortPreviewMore": {
+    "message": "… и още $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Тази папка няма отметки за сортиране."
+  },
+  "sortSuccess": {
+    "message": "Отметките са сортирани успешно."
+  },
+  "emptyScanBtn": {
+    "message": "Сканиране за празни папки"
+  },
+  "emptyDeleteBtn": {
+    "message": "Изтриване на избрани папки"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Няма празни папки"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Всички ваши папки съдържат поне един елемент."
+  },
+  "deletedFolders": {
+    "message": "Изтрити папки $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Търсете отметки по заглавие или URL..."
+  },
+  "chipAll": {
+    "message": "Всички"
+  },
+  "searchResultCount": {
+    "message": "$1 резултати",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Отворете"
+  },
+  "searchEditBtn": {
+    "message": "Редактиране"
+  },
+  "searchCancelEditBtn": {
+    "message": "Отказ"
+  },
+  "searchDeleteBtn": {
+    "message": "Изтриване"
+  },
+  "searchSaveBtn": {
+    "message": "Запазване"
+  },
+  "searchCancelBtn": {
+    "message": "Отказ"
+  },
+  "emptySearchTitle": {
+    "message": "Няма намерени резултати"
+  },
+  "emptySearchDesc": {
+    "message": "Опитайте с различна дума за търсене или филтър."
+  },
+  "deleteConfirmMsg": {
+    "message": "Сигурни ли сте, че искате да изтриете този маркер?"
+  },
+  "deleteConfirmYes": {
+    "message": "Да, Изтриване"
+  },
+  "deleteConfirmNo": {
+    "message": "Отказ"
+  },
+  "toastDeleted": {
+    "message": "$1 отметка(и) е изтрита.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Изтриването е отменено. Отметките са възстановени."
+  },
+  "undoBtn": {
+    "message": "Отмяна"
+  },
+  "bookmarkUpdated": {
+    "message": "Заглавието на отметката е актуализирано."
+  },
+  "errorGeneric": {
+    "message": "Възникна грешка. Моля, опитайте отново."
+  },
+  "noTitle": {
+    "message": "(Без заглавие)"
+  },
+  "unknownFolder": {
+    "message": "(Неизвестна папка)"
+  },
+  "rootFolder": {
+    "message": "Корен на отметките"
+  },
+  "ariaNav": {
+    "message": "Основна навигация"
+  },
+  "ariaThemeToggle": {
+    "message": "Превключване на тъмна/светла тема"
+  },
+  "ariaSidebarToggle": {
+    "message": "Превключване на страничната лента"
+  },
+  "ariaClearSearch": {
+    "message": "Изчистете търсенето"
+  },
+  "ariaFilterChips": {
+    "message": "Филтриране по папка"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Маркиране за изтриване:"
+  },
+  "ariaEditTitle": {
+    "message": "Редактиране на заглавието на отметката"
+  }
+}

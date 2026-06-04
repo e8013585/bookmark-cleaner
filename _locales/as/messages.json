@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "বুকমাৰ্ক ক্লিনাৰ"
+  },
+  "extShortName": {
+    "message": "বি কে ক্লিনাৰ"
+  },
+  "extDescription": {
+    "message": "ডুপ্লিকেট, ভঙা লিংক বিচাৰি উলিয়াওক, আপোনাৰ সকলো বুকমাৰ্ক সংগঠিত আৰু সন্ধান কৰক — দ্ৰুত আৰু পৰিষ্কাৰ।"
+  },
+  "popupBookmarks": {
+    "message": "বুকমাৰ্ক"
+  },
+  "popupFolders": {
+    "message": "ফোল্ডাৰসমূহ"
+  },
+  "popupOpenManager": {
+    "message": "বুকমাৰ্ক ব্যৱস্থাপক খোলক"
+  },
+  "popupTagline": {
+    "message": "পৰিষ্কাৰ · সংগঠিত · সন্ধান"
+  },
+  "popupLoading": {
+    "message": "লোডিং পরিসংখ্যান..."
+  },
+  "navHome": {
+    "message": "গৃহ"
+  },
+  "navDuplicates": {
+    "message": "ডুপ্লিকেট বিচাৰি উলিয়াওক"
+  },
+  "navBroken": {
+    "message": "ভঙা লিংক"
+  },
+  "navOrganize": {
+    "message": "সংগঠিত আৰু সজাওক"
+  },
+  "navSearch": {
+    "message": "সন্ধান আৰু ফিল্টাৰ কৰক"
+  },
+  "navTheme": {
+    "message": "থিম টগল কৰক"
+  },
+  "statBookmarks": {
+    "message": "বুকমাৰ্ক"
+  },
+  "statFolders": {
+    "message": "ফোল্ডাৰসমূহ"
+  },
+  "statDuplicates": {
+    "message": "ডুপ্লিকেট"
+  },
+  "statEmptyFolders": {
+    "message": "খালী ফোল্ডাৰসমূহ"
+  },
+  "featureDupTitle": {
+    "message": "ডুপ্লিকেট বিচাৰি উলিয়াওক"
+  },
+  "featureDupDesc": {
+    "message": "একেটা URL অংশীদাৰী কৰা বুকমাৰ্ক প্ৰবিষ্টসমূহ ধৰা পেলাওক আৰু আঁতৰাওক।"
+  },
+  "featureBrkTitle": {
+    "message": "ভঙা লিংক"
+  },
+  "featureBrkDesc": {
+    "message": "অবৈধ, খালী, বা অ-ৱেব URLসমূহৰ সৈতে বুকমাৰ্কসমূহ চিনাক্ত কৰক।"
+  },
+  "featureOrgTitle": {
+    "message": "সংগঠিত আৰু সজাওক"
+  },
+  "featureOrgDesc": {
+    "message": "বুকমাৰ্কসমূহ বৰ্ণানুক্ৰমে সজাওক আৰু খালী ফোল্ডাৰসমূহ আঁতৰাওক।"
+  },
+  "featureSrchTitle": {
+    "message": "সন্ধান আৰু ফিল্টাৰ কৰক"
+  },
+  "featureSrchDesc": {
+    "message": "শিৰোনাম বা URL অনুসৰি আপোনাৰ সকলো বুকমাৰ্কত তৎক্ষণাত সন্ধান কৰক।"
+  },
+  "featureRunBtn": {
+    "message": "দৌৰা"
+  },
+  "loadingBookmarks": {
+    "message": "আপোনাৰ বুকমাৰ্কসমূহ লোড কৰি আছে..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "বুকমাৰ্কসমূহ লোড কৰাত ব্যৰ্থ। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।"
+  },
+  "duplicatesSubtitle": {
+    "message": "একেটা URL অংশীদাৰী কৰা বুকমাৰ্কসমূহ তলত গোট কৰা হৈছে। এটা ৰাখক, বাকীখিনি মচি পেলাওক।"
+  },
+  "dupScanBtn": {
+    "message": "ডুপ্লিকেটৰ বাবে স্কেন কৰক"
+  },
+  "dupSmartSelectBtn": {
+    "message": "স্বয়ংক্ৰিয়-নিৰ্বাচন কৰক (পুৰণি ৰাখক)"
+  },
+  "dupDeleteBtn": {
+    "message": "নিৰ্বাচিত মচি পেলাওক"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 বুকমাৰ্কসমূহ মচি পেলাওক",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "এইটো ৰাখক"
+  },
+  "dupGroupCount": {
+    "message": "$1 কপি",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 বুকমাৰ্কসমূহ পৰীক্ষা কৰা হৈছে",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "ফোল্ডাৰ স্কেনিং..."
+  },
+  "emptyDupTitle": {
+    "message": "কোনো ডুপ্লিকেট পোৱা নগ'ল"
+  },
+  "emptyDupDesc": {
+    "message": "আপোনাৰ বুকমাৰ্ক সংগ্ৰহৰ কোনো নকল URL নাই। ডাঙৰ কাম!"
+  },
+  "brokenSubtitle": {
+    "message": "অবৈধ, খালী, বা অ-ৱেব URL থকা বুকমাৰ্কসমূহ তলত তালিকাভুক্ত কৰা হৈছে।"
+  },
+  "brkScanBtn": {
+    "message": "সমস্যাৰ বাবে স্কেন কৰক"
+  },
+  "brkDeleteBtn": {
+    "message": "নিৰ্বাচিত মচি পেলাওক"
+  },
+  "badgeEmptyUrl": {
+    "message": "খালী URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "অবৈধ URL"
+  },
+  "badgeLocalFile": {
+    "message": "স্থানীয় ফাইল"
+  },
+  "badgeNonWeb": {
+    "message": "নন-ৱেব"
+  },
+  "badgeSuspicious": {
+    "message": "সন্দেহজনক"
+  },
+  "emptyBrkTitle": {
+    "message": "কোনো সমস্যা পোৱা নগ'ল"
+  },
+  "emptyBrkDesc": {
+    "message": "আপোনাৰ সকলো বুকমাৰ্কত বৈধ URL থকা যেন লাগে।"
+  },
+  "orgTabSort": {
+    "message": "বুকমাৰ্কসমূহ সজাই লওক"
+  },
+  "orgTabEmpty": {
+    "message": "খালী ফোল্ডাৰসমূহ"
+  },
+  "sortSelectFolder": {
+    "message": "ফোল্ডাৰ নিৰ্ব্বাচন কৰক"
+  },
+  "sortAllBookmarks": {
+    "message": "সকলো বুকমাৰ্ক"
+  },
+  "sortOrder": {
+    "message": "ছৰ্ট অৰ্ডাৰ"
+  },
+  "sortAZ": {
+    "message": "A → Z (শিৰোনাম অনুসৰি)"
+  },
+  "sortZA": {
+    "message": "Z → A (শিৰোনাম অনুসৰি)"
+  },
+  "sortDomain": {
+    "message": "URL ডমেইনৰ দ্বাৰা (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "প্ৰথমে ফোল্ডাৰ, তাৰ পিছত বুকমাৰ্ক"
+  },
+  "sortRecursive": {
+    "message": "পুনৰাবৃত্তিমূলকভাৱে সজাওক (সকলো উপফোল্ডাৰত প্ৰযোজ্য)"
+  },
+  "sortPreviewBtn": {
+    "message": "পূৰ্বদৰ্শন"
+  },
+  "sortApplyBtn": {
+    "message": "প্ৰয়োগ কৰক Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "পূৰ্বদৰ্শন — সজাই পৰাই লোৱাৰ পিছত:"
+  },
+  "sortPreviewMore": {
+    "message": "... আৰু $1 অধিক",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "এই ফোল্ডাৰত সজাবলৈ কোনো বুকমাৰ্ক নাই।"
+  },
+  "sortSuccess": {
+    "message": "বুকমাৰ্কসমূহ সফলতাৰে সজাই তোলা হৈছে।"
+  },
+  "emptyScanBtn": {
+    "message": "খালী ফোল্ডাৰসমূহৰ বাবে স্কেন কৰক"
+  },
+  "emptyDeleteBtn": {
+    "message": "নিৰ্বাচিত ফোল্ডাৰসমূহ মচি পেলাওক"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "কোনো খালী ফোল্ডাৰ নাই"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "আপোনাৰ সকলো ফোল্ডাৰত অন্ততঃ এটা বস্তু থাকে।"
+  },
+  "deletedFolders": {
+    "message": "$1 ফোল্ডাৰ(সমূহ) মচি পেলোৱা হৈছে।",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "শিৰোনাম বা URL দ্বাৰা বুকমাৰ্ক সন্ধান কৰক..."
+  },
+  "chipAll": {
+    "message": "আটাইবোৰ"
+  },
+  "searchResultCount": {
+    "message": "$1 ফলাফল",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "খোলা"
+  },
+  "searchEditBtn": {
+    "message": "সম্পাদনা কৰক"
+  },
+  "searchCancelEditBtn": {
+    "message": "বাতিল কৰক"
+  },
+  "searchDeleteBtn": {
+    "message": "বিলোপ"
+  },
+  "searchSaveBtn": {
+    "message": "সঞ্চয় কৰা"
+  },
+  "searchCancelBtn": {
+    "message": "বাতিল কৰক"
+  },
+  "emptySearchTitle": {
+    "message": "কোনো ফলাফল পোৱা নগ'ল"
+  },
+  "emptySearchDesc": {
+    "message": "এটা বেলেগ সন্ধান শব্দ বা ফিল্টাৰ চেষ্টা কৰক।"
+  },
+  "deleteConfirmMsg": {
+    "message": "আপুনি নিশ্চিত নেকি যে আপুনি এই বুকমাৰ্কটো মচি পেলাব বিচাৰে?"
+  },
+  "deleteConfirmYes": {
+    "message": "হয়, ডিলিট কৰক"
+  },
+  "deleteConfirmNo": {
+    "message": "বাতিল কৰক"
+  },
+  "toastDeleted": {
+    "message": "$1 বুকমাৰ্ক(সমূহ) মচি পেলোৱা হৈছে।",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "ডিলিচন বাতিল কৰা হৈছে। বুকমাৰ্কসমূহ পুনৰুদ্ধাৰ কৰা হৈছে।"
+  },
+  "undoBtn": {
+    "message": "পূৰ্বৱৰ্তী অৱস্থালৈ ঘূৰাই আনিব"
+  },
+  "bookmarkUpdated": {
+    "message": "বুকমাৰ্ক শিৰোনাম আপডেট কৰা হৈছে।"
+  },
+  "errorGeneric": {
+    "message": "এটা ভুল হ’ল। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।"
+  },
+  "noTitle": {
+    "message": "(কোনো শিৰোনাম নাই)"
+  },
+  "unknownFolder": {
+    "message": "(অজ্ঞাত ফোল্ডাৰ)"
+  },
+  "rootFolder": {
+    "message": "বুকমাৰ্ক ৰুট"
+  },
+  "ariaNav": {
+    "message": "মূল নেভিগেচন"
+  },
+  "ariaThemeToggle": {
+    "message": "ডাৰ্ক/লাইট থিম টগল কৰক"
+  },
+  "ariaSidebarToggle": {
+    "message": "চাইডবাৰ টগল কৰক"
+  },
+  "ariaClearSearch": {
+    "message": "সন্ধান পৰিষ্কাৰ কৰক"
+  },
+  "ariaFilterChips": {
+    "message": "ফোল্ডাৰ অনুসৰি ফিল্টাৰ কৰক"
+  },
+  "ariaMarkForDeletion": {
+    "message": "মচি পেলোৱাৰ বাবে চিহ্নিত কৰক:"
+  },
+  "ariaEditTitle": {
+    "message": "বুকমাৰ্ক শিৰোনাম সম্পাদনা কৰক"
+  }
+}

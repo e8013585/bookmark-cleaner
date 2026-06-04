@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "बुकमार्क क्लीनर"
+  },
+  "extShortName": {
+    "message": "बीके क्लीनर"
+  },
+  "extDescription": {
+    "message": "डुप्लिकेट, टूटे हुए लिंक ढूंढें, व्यवस्थित करें और अपने सभी बुकमार्क खोजें - तेज़ और साफ़।"
+  },
+  "popupBookmarks": {
+    "message": "बुकमार्क"
+  },
+  "popupFolders": {
+    "message": "फ़ोल्डर"
+  },
+  "popupOpenManager": {
+    "message": "बुकमार्क प्रबंधक खोलें"
+  },
+  "popupTagline": {
+    "message": "साफ़ · व्यवस्थित करें · खोजें"
+  },
+  "popupLoading": {
+    "message": "आँकड़े लोड हो रहे हैं..."
+  },
+  "navHome": {
+    "message": "घर"
+  },
+  "navDuplicates": {
+    "message": "डुप्लिकेट खोजें"
+  },
+  "navBroken": {
+    "message": "टूटे हुए लिंक"
+  },
+  "navOrganize": {
+    "message": "व्यवस्थित करें और क्रमबद्ध करें"
+  },
+  "navSearch": {
+    "message": "खोजें एवं फ़िल्टर करें"
+  },
+  "navTheme": {
+    "message": "थीम टॉगल करें"
+  },
+  "statBookmarks": {
+    "message": "बुकमार्क"
+  },
+  "statFolders": {
+    "message": "फ़ोल्डर"
+  },
+  "statDuplicates": {
+    "message": "डुप्लिकेट"
+  },
+  "statEmptyFolders": {
+    "message": "खाली फ़ोल्डर"
+  },
+  "featureDupTitle": {
+    "message": "डुप्लिकेट खोजें"
+  },
+  "featureDupDesc": {
+    "message": "समान यूआरएल साझा करने वाली बुकमार्क प्रविष्टियों का पता लगाएं और हटाएं।"
+  },
+  "featureBrkTitle": {
+    "message": "टूटे हुए लिंक"
+  },
+  "featureBrkDesc": {
+    "message": "अमान्य, खाली या गैर-वेब URL वाले बुकमार्क की पहचान करें।"
+  },
+  "featureOrgTitle": {
+    "message": "व्यवस्थित करें और क्रमबद्ध करें"
+  },
+  "featureOrgDesc": {
+    "message": "बुकमार्क को वर्णानुक्रम में क्रमबद्ध करें और खाली फ़ोल्डर हटा दें।"
+  },
+  "featureSrchTitle": {
+    "message": "खोजें एवं फ़िल्टर करें"
+  },
+  "featureSrchDesc": {
+    "message": "शीर्षक या यूआरएल के आधार पर तुरंत अपने सभी बुकमार्क खोजें।"
+  },
+  "featureRunBtn": {
+    "message": "दौड़ना"
+  },
+  "loadingBookmarks": {
+    "message": "आपके बुकमार्क लोड हो रहे हैं..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "बुकमार्क लोड करने में विफल. कृपया पुन: प्रयास करें।"
+  },
+  "duplicatesSubtitle": {
+    "message": "समान URL साझा करने वाले बुकमार्क नीचे समूहीकृत किए गए हैं। एक रखें, बाकी हटा दें."
+  },
+  "dupScanBtn": {
+    "message": "डुप्लिकेट के लिए स्कैन करें"
+  },
+  "dupSmartSelectBtn": {
+    "message": "स्वतः-चयन (सबसे पुराना रखें)"
+  },
+  "dupDeleteBtn": {
+    "message": "चयनित को हटाओ"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 बुकमार्क हटाएं",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "इसे रख लो"
+  },
+  "dupGroupCount": {
+    "message": "$1 प्रतियां",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 बुकमार्क की जाँच की गई",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "फ़ोल्डर स्कैन कर रहा है..."
+  },
+  "emptyDupTitle": {
+    "message": "कोई डुप्लिकेट नहीं मिला"
+  },
+  "emptyDupDesc": {
+    "message": "आपके बुकमार्क संग्रह में कोई डुप्लिकेट URL नहीं है. अच्छा काम!"
+  },
+  "brokenSubtitle": {
+    "message": "अमान्य, खाली या गैर-वेब URL वाले बुकमार्क नीचे सूचीबद्ध हैं।"
+  },
+  "brkScanBtn": {
+    "message": "मुद्दों के लिए स्कैन करे"
+  },
+  "brkDeleteBtn": {
+    "message": "चयनित को हटाओ"
+  },
+  "badgeEmptyUrl": {
+    "message": "खाली यूआरएल"
+  },
+  "badgeInvalidUrl": {
+    "message": "असामान्य यूआरएल"
+  },
+  "badgeLocalFile": {
+    "message": "स्थानीय फ़ाइल"
+  },
+  "badgeNonWeb": {
+    "message": "गैर वेब"
+  },
+  "badgeSuspicious": {
+    "message": "संदिग्ध"
+  },
+  "emptyBrkTitle": {
+    "message": "कोई समस्या नहीं मिली"
+  },
+  "emptyBrkDesc": {
+    "message": "ऐसा प्रतीत होता है कि आपके सभी बुकमार्क में मान्य URL हैं।"
+  },
+  "orgTabSort": {
+    "message": "बुकमार्क क्रमबद्ध करें"
+  },
+  "orgTabEmpty": {
+    "message": "खाली फ़ोल्डर"
+  },
+  "sortSelectFolder": {
+    "message": "फ़ोल्डर चुनें"
+  },
+  "sortAllBookmarks": {
+    "message": "सभी बुकमार्क"
+  },
+  "sortOrder": {
+    "message": "क्रमबद्ध करेन का आदेश"
+  },
+  "sortAZ": {
+    "message": "ए → जेड (शीर्षक से)"
+  },
+  "sortZA": {
+    "message": "Z → A (शीर्षक से)"
+  },
+  "sortDomain": {
+    "message": "यूआरएल डोमेन द्वारा (ए → जेड)"
+  },
+  "sortFolderFirst": {
+    "message": "पहले फ़ोल्डर, फिर बुकमार्क"
+  },
+  "sortRecursive": {
+    "message": "पुनरावर्ती रूप से क्रमबद्ध करें (सभी सबफ़ोल्डर्स पर लागू करें)"
+  },
+  "sortPreviewBtn": {
+    "message": "पूर्व दर्शन"
+  },
+  "sortApplyBtn": {
+    "message": "सॉर्ट लागू करें"
+  },
+  "sortPreviewLabel": {
+    "message": "पूर्वावलोकन - छँटाई के बाद:"
+  },
+  "sortPreviewMore": {
+    "message": "… और $1 अधिक",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "इस फ़ोल्डर में सॉर्ट करने के लिए कोई बुकमार्क नहीं है."
+  },
+  "sortSuccess": {
+    "message": "बुकमार्क सफलतापूर्वक क्रमबद्ध किए गए."
+  },
+  "emptyScanBtn": {
+    "message": "खाली फ़ोल्डरों के लिए स्कैन करें"
+  },
+  "emptyDeleteBtn": {
+    "message": "चयनित फ़ोल्डर हटाएँ"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "कोई खाली फ़ोल्डर नहीं"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "आपके सभी फ़ोल्डरों में कम से कम एक आइटम है."
+  },
+  "deletedFolders": {
+    "message": "$1 फ़ोल्डर हटा दिया गया।",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "शीर्षक या यूआरएल के आधार पर बुकमार्क खोजें..."
+  },
+  "chipAll": {
+    "message": "सभी"
+  },
+  "searchResultCount": {
+    "message": "$1 परिणाम",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "खुला"
+  },
+  "searchEditBtn": {
+    "message": "संपादन करना"
+  },
+  "searchCancelEditBtn": {
+    "message": "रद्द करना"
+  },
+  "searchDeleteBtn": {
+    "message": "मिटाना"
+  },
+  "searchSaveBtn": {
+    "message": "बचाना"
+  },
+  "searchCancelBtn": {
+    "message": "रद्द करना"
+  },
+  "emptySearchTitle": {
+    "message": "कोई परिणाम नहीं मिला"
+  },
+  "emptySearchDesc": {
+    "message": "कोई भिन्न खोज शब्द या फ़िल्टर आज़माएँ."
+  },
+  "deleteConfirmMsg": {
+    "message": "क्या आप वाकई इस बुकमार्क को हटाना चाहते हैं?"
+  },
+  "deleteConfirmYes": {
+    "message": "हाँ, हटाएँ"
+  },
+  "deleteConfirmNo": {
+    "message": "रद्द करना"
+  },
+  "toastDeleted": {
+    "message": "$1 बुकमार्क हटा दिए गए.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "विलोपन पूर्ववत. बुकमार्क पुनर्स्थापित किए गए."
+  },
+  "undoBtn": {
+    "message": "पूर्ववत"
+  },
+  "bookmarkUpdated": {
+    "message": "बुकमार्क शीर्षक अद्यतन किया गया."
+  },
+  "errorGeneric": {
+    "message": "एक त्रुटि पाई गई। कृपया पुन: प्रयास करें।"
+  },
+  "noTitle": {
+    "message": "(कोई शीर्षक नहीं)"
+  },
+  "unknownFolder": {
+    "message": "(अज्ञात फ़ोल्डर)"
+  },
+  "rootFolder": {
+    "message": "बुकमार्क रूट"
+  },
+  "ariaNav": {
+    "message": "मुख्य नेविगेशन"
+  },
+  "ariaThemeToggle": {
+    "message": "डार्क/लाइट थीम टॉगल करें"
+  },
+  "ariaSidebarToggle": {
+    "message": "साइडबार टॉगल करें"
+  },
+  "ariaClearSearch": {
+    "message": "स्पष्ट खोज"
+  },
+  "ariaFilterChips": {
+    "message": "फ़ोल्डर के अनुसार फ़िल्टर करें"
+  },
+  "ariaMarkForDeletion": {
+    "message": "हटाने के लिए चिह्नित करें:"
+  },
+  "ariaEditTitle": {
+    "message": "बुकमार्क शीर्षक संपादित करें"
+  }
+}

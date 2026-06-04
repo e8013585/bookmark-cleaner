@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "ಬುಕ್ಮಾರ್ಕ್ ಕ್ಲೀನರ್"
+  },
+  "extShortName": {
+    "message": "ಬಿಕೆ ಕ್ಲೀನರ್"
+  },
+  "extDescription": {
+    "message": "ನಕಲಿಗಳು, ಮುರಿದ ಲಿಂಕ್‌ಗಳನ್ನು ಹುಡುಕಿ, ನಿಮ್ಮ ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಸಂಘಟಿಸಿ ಮತ್ತು ಹುಡುಕಿ — ವೇಗವಾಗಿ ಮತ್ತು ಸ್ವಚ್ಛವಾಗಿ."
+  },
+  "popupBookmarks": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು"
+  },
+  "popupFolders": {
+    "message": "ಫೋಲ್ಡರ್‌ಗಳು"
+  },
+  "popupOpenManager": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಮ್ಯಾನೇಜರ್ ತೆರೆಯಿರಿ"
+  },
+  "popupTagline": {
+    "message": "ಸ್ವಚ್ಛಗೊಳಿಸಿ · ಸಂಘಟಿಸಿ · ಹುಡುಕಾಟ"
+  },
+  "popupLoading": {
+    "message": "ಅಂಕಿಅಂಶಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "navHome": {
+    "message": "ಮುಖಪುಟ"
+  },
+  "navDuplicates": {
+    "message": "ನಕಲುಗಳನ್ನು ಹುಡುಕಿ"
+  },
+  "navBroken": {
+    "message": "ಮುರಿದ ಲಿಂಕ್‌ಗಳು"
+  },
+  "navOrganize": {
+    "message": "ಸಂಘಟಿಸಿ ಮತ್ತು ವಿಂಗಡಿಸಿ"
+  },
+  "navSearch": {
+    "message": "ಹುಡುಕಾಟ ಮತ್ತು ಫಿಲ್ಟರ್"
+  },
+  "navTheme": {
+    "message": "ಥೀಮ್ ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "statBookmarks": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು"
+  },
+  "statFolders": {
+    "message": "ಫೋಲ್ಡರ್‌ಗಳು"
+  },
+  "statDuplicates": {
+    "message": "ನಕಲುಗಳು"
+  },
+  "statEmptyFolders": {
+    "message": "ಖಾಲಿ ಫೋಲ್ಡರ್‌ಗಳು"
+  },
+  "featureDupTitle": {
+    "message": "ನಕಲುಗಳನ್ನು ಹುಡುಕಿ"
+  },
+  "featureDupDesc": {
+    "message": "ಒಂದೇ URL ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವ ಬುಕ್‌ಮಾರ್ಕ್ ನಮೂದುಗಳನ್ನು ಪತ್ತೆ ಮಾಡಿ ಮತ್ತು ತೆಗೆದುಹಾಕಿ."
+  },
+  "featureBrkTitle": {
+    "message": "ಮುರಿದ ಲಿಂಕ್‌ಗಳು"
+  },
+  "featureBrkDesc": {
+    "message": "ಅಮಾನ್ಯ, ಖಾಲಿ ಅಥವಾ ವೆಬ್ ಅಲ್ಲದ URL ಗಳೊಂದಿಗೆ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಗುರುತಿಸಿ."
+  },
+  "featureOrgTitle": {
+    "message": "ಸಂಘಟಿಸಿ ಮತ್ತು ವಿಂಗಡಿಸಿ"
+  },
+  "featureOrgDesc": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ವರ್ಣಮಾಲೆಯಂತೆ ವಿಂಗಡಿಸಿ ಮತ್ತು ಖಾಲಿ ಫೋಲ್ಡರ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+  },
+  "featureSrchTitle": {
+    "message": "ಹುಡುಕಾಟ ಮತ್ತು ಫಿಲ್ಟರ್"
+  },
+  "featureSrchDesc": {
+    "message": "ಶೀರ್ಷಿಕೆ ಅಥವಾ URL ಮೂಲಕ ನಿಮ್ಮ ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳಲ್ಲಿ ತಕ್ಷಣ ಹುಡುಕಿ."
+  },
+  "featureRunBtn": {
+    "message": "ಓಡು"
+  },
+  "loadingBookmarks": {
+    "message": "ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "duplicatesSubtitle": {
+    "message": "ಒಂದೇ URL ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಕೆಳಗೆ ಗುಂಪು ಮಾಡಲಾಗಿದೆ. ಒಂದನ್ನು ಇರಿಸಿ, ಉಳಿದದ್ದನ್ನು ಅಳಿಸಿ."
+  },
+  "dupScanBtn": {
+    "message": "ನಕಲುಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+  },
+  "dupSmartSelectBtn": {
+    "message": "ಸ್ವಯಂ-ಆಯ್ಕೆ (ಹಳೆಯದಾಗಿರಿಸಿ)"
+  },
+  "dupDeleteBtn": {
+    "message": "ಆಯ್ಕೆ ಮಾಡಿರುವುದನ್ನು ಅಳಿಸಿ"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಅಳಿಸಿ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "ಇದನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ"
+  },
+  "dupGroupCount": {
+    "message": "$1 ಪ್ರತಿಗಳು",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "ಫೋಲ್ಡರ್‌ಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
+  },
+  "emptyDupTitle": {
+    "message": "ಯಾವುದೇ ನಕಲುಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "emptyDupDesc": {
+    "message": "ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್ ಸಂಗ್ರಹಣೆಯು ಯಾವುದೇ ನಕಲಿ URL ಗಳನ್ನು ಹೊಂದಿಲ್ಲ. ಉತ್ತಮ ಕೆಲಸ!"
+  },
+  "brokenSubtitle": {
+    "message": "ಅಮಾನ್ಯ, ಖಾಲಿ ಅಥವಾ ವೆಬ್ ಅಲ್ಲದ URL ಗಳನ್ನು ಹೊಂದಿರುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಕೆಳಗೆ ಪಟ್ಟಿ ಮಾಡಲಾಗಿದೆ."
+  },
+  "brkScanBtn": {
+    "message": "ಸಮಸ್ಯೆಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+  },
+  "brkDeleteBtn": {
+    "message": "ಆಯ್ಕೆ ಮಾಡಿರುವುದನ್ನು ಅಳಿಸಿ"
+  },
+  "badgeEmptyUrl": {
+    "message": "ಖಾಲಿ URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "ಅಮಾನ್ಯ URL"
+  },
+  "badgeLocalFile": {
+    "message": "ಸ್ಥಳೀಯ ಫೈಲ್"
+  },
+  "badgeNonWeb": {
+    "message": "ವೆಬ್ ಅಲ್ಲದ"
+  },
+  "badgeSuspicious": {
+    "message": "ಅನುಮಾನಾಸ್ಪದ"
+  },
+  "emptyBrkTitle": {
+    "message": "ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "emptyBrkDesc": {
+    "message": "ನಿಮ್ಮ ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಮಾನ್ಯ URL ಗಳನ್ನು ಹೊಂದಿರುವಂತೆ ತೋರುತ್ತಿದೆ."
+  },
+  "orgTabSort": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ವಿಂಗಡಿಸಿ"
+  },
+  "orgTabEmpty": {
+    "message": "ಖಾಲಿ ಫೋಲ್ಡರ್‌ಗಳು"
+  },
+  "sortSelectFolder": {
+    "message": "ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "sortAllBookmarks": {
+    "message": "ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು"
+  },
+  "sortOrder": {
+    "message": "ವಿಂಗಡಿಸಿ ಆದೇಶ"
+  },
+  "sortAZ": {
+    "message": "A → Z (ಶೀರ್ಷಿಕೆಯ ಮೂಲಕ)"
+  },
+  "sortZA": {
+    "message": "Z → A (ಶೀರ್ಷಿಕೆಯ ಮೂಲಕ)"
+  },
+  "sortDomain": {
+    "message": "URL ಡೊಮೇನ್ ಮೂಲಕ (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "ಮೊದಲು ಫೋಲ್ಡರ್‌ಗಳು, ನಂತರ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು"
+  },
+  "sortRecursive": {
+    "message": "ಪುನರಾವರ್ತಿತವಾಗಿ ವಿಂಗಡಿಸಿ (ಎಲ್ಲಾ ಉಪ ಫೋಲ್ಡರ್‌ಗಳಿಗೆ ಅನ್ವಯಿಸಿ)"
+  },
+  "sortPreviewBtn": {
+    "message": "ಪೂರ್ವವೀಕ್ಷಣೆ"
+  },
+  "sortApplyBtn": {
+    "message": "ವಿಂಗಡಿಸಿ ಅನ್ವಯಿಸಿ"
+  },
+  "sortPreviewLabel": {
+    "message": "ಪೂರ್ವವೀಕ್ಷಣೆ - ವಿಂಗಡಿಸಿದ ನಂತರ:"
+  },
+  "sortPreviewMore": {
+    "message": "… ಮತ್ತು $1 ಇನ್ನಷ್ಟು",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "ಈ ಫೋಲ್ಡರ್ ವಿಂಗಡಿಸಲು ಯಾವುದೇ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಹೊಂದಿಲ್ಲ."
+  },
+  "sortSuccess": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ವಿಂಗಡಿಸಲಾಗಿದೆ."
+  },
+  "emptyScanBtn": {
+    "message": "ಖಾಲಿ ಫೋಲ್ಡರ್‌ಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+  },
+  "emptyDeleteBtn": {
+    "message": "ಆಯ್ದ ಫೋಲ್ಡರ್‌ಗಳನ್ನು ಅಳಿಸಿ"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "ಖಾಲಿ ಫೋಲ್ಡರ್‌ಗಳಿಲ್ಲ"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "ನಿಮ್ಮ ಎಲ್ಲಾ ಫೋಲ್ಡರ್‌ಗಳು ಕನಿಷ್ಠ ಒಂದು ಐಟಂ ಅನ್ನು ಒಳಗೊಂಡಿರುತ್ತವೆ."
+  },
+  "deletedFolders": {
+    "message": "ಅಳಿಸಲಾಗಿದೆ $1 ಫೋಲ್ಡರ್(ಗಳು).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "ಶೀರ್ಷಿಕೆ ಅಥವಾ URL ಮೂಲಕ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಹುಡುಕಿ..."
+  },
+  "chipAll": {
+    "message": "ಎಲ್ಲಾ"
+  },
+  "searchResultCount": {
+    "message": "$1 ಫಲಿತಾಂಶಗಳು",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "ತೆರೆಯಿರಿ"
+  },
+  "searchEditBtn": {
+    "message": "ಸಂಪಾದಿಸು"
+  },
+  "searchCancelEditBtn": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "searchDeleteBtn": {
+    "message": "ಅಳಿಸಿ"
+  },
+  "searchSaveBtn": {
+    "message": "ಉಳಿಸಿ"
+  },
+  "searchCancelBtn": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "emptySearchTitle": {
+    "message": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ"
+  },
+  "emptySearchDesc": {
+    "message": "ಬೇರೆ ಹುಡುಕಾಟ ಪದ ಅಥವಾ ಫಿಲ್ಟರ್ ಅನ್ನು ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "deleteConfirmMsg": {
+    "message": "ಈ ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
+  },
+  "deleteConfirmYes": {
+    "message": "ಹೌದು, ಅಳಿಸಿ"
+  },
+  "deleteConfirmNo": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "toastDeleted": {
+    "message": "$1 ಬುಕ್‌ಮಾರ್ಕ್(ಗಳು) ಅಳಿಸಲಾಗಿದೆ.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "ಅಳಿಸುವಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ. ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಲಾಗಿದೆ."
+  },
+  "undoBtn": {
+    "message": "ರದ್ದುಮಾಡು"
+  },
+  "bookmarkUpdated": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಶೀರ್ಷಿಕೆಯನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ."
+  },
+  "errorGeneric": {
+    "message": "ದೋಷ ಸಂಭವಿಸಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+  },
+  "noTitle": {
+    "message": "(ಶೀರ್ಷಿಕೆ ಇಲ್ಲ)"
+  },
+  "unknownFolder": {
+    "message": "(ಅಜ್ಞಾತ ಫೋಲ್ಡರ್)"
+  },
+  "rootFolder": {
+    "message": "ಬುಕ್ಮಾರ್ಕ್ ರೂಟ್"
+  },
+  "ariaNav": {
+    "message": "ಮುಖ್ಯ ಸಂಚರಣೆ"
+  },
+  "ariaThemeToggle": {
+    "message": "ಡಾರ್ಕ್/ಲೈಟ್ ಥೀಮ್ ಅನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "ariaSidebarToggle": {
+    "message": "ಸೈಡ್‌ಬಾರ್ ಅನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+  },
+  "ariaClearSearch": {
+    "message": "ಹುಡುಕಾಟವನ್ನು ತೆರವುಗೊಳಿಸಿ"
+  },
+  "ariaFilterChips": {
+    "message": "ಫೋಲ್ಡರ್ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಿ"
+  },
+  "ariaMarkForDeletion": {
+    "message": "ಅಳಿಸುವಿಕೆಗೆ ಗುರುತು:"
+  },
+  "ariaEditTitle": {
+    "message": "ಬುಕ್‌ಮಾರ್ಕ್ ಶೀರ್ಷಿಕೆಯನ್ನು ಸಂಪಾದಿಸಿ"
+  }
+}

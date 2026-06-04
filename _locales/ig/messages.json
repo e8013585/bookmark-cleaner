@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Ihe nhicha ibe edokọbara"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Chọta oyiri, njikọ gbajiri agbaji, hazie ma chọọ ibe edokọbara gị niile - ngwa ngwa ma dị ọcha."
+  },
+  "popupBookmarks": {
+    "message": "Ibe edokwubara"
+  },
+  "popupFolders": {
+    "message": "Mpempe akwụkwọ"
+  },
+  "popupOpenManager": {
+    "message": "Mepee Njikwa Bookmark"
+  },
+  "popupTagline": {
+    "message": "Dị ọcha · Hazie · Chọọ"
+  },
+  "popupLoading": {
+    "message": "Na-ebu ọnụ stats…"
+  },
+  "navHome": {
+    "message": "Ụlọ"
+  },
+  "navDuplicates": {
+    "message": "Chọta oyiri"
+  },
+  "navBroken": {
+    "message": "Njikọ ndị mebiri emebi"
+  },
+  "navOrganize": {
+    "message": "Hazie & hazie"
+  },
+  "navSearch": {
+    "message": "Chọọ & Iyo"
+  },
+  "navTheme": {
+    "message": "Gbanwee Gburugburu"
+  },
+  "statBookmarks": {
+    "message": "Ibe edokwubara"
+  },
+  "statFolders": {
+    "message": "Mpempe akwụkwọ"
+  },
+  "statDuplicates": {
+    "message": "Ihe oyiri"
+  },
+  "statEmptyFolders": {
+    "message": "Mpempe akwụkwọ efu"
+  },
+  "featureDupTitle": {
+    "message": "Chọta oyiri"
+  },
+  "featureDupDesc": {
+    "message": "Chọpụta ma wepụ ndenye ibe edokọbara na-ekekọrịta otu URL ahụ."
+  },
+  "featureBrkTitle": {
+    "message": "Njikọ ndị mebiri emebi"
+  },
+  "featureBrkDesc": {
+    "message": "Chọpụta ibe edokọbara nwere URL na-ezighi ezi, efu ma ọ bụ nke na-abụghị webụ."
+  },
+  "featureOrgTitle": {
+    "message": "Hazie & hazie"
+  },
+  "featureOrgDesc": {
+    "message": "Hazie ibe edokọbara n'ụdị mkpụrụedemede wee wepụ nchekwa efu."
+  },
+  "featureSrchTitle": {
+    "message": "Chọọ & Iyo"
+  },
+  "featureSrchDesc": {
+    "message": "Jiri aha ma ọ bụ URL chọọ n'ofe ibe edokọbara gị ozugbo."
+  },
+  "featureRunBtn": {
+    "message": "Gbaa ọsọ"
+  },
+  "loadingBookmarks": {
+    "message": "Na-eburu ibe edokọbara gị…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Ịdọba ibe edokọbara agaghị. Biko nwaa ọzọ."
+  },
+  "duplicatesSubtitle": {
+    "message": "A na-achịkọta ibe edokọbara otu URL n'okpuru. Debe otu, hichapụ nke fọdụrụ."
+  },
+  "dupScanBtn": {
+    "message": "Nyochaa maka oyiri"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Họrọ akpaaka (Debe Kachasị ochie)"
+  },
+  "dupDeleteBtn": {
+    "message": "Hichapụ ahọpụtara"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Hichapụ $1 ibe edokọbara",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Debe Nke a"
+  },
+  "dupGroupCount": {
+    "message": "$1 mbipụta",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Atụnyere ibe edokọbara $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Na-enyocha nchekwa…"
+  },
+  "emptyDupTitle": {
+    "message": "Ọnweghị oyiri ahụrụ"
+  },
+  "emptyDupDesc": {
+    "message": "Nchịkọta ibe edokọbara gị enweghị URL oyiri. Ezigbo ọrụ!"
+  },
+  "brokenSubtitle": {
+    "message": "Edepụtara ibe edokọbara ndị nwere URL na-ezighi ezi, efu ma ọ bụ ndị na-abụghị webụ n'okpuru."
+  },
+  "brkScanBtn": {
+    "message": "Nyochaa maka Okwu"
+  },
+  "brkDeleteBtn": {
+    "message": "Hichapụ ahọpụtara"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL efu"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL ezighi ezi"
+  },
+  "badgeLocalFile": {
+    "message": "Faịlụ mpaghara"
+  },
+  "badgeNonWeb": {
+    "message": "Ndị na-abụghị Weebụ"
+  },
+  "badgeSuspicious": {
+    "message": "Na-enyo enyo"
+  },
+  "emptyBrkTitle": {
+    "message": "Enweghị nsogbu ahụrụ"
+  },
+  "emptyBrkDesc": {
+    "message": "Ibe edokwubara gị niile yiri ka ha nwere URL dị mma."
+  },
+  "orgTabSort": {
+    "message": "Hazie ibe edokọbara"
+  },
+  "orgTabEmpty": {
+    "message": "Mpempe akwụkwọ efu"
+  },
+  "sortSelectFolder": {
+    "message": "Họrọ nchekwa"
+  },
+  "sortAllBookmarks": {
+    "message": "Ibe edokwubara niile"
+  },
+  "sortOrder": {
+    "message": "Hazie usoro"
+  },
+  "sortAZ": {
+    "message": "A → Z (site na aha)"
+  },
+  "sortZA": {
+    "message": "Z → A (site na aha)"
+  },
+  "sortDomain": {
+    "message": "Site na ngalaba URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Mbụ nchekwa, emesia ibe edokọbara"
+  },
+  "sortRecursive": {
+    "message": "Hazie ugboro ugboro (tinye na folda nchekwa niile)"
+  },
+  "sortPreviewBtn": {
+    "message": "Nhụchalụ"
+  },
+  "sortApplyBtn": {
+    "message": "Tinye Ụdị"
+  },
+  "sortPreviewLabel": {
+    "message": "Nhụchalụ - mgbe hachara:"
+  },
+  "sortPreviewMore": {
+    "message": "… na $1 ọzọ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ebe nchekwa a enweghị ibe edokọbara iji hazie."
+  },
+  "sortSuccess": {
+    "message": "Haziri ibe edokọbara nke ọma."
+  },
+  "emptyScanBtn": {
+    "message": "Chọgharịa maka folda efu"
+  },
+  "emptyDeleteBtn": {
+    "message": "Hichapụ folda ahọpụtara"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Enweghị folda efu"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Ebe nchekwa gị niile nwere opekata mpe otu ihe."
+  },
+  "deletedFolders": {
+    "message": "Ebe nchekwa (s) $1 ehichapụrụ.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Chọọ ibe edokọbara site na aha ma ọ bụ URL…"
+  },
+  "chipAll": {
+    "message": "Ha niile"
+  },
+  "searchResultCount": {
+    "message": "$1 nsonaazụ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Mepee"
+  },
+  "searchEditBtn": {
+    "message": "Dezie"
+  },
+  "searchCancelEditBtn": {
+    "message": "Kagbuo"
+  },
+  "searchDeleteBtn": {
+    "message": "Hichapụ"
+  },
+  "searchSaveBtn": {
+    "message": "Chekwa"
+  },
+  "searchCancelBtn": {
+    "message": "Kagbuo"
+  },
+  "emptySearchTitle": {
+    "message": "Enweghị nsonaazụ ahụrụ"
+  },
+  "emptySearchDesc": {
+    "message": "Gbalịa okwu ọchụchọ ma ọ bụ nyo dị iche."
+  },
+  "deleteConfirmMsg": {
+    "message": "Ị ji n'aka na ịchọrọ ihichapụ ibe edokọbara a?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ee, Hichapụ"
+  },
+  "deleteConfirmNo": {
+    "message": "Kagbuo"
+  },
+  "toastDeleted": {
+    "message": "$1 ibe edokọbara ehichapụ.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Akwụsịla nhichapụ. eweghachite ibe edokọbara."
+  },
+  "undoBtn": {
+    "message": "Megharịa"
+  },
+  "bookmarkUpdated": {
+    "message": "Emelitere aha ibe edokọbara."
+  },
+  "errorGeneric": {
+    "message": "Enwere mperi. Biko nwaa ọzọ."
+  },
+  "noTitle": {
+    "message": "(Enweghị aha)"
+  },
+  "unknownFolder": {
+    "message": "(Nchekwa na-amaghị ama)"
+  },
+  "rootFolder": {
+    "message": "Mgbọrọgwụ ibe edokọbara"
+  },
+  "ariaNav": {
+    "message": "Isi igodo"
+  },
+  "ariaThemeToggle": {
+    "message": "Gbanwee isiokwu gbara ọchịchịrị/ọkụ"
+  },
+  "ariaSidebarToggle": {
+    "message": "Gbanwee ogwe akụkụ"
+  },
+  "ariaClearSearch": {
+    "message": "Kpochapụ ọchụchọ"
+  },
+  "ariaFilterChips": {
+    "message": "Wepụta site na nchekwa"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Kaa akara maka ihichapụ:"
+  },
+  "ariaEditTitle": {
+    "message": "Dezie aha ibe edokọbara"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Marcador Q’umachiri"
+  },
+  "extShortName": {
+    "message": "BK Q’umachiri"
+  },
+  "extDescription": {
+    "message": "Duplicados, p’akjata enlaces ukanaka jikxataña, wakicht’aña ukat taqi marcadores ukanaka thaqhaña — jank’aki ukat q’uma."
+  },
+  "popupBookmarks": {
+    "message": "Markachirinaka"
+  },
+  "popupFolders": {
+    "message": "Carpetas ukanaka"
+  },
+  "popupOpenManager": {
+    "message": "Jisk’a Markachirinakan apnaqiripa"
+  },
+  "popupTagline": {
+    "message": "Q’uma · Wakicht’aña · Thaqhaña"
+  },
+  "popupLoading": {
+    "message": "Estadísticas ukanakax apkatatawa..."
+  },
+  "navHome": {
+    "message": "Uta"
+  },
+  "navDuplicates": {
+    "message": "Duplicados ukanaka jikxataña"
+  },
+  "navBroken": {
+    "message": "P’akjata Links ukanaka"
+  },
+  "navOrganize": {
+    "message": "Organización & Ordenar ukax mä juk’a pachanakanwa"
+  },
+  "navSearch": {
+    "message": "Uñakipt’aña & Filtro"
+  },
+  "navTheme": {
+    "message": "Toggle Tema ukax mä juk’a pachanakanwa"
+  },
+  "statBookmarks": {
+    "message": "Markachirinaka"
+  },
+  "statFolders": {
+    "message": "Carpetas ukanaka"
+  },
+  "statDuplicates": {
+    "message": "Duplicados ukanaka"
+  },
+  "statEmptyFolders": {
+    "message": "Ch’usa Carpetas ukanaka"
+  },
+  "featureDupTitle": {
+    "message": "Duplicados ukanaka jikxataña"
+  },
+  "featureDupDesc": {
+    "message": "Pachpa URL ukan chikancht’asir markachirinakan qillqt’atanakap uñt’ayaña ukat apsuña."
+  },
+  "featureBrkTitle": {
+    "message": "P’akjata Links ukanaka"
+  },
+  "featureBrkDesc": {
+    "message": "Jan wali, ch’usa, jan ukax jan web ukan URL ukanakamp markachirinakar uñt’ayaña."
+  },
+  "featureOrgTitle": {
+    "message": "Organización & Ordenar ukax mä juk’a pachanakanwa"
+  },
+  "featureOrgDesc": {
+    "message": "Marcadores ukanakax alfabeto ukarjam uñakipaña ukat ch’usat carpetanak apsuña."
+  },
+  "featureSrchTitle": {
+    "message": "Uñakipt’aña & Filtro"
+  },
+  "featureSrchDesc": {
+    "message": "Mäkiw taqi markachirinakan sutip jan ukax URL ukarjam thaqhañama."
+  },
+  "featureRunBtn": {
+    "message": "Jalaña"
+  },
+  "loadingBookmarks": {
+    "message": "Ukax mä chimpunak uñt'ayañatakiw..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Marka chimpunakax janiw cargañjamäkiti. Ukhamaraki, mayampi yant’apxañani."
+  },
+  "duplicatesSubtitle": {
+    "message": "Pachpa URL ukan uñt’ayat markachirinakax akham uñt’ayatawa. Mä imaña, qhipharux chhaqtayaña."
+  },
+  "dupScanBtn": {
+    "message": "Duplicados ukanaka uñakipañataki"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Auto-Select (Jichhax nayratpach uñjañamawa) ."
+  },
+  "dupDeleteBtn": {
+    "message": "Chhaqtayaña Ajllitanaka"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Chhaqtayaña $1 Markachirinaka",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Akax utjañapawa"
+  },
+  "dupGroupCount": {
+    "message": "$1 copianaka",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Uñakipt’ata $1 / $2 uñacht’awinaka",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Carpetas ukanakax escanear..."
+  },
+  "emptyDupTitle": {
+    "message": "Janiw Duplicados ukanakax jikxataskiti"
+  },
+  "emptyDupDesc": {
+    "message": "Marka apthapiwix janiw URLs duplicados ukanakax utjkiti. ¡Jach’a irnaqawi!"
+  },
+  "brokenSubtitle": {
+    "message": "Jan wali, ch’usa, jan ukax jan web ukan URL ukanakamp uñt’ayatanakax akham uñt’ayatawa."
+  },
+  "brkScanBtn": {
+    "message": "Issues ukanakat escanear"
+  },
+  "brkDeleteBtn": {
+    "message": "Chhaqtayaña Ajllitanaka"
+  },
+  "badgeEmptyUrl": {
+    "message": "Ch’usa URL ukax utjiwa"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL ukax jan waliwa"
+  },
+  "badgeLocalFile": {
+    "message": "Archivo Local ukan uñt’ayata"
+  },
+  "badgeNonWeb": {
+    "message": "Jan Web ukan uñt’ayata"
+  },
+  "badgeSuspicious": {
+    "message": "Pächasita"
+  },
+  "emptyBrkTitle": {
+    "message": "Janiw kuna jan walt’äwinakas jikxataskiti"
+  },
+  "emptyBrkDesc": {
+    "message": "Taqi markachirinakamax URLs chiqap uñt’ayataw uñstapxi."
+  },
+  "orgTabSort": {
+    "message": "Uñakipt’añatakix Marcadores ukanakaw utji"
+  },
+  "orgTabEmpty": {
+    "message": "Ch’usa Carpetas ukanaka"
+  },
+  "sortSelectFolder": {
+    "message": "Carpeta ukxa ajlliñani"
+  },
+  "sortAllBookmarks": {
+    "message": "Taqi Marcadores ukanaka"
+  },
+  "sortOrder": {
+    "message": "Ordenar uñakipaña"
+  },
+  "sortAZ": {
+    "message": "A → Z (titulo tuqi) 1.1."
+  },
+  "sortZA": {
+    "message": "Z → A (titulo tuqi) 1.1."
+  },
+  "sortDomain": {
+    "message": "URL ukan dominioparjama (A → Z) ."
+  },
+  "sortFolderFirst": {
+    "message": "Nayraqatax carpetas ukanakaw utji, ukatx marcadores ukanakaw utjaraki"
+  },
+  "sortRecursive": {
+    "message": "Recursivamente uñakipaña (taqi subcarpetas ukanakaru apnaqaña) ."
+  },
+  "sortPreviewBtn": {
+    "message": "Nayraqata uñakipaña"
+  },
+  "sortApplyBtn": {
+    "message": "Ukaxa Sort satawa"
+  },
+  "sortPreviewLabel": {
+    "message": "Nayraqata uñakipaña — uñakipaña tukuyatatxa:"
+  },
+  "sortPreviewMore": {
+    "message": "... ukat $1 juk’ampi",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Aka carpetax janiw kuna marcadores ukanakas utjkiti."
+  },
+  "sortSuccess": {
+    "message": "Marcadores ukanakax wali sum uñakipt’atawa."
+  },
+  "emptyScanBtn": {
+    "message": "Ch’usa Carpetas ukanaka uñakipaña"
+  },
+  "emptyDeleteBtn": {
+    "message": "Ajllita Carpetas ukanaka chhaqtayaña"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Janiw Ch’usa Carpetas ukanakax utjkiti"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Taqi carpetanakax mä yäkipankiwa."
+  },
+  "deletedFolders": {
+    "message": "Chhaqtayata $1 carpeta(naka).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Marka chimpunakax titulo jan ukax URL ukarjam thaqhatawa..."
+  },
+  "chipAll": {
+    "message": "Taqini"
+  },
+  "searchResultCount": {
+    "message": "$1 ukax mä juk’a pachanakanwa",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Jist'arata"
+  },
+  "searchEditBtn": {
+    "message": "Luraña"
+  },
+  "searchCancelEditBtn": {
+    "message": "Kansilaña"
+  },
+  "searchDeleteBtn": {
+    "message": "Phiskhsuña"
+  },
+  "searchSaveBtn": {
+    "message": "Imaña"
+  },
+  "searchCancelBtn": {
+    "message": "Kansilaña"
+  },
+  "emptySearchTitle": {
+    "message": "Janiw kuna Resultados ukanakas jikxataskiti"
+  },
+  "emptySearchDesc": {
+    "message": "Yaqha thakhi thaqhañ aru jan ukax filtro ukar yant’añamawa."
+  },
+  "deleteConfirmMsg": {
+    "message": "¿Chiqapuniti aka markarux chhaqtayañ munta?"
+  },
+  "deleteConfirmYes": {
+    "message": "Jisa, Chhaqtayaña"
+  },
+  "deleteConfirmNo": {
+    "message": "Kansilaña"
+  },
+  "toastDeleted": {
+    "message": "$1 markachiri(naka) chhaqtayata.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Chhaqtayañax janiw luratäkiti. Marcadores ukanakax wasitat utt’ayatawa."
+  },
+  "undoBtn": {
+    "message": "Ukax mä juk’a pachanakanwa"
+  },
+  "bookmarkUpdated": {
+    "message": "Markachirinakan sutipax machaqar tukuyatawa."
+  },
+  "errorGeneric": {
+    "message": "Mä pantjasiwiw utjawayi. Ukhamaraki, mayampi yant’apxañani."
+  },
+  "noTitle": {
+    "message": "(Janiw Titulojj utjkiti)"
+  },
+  "unknownFolder": {
+    "message": "(Jan uñt’at Carpeta)"
+  },
+  "rootFolder": {
+    "message": "Markachirinaka Saphi"
+  },
+  "ariaNav": {
+    "message": "Jilïr navegación"
+  },
+  "ariaThemeToggle": {
+    "message": "Toggle ch’amaka/qhana tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Ukax mä lado barra ukar mayjt’ayaña"
+  },
+  "ariaClearSearch": {
+    "message": "Qhana thaqhaña"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrar ukax carpeta ukarjamawa"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Chhaqtayañatakix marka:"
+  },
+  "ariaEditTitle": {
+    "message": "Markachirinakan sutip chiqañchaña"
+  }
+}

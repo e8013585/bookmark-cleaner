@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "អ្នកសម្អាតចំណាំ"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "ស្វែងរកស្ទួន តំណខូច រៀបចំ និងស្វែងរកចំណាំរបស់អ្នកទាំងអស់ — លឿន និងស្អាត។"
+  },
+  "popupBookmarks": {
+    "message": "ចំណាំ"
+  },
+  "popupFolders": {
+    "message": "ថតឯកសារ"
+  },
+  "popupOpenManager": {
+    "message": "បើកកម្មវិធីគ្រប់គ្រងចំណាំ"
+  },
+  "popupTagline": {
+    "message": "សម្អាត · រៀបចំ · ស្វែងរក"
+  },
+  "popupLoading": {
+    "message": "កំពុង​ផ្ទុក​ស្ថិតិ..."
+  },
+  "navHome": {
+    "message": "ផ្ទះ"
+  },
+  "navDuplicates": {
+    "message": "ស្វែងរកស្ទួន"
+  },
+  "navBroken": {
+    "message": "តំណភ្ជាប់ខូច"
+  },
+  "navOrganize": {
+    "message": "រៀបចំ & តម្រៀប"
+  },
+  "navSearch": {
+    "message": "ស្វែងរក & ត្រង"
+  },
+  "navTheme": {
+    "message": "បិទ/បើកស្បែក"
+  },
+  "statBookmarks": {
+    "message": "ចំណាំ"
+  },
+  "statFolders": {
+    "message": "ថតឯកសារ"
+  },
+  "statDuplicates": {
+    "message": "ស្ទួន"
+  },
+  "statEmptyFolders": {
+    "message": "ថតឯកសារទទេ"
+  },
+  "featureDupTitle": {
+    "message": "ស្វែងរកស្ទួន"
+  },
+  "featureDupDesc": {
+    "message": "រកឃើញ និងលុបធាតុចំណាំដែលចែករំលែក URL ដូចគ្នា។"
+  },
+  "featureBrkTitle": {
+    "message": "តំណភ្ជាប់ខូច"
+  },
+  "featureBrkDesc": {
+    "message": "កំណត់ចំណាំជាមួយនឹង URL មិនត្រឹមត្រូវ ទទេ ឬមិនមែនគេហទំព័រ។"
+  },
+  "featureOrgTitle": {
+    "message": "រៀបចំ & តម្រៀប"
+  },
+  "featureOrgDesc": {
+    "message": "តម្រៀបចំណាំតាមអក្ខរក្រម និងលុបថតទទេ។"
+  },
+  "featureSrchTitle": {
+    "message": "ស្វែងរក & ត្រង"
+  },
+  "featureSrchDesc": {
+    "message": "ស្វែងរកភ្លាមៗនៅលើចំណាំរបស់អ្នកទាំងអស់ដោយចំណងជើង ឬ URL ។"
+  },
+  "featureRunBtn": {
+    "message": "រត់"
+  },
+  "loadingBookmarks": {
+    "message": "កំពុងផ្ទុកចំណាំរបស់អ្នក..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "បានបរាជ័យក្នុងការផ្ទុកចំណាំ។ សូមព្យាយាមម្តងទៀត។"
+  },
+  "duplicatesSubtitle": {
+    "message": "ចំណាំដែលចែករំលែក URL ដូចគ្នាត្រូវបានដាក់ជាក្រុមខាងក្រោម។ ទុកមួយ លុបសល់។"
+  },
+  "dupScanBtn": {
+    "message": "ស្កេនរកស្ទួន"
+  },
+  "dupSmartSelectBtn": {
+    "message": "ជ្រើសរើសដោយស្វ័យប្រវត្តិ (រក្សាចាស់បំផុត)"
+  },
+  "dupDeleteBtn": {
+    "message": "លុបដែលបានជ្រើសរើស"
+  },
+  "dupDeleteBtnCount": {
+    "message": "លុប $1 ចំណាំ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "រក្សានេះ។"
+  },
+  "dupGroupCount": {
+    "message": "$1 ច្បាប់ចម្លង",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "បានពិនិត្យចំណាំ$1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "កំពុងស្កេនថត..."
+  },
+  "emptyDupTitle": {
+    "message": "រកមិនឃើញស្ទួនទេ។"
+  },
+  "emptyDupDesc": {
+    "message": "ការប្រមូលចំណាំរបស់អ្នកមិនមាន URL ស្ទួនទេ។ ការងារដ៏អស្ចារ្យ!"
+  },
+  "brokenSubtitle": {
+    "message": "ចំណាំដែលមាន URL មិនត្រឹមត្រូវ ទទេ ឬមិនមែនជាគេហទំព័រត្រូវបានរាយខាងក្រោម។"
+  },
+  "brkScanBtn": {
+    "message": "វិភាគរកបញ្ហា"
+  },
+  "brkDeleteBtn": {
+    "message": "លុបដែលបានជ្រើសរើស"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL ទទេ"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL មិនត្រឹមត្រូវ"
+  },
+  "badgeLocalFile": {
+    "message": "ឯកសារក្នុងស្រុក"
+  },
+  "badgeNonWeb": {
+    "message": "មិនមែនបណ្តាញ"
+  },
+  "badgeSuspicious": {
+    "message": "គួរឱ្យសង្ស័យ"
+  },
+  "emptyBrkTitle": {
+    "message": "រកមិនឃើញបញ្ហាទេ។"
+  },
+  "emptyBrkDesc": {
+    "message": "ចំណាំរបស់អ្នកទាំងអស់ហាក់ដូចជាមាន URL ត្រឹមត្រូវ។"
+  },
+  "orgTabSort": {
+    "message": "តម្រៀបចំណាំ"
+  },
+  "orgTabEmpty": {
+    "message": "ថតឯកសារទទេ"
+  },
+  "sortSelectFolder": {
+    "message": "ជ្រើសរើសថត"
+  },
+  "sortAllBookmarks": {
+    "message": "ចំណាំទាំងអស់។"
+  },
+  "sortOrder": {
+    "message": "តម្រៀបលំដាប់"
+  },
+  "sortAZ": {
+    "message": "A → Z (តាមចំណងជើង)"
+  },
+  "sortZA": {
+    "message": "Z → A (តាមចំណងជើង)"
+  },
+  "sortDomain": {
+    "message": "តាមដែន URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "ថតឯកសារជាមុន បន្ទាប់មកចំណាំ"
+  },
+  "sortRecursive": {
+    "message": "តម្រៀប​ឡើងវិញ (អនុវត្ត​ចំពោះ​ថត​រង​ទាំងអស់)"
+  },
+  "sortPreviewBtn": {
+    "message": "មើលជាមុន"
+  },
+  "sortApplyBtn": {
+    "message": "អនុវត្តការតម្រៀប"
+  },
+  "sortPreviewLabel": {
+    "message": "មើលជាមុន - បន្ទាប់ពីតម្រៀប៖"
+  },
+  "sortPreviewMore": {
+    "message": "… និង$1 ច្រើនទៀត",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "ថតនេះមិនមានចំណាំសម្រាប់តម្រៀបទេ។"
+  },
+  "sortSuccess": {
+    "message": "បានតម្រៀបចំណាំដោយជោគជ័យ។"
+  },
+  "emptyScanBtn": {
+    "message": "ស្កេនរកថតទទេ"
+  },
+  "emptyDeleteBtn": {
+    "message": "លុបថតដែលបានជ្រើសរើស"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "គ្មានថតឯកសារទទេ"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "ថតឯកសាររបស់អ្នកទាំងអស់មានយ៉ាងហោចណាស់ធាតុមួយ។"
+  },
+  "deletedFolders": {
+    "message": "បានលុបថត$1។",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "ស្វែងរកចំណាំតាមចំណងជើង ឬ URL…"
+  },
+  "chipAll": {
+    "message": "ទាំងអស់។"
+  },
+  "searchResultCount": {
+    "message": "$1 លទ្ធផល",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "បើក"
+  },
+  "searchEditBtn": {
+    "message": "កែសម្រួល"
+  },
+  "searchCancelEditBtn": {
+    "message": "បោះបង់"
+  },
+  "searchDeleteBtn": {
+    "message": "លុប"
+  },
+  "searchSaveBtn": {
+    "message": "រក្សាទុក"
+  },
+  "searchCancelBtn": {
+    "message": "បោះបង់"
+  },
+  "emptySearchTitle": {
+    "message": "រកមិនឃើញលទ្ធផលទេ។"
+  },
+  "emptySearchDesc": {
+    "message": "សាកល្បងពាក្យស្វែងរក ឬតម្រងផ្សេង។"
+  },
+  "deleteConfirmMsg": {
+    "message": "តើអ្នកប្រាកដថាចង់លុបចំណាំនេះទេ?"
+  },
+  "deleteConfirmYes": {
+    "message": "បាទ លុប"
+  },
+  "deleteConfirmNo": {
+    "message": "បោះបង់"
+  },
+  "toastDeleted": {
+    "message": "$1 ចំណាំត្រូវបានលុប។",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "ការលុបមិនធ្វើវិញទេ។ បាន​ស្ដារ​ចំណាំ។"
+  },
+  "undoBtn": {
+    "message": "មិនធ្វើវិញ"
+  },
+  "bookmarkUpdated": {
+    "message": "បានធ្វើបច្ចុប្បន្នភាពចំណងជើងចំណាំ។"
+  },
+  "errorGeneric": {
+    "message": "កំហុសមួយបានកើតឡើង។ សូមព្យាយាមម្តងទៀត។"
+  },
+  "noTitle": {
+    "message": "(គ្មានចំណងជើង)"
+  },
+  "unknownFolder": {
+    "message": "(មិន​ស្គាល់​ថត)"
+  },
+  "rootFolder": {
+    "message": "ចំណាំ ឫស"
+  },
+  "ariaNav": {
+    "message": "ការរុករកចម្បង"
+  },
+  "ariaThemeToggle": {
+    "message": "បិទ/បើកប្រធានបទងងឹត/ពន្លឺ"
+  },
+  "ariaSidebarToggle": {
+    "message": "បិទបើករបារចំហៀង"
+  },
+  "ariaClearSearch": {
+    "message": "ជម្រះការស្វែងរក"
+  },
+  "ariaFilterChips": {
+    "message": "ត្រងតាមថត"
+  },
+  "ariaMarkForDeletion": {
+    "message": "សម្គាល់សម្រាប់ការលុប៖"
+  },
+  "ariaEditTitle": {
+    "message": "កែសម្រួលចំណងជើងចំណាំ"
+  }
+}

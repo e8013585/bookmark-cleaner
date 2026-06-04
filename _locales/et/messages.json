@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Järjehoidjate puhastaja"
+  },
+  "extShortName": {
+    "message": "BK puhastusvahend"
+  },
+  "extDescription": {
+    "message": "Otsige üles duplikaate, katkisi linke, korraldage ja otsige kõiki oma järjehoidjaid – kiire ja puhas."
+  },
+  "popupBookmarks": {
+    "message": "Järjehoidjad"
+  },
+  "popupFolders": {
+    "message": "Kaustad"
+  },
+  "popupOpenManager": {
+    "message": "Avage järjehoidjate haldur"
+  },
+  "popupTagline": {
+    "message": "Puhasta · Korralda · Otsi"
+  },
+  "popupLoading": {
+    "message": "Statistika laadimine…"
+  },
+  "navHome": {
+    "message": "Kodu"
+  },
+  "navDuplicates": {
+    "message": "Otsige duplikaadid"
+  },
+  "navBroken": {
+    "message": "Katkised lingid"
+  },
+  "navOrganize": {
+    "message": "Korralda ja sorteeri"
+  },
+  "navSearch": {
+    "message": "Otsi ja filtreeri"
+  },
+  "navTheme": {
+    "message": "Lülitage teema sisse"
+  },
+  "statBookmarks": {
+    "message": "Järjehoidjad"
+  },
+  "statFolders": {
+    "message": "Kaustad"
+  },
+  "statDuplicates": {
+    "message": "Duplikaadid"
+  },
+  "statEmptyFolders": {
+    "message": "Tühjad kaustad"
+  },
+  "featureDupTitle": {
+    "message": "Otsige duplikaadid"
+  },
+  "featureDupDesc": {
+    "message": "Tuvastage ja eemaldage sama URL-i jagavad järjehoidja kirjed."
+  },
+  "featureBrkTitle": {
+    "message": "Katkised lingid"
+  },
+  "featureBrkDesc": {
+    "message": "Tuvastage kehtetute, tühjade või mitte-veebi-URL-idega järjehoidjad."
+  },
+  "featureOrgTitle": {
+    "message": "Korralda ja sorteeri"
+  },
+  "featureOrgDesc": {
+    "message": "Sorteerige järjehoidjaid tähestikulises järjekorras ja eemaldage tühjad kaustad."
+  },
+  "featureSrchTitle": {
+    "message": "Otsi ja filtreeri"
+  },
+  "featureSrchDesc": {
+    "message": "Otsige kohe kõigist oma järjehoidjatest pealkirja või URL-i järgi."
+  },
+  "featureRunBtn": {
+    "message": "Jookse"
+  },
+  "loadingBookmarks": {
+    "message": "Järjehoidjate laadimine…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Järjehoidjate laadimine ebaõnnestus. Palun proovi uuesti."
+  },
+  "duplicatesSubtitle": {
+    "message": "Sama URL-i jagavad järjehoidjad on rühmitatud allpool. Hoidke üks, kustutage ülejäänud."
+  },
+  "dupScanBtn": {
+    "message": "Otsige duplikaate"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automaatne valimine (jäta vanimaks)"
+  },
+  "dupDeleteBtn": {
+    "message": "Kustuta valitud"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Kustuta $1 Järjehoidjad",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Hoidke seda"
+  },
+  "dupGroupCount": {
+    "message": "$1 koopiad",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Kontrollitud $1 / $2 järjehoidjaid",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Kaustade skannimine…"
+  },
+  "emptyDupTitle": {
+    "message": "Duplikaate ei leitud"
+  },
+  "emptyDupDesc": {
+    "message": "Teie järjehoidjate kogul pole dubleerivaid URL-e. Suurepärane töö!"
+  },
+  "brokenSubtitle": {
+    "message": "Allpool on loetletud kehtetute, tühjade või mitte-veebi-URL-idega järjehoidjad."
+  },
+  "brkScanBtn": {
+    "message": "Otsige probleeme"
+  },
+  "brkDeleteBtn": {
+    "message": "Kustuta valitud"
+  },
+  "badgeEmptyUrl": {
+    "message": "Tühi URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Vigane URL"
+  },
+  "badgeLocalFile": {
+    "message": "Kohalik fail"
+  },
+  "badgeNonWeb": {
+    "message": "Mitte-veeb"
+  },
+  "badgeSuspicious": {
+    "message": "Kahtlane"
+  },
+  "emptyBrkTitle": {
+    "message": "Probleeme ei leitud"
+  },
+  "emptyBrkDesc": {
+    "message": "Näib, et kõigil teie järjehoidjatel on kehtivad URL-id."
+  },
+  "orgTabSort": {
+    "message": "Järjehoidjate sortimine"
+  },
+  "orgTabEmpty": {
+    "message": "Tühjad kaustad"
+  },
+  "sortSelectFolder": {
+    "message": "Valige kaust"
+  },
+  "sortAllBookmarks": {
+    "message": "Kõik järjehoidjad"
+  },
+  "sortOrder": {
+    "message": "Sorteerimisjärjekord"
+  },
+  "sortAZ": {
+    "message": "A → Z (pealkirja järgi)"
+  },
+  "sortZA": {
+    "message": "Z → A (pealkirja järgi)"
+  },
+  "sortDomain": {
+    "message": "URL-i domeeni järgi (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Kõigepealt kaustad, seejärel järjehoidjad"
+  },
+  "sortRecursive": {
+    "message": "Sordi rekursiivselt (rakendab kõikidele alamkaustadele)"
+  },
+  "sortPreviewBtn": {
+    "message": "Eelvaade"
+  },
+  "sortApplyBtn": {
+    "message": "Rakenda Sordi"
+  },
+  "sortPreviewLabel": {
+    "message": "Eelvaade – pärast sorteerimist:"
+  },
+  "sortPreviewMore": {
+    "message": "… ja $1 rohkem",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Sellel kaustal pole sortimiseks järjehoidjaid."
+  },
+  "sortSuccess": {
+    "message": "Järjehoidjate sortimine õnnestus."
+  },
+  "emptyScanBtn": {
+    "message": "Otsige tühje kaustu"
+  },
+  "emptyDeleteBtn": {
+    "message": "Kustutage valitud kaustad"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Tühje kaustu pole"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Kõik teie kaustad sisaldavad vähemalt ühte üksust."
+  },
+  "deletedFolders": {
+    "message": "Kustutatud $1 kaustad.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Otsige järjehoidjaid pealkirja või URL-i järgi…"
+  },
+  "chipAll": {
+    "message": "Kõik"
+  },
+  "searchResultCount": {
+    "message": "$1 tulemused",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Avatud"
+  },
+  "searchEditBtn": {
+    "message": "Muuda"
+  },
+  "searchCancelEditBtn": {
+    "message": "Tühista"
+  },
+  "searchDeleteBtn": {
+    "message": "Kustuta"
+  },
+  "searchSaveBtn": {
+    "message": "Salvesta"
+  },
+  "searchCancelBtn": {
+    "message": "Tühista"
+  },
+  "emptySearchTitle": {
+    "message": "Tulemusi ei leitud"
+  },
+  "emptySearchDesc": {
+    "message": "Proovige teist otsinguterminit või filtrit."
+  },
+  "deleteConfirmMsg": {
+    "message": "Kas olete kindel, et soovite selle järjehoidja kustutada?"
+  },
+  "deleteConfirmYes": {
+    "message": "Jah, Kustuta"
+  },
+  "deleteConfirmNo": {
+    "message": "Tühista"
+  },
+  "toastDeleted": {
+    "message": "$1 järjehoidja(d) kustutatud.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Kustutamine on tagasi võetud. Järjehoidjad taastatud."
+  },
+  "undoBtn": {
+    "message": "Võta tagasi"
+  },
+  "bookmarkUpdated": {
+    "message": "Järjehoidja pealkiri on värskendatud."
+  },
+  "errorGeneric": {
+    "message": "Ilmnes viga. Palun proovi uuesti."
+  },
+  "noTitle": {
+    "message": "(Pealkiri puudub)"
+  },
+  "unknownFolder": {
+    "message": "(Tundmatu kaust)"
+  },
+  "rootFolder": {
+    "message": "Järjehoidjate juur"
+  },
+  "ariaNav": {
+    "message": "Peamine navigeerimine"
+  },
+  "ariaThemeToggle": {
+    "message": "Tume/hele teema sisse- ja väljalülitamine"
+  },
+  "ariaSidebarToggle": {
+    "message": "Lülitage külgriba sisse"
+  },
+  "ariaClearSearch": {
+    "message": "Tühjenda otsing"
+  },
+  "ariaFilterChips": {
+    "message": "Filtreerige kausta järgi"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Märgi kustutamiseks:"
+  },
+  "ariaEditTitle": {
+    "message": "Muuda järjehoidja pealkirja"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Nettoyeur de signets"
+  },
+  "extShortName": {
+    "message": "Nettoyant BK"
+  },
+  "extDescription": {
+    "message": "Trouvez les doublons, les liens rompus, organisez et recherchez tous vos favoris – rapidement et proprement."
+  },
+  "popupBookmarks": {
+    "message": "Signets"
+  },
+  "popupFolders": {
+    "message": "Dossiers"
+  },
+  "popupOpenManager": {
+    "message": "Ouvrir le gestionnaire de favoris"
+  },
+  "popupTagline": {
+    "message": "Nettoyer · Organiser · Rechercher"
+  },
+  "popupLoading": {
+    "message": "Chargement des statistiques…"
+  },
+  "navHome": {
+    "message": "Maison"
+  },
+  "navDuplicates": {
+    "message": "Rechercher des doublons"
+  },
+  "navBroken": {
+    "message": "Liens brisés"
+  },
+  "navOrganize": {
+    "message": "Organiser et trier"
+  },
+  "navSearch": {
+    "message": "Rechercher et filtrer"
+  },
+  "navTheme": {
+    "message": "Basculer le thème"
+  },
+  "statBookmarks": {
+    "message": "Signets"
+  },
+  "statFolders": {
+    "message": "Dossiers"
+  },
+  "statDuplicates": {
+    "message": "Doublons"
+  },
+  "statEmptyFolders": {
+    "message": "Dossiers vides"
+  },
+  "featureDupTitle": {
+    "message": "Rechercher des doublons"
+  },
+  "featureDupDesc": {
+    "message": "Détectez et supprimez les entrées de favoris partageant la même URL."
+  },
+  "featureBrkTitle": {
+    "message": "Liens brisés"
+  },
+  "featureBrkDesc": {
+    "message": "Identifiez les signets avec des URL non valides, vides ou non Web."
+  },
+  "featureOrgTitle": {
+    "message": "Organiser et trier"
+  },
+  "featureOrgDesc": {
+    "message": "Triez les signets par ordre alphabétique et supprimez les dossiers vides."
+  },
+  "featureSrchTitle": {
+    "message": "Rechercher et filtrer"
+  },
+  "featureSrchDesc": {
+    "message": "Recherchez instantanément tous vos favoris par titre ou URL."
+  },
+  "featureRunBtn": {
+    "message": "Courir"
+  },
+  "loadingBookmarks": {
+    "message": "Chargement de vos favoris…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Échec du chargement des favoris. Veuillez réessayer."
+  },
+  "duplicatesSubtitle": {
+    "message": "Les signets partageant la même URL sont regroupés ci-dessous. Gardez-en un, supprimez le reste."
+  },
+  "dupScanBtn": {
+    "message": "Rechercher les doublons"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Sélection automatique (conserver le plus ancien)"
+  },
+  "dupDeleteBtn": {
+    "message": "Supprimer la sélection"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Supprimer $1 Favoris",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Gardez ceci"
+  },
+  "dupGroupCount": {
+    "message": "$1 copies",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Signets $1 / $2 vérifiés",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Analyse des dossiers…"
+  },
+  "emptyDupTitle": {
+    "message": "Aucun doublon trouvé"
+  },
+  "emptyDupDesc": {
+    "message": "Votre collection de favoris ne contient aucune URL en double. Super travail !"
+  },
+  "brokenSubtitle": {
+    "message": "Les signets contenant des URL non valides, vides ou non Web sont répertoriés ci-dessous."
+  },
+  "brkScanBtn": {
+    "message": "Rechercher des problèmes"
+  },
+  "brkDeleteBtn": {
+    "message": "Supprimer la sélection"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL vide"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL invalide"
+  },
+  "badgeLocalFile": {
+    "message": "Fichier local"
+  },
+  "badgeNonWeb": {
+    "message": "Hors Web"
+  },
+  "badgeSuspicious": {
+    "message": "Suspect"
+  },
+  "emptyBrkTitle": {
+    "message": "Aucun problème trouvé"
+  },
+  "emptyBrkDesc": {
+    "message": "Tous vos favoris semblent avoir des URL valides."
+  },
+  "orgTabSort": {
+    "message": "Trier les signets"
+  },
+  "orgTabEmpty": {
+    "message": "Dossiers vides"
+  },
+  "sortSelectFolder": {
+    "message": "Sélectionner un dossier"
+  },
+  "sortAllBookmarks": {
+    "message": "Tous les signets"
+  },
+  "sortOrder": {
+    "message": "Ordre de tri"
+  },
+  "sortAZ": {
+    "message": "A → Z (par titre)"
+  },
+  "sortZA": {
+    "message": "Z → A (par titre)"
+  },
+  "sortDomain": {
+    "message": "Par domaine URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Les dossiers d'abord, puis les signets"
+  },
+  "sortRecursive": {
+    "message": "Trier de manière récursive (appliquer à tous les sous-dossiers)"
+  },
+  "sortPreviewBtn": {
+    "message": "Aperçu"
+  },
+  "sortApplyBtn": {
+    "message": "Appliquer le tri"
+  },
+  "sortPreviewLabel": {
+    "message": "Aperçu — après tri :"
+  },
+  "sortPreviewMore": {
+    "message": "… et $1 plus",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ce dossier n'a aucun favori à trier."
+  },
+  "sortSuccess": {
+    "message": "Signets triés avec succès."
+  },
+  "emptyScanBtn": {
+    "message": "Rechercher des dossiers vides"
+  },
+  "emptyDeleteBtn": {
+    "message": "Supprimer les dossiers sélectionnés"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Aucun dossier vide"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tous vos dossiers contiennent au moins un élément."
+  },
+  "deletedFolders": {
+    "message": "Dossier(s) $1 supprimé(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Rechercher des favoris par titre ou URL…"
+  },
+  "chipAll": {
+    "message": "Tous"
+  },
+  "searchResultCount": {
+    "message": "$1 résultats",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Ouvrir"
+  },
+  "searchEditBtn": {
+    "message": "Modifier"
+  },
+  "searchCancelEditBtn": {
+    "message": "Annuler"
+  },
+  "searchDeleteBtn": {
+    "message": "Supprimer"
+  },
+  "searchSaveBtn": {
+    "message": "Sauvegarder"
+  },
+  "searchCancelBtn": {
+    "message": "Annuler"
+  },
+  "emptySearchTitle": {
+    "message": "Aucun résultat trouvé"
+  },
+  "emptySearchDesc": {
+    "message": "Essayez un autre terme de recherche ou un autre filtre."
+  },
+  "deleteConfirmMsg": {
+    "message": "Etes-vous sûr de vouloir supprimer ce favori ?"
+  },
+  "deleteConfirmYes": {
+    "message": "Oui, supprimer"
+  },
+  "deleteConfirmNo": {
+    "message": "Annuler"
+  },
+  "toastDeleted": {
+    "message": "$1 favori(s) supprimé(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Suppression annulée. Signets restaurés."
+  },
+  "undoBtn": {
+    "message": "Défaire"
+  },
+  "bookmarkUpdated": {
+    "message": "Titre du signet mis à jour."
+  },
+  "errorGeneric": {
+    "message": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "noTitle": {
+    "message": "(Pas de titre)"
+  },
+  "unknownFolder": {
+    "message": "(Dossier inconnu)"
+  },
+  "rootFolder": {
+    "message": "Racine des signets"
+  },
+  "ariaNav": {
+    "message": "Navigation principale"
+  },
+  "ariaThemeToggle": {
+    "message": "Basculer le thème sombre/clair"
+  },
+  "ariaSidebarToggle": {
+    "message": "Basculer la barre latérale"
+  },
+  "ariaClearSearch": {
+    "message": "Effacer la recherche"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrer par dossier"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marquer pour suppression :"
+  },
+  "ariaEditTitle": {
+    "message": "Modifier le titre du favori"
+  }
+}

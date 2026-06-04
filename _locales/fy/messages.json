@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Blêdwizer Cleaner"
+  },
+  "extShortName": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "extDescription": {
+    "message": "Fyn duplikaten, brutsen keppelings, organisearje en sykje al jo blêdwizers - fluch en skjin."
+  },
+  "popupBookmarks": {
+    "message": "Blêdwizers"
+  },
+  "popupFolders": {
+    "message": "Mappen"
+  },
+  "popupOpenManager": {
+    "message": "Iepenje Blêdwizerbehearder"
+  },
+  "popupTagline": {
+    "message": "Skjin · Organisearje · Sykje"
+  },
+  "popupLoading": {
+    "message": "Statistiken laden…"
+  },
+  "navHome": {
+    "message": "Thús"
+  },
+  "navDuplicates": {
+    "message": "Duplikaten fine"
+  },
+  "navBroken": {
+    "message": "Broken Links"
+  },
+  "navOrganize": {
+    "message": "Organisearje & sortearje"
+  },
+  "navSearch": {
+    "message": "Sykje en filterje"
+  },
+  "navTheme": {
+    "message": "Tema wikselje"
+  },
+  "statBookmarks": {
+    "message": "Blêdwizers"
+  },
+  "statFolders": {
+    "message": "Mappen"
+  },
+  "statDuplicates": {
+    "message": "Duplikaten"
+  },
+  "statEmptyFolders": {
+    "message": "Lege mappen"
+  },
+  "featureDupTitle": {
+    "message": "Duplikaten fine"
+  },
+  "featureDupDesc": {
+    "message": "Detektearje en ferwiderje blêdwizer-yngongen dy't deselde URL diele."
+  },
+  "featureBrkTitle": {
+    "message": "Broken Links"
+  },
+  "featureBrkDesc": {
+    "message": "Identifisearje blêdwizers mei ûnjildige, lege of net-web-URL's."
+  },
+  "featureOrgTitle": {
+    "message": "Organisearje & sortearje"
+  },
+  "featureOrgDesc": {
+    "message": "Sortearje blêdwizers alfabetysk en ferwiderje lege mappen."
+  },
+  "featureSrchTitle": {
+    "message": "Sykje en filterje"
+  },
+  "featureSrchDesc": {
+    "message": "Sykje direkt yn al jo blêdwizers op titel of URL."
+  },
+  "featureRunBtn": {
+    "message": "Run"
+  },
+  "loadingBookmarks": {
+    "message": "Jo blêdwizers laden..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "It laden fan blêdwizers is mislearre. Besykje it nochris."
+  },
+  "duplicatesSubtitle": {
+    "message": "Blêdwizers dy't deselde URL diele wurde hjirûnder groepearre. Hâld ien, wiskje de rest."
+  },
+  "dupScanBtn": {
+    "message": "Scan foar duplikaten"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automatysk selektearje (âldste hâlde)"
+  },
+  "dupDeleteBtn": {
+    "message": "Selektearre wiskje"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Wiskje $1 Blêdwizers",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Hâld dit"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopyen",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Kontrolearre $1 / $2 blêdwizers",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Mappen scannen..."
+  },
+  "emptyDupTitle": {
+    "message": "Gjin duplikaten fûn"
+  },
+  "emptyDupDesc": {
+    "message": "Jo blêdwizerkolleksje hat gjin dûbele URL's. Geweldich wurk!"
+  },
+  "brokenSubtitle": {
+    "message": "Blêdwizers mei ûnjildige, lege of net-web-URL's wurde hjirûnder neamd."
+  },
+  "brkScanBtn": {
+    "message": "Scan foar problemen"
+  },
+  "brkDeleteBtn": {
+    "message": "Selektearre wiskje"
+  },
+  "badgeEmptyUrl": {
+    "message": "Lege URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Unjildige URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokale triem"
+  },
+  "badgeNonWeb": {
+    "message": "Net-web"
+  },
+  "badgeSuspicious": {
+    "message": "Fertocht"
+  },
+  "emptyBrkTitle": {
+    "message": "Gjin problemen fûn"
+  },
+  "emptyBrkDesc": {
+    "message": "Al jo blêdwizers lykje jildige URL's te hawwen."
+  },
+  "orgTabSort": {
+    "message": "Blêdwizers sortearje"
+  },
+  "orgTabEmpty": {
+    "message": "Lege mappen"
+  },
+  "sortSelectFolder": {
+    "message": "Selektearje map"
+  },
+  "sortAllBookmarks": {
+    "message": "Alle blêdwizers"
+  },
+  "sortOrder": {
+    "message": "Sortearje oarder"
+  },
+  "sortAZ": {
+    "message": "A → Z (by titel)"
+  },
+  "sortZA": {
+    "message": "Z → A (by titel)"
+  },
+  "sortDomain": {
+    "message": "Troch URL-domein (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Mappen earst, dan blêdwizers"
+  },
+  "sortRecursive": {
+    "message": "Sortearje rekursyf (tapassing op alle submappen)"
+  },
+  "sortPreviewBtn": {
+    "message": "Foarbyld"
+  },
+  "sortApplyBtn": {
+    "message": "Sortearje tapasse"
+  },
+  "sortPreviewLabel": {
+    "message": "Foarbyld - nei it sortearjen:"
+  },
+  "sortPreviewMore": {
+    "message": "… en $1 mear",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Dizze map hat gjin blêdwizers om te sortearjen."
+  },
+  "sortSuccess": {
+    "message": "Blêdwizers mei súkses sortearre."
+  },
+  "emptyScanBtn": {
+    "message": "Scan foar lege mappen"
+  },
+  "emptyDeleteBtn": {
+    "message": "Selekteare mappen wiskje"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Gjin lege mappen"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Al jo mappen befetsje op syn minst ien item."
+  },
+  "deletedFolders": {
+    "message": "Wiske $1 map(pen).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Sykje blêdwizers op titel of URL..."
+  },
+  "chipAll": {
+    "message": "Alle"
+  },
+  "searchResultCount": {
+    "message": "$1 resultaten",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Iepen"
+  },
+  "searchEditBtn": {
+    "message": "Bewurkje"
+  },
+  "searchCancelEditBtn": {
+    "message": "Ofbrekke"
+  },
+  "searchDeleteBtn": {
+    "message": "Wiskje"
+  },
+  "searchSaveBtn": {
+    "message": "Rêde"
+  },
+  "searchCancelBtn": {
+    "message": "Ofbrekke"
+  },
+  "emptySearchTitle": {
+    "message": "Gjin resultaten fûn"
+  },
+  "emptySearchDesc": {
+    "message": "Besykje in oare sykterm of filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Binne jo wis dat jo dizze blêdwizer wiskje wolle?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ja, wiskje"
+  },
+  "deleteConfirmNo": {
+    "message": "Ofbrekke"
+  },
+  "toastDeleted": {
+    "message": "$1 blêdwizer(s) wiske.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Wiskje ûngedien makke. Blêdwizers restaurearre."
+  },
+  "undoBtn": {
+    "message": "Ungedien meitsje"
+  },
+  "bookmarkUpdated": {
+    "message": "Blêdwizertitel bywurke."
+  },
+  "errorGeneric": {
+    "message": "Der barde in flater. Besykje it nochris."
+  },
+  "noTitle": {
+    "message": "(Gjin titel)"
+  },
+  "unknownFolder": {
+    "message": "(Unbekende map)"
+  },
+  "rootFolder": {
+    "message": "Blêdwizers Root"
+  },
+  "ariaNav": {
+    "message": "Main navigaasje"
+  },
+  "ariaThemeToggle": {
+    "message": "Skeakelje tsjuster / ljocht tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Sidebalke wikselje"
+  },
+  "ariaClearSearch": {
+    "message": "Dúdlik sykjen"
+  },
+  "ariaFilterChips": {
+    "message": "Filter op map"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Markearje foar wiskjen:"
+  },
+  "ariaEditTitle": {
+    "message": "Blêdwizertitel bewurkje"
+  }
+}

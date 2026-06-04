@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Pulitore di segnalibri"
+  },
+  "extShortName": {
+    "message": "BK Pulitore"
+  },
+  "extDescription": {
+    "message": "Trova duplicati, collegamenti interrotti, organizza e cerca tutti i tuoi segnalibri in modo rapido e pulito."
+  },
+  "popupBookmarks": {
+    "message": "Segnalibri"
+  },
+  "popupFolders": {
+    "message": "Cartelle"
+  },
+  "popupOpenManager": {
+    "message": "Apri Gestione segnalibri"
+  },
+  "popupTagline": {
+    "message": "Pulisci · Organizza · Cerca"
+  },
+  "popupLoading": {
+    "message": "Caricamento statistiche…"
+  },
+  "navHome": {
+    "message": "Casa"
+  },
+  "navDuplicates": {
+    "message": "Trova duplicati"
+  },
+  "navBroken": {
+    "message": "Collegamenti interrotti"
+  },
+  "navOrganize": {
+    "message": "Organizza e ordina"
+  },
+  "navSearch": {
+    "message": "Cerca e filtra"
+  },
+  "navTheme": {
+    "message": "Attiva/disattiva tema"
+  },
+  "statBookmarks": {
+    "message": "Segnalibri"
+  },
+  "statFolders": {
+    "message": "Cartelle"
+  },
+  "statDuplicates": {
+    "message": "Duplicati"
+  },
+  "statEmptyFolders": {
+    "message": "Cartelle vuote"
+  },
+  "featureDupTitle": {
+    "message": "Trova duplicati"
+  },
+  "featureDupDesc": {
+    "message": "Rileva e rimuovi le voci dei segnalibri che condividono lo stesso URL."
+  },
+  "featureBrkTitle": {
+    "message": "Collegamenti interrotti"
+  },
+  "featureBrkDesc": {
+    "message": "Identifica i segnalibri con URL non validi, vuoti o non Web."
+  },
+  "featureOrgTitle": {
+    "message": "Organizza e ordina"
+  },
+  "featureOrgDesc": {
+    "message": "Ordina i segnalibri in ordine alfabetico e rimuovi le cartelle vuote."
+  },
+  "featureSrchTitle": {
+    "message": "Cerca e filtra"
+  },
+  "featureSrchDesc": {
+    "message": "Cerca istantaneamente tra tutti i tuoi segnalibri per titolo o URL."
+  },
+  "featureRunBtn": {
+    "message": "Correre"
+  },
+  "loadingBookmarks": {
+    "message": "Caricamento dei segnalibri…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Impossibile caricare i segnalibri. Per favore riprova."
+  },
+  "duplicatesSubtitle": {
+    "message": "I segnalibri che condividono lo stesso URL sono raggruppati di seguito. Mantieni uno, elimina il resto."
+  },
+  "dupScanBtn": {
+    "message": "Cerca duplicati"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Selezione automatica (mantieni il più vecchio)"
+  },
+  "dupDeleteBtn": {
+    "message": "Elimina selezionato"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Cancella $1 Segnalibri",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Tieni questo"
+  },
+  "dupGroupCount": {
+    "message": "$1 copie",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Segnalibri $1 / $2 selezionati",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Scansione delle cartelle…"
+  },
+  "emptyDupTitle": {
+    "message": "Nessun duplicato trovato"
+  },
+  "emptyDupDesc": {
+    "message": "La tua raccolta di segnalibri non ha URL duplicati. Ottimo lavoro!"
+  },
+  "brokenSubtitle": {
+    "message": "I segnalibri con URL non validi, vuoti o non Web sono elencati di seguito."
+  },
+  "brkScanBtn": {
+    "message": "Cerca problemi"
+  },
+  "brkDeleteBtn": {
+    "message": "Elimina selezionato"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL vuoto"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL non valido"
+  },
+  "badgeLocalFile": {
+    "message": "Archivio locale"
+  },
+  "badgeNonWeb": {
+    "message": "Non-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Sospettoso"
+  },
+  "emptyBrkTitle": {
+    "message": "Nessun problema trovato"
+  },
+  "emptyBrkDesc": {
+    "message": "Sembra che tutti i tuoi segnalibri abbiano URL validi."
+  },
+  "orgTabSort": {
+    "message": "Ordina i segnalibri"
+  },
+  "orgTabEmpty": {
+    "message": "Cartelle vuote"
+  },
+  "sortSelectFolder": {
+    "message": "Seleziona Cartella"
+  },
+  "sortAllBookmarks": {
+    "message": "Tutti i segnalibri"
+  },
+  "sortOrder": {
+    "message": "Ordinamento"
+  },
+  "sortAZ": {
+    "message": "A → Z (per titolo)"
+  },
+  "sortZA": {
+    "message": "Z → A (per titolo)"
+  },
+  "sortDomain": {
+    "message": "Per dominio URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Prima le cartelle, poi i segnalibri"
+  },
+  "sortRecursive": {
+    "message": "Ordina in modo ricorsivo (si applica a tutte le sottocartelle)"
+  },
+  "sortPreviewBtn": {
+    "message": "Anteprima"
+  },
+  "sortApplyBtn": {
+    "message": "Applica ordinamento"
+  },
+  "sortPreviewLabel": {
+    "message": "Anteprima - dopo l'ordinamento:"
+  },
+  "sortPreviewMore": {
+    "message": "… e $1 altro",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Questa cartella non ha segnalibri da ordinare."
+  },
+  "sortSuccess": {
+    "message": "Segnalibri ordinati correttamente."
+  },
+  "emptyScanBtn": {
+    "message": "Cerca cartelle vuote"
+  },
+  "emptyDeleteBtn": {
+    "message": "Elimina le cartelle selezionate"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Nessuna cartella vuota"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tutte le tue cartelle contengono almeno un elemento."
+  },
+  "deletedFolders": {
+    "message": "Cartelle $1 cancellate.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Cerca i segnalibri per titolo o URL..."
+  },
+  "chipAll": {
+    "message": "Tutto"
+  },
+  "searchResultCount": {
+    "message": "Risultati $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Aprire"
+  },
+  "searchEditBtn": {
+    "message": "Modificare"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cancellare"
+  },
+  "searchDeleteBtn": {
+    "message": "Eliminare"
+  },
+  "searchSaveBtn": {
+    "message": "Salva"
+  },
+  "searchCancelBtn": {
+    "message": "Cancellare"
+  },
+  "emptySearchTitle": {
+    "message": "Nessun risultato trovato"
+  },
+  "emptySearchDesc": {
+    "message": "Prova un termine di ricerca o un filtro diverso."
+  },
+  "deleteConfirmMsg": {
+    "message": "Sei sicuro di voler eliminare questo segnalibro?"
+  },
+  "deleteConfirmYes": {
+    "message": "Sì, elimina"
+  },
+  "deleteConfirmNo": {
+    "message": "Cancellare"
+  },
+  "toastDeleted": {
+    "message": "$1 segnalibri eliminati.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Cancellazione annullata. Segnalibri ripristinati."
+  },
+  "undoBtn": {
+    "message": "Disfare"
+  },
+  "bookmarkUpdated": {
+    "message": "Titolo del segnalibro aggiornato."
+  },
+  "errorGeneric": {
+    "message": "Si è verificato un errore. Per favore riprova."
+  },
+  "noTitle": {
+    "message": "(Senza titolo)"
+  },
+  "unknownFolder": {
+    "message": "(Cartella sconosciuta)"
+  },
+  "rootFolder": {
+    "message": "Radice dei segnalibri"
+  },
+  "ariaNav": {
+    "message": "Navigazione principale"
+  },
+  "ariaThemeToggle": {
+    "message": "Attiva/disattiva il tema scuro/chiaro"
+  },
+  "ariaSidebarToggle": {
+    "message": "Attiva/disattiva la barra laterale"
+  },
+  "ariaClearSearch": {
+    "message": "Cancella ricerca"
+  },
+  "ariaFilterChips": {
+    "message": "Filtra per cartella"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Segna per la cancellazione:"
+  },
+  "ariaEditTitle": {
+    "message": "Modifica il titolo del segnalibro"
+  }
+}

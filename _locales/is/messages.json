@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bókamerkjahreinsiefni"
+  },
+  "extShortName": {
+    "message": "BK hreinsiefni"
+  },
+  "extDescription": {
+    "message": "Finndu afrit, brotna tengla, skipulagðu og leitaðu í öllum bókamerkjunum þínum — hratt og hreint."
+  },
+  "popupBookmarks": {
+    "message": "Bókamerki"
+  },
+  "popupFolders": {
+    "message": "Möppur"
+  },
+  "popupOpenManager": {
+    "message": "Opnaðu bókamerkjastjórnun"
+  },
+  "popupTagline": {
+    "message": "Hreinsa · Skipuleggja · Leita"
+  },
+  "popupLoading": {
+    "message": "Hleður tölfræði..."
+  },
+  "navHome": {
+    "message": "Heim"
+  },
+  "navDuplicates": {
+    "message": "Finndu afrit"
+  },
+  "navBroken": {
+    "message": "Brotnir hlekkir"
+  },
+  "navOrganize": {
+    "message": "Skipuleggja og flokka"
+  },
+  "navSearch": {
+    "message": "Leita og sía"
+  },
+  "navTheme": {
+    "message": "Skiptu um þema"
+  },
+  "statBookmarks": {
+    "message": "Bókamerki"
+  },
+  "statFolders": {
+    "message": "Möppur"
+  },
+  "statDuplicates": {
+    "message": "Afrit"
+  },
+  "statEmptyFolders": {
+    "message": "Tómar möppur"
+  },
+  "featureDupTitle": {
+    "message": "Finndu afrit"
+  },
+  "featureDupDesc": {
+    "message": "Finndu og fjarlægðu bókamerkjafærslur sem deila sömu vefslóð."
+  },
+  "featureBrkTitle": {
+    "message": "Brotnir hlekkir"
+  },
+  "featureBrkDesc": {
+    "message": "Þekkja bókamerki með ógildum, tómum eða ekki vefslóðum."
+  },
+  "featureOrgTitle": {
+    "message": "Skipuleggja og flokka"
+  },
+  "featureOrgDesc": {
+    "message": "Raða bókamerkjum í stafrófsröð og fjarlægja tómar möppur."
+  },
+  "featureSrchTitle": {
+    "message": "Leita og sía"
+  },
+  "featureSrchDesc": {
+    "message": "Leitaðu samstundis í öllum bókamerkjunum þínum eftir titli eða vefslóð."
+  },
+  "featureRunBtn": {
+    "message": "Hlaupa"
+  },
+  "loadingBookmarks": {
+    "message": "Hleður bókamerkjunum þínum..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Ekki tókst að hlaða bókamerkjum. Vinsamlegast reyndu aftur."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bókamerki sem deila sömu vefslóð eru flokkuð hér að neðan. Haltu einu, eyddu hinum."
+  },
+  "dupScanBtn": {
+    "message": "Skannaðu eftir afritum"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Sjálfvirkt val (halda elstu)"
+  },
+  "dupDeleteBtn": {
+    "message": "Eyða völdum"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Eyða $1 bókamerkjum",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Haltu þessu"
+  },
+  "dupGroupCount": {
+    "message": "$1 afrit",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Merkt við $1 / $2 bókamerki",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Skannar möppur..."
+  },
+  "emptyDupTitle": {
+    "message": "Engar afrit fundust"
+  },
+  "emptyDupDesc": {
+    "message": "Bókamerkasafnið þitt hefur engar tvíteknar vefslóðir. Frábært starf!"
+  },
+  "brokenSubtitle": {
+    "message": "Bókamerki með ógildum, tómum eða ekki vefslóðum eru skráð hér að neðan."
+  },
+  "brkScanBtn": {
+    "message": "Leitaðu að vandamálum"
+  },
+  "brkDeleteBtn": {
+    "message": "Eyða völdum"
+  },
+  "badgeEmptyUrl": {
+    "message": "Tóm vefslóð"
+  },
+  "badgeInvalidUrl": {
+    "message": "Ógild vefslóð"
+  },
+  "badgeLocalFile": {
+    "message": "Staðbundin skrá"
+  },
+  "badgeNonWeb": {
+    "message": "Ekki vefur"
+  },
+  "badgeSuspicious": {
+    "message": "Grunsamlegt"
+  },
+  "emptyBrkTitle": {
+    "message": "Engin vandamál fundust"
+  },
+  "emptyBrkDesc": {
+    "message": "Öll bókamerkin þín virðast hafa gildar vefslóðir."
+  },
+  "orgTabSort": {
+    "message": "Raða bókamerki"
+  },
+  "orgTabEmpty": {
+    "message": "Tómar möppur"
+  },
+  "sortSelectFolder": {
+    "message": "Veldu Mappa"
+  },
+  "sortAllBookmarks": {
+    "message": "Öll bókamerki"
+  },
+  "sortOrder": {
+    "message": "Raða röð"
+  },
+  "sortAZ": {
+    "message": "A → Ö (eftir titli)"
+  },
+  "sortZA": {
+    "message": "Z → A (eftir titli)"
+  },
+  "sortDomain": {
+    "message": "Eftir vefslóðarléni (A → Ö)"
+  },
+  "sortFolderFirst": {
+    "message": "Fyrst möppur, síðan bókamerki"
+  },
+  "sortRecursive": {
+    "message": "Raða endurkvæmt (á við um allar undirmöppur)"
+  },
+  "sortPreviewBtn": {
+    "message": "Forskoðun"
+  },
+  "sortApplyBtn": {
+    "message": "Notaðu flokkun"
+  },
+  "sortPreviewLabel": {
+    "message": "Forskoðun — eftir flokkun:"
+  },
+  "sortPreviewMore": {
+    "message": "… og $1 fleira",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Þessi mappa hefur engin bókamerki til að flokka."
+  },
+  "sortSuccess": {
+    "message": "Bókamerkjum var raðað."
+  },
+  "emptyScanBtn": {
+    "message": "Leitaðu að tómum möppum"
+  },
+  "emptyDeleteBtn": {
+    "message": "Eyða völdum möppum"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Engar tómar möppur"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Allar möppur þínar innihalda að minnsta kosti eitt atriði."
+  },
+  "deletedFolders": {
+    "message": "Eytt $1 möppu(m).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Leita í bókamerkjum eftir titli eða vefslóð..."
+  },
+  "chipAll": {
+    "message": "Allt"
+  },
+  "searchResultCount": {
+    "message": "$1 niðurstöður",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Opið"
+  },
+  "searchEditBtn": {
+    "message": "Breyta"
+  },
+  "searchCancelEditBtn": {
+    "message": "Hætta við"
+  },
+  "searchDeleteBtn": {
+    "message": "Eyða"
+  },
+  "searchSaveBtn": {
+    "message": "Vista"
+  },
+  "searchCancelBtn": {
+    "message": "Hætta við"
+  },
+  "emptySearchTitle": {
+    "message": "Engar niðurstöður fundust"
+  },
+  "emptySearchDesc": {
+    "message": "Prófaðu annað leitarorð eða síu."
+  },
+  "deleteConfirmMsg": {
+    "message": "Ertu viss um að þú viljir eyða þessu bókamerki?"
+  },
+  "deleteConfirmYes": {
+    "message": "Já, eyða"
+  },
+  "deleteConfirmNo": {
+    "message": "Hætta við"
+  },
+  "toastDeleted": {
+    "message": "$1 bókamerki(m) eytt.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Eyðing afturkölluð. Bókamerki endurheimt."
+  },
+  "undoBtn": {
+    "message": "Afturkalla"
+  },
+  "bookmarkUpdated": {
+    "message": "Bókamerkjatitill uppfærður."
+  },
+  "errorGeneric": {
+    "message": "Villa kom upp. Vinsamlegast reyndu aftur."
+  },
+  "noTitle": {
+    "message": "(Enginn titill)"
+  },
+  "unknownFolder": {
+    "message": "(Óþekkt mappa)"
+  },
+  "rootFolder": {
+    "message": "Bókamerki rót"
+  },
+  "ariaNav": {
+    "message": "Aðalleiðsögn"
+  },
+  "ariaThemeToggle": {
+    "message": "Skiptu um dökkt/ljóst þema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Skiptu um hliðarstiku"
+  },
+  "ariaClearSearch": {
+    "message": "Hreinsa leit"
+  },
+  "ariaFilterChips": {
+    "message": "Sía eftir möppu"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Merkja fyrir eyðingu:"
+  },
+  "ariaEditTitle": {
+    "message": "Breyta titli bókamerkis"
+  }
+}

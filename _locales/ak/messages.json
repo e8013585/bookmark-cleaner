@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner a Ɛho Tew"
+  },
+  "extShortName": {
+    "message": "BK Ahotewfo"
+  },
+  "extDescription": {
+    "message": "Hwehwɛ duplicates, links a abubu, hyehyɛ na hwehwɛ wo bookmarks nyinaa — ntɛmntɛm na ɛho tew."
+  },
+  "popupBookmarks": {
+    "message": "Nwoma a Wɔde Yɛ Nwoma"
+  },
+  "popupFolders": {
+    "message": "Folda ahorow a wɔde kyerɛw nsɛm"
+  },
+  "popupOpenManager": {
+    "message": "Bue Bookmark Manager no mu"
+  },
+  "popupTagline": {
+    "message": "Hohoro · Hyehyɛ · Hwehwɛ"
+  },
+  "popupLoading": {
+    "message": "Loading stats..."
+  },
+  "navHome": {
+    "message": "Fie"
+  },
+  "navDuplicates": {
+    "message": "Hwehwɛ Nsɛm a Wɔayɛ no Nsɛso"
+  },
+  "navBroken": {
+    "message": "Nkitahodi a Abubu"
+  },
+  "navOrganize": {
+    "message": "Nhyehyɛe & Hyehyɛ"
+  },
+  "navSearch": {
+    "message": "Hwehwɛ & Filter"
+  },
+  "navTheme": {
+    "message": "Toggle Asɛmti no"
+  },
+  "statBookmarks": {
+    "message": "Nwoma a Wɔde Yɛ Nwoma"
+  },
+  "statFolders": {
+    "message": "Folda ahorow a wɔde kyerɛw nsɛm"
+  },
+  "statDuplicates": {
+    "message": "Nneɛma a wɔayɛ no abien"
+  },
+  "statEmptyFolders": {
+    "message": "Folda ahorow a Da mpan"
+  },
+  "featureDupTitle": {
+    "message": "Hwehwɛ Nsɛm a Wɔayɛ no Nsɛso"
+  },
+  "featureDupDesc": {
+    "message": "Hwehwɛ na yi bookmark entries a ɛkyɛ URL koro no ara."
+  },
+  "featureBrkTitle": {
+    "message": "Nkitahodi a Abubu"
+  },
+  "featureBrkDesc": {
+    "message": "Kyerɛ bookmarks a URL a enni mu, ɛda mpan, anaa ɛnyɛ wɛb."
+  },
+  "featureOrgTitle": {
+    "message": "Nhyehyɛe & Hyehyɛ"
+  },
+  "featureOrgDesc": {
+    "message": "Hyehyɛ nhoma agyiraehyɛde ahorow no sɛnea nkyerɛwde no te na yi folda ahorow a hwee nni mu no fi hɔ."
+  },
+  "featureSrchTitle": {
+    "message": "Hwehwɛ & Filter"
+  },
+  "featureSrchDesc": {
+    "message": "Hwehwɛ wo bookmarks nyinaa mu ntɛm ara denam asɛmti anaa URL so."
+  },
+  "featureRunBtn": {
+    "message": "Dwane"
+  },
+  "loadingBookmarks": {
+    "message": "Wode wo bookmarks rehyɛ mu..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Entumi mfa bookmarks nhyɛ mu. Yɛsrɛ sɛ sɔ hwɛ bio."
+  },
+  "duplicatesSubtitle": {
+    "message": "Wɔakyekyɛ bookmarks a ɛkyɛ URL koro no ara mu akuwakuw wɔ ase ha. Fa biako sie, popa nea aka no."
+  },
+  "dupScanBtn": {
+    "message": "Scan sɛ Wobɛhwehwɛ Duplicates"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Auto-Select (Ma Kɔ so Yɛ Dedaw) ."
+  },
+  "dupDeleteBtn": {
+    "message": "Popa Nea Wɔapaw"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Popa $1 Nkyerɛwde ahorow",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Sie Eyi"
+  },
+  "dupGroupCount": {
+    "message": "$1 mfonini ahorow",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Wɔahwɛ $1 / $2 nhoma agyiraehyɛde ahorow",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Scanning folda ahorow no..."
+  },
+  "emptyDupTitle": {
+    "message": "Wonhuu Nsɛm a Wɔayɛ no Nsɛso Biara"
+  },
+  "emptyDupDesc": {
+    "message": "Wo bookmark collection no nni URL ahorow a ɛyɛ abien. Adwuma kɛse!"
+  },
+  "brokenSubtitle": {
+    "message": "Wɔakyerɛw bookmark ahorow a URL a enni mu, ɛda mpan, anaa ɛnyɛ wɛb so wɔ ase ha."
+  },
+  "brkScanBtn": {
+    "message": "Scan Hwɛ Nsɛmpɔw"
+  },
+  "brkDeleteBtn": {
+    "message": "Popa Nea Wɔapaw"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL a ɛda mpan"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL a ɛnteɛ"
+  },
+  "badgeLocalFile": {
+    "message": "Fael a Ɛwɔ Mpɔtam Hɔ"
+  },
+  "badgeNonWeb": {
+    "message": "Nea Ɛnyɛ Wɛbsaet"
+  },
+  "badgeSuspicious": {
+    "message": "Susu sɛ ɛbɛyɛ ɛno"
+  },
+  "emptyBrkTitle": {
+    "message": "Wonhuu Nsɛm Biara"
+  },
+  "emptyBrkDesc": {
+    "message": "Ɛte sɛ nea wo bookmarks nyinaa wɔ URL ahorow a ɛfata."
+  },
+  "orgTabSort": {
+    "message": "Hyehyɛ Bookmarks"
+  },
+  "orgTabEmpty": {
+    "message": "Folda ahorow a Da mpan"
+  },
+  "sortSelectFolder": {
+    "message": "Paw Folda no"
+  },
+  "sortAllBookmarks": {
+    "message": "Bookmarks Nyinaa"
+  },
+  "sortOrder": {
+    "message": "Hyehyɛ Nhyehyɛe"
+  },
+  "sortAZ": {
+    "message": "A → Z (ɛnam asɛmti so) ."
+  },
+  "sortZA": {
+    "message": "Z → A (ɛnam asɛmti so) ."
+  },
+  "sortDomain": {
+    "message": "Ɛdenam URL domɛn so (A → Z) ."
+  },
+  "sortFolderFirst": {
+    "message": "Folda ahorow di kan, afei bookmarks"
+  },
+  "sortRecursive": {
+    "message": "Hyehyɛ no mpɛn pii (fa subfolders nyinaa ho) ."
+  },
+  "sortPreviewBtn": {
+    "message": "Nhwɛso a edi kan"
+  },
+  "sortApplyBtn": {
+    "message": "Fa di dwuma Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Preview — bere a woahyehyɛ akyi:"
+  },
+  "sortPreviewMore": {
+    "message": "... ne $1 pii",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Saa folda yi nni bookmarks biara a wobɛhyehyɛ."
+  },
+  "sortSuccess": {
+    "message": "Bookmarks a wɔahyehyɛ no yiye."
+  },
+  "emptyScanBtn": {
+    "message": "Scan sɛ Wobɛhwehwɛ Folda a Da mpan"
+  },
+  "emptyDeleteBtn": {
+    "message": "Popa Folda ahorow a Wɔapaw"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Folda a Da mpan biara nni hɔ"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Anyɛ yiye koraa no, ade biako na ɛwɔ wo folda ahorow no nyinaa mu."
+  },
+  "deletedFolders": {
+    "message": "Wɔapopa $1 folda (folda) no.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Hwehwɛ bookmarks denam asɛmti anaa URL so..."
+  },
+  "chipAll": {
+    "message": "Nyinaa"
+  },
+  "searchResultCount": {
+    "message": "$1 nea efi mu ba",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Bue"
+  },
+  "searchEditBtn": {
+    "message": "Sa mu"
+  },
+  "searchCancelEditBtn": {
+    "message": "Twam"
+  },
+  "searchDeleteBtn": {
+    "message": "Pepa"
+  },
+  "searchSaveBtn": {
+    "message": "Kora"
+  },
+  "searchCancelBtn": {
+    "message": "Twam"
+  },
+  "emptySearchTitle": {
+    "message": "Wonhuu Nea Efi Mu Bae"
+  },
+  "emptySearchDesc": {
+    "message": "Sɔ asɛmfua foforo a wɔde hwehwɛ nneɛma anaa filter hwɛ."
+  },
+  "deleteConfirmMsg": {
+    "message": "So wugye di sɛ wopɛ sɛ wopopa saa nhoma agyiraehyɛde yi?"
+  },
+  "deleteConfirmYes": {
+    "message": "Yiw, Popa"
+  },
+  "deleteConfirmNo": {
+    "message": "Twam"
+  },
+  "toastDeleted": {
+    "message": "$1 bookmark (s) a wɔapopa.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Wɔayɛ deletion a wɔasan ayɛ. Bookmarks a wɔasan de aba."
+  },
+  "undoBtn": {
+    "message": "Undo no fi hɔ"
+  },
+  "bookmarkUpdated": {
+    "message": "Bookmark asɛmti no ayɛ foforo."
+  },
+  "errorGeneric": {
+    "message": "Mfomso bi sii. Yɛsrɛ sɛ sɔ hwɛ bio."
+  },
+  "noTitle": {
+    "message": "(Asɛmti biara nni hɔ)"
+  },
+  "unknownFolder": {
+    "message": "(Folda a Wonnim)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks Ntini a Wɔde Di Dwuma"
+  },
+  "ariaNav": {
+    "message": "Akwankyerɛ titiriw"
+  },
+  "ariaThemeToggle": {
+    "message": "Toggle esum/hann asɛmti no"
+  },
+  "ariaSidebarToggle": {
+    "message": "Toggle afã a ɛwɔ nkyɛnkyɛn no"
+  },
+  "ariaClearSearch": {
+    "message": "Hwehwɛ nhwehwɛmu a emu da hɔ"
+  },
+  "ariaFilterChips": {
+    "message": "Filter sɛnea folda biara te"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Hyɛ agyirae sɛ wobɛpopa:"
+  },
+  "ariaEditTitle": {
+    "message": "Sesa bookmark asɛmti no"
+  }
+}

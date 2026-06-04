@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "બુકમાર્ક ક્લીનર"
+  },
+  "extShortName": {
+    "message": "બીકે ક્લીનર"
+  },
+  "extDescription": {
+    "message": "ડુપ્લિકેટ્સ, તૂટેલી લિંક્સ શોધો, તમારા બધા બુકમાર્ક્સને ગોઠવો અને શોધો — ઝડપી અને સ્વચ્છ."
+  },
+  "popupBookmarks": {
+    "message": "બુકમાર્ક્સ"
+  },
+  "popupFolders": {
+    "message": "ફોલ્ડર્સ"
+  },
+  "popupOpenManager": {
+    "message": "બુકમાર્ક મેનેજર ખોલો"
+  },
+  "popupTagline": {
+    "message": "સ્વચ્છ · ગોઠવો · શોધો"
+  },
+  "popupLoading": {
+    "message": "આંકડા લોડ કરી રહ્યાં છીએ..."
+  },
+  "navHome": {
+    "message": "ઘર"
+  },
+  "navDuplicates": {
+    "message": "ડુપ્લિકેટ્સ શોધો"
+  },
+  "navBroken": {
+    "message": "તૂટેલી કડીઓ"
+  },
+  "navOrganize": {
+    "message": "ગોઠવો અને સૉર્ટ કરો"
+  },
+  "navSearch": {
+    "message": "શોધો અને ફિલ્ટર કરો"
+  },
+  "navTheme": {
+    "message": "થીમ ટૉગલ કરો"
+  },
+  "statBookmarks": {
+    "message": "બુકમાર્ક્સ"
+  },
+  "statFolders": {
+    "message": "ફોલ્ડર્સ"
+  },
+  "statDuplicates": {
+    "message": "ડુપ્લિકેટ"
+  },
+  "statEmptyFolders": {
+    "message": "ખાલી ફોલ્ડર્સ"
+  },
+  "featureDupTitle": {
+    "message": "ડુપ્લિકેટ્સ શોધો"
+  },
+  "featureDupDesc": {
+    "message": "સમાન URL ને શેર કરતી બુકમાર્ક એન્ટ્રીઓ શોધો અને દૂર કરો."
+  },
+  "featureBrkTitle": {
+    "message": "તૂટેલી કડીઓ"
+  },
+  "featureBrkDesc": {
+    "message": "અમાન્ય, ખાલી અથવા બિન-વેબ URL સાથે બુકમાર્ક્સને ઓળખો."
+  },
+  "featureOrgTitle": {
+    "message": "ગોઠવો અને સૉર્ટ કરો"
+  },
+  "featureOrgDesc": {
+    "message": "બુકમાર્ક્સને મૂળાક્ષરો પ્રમાણે સૉર્ટ કરો અને ખાલી ફોલ્ડર્સ દૂર કરો."
+  },
+  "featureSrchTitle": {
+    "message": "શોધો અને ફિલ્ટર કરો"
+  },
+  "featureSrchDesc": {
+    "message": "શીર્ષક અથવા URL દ્વારા તમારા બધા બુકમાર્ક્સમાં તરત જ શોધો."
+  },
+  "featureRunBtn": {
+    "message": "ચલાવો"
+  },
+  "loadingBookmarks": {
+    "message": "તમારા બુકમાર્ક્સ લોડ કરી રહ્યાં છીએ..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "બુકમાર્ક્સ લોડ કરવામાં નિષ્ફળ. કૃપા કરીને ફરી પ્રયાસ કરો."
+  },
+  "duplicatesSubtitle": {
+    "message": "સમાન URL ને શેર કરતા બુકમાર્ક્સ નીચે જૂથબદ્ધ છે. એક રાખો, બાકી કાઢી નાખો."
+  },
+  "dupScanBtn": {
+    "message": "ડુપ્લિકેટ્સ માટે સ્કેન કરો"
+  },
+  "dupSmartSelectBtn": {
+    "message": "સ્વતઃ-પસંદ કરો (સૌથી જૂની રાખો)"
+  },
+  "dupDeleteBtn": {
+    "message": "પસંદ કરેલ કાઢી નાખો"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 બુકમાર્ક્સ કાઢી નાખો",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "આ રાખો"
+  },
+  "dupGroupCount": {
+    "message": "$1 નકલો",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "ચેક કરેલ $1 / $2 બુકમાર્ક્સ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "ફોલ્ડર્સ સ્કેન કરી રહ્યાં છીએ..."
+  },
+  "emptyDupTitle": {
+    "message": "કોઈ ડુપ્લિકેટ્સ મળ્યાં નથી"
+  },
+  "emptyDupDesc": {
+    "message": "તમારા બુકમાર્ક સંગ્રહમાં કોઈ ડુપ્લિકેટ URL નથી. સરસ કામ!"
+  },
+  "brokenSubtitle": {
+    "message": "અમાન્ય, ખાલી અથવા બિન-વેબ URL સાથેના બુકમાર્ક્સ નીચે સૂચિબદ્ધ છે."
+  },
+  "brkScanBtn": {
+    "message": "સમસ્યાઓ માટે સ્કેન કરો"
+  },
+  "brkDeleteBtn": {
+    "message": "પસંદ કરેલ કાઢી નાખો"
+  },
+  "badgeEmptyUrl": {
+    "message": "ખાલી URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "અમાન્ય URL"
+  },
+  "badgeLocalFile": {
+    "message": "સ્થાનિક ફાઇલ"
+  },
+  "badgeNonWeb": {
+    "message": "બિન-વેબ"
+  },
+  "badgeSuspicious": {
+    "message": "શંકાસ્પદ"
+  },
+  "emptyBrkTitle": {
+    "message": "કોઈ સમસ્યા મળી નથી"
+  },
+  "emptyBrkDesc": {
+    "message": "તમારા બધા બુકમાર્ક્સમાં માન્ય URL હોય તેવું લાગે છે."
+  },
+  "orgTabSort": {
+    "message": "બુકમાર્ક્સ સૉર્ટ કરો"
+  },
+  "orgTabEmpty": {
+    "message": "ખાલી ફોલ્ડર્સ"
+  },
+  "sortSelectFolder": {
+    "message": "ફોલ્ડર પસંદ કરો"
+  },
+  "sortAllBookmarks": {
+    "message": "બધા બુકમાર્ક્સ"
+  },
+  "sortOrder": {
+    "message": "સૉર્ટ ઓર્ડર"
+  },
+  "sortAZ": {
+    "message": "A → Z (શીર્ષક દ્વારા)"
+  },
+  "sortZA": {
+    "message": "Z → A (શીર્ષક દ્વારા)"
+  },
+  "sortDomain": {
+    "message": "URL ડોમેન દ્વારા (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "પહેલા ફોલ્ડર્સ, પછી બુકમાર્ક્સ"
+  },
+  "sortRecursive": {
+    "message": "વારંવાર સૉર્ટ કરો (બધા સબફોલ્ડર્સ પર લાગુ કરો)"
+  },
+  "sortPreviewBtn": {
+    "message": "પૂર્વાવલોકન"
+  },
+  "sortApplyBtn": {
+    "message": "સૉર્ટ લાગુ કરો"
+  },
+  "sortPreviewLabel": {
+    "message": "પૂર્વાવલોકન - સૉર્ટ કર્યા પછી:"
+  },
+  "sortPreviewMore": {
+    "message": "… અને $1 વધુ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "આ ફોલ્ડરમાં સૉર્ટ કરવા માટે કોઈ બુકમાર્ક્સ નથી."
+  },
+  "sortSuccess": {
+    "message": "બુકમાર્ક્સ સફળતાપૂર્વક સૉર્ટ થયા."
+  },
+  "emptyScanBtn": {
+    "message": "ખાલી ફોલ્ડર્સ માટે સ્કેન કરો"
+  },
+  "emptyDeleteBtn": {
+    "message": "પસંદ કરેલ ફોલ્ડર્સ કાઢી નાખો"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "કોઈ ખાલી ફોલ્ડર્સ નથી"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "તમારા બધા ફોલ્ડરમાં ઓછામાં ઓછી એક આઇટમ છે."
+  },
+  "deletedFolders": {
+    "message": "કાઢી નાખેલ $1 ફોલ્ડર(ઓ).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "શીર્ષક અથવા URL દ્વારા બુકમાર્ક્સ શોધો..."
+  },
+  "chipAll": {
+    "message": "બધા"
+  },
+  "searchResultCount": {
+    "message": "$1 પરિણામો",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "ખોલો"
+  },
+  "searchEditBtn": {
+    "message": "સંપાદિત કરો"
+  },
+  "searchCancelEditBtn": {
+    "message": "રદ કરો"
+  },
+  "searchDeleteBtn": {
+    "message": "કાઢી નાખો"
+  },
+  "searchSaveBtn": {
+    "message": "સાચવો"
+  },
+  "searchCancelBtn": {
+    "message": "રદ કરો"
+  },
+  "emptySearchTitle": {
+    "message": "કોઈ પરિણામો મળ્યાં નથી"
+  },
+  "emptySearchDesc": {
+    "message": "કોઈ અલગ શોધ શબ્દ અથવા ફિલ્ટર અજમાવી જુઓ."
+  },
+  "deleteConfirmMsg": {
+    "message": "શું તમે ખરેખર આ બુકમાર્ક કાઢી નાખવા માંગો છો?"
+  },
+  "deleteConfirmYes": {
+    "message": "હા, કાઢી નાખો"
+  },
+  "deleteConfirmNo": {
+    "message": "રદ કરો"
+  },
+  "toastDeleted": {
+    "message": "$1 બુકમાર્ક(ઓ) કાઢી નાખ્યા.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "કાઢી નાખવું પૂર્વવત્ કર્યું. બુકમાર્ક્સ પુનઃસ્થાપિત."
+  },
+  "undoBtn": {
+    "message": "પૂર્વવત્ કરો"
+  },
+  "bookmarkUpdated": {
+    "message": "બુકમાર્ક શીર્ષક અપડેટ કર્યું."
+  },
+  "errorGeneric": {
+    "message": "એક ભૂલ આવી. કૃપા કરીને ફરી પ્રયાસ કરો."
+  },
+  "noTitle": {
+    "message": "(કોઈ શીર્ષક નથી)"
+  },
+  "unknownFolder": {
+    "message": "(અજ્ઞાત ફોલ્ડર)"
+  },
+  "rootFolder": {
+    "message": "બુકમાર્ક્સ રુટ"
+  },
+  "ariaNav": {
+    "message": "મુખ્ય નેવિગેશન"
+  },
+  "ariaThemeToggle": {
+    "message": "ડાર્ક/લાઇટ થીમ ટૉગલ કરો"
+  },
+  "ariaSidebarToggle": {
+    "message": "સાઇડબારને ટૉગલ કરો"
+  },
+  "ariaClearSearch": {
+    "message": "શોધ સાફ કરો"
+  },
+  "ariaFilterChips": {
+    "message": "ફોલ્ડર દ્વારા ફિલ્ટર કરો"
+  },
+  "ariaMarkForDeletion": {
+    "message": "કાઢી નાખવા માટે ચિહ્નિત કરો:"
+  },
+  "ariaEditTitle": {
+    "message": "બુકમાર્ક શીર્ષક સંપાદિત કરો"
+  }
+}

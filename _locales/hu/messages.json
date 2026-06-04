@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Könyvjelzőtisztító"
+  },
+  "extShortName": {
+    "message": "BK tisztító"
+  },
+  "extDescription": {
+    "message": "Keressen másolatokat, hibás hivatkozásokat, rendszerezzen és keressen könyvjelzői között – gyorsan és tisztán."
+  },
+  "popupBookmarks": {
+    "message": "Könyvjelzők"
+  },
+  "popupFolders": {
+    "message": "Mappák"
+  },
+  "popupOpenManager": {
+    "message": "Nyissa meg a Könyvjelzőkezelőt"
+  },
+  "popupTagline": {
+    "message": "Tisztítás · Rendezés · Keresés"
+  },
+  "popupLoading": {
+    "message": "Statisztikák betöltése…"
+  },
+  "navHome": {
+    "message": "Otthon"
+  },
+  "navDuplicates": {
+    "message": "Keresse meg az ismétlődéseket"
+  },
+  "navBroken": {
+    "message": "Törött linkek"
+  },
+  "navOrganize": {
+    "message": "Rendezés és rendezés"
+  },
+  "navSearch": {
+    "message": "Keresés és szűrő"
+  },
+  "navTheme": {
+    "message": "Téma váltása"
+  },
+  "statBookmarks": {
+    "message": "Könyvjelzők"
+  },
+  "statFolders": {
+    "message": "Mappák"
+  },
+  "statDuplicates": {
+    "message": "Ismétlődések"
+  },
+  "statEmptyFolders": {
+    "message": "Üres mappák"
+  },
+  "featureDupTitle": {
+    "message": "Keresse meg az ismétlődéseket"
+  },
+  "featureDupDesc": {
+    "message": "Az azonos URL-t használó könyvjelző-bejegyzések észlelése és eltávolítása."
+  },
+  "featureBrkTitle": {
+    "message": "Törött linkek"
+  },
+  "featureBrkDesc": {
+    "message": "Az érvénytelen, üres vagy nem internetes URL-címekkel rendelkező könyvjelzők azonosítása."
+  },
+  "featureOrgTitle": {
+    "message": "Rendezés és rendezés"
+  },
+  "featureOrgDesc": {
+    "message": "A könyvjelzők ábécé szerinti rendezése és az üres mappák eltávolítása."
+  },
+  "featureSrchTitle": {
+    "message": "Keresés és szűrő"
+  },
+  "featureSrchDesc": {
+    "message": "Azonnal kereshet az összes könyvjelző között cím vagy URL alapján."
+  },
+  "featureRunBtn": {
+    "message": "Fut"
+  },
+  "loadingBookmarks": {
+    "message": "Könyvjelzők betöltése…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Nem sikerült betölteni a könyvjelzőket. Kérjük, próbálja újra."
+  },
+  "duplicatesSubtitle": {
+    "message": "Az ugyanazt az URL-t használó könyvjelzőket az alábbiakban csoportosítjuk. Az egyiket megtartani, a többit törölni."
+  },
+  "dupScanBtn": {
+    "message": "Másolatok keresése"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automatikus kiválasztás (régebbi megőrzés)"
+  },
+  "dupDeleteBtn": {
+    "message": "Kijelölt törlése"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 Könyvjelzők törlése",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Tartsd meg ezt"
+  },
+  "dupGroupCount": {
+    "message": "$1-ok másolatait",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 könyvjelzők bejelölve",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Mappák vizsgálata…"
+  },
+  "emptyDupTitle": {
+    "message": "Nem található ismétlődés"
+  },
+  "emptyDupDesc": {
+    "message": "Könyvjelzőgyűjteménye nem tartalmaz ismétlődő URL-eket. Remek munka!"
+  },
+  "brokenSubtitle": {
+    "message": "Az alábbiakban felsoroljuk az érvénytelen, üres vagy nem internetes URL-címekkel rendelkező könyvjelzőket."
+  },
+  "brkScanBtn": {
+    "message": "Problémák keresése"
+  },
+  "brkDeleteBtn": {
+    "message": "Kijelölt törlése"
+  },
+  "badgeEmptyUrl": {
+    "message": "Üres URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Érvénytelen URL"
+  },
+  "badgeLocalFile": {
+    "message": "Helyi fájl"
+  },
+  "badgeNonWeb": {
+    "message": "Nem web"
+  },
+  "badgeSuspicious": {
+    "message": "Gyanús"
+  },
+  "emptyBrkTitle": {
+    "message": "Nem találtunk problémákat"
+  },
+  "emptyBrkDesc": {
+    "message": "Úgy tűnik, hogy minden könyvjelzőjének érvényes URL-je van."
+  },
+  "orgTabSort": {
+    "message": "Könyvjelzők rendezése"
+  },
+  "orgTabEmpty": {
+    "message": "Üres mappák"
+  },
+  "sortSelectFolder": {
+    "message": "Válassza a Mappa lehetőséget"
+  },
+  "sortAllBookmarks": {
+    "message": "Minden könyvjelző"
+  },
+  "sortOrder": {
+    "message": "Rendezési sorrend"
+  },
+  "sortAZ": {
+    "message": "A → Z (cím szerint)"
+  },
+  "sortZA": {
+    "message": "Z → A (cím szerint)"
+  },
+  "sortDomain": {
+    "message": "URL domain szerint (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Először a mappák, majd a könyvjelzők"
+  },
+  "sortRecursive": {
+    "message": "Rekurzív rendezés (minden almappára vonatkozik)"
+  },
+  "sortPreviewBtn": {
+    "message": "Előnézet"
+  },
+  "sortApplyBtn": {
+    "message": "Rendezés alkalmazása"
+  },
+  "sortPreviewLabel": {
+    "message": "Előnézet – rendezés után:"
+  },
+  "sortPreviewMore": {
+    "message": "… és az 1. §§",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ebben a mappában nincsenek rendezendő könyvjelzők."
+  },
+  "sortSuccess": {
+    "message": "A könyvjelzők rendezése sikeresen megtörtént."
+  },
+  "emptyScanBtn": {
+    "message": "Üres mappák keresése"
+  },
+  "emptyDeleteBtn": {
+    "message": "Törölje a kiválasztott mappákat"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Nincsenek üres mappák"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Minden mappája legalább egy elemet tartalmaz."
+  },
+  "deletedFolders": {
+    "message": "$1 mappá(k) törölve.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Könyvjelzők keresése cím vagy URL alapján…"
+  },
+  "chipAll": {
+    "message": "Minden"
+  },
+  "searchResultCount": {
+    "message": "$1 eredményeket",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Nyitott"
+  },
+  "searchEditBtn": {
+    "message": "Szerkesztés"
+  },
+  "searchCancelEditBtn": {
+    "message": "Mégsem"
+  },
+  "searchDeleteBtn": {
+    "message": "Töröl"
+  },
+  "searchSaveBtn": {
+    "message": "Megtakarítás"
+  },
+  "searchCancelBtn": {
+    "message": "Mégsem"
+  },
+  "emptySearchTitle": {
+    "message": "Nincs eredmény"
+  },
+  "emptySearchDesc": {
+    "message": "Próbálkozzon másik keresési kifejezéssel vagy szűrővel."
+  },
+  "deleteConfirmMsg": {
+    "message": "Biztosan törli ezt a könyvjelzőt?"
+  },
+  "deleteConfirmYes": {
+    "message": "Igen, Törlés"
+  },
+  "deleteConfirmNo": {
+    "message": "Mégsem"
+  },
+  "toastDeleted": {
+    "message": "$1 könyvjelző(k) törölve.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Törlés visszavonva. A könyvjelzők visszaállítva."
+  },
+  "undoBtn": {
+    "message": "Visszavonás"
+  },
+  "bookmarkUpdated": {
+    "message": "A könyvjelző címe frissítve."
+  },
+  "errorGeneric": {
+    "message": "Hiba történt. Kérjük, próbálja újra."
+  },
+  "noTitle": {
+    "message": "(Nincs cím)"
+  },
+  "unknownFolder": {
+    "message": "(Ismeretlen mappa)"
+  },
+  "rootFolder": {
+    "message": "Könyvjelzők gyökér"
+  },
+  "ariaNav": {
+    "message": "Fő navigáció"
+  },
+  "ariaThemeToggle": {
+    "message": "Sötét/világos téma váltása"
+  },
+  "ariaSidebarToggle": {
+    "message": "Oldalsáv váltása"
+  },
+  "ariaClearSearch": {
+    "message": "Keresés törlése"
+  },
+  "ariaFilterChips": {
+    "message": "Szűrés mappa szerint"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Megjelölés törlésre:"
+  },
+  "ariaEditTitle": {
+    "message": "Szerkessze a könyvjelző címét"
+  }
+}

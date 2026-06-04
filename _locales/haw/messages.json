@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Hoomaemae Bookmark"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "E ʻimi i nā kope, nā loulou haʻihaʻi, hoʻonohonoho a ʻimi i kāu mau bookmark āpau - wikiwiki a maʻemaʻe."
+  },
+  "popupBookmarks": {
+    "message": "Nā kaha puke"
+  },
+  "popupFolders": {
+    "message": "Nā waihona"
+  },
+  "popupOpenManager": {
+    "message": "E wehe i ka Luna Hoʻokele Bookmark"
+  },
+  "popupTagline": {
+    "message": "Maʻemaʻe · Hoʻonohonoho · Huli"
+  },
+  "popupLoading": {
+    "message": "Ke hoʻouka nei i nā ʻikepili…"
+  },
+  "navHome": {
+    "message": "Home"
+  },
+  "navDuplicates": {
+    "message": "E ʻimi i nā Duplicate"
+  },
+  "navBroken": {
+    "message": "Nā loulou haʻihaʻi"
+  },
+  "navOrganize": {
+    "message": "Hoʻonohonoho a hoʻokaʻawale"
+  },
+  "navSearch": {
+    "message": "Huli & kānana"
+  },
+  "navTheme": {
+    "message": "Hoʻololi i ke kumuhana"
+  },
+  "statBookmarks": {
+    "message": "Nā kaha puke"
+  },
+  "statFolders": {
+    "message": "Nā waihona"
+  },
+  "statDuplicates": {
+    "message": "Hoʻopālua"
+  },
+  "statEmptyFolders": {
+    "message": "Nā Kōpena Haʻahaʻa"
+  },
+  "featureDupTitle": {
+    "message": "E ʻimi i nā Duplicate"
+  },
+  "featureDupDesc": {
+    "message": "E ʻimi a wehe i nā mea hoʻokomo bookmark e kaʻana like ana i ka URL like."
+  },
+  "featureBrkTitle": {
+    "message": "Nā loulou haʻihaʻi"
+  },
+  "featureBrkDesc": {
+    "message": "E ʻike i nā kaha puke me nā URL kūpono ʻole, ʻole, a i ʻole pūnaewele pūnaewele."
+  },
+  "featureOrgTitle": {
+    "message": "Hoʻonohonoho a hoʻokaʻawale"
+  },
+  "featureOrgDesc": {
+    "message": "Hoʻokaʻawale i nā bookmark ma ke ʻano alphabetic a wehe i nā waihona hakahaka."
+  },
+  "featureSrchTitle": {
+    "message": "Huli & kānana"
+  },
+  "featureSrchDesc": {
+    "message": "E ʻimi koke i kāu mau bookmark ma ke poʻo inoa a i ʻole URL."
+  },
+  "featureRunBtn": {
+    "message": "Holo"
+  },
+  "loadingBookmarks": {
+    "message": "Ke hoʻouka nei i kāu mau bookmark…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "ʻAʻole hiki ke hoʻouka i nā bookmarks. E ʻoluʻolu e hoʻāʻo hou."
+  },
+  "duplicatesSubtitle": {
+    "message": "Hoʻopili ʻia nā kaha puke e kaʻana like ana i ka URL like ma lalo. E mālama i hoʻokahi, e holoi i ke koena."
+  },
+  "dupScanBtn": {
+    "message": "E kiʻi no nā Duplicate"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Koho-Aunoa (E mālama i ka mea kahiko)"
+  },
+  "dupDeleteBtn": {
+    "message": "Holoi i wae ʻia"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Holoi i ka $1 Hoailona",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "E mālama i kēia"
+  },
+  "dupGroupCount": {
+    "message": "$1 kope",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Nānā $1 / $2 bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Ke nānā nei i nā waihona…"
+  },
+  "emptyDupTitle": {
+    "message": "ʻAʻole i loaʻa nā kope kope"
+  },
+  "emptyDupDesc": {
+    "message": "ʻAʻohe URL lua o kāu hōʻiliʻili puke. Nui ka hana!"
+  },
+  "brokenSubtitle": {
+    "message": "Hōʻike ʻia ma lalo nei nā kaha puke me nā URL kūpono ʻole, ʻole, a i ʻole pūnaewele pūnaewele."
+  },
+  "brkScanBtn": {
+    "message": "Nānā no nā pilikia"
+  },
+  "brkDeleteBtn": {
+    "message": "Holoi i wae ʻia"
+  },
+  "badgeEmptyUrl": {
+    "message": "HKH nele"
+  },
+  "badgeInvalidUrl": {
+    "message": "Helu 'ole"
+  },
+  "badgeLocalFile": {
+    "message": "Kōnae Kūloko"
+  },
+  "badgeNonWeb": {
+    "message": "Pūnaewele ʻAʻole"
+  },
+  "badgeSuspicious": {
+    "message": "Hoʻohuoi"
+  },
+  "emptyBrkTitle": {
+    "message": "ʻAʻohe pilikia i loaʻa"
+  },
+  "emptyBrkDesc": {
+    "message": "ʻIke ʻia he mau URL kūpono kāu mau bookmark."
+  },
+  "orgTabSort": {
+    "message": "Hoʻokaʻawale i nā kaha puke"
+  },
+  "orgTabEmpty": {
+    "message": "Nā Kōpena Haʻahaʻa"
+  },
+  "sortSelectFolder": {
+    "message": "E koho i ka waihona"
+  },
+  "sortAllBookmarks": {
+    "message": "ʻO nā kaha puke āpau"
+  },
+  "sortOrder": {
+    "message": "Kau ʻana"
+  },
+  "sortAZ": {
+    "message": "A → Z (ma ke poʻo inoa)"
+  },
+  "sortZA": {
+    "message": "Z → A (ma ke poʻo inoa)"
+  },
+  "sortDomain": {
+    "message": "Ma ka waihona URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Nā waihona mua, a laila nā bookmarks"
+  },
+  "sortRecursive": {
+    "message": "E hoʻokaʻawale hou (e pili i nā waihona waihona a pau)"
+  },
+  "sortPreviewBtn": {
+    "message": "Nāmua"
+  },
+  "sortApplyBtn": {
+    "message": "E hoʻopili i ke ʻano"
+  },
+  "sortPreviewLabel": {
+    "message": "Nāmua — ma hope o ka wae ʻana:"
+  },
+  "sortPreviewMore": {
+    "message": "… a $1 hou aku",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "ʻAʻohe māka puke e hoʻokaʻawale i kēia waihona."
+  },
+  "sortSuccess": {
+    "message": "Ua hoʻokaʻawale ʻia nā kaha puke."
+  },
+  "emptyScanBtn": {
+    "message": "E kiʻi no nā waihona hakahaka"
+  },
+  "emptyDeleteBtn": {
+    "message": "Holoi i nā waihona i koho ʻia"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "ʻAʻohe waihona waihona"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Loaʻa i kāu mau waihona a pau i hoʻokahi mea."
+  },
+  "deletedFolders": {
+    "message": "Holoi ʻia $1 waihona (mau).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Huli i nā kaha puke ma ke poʻo inoa a i ʻole URL…"
+  },
+  "chipAll": {
+    "message": "ʻO nā mea a pau"
+  },
+  "searchResultCount": {
+    "message": "$1 hopena",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Wehe"
+  },
+  "searchEditBtn": {
+    "message": "Hoʻoponopono"
+  },
+  "searchCancelEditBtn": {
+    "message": "Hoʻopau"
+  },
+  "searchDeleteBtn": {
+    "message": "Holoi"
+  },
+  "searchSaveBtn": {
+    "message": "Mālama"
+  },
+  "searchCancelBtn": {
+    "message": "Hoʻopau"
+  },
+  "emptySearchTitle": {
+    "message": "ʻAʻohe hopena i loaʻa"
+  },
+  "emptySearchDesc": {
+    "message": "E hoʻāʻo i kahi huaʻōlelo hulina ʻokoʻa a i ʻole kānana."
+  },
+  "deleteConfirmMsg": {
+    "message": "Makemake ʻoe e holoi i kēia bookmark?"
+  },
+  "deleteConfirmYes": {
+    "message": "ʻAe, Holoi"
+  },
+  "deleteConfirmNo": {
+    "message": "Hoʻopau"
+  },
+  "toastDeleted": {
+    "message": "$1 (mau) bookmark i holoi ʻia.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Hoʻopau ʻia ka holoi ʻana. Hoʻihoʻi ʻia nā kaha puke."
+  },
+  "undoBtn": {
+    "message": "Wehe"
+  },
+  "bookmarkUpdated": {
+    "message": "Hoʻouka hou ʻia ka inoa bookmark."
+  },
+  "errorGeneric": {
+    "message": "Ua hewa. E ʻoluʻolu e hoʻāʻo hou."
+  },
+  "noTitle": {
+    "message": "(ʻAʻohe inoa)"
+  },
+  "unknownFolder": {
+    "message": "(Poloke ʻike ʻole ʻia)"
+  },
+  "rootFolder": {
+    "message": "Puka waihona puke"
+  },
+  "ariaNav": {
+    "message": "Hoʻokele nui"
+  },
+  "ariaThemeToggle": {
+    "message": "Hoʻololi i ke kumuhana ʻeleʻele/māmā"
+  },
+  "ariaSidebarToggle": {
+    "message": "Hoʻololi i ka ʻaoʻao ʻaoʻao"
+  },
+  "ariaClearSearch": {
+    "message": "Holoi i ka huli"
+  },
+  "ariaFilterChips": {
+    "message": "Kānana ma ka waihona"
+  },
+  "ariaMarkForDeletion": {
+    "message": "E kaha no ka holoi ʻana:"
+  },
+  "ariaEditTitle": {
+    "message": "Hoʻoponopono i ka inoa bookmark"
+  }
+}

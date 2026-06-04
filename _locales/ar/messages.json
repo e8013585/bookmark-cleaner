@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "منظف ​​الإشارات المرجعية"
+  },
+  "extShortName": {
+    "message": "منظف ​​بي كيه"
+  },
+  "extDescription": {
+    "message": "ابحث عن التكرارات والروابط المعطلة، وقم بتنظيم جميع إشاراتك المرجعية والبحث فيها - بسرعة ونظيفة."
+  },
+  "popupBookmarks": {
+    "message": "الإشارات المرجعية"
+  },
+  "popupFolders": {
+    "message": "المجلدات"
+  },
+  "popupOpenManager": {
+    "message": "افتح مدير الإشارات المرجعية"
+  },
+  "popupTagline": {
+    "message": "تنظيف · تنظيم · بحث"
+  },
+  "popupLoading": {
+    "message": "جارٍ تحميل الإحصائيات…"
+  },
+  "navHome": {
+    "message": "بيت"
+  },
+  "navDuplicates": {
+    "message": "البحث عن التكرارات"
+  },
+  "navBroken": {
+    "message": "الروابط المعطلة"
+  },
+  "navOrganize": {
+    "message": "تنظيم وفرز"
+  },
+  "navSearch": {
+    "message": "بحث وتصفية"
+  },
+  "navTheme": {
+    "message": "تبديل الموضوع"
+  },
+  "statBookmarks": {
+    "message": "الإشارات المرجعية"
+  },
+  "statFolders": {
+    "message": "المجلدات"
+  },
+  "statDuplicates": {
+    "message": "التكرارات"
+  },
+  "statEmptyFolders": {
+    "message": "المجلدات الفارغة"
+  },
+  "featureDupTitle": {
+    "message": "البحث عن التكرارات"
+  },
+  "featureDupDesc": {
+    "message": "كشف وإزالة إدخالات الإشارة المرجعية التي تشترك في نفس عنوان URL."
+  },
+  "featureBrkTitle": {
+    "message": "الروابط المعطلة"
+  },
+  "featureBrkDesc": {
+    "message": "تحديد الإشارات المرجعية ذات عناوين URL غير الصالحة أو الفارغة أو غير المرتبطة بالويب."
+  },
+  "featureOrgTitle": {
+    "message": "تنظيم وفرز"
+  },
+  "featureOrgDesc": {
+    "message": "فرز الإشارات المرجعية أبجديا وإزالة المجلدات الفارغة."
+  },
+  "featureSrchTitle": {
+    "message": "بحث وتصفية"
+  },
+  "featureSrchDesc": {
+    "message": "ابحث على الفور عبر جميع إشاراتك المرجعية حسب العنوان أو عنوان URL."
+  },
+  "featureRunBtn": {
+    "message": "يجري"
+  },
+  "loadingBookmarks": {
+    "message": "جارٍ تحميل إشاراتك المرجعية..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "فشل تحميل الإشارات المرجعية. يرجى المحاولة مرة أخرى."
+  },
+  "duplicatesSubtitle": {
+    "message": "يتم تجميع الإشارات المرجعية التي تشترك في نفس عنوان URL أدناه. احتفظ بواحدة واحذف الباقي."
+  },
+  "dupScanBtn": {
+    "message": "البحث عن التكرارات"
+  },
+  "dupSmartSelectBtn": {
+    "message": "التحديد التلقائي (الاحتفاظ بالأقدم)"
+  },
+  "dupDeleteBtn": {
+    "message": "حذف المحدد"
+  },
+  "dupDeleteBtnCount": {
+    "message": "حذف $1 الإشارات المرجعية",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "احتفظ بهذا"
+  },
+  "dupGroupCount": {
+    "message": "$1 نسخ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "تم تحديد الإشارات المرجعية $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "جارٍ فحص المجلدات..."
+  },
+  "emptyDupTitle": {
+    "message": "لم يتم العثور على أي تكرارات"
+  },
+  "emptyDupDesc": {
+    "message": "لا تحتوي مجموعة الإشارات المرجعية الخاصة بك على عناوين URL مكررة. عمل عظيم!"
+  },
+  "brokenSubtitle": {
+    "message": "الإشارات المرجعية ذات عناوين URL غير الصالحة أو الفارغة أو غير المرتبطة بالويب مدرجة أدناه."
+  },
+  "brkScanBtn": {
+    "message": "البحث عن المشاكل"
+  },
+  "brkDeleteBtn": {
+    "message": "حذف المحدد"
+  },
+  "badgeEmptyUrl": {
+    "message": "عنوان URL فارغ"
+  },
+  "badgeInvalidUrl": {
+    "message": "عنوان URL غير صالح"
+  },
+  "badgeLocalFile": {
+    "message": "الملف المحلي"
+  },
+  "badgeNonWeb": {
+    "message": "غير الويب"
+  },
+  "badgeSuspicious": {
+    "message": "مثير للشك"
+  },
+  "emptyBrkTitle": {
+    "message": "لم يتم العثور على أي مشاكل"
+  },
+  "emptyBrkDesc": {
+    "message": "يبدو أن جميع إشاراتك المرجعية تحتوي على عناوين URL صالحة."
+  },
+  "orgTabSort": {
+    "message": "فرز الإشارات المرجعية"
+  },
+  "orgTabEmpty": {
+    "message": "المجلدات الفارغة"
+  },
+  "sortSelectFolder": {
+    "message": "حدد المجلد"
+  },
+  "sortAllBookmarks": {
+    "message": "جميع الإشارات المرجعية"
+  },
+  "sortOrder": {
+    "message": "ترتيب الفرز"
+  },
+  "sortAZ": {
+    "message": "أ → ي (حسب العنوان)"
+  },
+  "sortZA": {
+    "message": "Z → A (حسب العنوان)"
+  },
+  "sortDomain": {
+    "message": "حسب مجال URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "المجلدات أولا، ثم الإشارات المرجعية"
+  },
+  "sortRecursive": {
+    "message": "فرز بشكل متكرر (ينطبق على كافة المجلدات الفرعية)"
+  },
+  "sortPreviewBtn": {
+    "message": "معاينة"
+  },
+  "sortApplyBtn": {
+    "message": "تطبيق فرز"
+  },
+  "sortPreviewLabel": {
+    "message": "المعاينة – بعد الفرز:"
+  },
+  "sortPreviewMore": {
+    "message": "… و$1 أكثر",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "لا يحتوي هذا المجلد على إشارات مرجعية لفرزها."
+  },
+  "sortSuccess": {
+    "message": "تم فرز الإشارات المرجعية بنجاح."
+  },
+  "emptyScanBtn": {
+    "message": "البحث عن المجلدات الفارغة"
+  },
+  "emptyDeleteBtn": {
+    "message": "حذف المجلدات المحددة"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "لا توجد مجلدات فارغة"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "تحتوي جميع مجلداتك على عنصر واحد على الأقل."
+  },
+  "deletedFolders": {
+    "message": "المجلد (المجلدات) $1 المحذوفة.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "البحث في الإشارات المرجعية حسب العنوان أو عنوان URL..."
+  },
+  "chipAll": {
+    "message": "الجميع"
+  },
+  "searchResultCount": {
+    "message": "$1 النتائج",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "يفتح"
+  },
+  "searchEditBtn": {
+    "message": "يحرر"
+  },
+  "searchCancelEditBtn": {
+    "message": "يلغي"
+  },
+  "searchDeleteBtn": {
+    "message": "يمسح"
+  },
+  "searchSaveBtn": {
+    "message": "يحفظ"
+  },
+  "searchCancelBtn": {
+    "message": "يلغي"
+  },
+  "emptySearchTitle": {
+    "message": "لم يتم العثور على نتائج"
+  },
+  "emptySearchDesc": {
+    "message": "جرّب مصطلح بحث أو مرشحًا مختلفًا."
+  },
+  "deleteConfirmMsg": {
+    "message": "هل أنت متأكد أنك تريد حذف هذه الإشارة المرجعية؟"
+  },
+  "deleteConfirmYes": {
+    "message": "نعم، احذف"
+  },
+  "deleteConfirmNo": {
+    "message": "يلغي"
+  },
+  "toastDeleted": {
+    "message": "$1 تم حذف الإشارة (الإشارات) المرجعية.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "تم التراجع عن الحذف. تمت استعادة الإشارات المرجعية."
+  },
+  "undoBtn": {
+    "message": "تراجع"
+  },
+  "bookmarkUpdated": {
+    "message": "تم تحديث عنوان الإشارة المرجعية."
+  },
+  "errorGeneric": {
+    "message": "حدث خطأ. يرجى المحاولة مرة أخرى."
+  },
+  "noTitle": {
+    "message": "(بدون عنوان)"
+  },
+  "unknownFolder": {
+    "message": "(مجلد غير معروف)"
+  },
+  "rootFolder": {
+    "message": "جذر الإشارات المرجعية"
+  },
+  "ariaNav": {
+    "message": "الملاحة الرئيسية"
+  },
+  "ariaThemeToggle": {
+    "message": "تبديل المظهر الداكن/الفاتح"
+  },
+  "ariaSidebarToggle": {
+    "message": "تبديل الشريط الجانبي"
+  },
+  "ariaClearSearch": {
+    "message": "مسح البحث"
+  },
+  "ariaFilterChips": {
+    "message": "تصفية حسب المجلد"
+  },
+  "ariaMarkForDeletion": {
+    "message": "وضع علامة للحذف:"
+  },
+  "ariaEditTitle": {
+    "message": "تحرير عنوان الإشارة المرجعية"
+  }
+}

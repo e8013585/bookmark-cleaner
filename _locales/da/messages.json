@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bogmærke Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Find dubletter, ødelagte links, organiser og søg i alle dine bogmærker - hurtigt og rent."
+  },
+  "popupBookmarks": {
+    "message": "Bogmærker"
+  },
+  "popupFolders": {
+    "message": "Mapper"
+  },
+  "popupOpenManager": {
+    "message": "Åbn Bogmærkehåndtering"
+  },
+  "popupTagline": {
+    "message": "Rengør · Organiser · Søg"
+  },
+  "popupLoading": {
+    "message": "Indlæser statistik..."
+  },
+  "navHome": {
+    "message": "Hjem"
+  },
+  "navDuplicates": {
+    "message": "Find dubletter"
+  },
+  "navBroken": {
+    "message": "Ødelagte links"
+  },
+  "navOrganize": {
+    "message": "Organiser og sorter"
+  },
+  "navSearch": {
+    "message": "Søg og filtrer"
+  },
+  "navTheme": {
+    "message": "Skift tema"
+  },
+  "statBookmarks": {
+    "message": "Bogmærker"
+  },
+  "statFolders": {
+    "message": "Mapper"
+  },
+  "statDuplicates": {
+    "message": "Dubletter"
+  },
+  "statEmptyFolders": {
+    "message": "Tomme mapper"
+  },
+  "featureDupTitle": {
+    "message": "Find dubletter"
+  },
+  "featureDupDesc": {
+    "message": "Find og fjern bogmærkeposter, der deler den samme URL."
+  },
+  "featureBrkTitle": {
+    "message": "Ødelagte links"
+  },
+  "featureBrkDesc": {
+    "message": "Identificer bogmærker med ugyldige, tomme eller ikke-webadresser."
+  },
+  "featureOrgTitle": {
+    "message": "Organiser og sorter"
+  },
+  "featureOrgDesc": {
+    "message": "Sorter bogmærker alfabetisk og fjern tomme mapper."
+  },
+  "featureSrchTitle": {
+    "message": "Søg og filtrer"
+  },
+  "featureSrchDesc": {
+    "message": "Søg øjeblikkeligt på tværs af alle dine bogmærker efter titel eller URL."
+  },
+  "featureRunBtn": {
+    "message": "Løbe"
+  },
+  "loadingBookmarks": {
+    "message": "Indlæser dine bogmærker..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Bogmærker kunne ikke indlæses. Prøv venligst igen."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bogmærker, der deler den samme URL, er grupperet nedenfor. Behold en, slet resten."
+  },
+  "dupScanBtn": {
+    "message": "Scan for dubletter"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automatisk valg (behold ældst)"
+  },
+  "dupDeleteBtn": {
+    "message": "Slet valgte"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Slet $1 Bogmærker",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Behold dette"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopier",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Afkrydset $1 / $2 bogmærker",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Scanner mapper..."
+  },
+  "emptyDupTitle": {
+    "message": "Ingen dubletter fundet"
+  },
+  "emptyDupDesc": {
+    "message": "Din bogmærkesamling har ingen duplikerede webadresser. Godt arbejde!"
+  },
+  "brokenSubtitle": {
+    "message": "Bogmærker med ugyldige, tomme eller ikke-webadresser er angivet nedenfor."
+  },
+  "brkScanBtn": {
+    "message": "Scan for problemer"
+  },
+  "brkDeleteBtn": {
+    "message": "Slet valgte"
+  },
+  "badgeEmptyUrl": {
+    "message": "Tom URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Ugyldig URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokal fil"
+  },
+  "badgeNonWeb": {
+    "message": "Ikke-web"
+  },
+  "badgeSuspicious": {
+    "message": "Mistænksom"
+  },
+  "emptyBrkTitle": {
+    "message": "Ingen problemer fundet"
+  },
+  "emptyBrkDesc": {
+    "message": "Alle dine bogmærker ser ud til at have gyldige webadresser."
+  },
+  "orgTabSort": {
+    "message": "Sorter bogmærker"
+  },
+  "orgTabEmpty": {
+    "message": "Tomme mapper"
+  },
+  "sortSelectFolder": {
+    "message": "Vælg Mappe"
+  },
+  "sortAllBookmarks": {
+    "message": "Alle bogmærker"
+  },
+  "sortOrder": {
+    "message": "Sorteringsrækkefølge"
+  },
+  "sortAZ": {
+    "message": "A → Z (efter titel)"
+  },
+  "sortZA": {
+    "message": "Z → A (efter titel)"
+  },
+  "sortDomain": {
+    "message": "Efter URL-domæne (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Mapper først, derefter bogmærker"
+  },
+  "sortRecursive": {
+    "message": "Sorter rekursivt (gælder for alle undermapper)"
+  },
+  "sortPreviewBtn": {
+    "message": "Forhåndsvisning"
+  },
+  "sortApplyBtn": {
+    "message": "Anvend sortering"
+  },
+  "sortPreviewLabel": {
+    "message": "Forhåndsvisning — efter sortering:"
+  },
+  "sortPreviewMore": {
+    "message": "… og $1 mere",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Denne mappe har ingen bogmærker at sortere."
+  },
+  "sortSuccess": {
+    "message": "Bogmærker er sorteret."
+  },
+  "emptyScanBtn": {
+    "message": "Scan efter tomme mapper"
+  },
+  "emptyDeleteBtn": {
+    "message": "Slet valgte mapper"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Ingen tomme mapper"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Alle dine mapper indeholder mindst ét ​​element."
+  },
+  "deletedFolders": {
+    "message": "Slettet $1 mappe(r).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Søg bogmærker efter titel eller URL..."
+  },
+  "chipAll": {
+    "message": "Alle"
+  },
+  "searchResultCount": {
+    "message": "$1 resultater",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Åben"
+  },
+  "searchEditBtn": {
+    "message": "Redigere"
+  },
+  "searchCancelEditBtn": {
+    "message": "Ophæve"
+  },
+  "searchDeleteBtn": {
+    "message": "Slet"
+  },
+  "searchSaveBtn": {
+    "message": "Spare"
+  },
+  "searchCancelBtn": {
+    "message": "Ophæve"
+  },
+  "emptySearchTitle": {
+    "message": "Ingen resultater fundet"
+  },
+  "emptySearchDesc": {
+    "message": "Prøv et andet søgeord eller filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Er du sikker på, at du vil slette dette bogmærke?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ja, Slet"
+  },
+  "deleteConfirmNo": {
+    "message": "Ophæve"
+  },
+  "toastDeleted": {
+    "message": "$1 bogmærke(r) slettet.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Sletning fortrydet. Bogmærker gendannet."
+  },
+  "undoBtn": {
+    "message": "Fortryd"
+  },
+  "bookmarkUpdated": {
+    "message": "Bogmærkets titel er opdateret."
+  },
+  "errorGeneric": {
+    "message": "Der opstod en fejl. Prøv venligst igen."
+  },
+  "noTitle": {
+    "message": "(Ingen titel)"
+  },
+  "unknownFolder": {
+    "message": "(Ukendt mappe)"
+  },
+  "rootFolder": {
+    "message": "Bogmærker Root"
+  },
+  "ariaNav": {
+    "message": "Hovednavigation"
+  },
+  "ariaThemeToggle": {
+    "message": "Skift mellem mørkt/lys tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Skift sidebjælke"
+  },
+  "ariaClearSearch": {
+    "message": "Ryd søgning"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrer efter mappe"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Markér for sletning:"
+  },
+  "ariaEditTitle": {
+    "message": "Rediger bogmærketitel"
+  }
+}

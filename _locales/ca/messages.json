@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Netejador de marcadors"
+  },
+  "extShortName": {
+    "message": "Netejador BK"
+  },
+  "extDescription": {
+    "message": "Trobeu duplicats, enllaços trencats, organitzeu i cerqueu tots els vostres marcadors, de manera ràpida i neta."
+  },
+  "popupBookmarks": {
+    "message": "Adreces d'interès"
+  },
+  "popupFolders": {
+    "message": "Carpetes"
+  },
+  "popupOpenManager": {
+    "message": "Obriu el Gestor de marcadors"
+  },
+  "popupTagline": {
+    "message": "Netejar · Organitzar · Cercar"
+  },
+  "popupLoading": {
+    "message": "S'estan carregant les estadístiques..."
+  },
+  "navHome": {
+    "message": "Casa"
+  },
+  "navDuplicates": {
+    "message": "Cerca duplicats"
+  },
+  "navBroken": {
+    "message": "Enllaços trencats"
+  },
+  "navOrganize": {
+    "message": "Organitzar i ordenar"
+  },
+  "navSearch": {
+    "message": "Cerca i filtra"
+  },
+  "navTheme": {
+    "message": "Canvia el tema"
+  },
+  "statBookmarks": {
+    "message": "Adreces d'interès"
+  },
+  "statFolders": {
+    "message": "Carpetes"
+  },
+  "statDuplicates": {
+    "message": "Duplicats"
+  },
+  "statEmptyFolders": {
+    "message": "Carpetes buides"
+  },
+  "featureDupTitle": {
+    "message": "Cerca duplicats"
+  },
+  "featureDupDesc": {
+    "message": "Detecta i elimina les entrades d'adreces d'interès que comparteixen el mateix URL."
+  },
+  "featureBrkTitle": {
+    "message": "Enllaços trencats"
+  },
+  "featureBrkDesc": {
+    "message": "Identifiqueu adreces d'interès amb URL no vàlids, buits o que no siguin web."
+  },
+  "featureOrgTitle": {
+    "message": "Organitzar i ordenar"
+  },
+  "featureOrgDesc": {
+    "message": "Ordena les adreces d'interès alfabèticament i elimina les carpetes buides."
+  },
+  "featureSrchTitle": {
+    "message": "Cerca i filtra"
+  },
+  "featureSrchDesc": {
+    "message": "Cerqueu a l'instant a totes les vostres adreces d'interès per títol o URL."
+  },
+  "featureRunBtn": {
+    "message": "Corre"
+  },
+  "loadingBookmarks": {
+    "message": "S'estan carregant les adreces d'interès..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "No s'han pogut carregar les adreces d'interès. Si us plau, torna-ho a provar."
+  },
+  "duplicatesSubtitle": {
+    "message": "Les adreces d'interès que comparteixen el mateix URL s'agrupen a continuació. Conserveu-ne un, suprimiu la resta."
+  },
+  "dupScanBtn": {
+    "message": "Busca duplicats"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Selecció automàtica (mantenir el més antic)"
+  },
+  "dupDeleteBtn": {
+    "message": "Suprimeix el seleccionat"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Suprimeix $1 adreces d'interès",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Guarda això"
+  },
+  "dupGroupCount": {
+    "message": "$1 còpies",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Adreces d'interès marcades $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "S'estan escanejant carpetes..."
+  },
+  "emptyDupTitle": {
+    "message": "No s'han trobat duplicats"
+  },
+  "emptyDupDesc": {
+    "message": "La vostra col·lecció d'adreces d'interès no té URL duplicats. Gran feina!"
+  },
+  "brokenSubtitle": {
+    "message": "Les adreces d'interès amb URL no vàlids, buits o no web es mostren a continuació."
+  },
+  "brkScanBtn": {
+    "message": "Busca problemes"
+  },
+  "brkDeleteBtn": {
+    "message": "Suprimeix el seleccionat"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL buit"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL no vàlid"
+  },
+  "badgeLocalFile": {
+    "message": "Fitxer local"
+  },
+  "badgeNonWeb": {
+    "message": "No web"
+  },
+  "badgeSuspicious": {
+    "message": "Sospitós"
+  },
+  "emptyBrkTitle": {
+    "message": "No s'han trobat problemes"
+  },
+  "emptyBrkDesc": {
+    "message": "Sembla que totes les vostres adreces d'interès tenen URL vàlids."
+  },
+  "orgTabSort": {
+    "message": "Ordena les adreces d'interès"
+  },
+  "orgTabEmpty": {
+    "message": "Carpetes buides"
+  },
+  "sortSelectFolder": {
+    "message": "Seleccioneu Carpeta"
+  },
+  "sortAllBookmarks": {
+    "message": "Tots els marcadors"
+  },
+  "sortOrder": {
+    "message": "Ordre d'ordenació"
+  },
+  "sortAZ": {
+    "message": "A → Z (per títol)"
+  },
+  "sortZA": {
+    "message": "Z → A (per títol)"
+  },
+  "sortDomain": {
+    "message": "Per domini d'URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Primer les carpetes, després els marcadors"
+  },
+  "sortRecursive": {
+    "message": "Ordena recursivament (aplica a totes les subcarpetes)"
+  },
+  "sortPreviewBtn": {
+    "message": "Vista prèvia"
+  },
+  "sortApplyBtn": {
+    "message": "Aplica l'ordenació"
+  },
+  "sortPreviewLabel": {
+    "message": "Vista prèvia — després d'ordenar:"
+  },
+  "sortPreviewMore": {
+    "message": "… i $1 més",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Aquesta carpeta no té cap marcador per ordenar."
+  },
+  "sortSuccess": {
+    "message": "Les adreces d'interès s'han ordenat correctament."
+  },
+  "emptyScanBtn": {
+    "message": "Busca carpetes buides"
+  },
+  "emptyDeleteBtn": {
+    "message": "Suprimeix les carpetes seleccionades"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "No hi ha carpetes buides"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Totes les teves carpetes contenen almenys un element."
+  },
+  "deletedFolders": {
+    "message": "S'han suprimit les carpetes $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Cerca adreces d'interès per títol o URL..."
+  },
+  "chipAll": {
+    "message": "Tots"
+  },
+  "searchResultCount": {
+    "message": "$1 resultats",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Obert"
+  },
+  "searchEditBtn": {
+    "message": "Edita"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cancel·la"
+  },
+  "searchDeleteBtn": {
+    "message": "Suprimeix"
+  },
+  "searchSaveBtn": {
+    "message": "Desa"
+  },
+  "searchCancelBtn": {
+    "message": "Cancel·la"
+  },
+  "emptySearchTitle": {
+    "message": "No s'han trobat resultats"
+  },
+  "emptySearchDesc": {
+    "message": "Prova un altre terme de cerca o filtre."
+  },
+  "deleteConfirmMsg": {
+    "message": "Esteu segur que voleu suprimir aquest marcador?"
+  },
+  "deleteConfirmYes": {
+    "message": "Sí, esborra"
+  },
+  "deleteConfirmNo": {
+    "message": "Cancel·la"
+  },
+  "toastDeleted": {
+    "message": "$1 adreces d'interès suprimides.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Supressió desfet. S'han restaurat els marcadors."
+  },
+  "undoBtn": {
+    "message": "Desfer"
+  },
+  "bookmarkUpdated": {
+    "message": "S'ha actualitzat el títol del marcador."
+  },
+  "errorGeneric": {
+    "message": "S'ha produït un error. Si us plau, torna-ho a provar."
+  },
+  "noTitle": {
+    "message": "(Sense títol)"
+  },
+  "unknownFolder": {
+    "message": "(Carpeta desconeguda)"
+  },
+  "rootFolder": {
+    "message": "Marcadors d'arrel"
+  },
+  "ariaNav": {
+    "message": "Navegació principal"
+  },
+  "ariaThemeToggle": {
+    "message": "Canvia el tema fosc/clar"
+  },
+  "ariaSidebarToggle": {
+    "message": "Canvia la barra lateral"
+  },
+  "ariaClearSearch": {
+    "message": "Esborra la cerca"
+  },
+  "ariaFilterChips": {
+    "message": "Filtra per carpeta"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marca per esborrar:"
+  },
+  "ariaEditTitle": {
+    "message": "Edita el títol del marcador"
+  }
+}

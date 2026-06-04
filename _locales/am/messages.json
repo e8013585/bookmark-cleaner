@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "የዕልባት ማጽጃ"
+  },
+  "extShortName": {
+    "message": "BK ማጽጃ"
+  },
+  "extDescription": {
+    "message": "የተባዙ፣ የተሰበሩ አገናኞችን ያግኙ፣ ያደራጁ እና ሁሉንም ዕልባቶችዎን ይፈልጉ - ፈጣን እና ንጹህ።"
+  },
+  "popupBookmarks": {
+    "message": "ዕልባቶች"
+  },
+  "popupFolders": {
+    "message": "አቃፊዎች"
+  },
+  "popupOpenManager": {
+    "message": "የዕልባት አስተዳዳሪን ክፈት"
+  },
+  "popupTagline": {
+    "message": "አጽዳ · አደራጅ · ፈልግ"
+  },
+  "popupLoading": {
+    "message": "ስታትስቲክስ በመጫን ላይ…"
+  },
+  "navHome": {
+    "message": "ቤት"
+  },
+  "navDuplicates": {
+    "message": "ብዜቶችን አግኝ"
+  },
+  "navBroken": {
+    "message": "የተሰበረ አገናኞች"
+  },
+  "navOrganize": {
+    "message": "አደራጅ እና ደርድር"
+  },
+  "navSearch": {
+    "message": "ፈልግ እና አጣራ"
+  },
+  "navTheme": {
+    "message": "ገጽታ ቀያይር"
+  },
+  "statBookmarks": {
+    "message": "ዕልባቶች"
+  },
+  "statFolders": {
+    "message": "አቃፊዎች"
+  },
+  "statDuplicates": {
+    "message": "የተባዙ"
+  },
+  "statEmptyFolders": {
+    "message": "ባዶ አቃፊዎች"
+  },
+  "featureDupTitle": {
+    "message": "ብዜቶችን አግኝ"
+  },
+  "featureDupDesc": {
+    "message": "ተመሳሳዩን ዩአርኤል የሚጋሩ የዕልባት ግቤቶችን ያግኙ እና ያስወግዱ።"
+  },
+  "featureBrkTitle": {
+    "message": "የተሰበረ አገናኞች"
+  },
+  "featureBrkDesc": {
+    "message": "ዕልባቶችን ልክ ያልሆኑ፣ ባዶ ወይም የድር ያልሆኑ ዩአርኤሎችን ይለዩ።"
+  },
+  "featureOrgTitle": {
+    "message": "አደራጅ እና ደርድር"
+  },
+  "featureOrgDesc": {
+    "message": "ዕልባቶችን በፊደል ደርድር እና ባዶ ማህደሮችን አስወግድ።"
+  },
+  "featureSrchTitle": {
+    "message": "ፈልግ እና አጣራ"
+  },
+  "featureSrchDesc": {
+    "message": "ሁሉንም ዕልባቶችዎን በርዕስ ወይም በዩአርኤል ወዲያውኑ ይፈልጉ።"
+  },
+  "featureRunBtn": {
+    "message": "ሩጡ"
+  },
+  "loadingBookmarks": {
+    "message": "ዕልባቶችዎን በመጫን ላይ…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "ዕልባቶችን መጫን አልተሳካም። እባክህ እንደገና ሞክር።"
+  },
+  "duplicatesSubtitle": {
+    "message": "ተመሳሳይ ዩአርኤል የሚጋሩ ዕልባቶች ከታች ተመድበዋል። አንዱን ያስቀምጡ, የቀረውን ይሰርዙ."
+  },
+  "dupScanBtn": {
+    "message": "ብዜቶችን ይቃኙ"
+  },
+  "dupSmartSelectBtn": {
+    "message": "ራስ-ሰር ምረጥ (የቆየውን አቆይ)"
+  },
+  "dupDeleteBtn": {
+    "message": "የተመረጠውን ሰርዝ"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 ዕልባቶችን ሰርዝ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "ይህንን አቆይ"
+  },
+  "dupGroupCount": {
+    "message": "$1 ቅጂዎች",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "ምልክት የተደረገባቸው $1 / $2 ዕልባቶች",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "አቃፊዎችን በመቃኘት ላይ…"
+  },
+  "emptyDupTitle": {
+    "message": "ምንም ብዜቶች አልተገኙም።"
+  },
+  "emptyDupDesc": {
+    "message": "የእርስዎ የዕልባት ስብስብ ምንም የተባዙ ዩአርኤሎች የሉትም። ምርጥ ስራ!"
+  },
+  "brokenSubtitle": {
+    "message": "ልክ ያልሆኑ፣ ባዶ ወይም የድር ያልሆኑ ዩአርኤሎች ያሏቸው ዕልባቶች ከዚህ በታች ተዘርዝረዋል።"
+  },
+  "brkScanBtn": {
+    "message": "ጉዳዮችን ይቃኙ"
+  },
+  "brkDeleteBtn": {
+    "message": "የተመረጠውን ሰርዝ"
+  },
+  "badgeEmptyUrl": {
+    "message": "ባዶ URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "ልክ ያልሆነ URL"
+  },
+  "badgeLocalFile": {
+    "message": "የአካባቢ ፋይል"
+  },
+  "badgeNonWeb": {
+    "message": "ድር ያልሆነ"
+  },
+  "badgeSuspicious": {
+    "message": "ተጠራጣሪ"
+  },
+  "emptyBrkTitle": {
+    "message": "ምንም ጉዳዮች አልተገኙም።"
+  },
+  "emptyBrkDesc": {
+    "message": "ሁሉም ዕልባቶችዎ ልክ የሆኑ ዩአርኤሎች ያሏቸው ይመስላሉ።"
+  },
+  "orgTabSort": {
+    "message": "ዕልባቶችን ደርድር"
+  },
+  "orgTabEmpty": {
+    "message": "ባዶ አቃፊዎች"
+  },
+  "sortSelectFolder": {
+    "message": "አቃፊ ይምረጡ"
+  },
+  "sortAllBookmarks": {
+    "message": "ሁሉም ዕልባቶች"
+  },
+  "sortOrder": {
+    "message": "ቅደም ተከተል ደርድር"
+  },
+  "sortAZ": {
+    "message": "A → Z (በርዕስ)"
+  },
+  "sortZA": {
+    "message": "Z → A (በርዕስ)"
+  },
+  "sortDomain": {
+    "message": "በዩአርኤል ጎራ (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "መጀመሪያ አቃፊዎች፣ ከዚያ ዕልባቶች"
+  },
+  "sortRecursive": {
+    "message": "በተከታታይ ደርድር (ለሁሉም ንዑስ አቃፊዎች ተግብር)"
+  },
+  "sortPreviewBtn": {
+    "message": "ቅድመ እይታ"
+  },
+  "sortApplyBtn": {
+    "message": "ደርድርን ተግብር"
+  },
+  "sortPreviewLabel": {
+    "message": "ቅድመ እይታ - ከተደረደሩ በኋላ፡-"
+  },
+  "sortPreviewMore": {
+    "message": "… እና $1 ተጨማሪ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "ይህ አቃፊ ለመደርደር ምንም ዕልባቶች የሉትም።"
+  },
+  "sortSuccess": {
+    "message": "ዕልባቶች በተሳካ ሁኔታ ተደርድረዋል።"
+  },
+  "emptyScanBtn": {
+    "message": "ባዶ አቃፊዎችን ይቃኙ"
+  },
+  "emptyDeleteBtn": {
+    "message": "የተመረጡ አቃፊዎችን ሰርዝ"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "ባዶ አቃፊዎች የሉም"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "ሁሉም አቃፊዎችዎ ቢያንስ አንድ ንጥል ይይዛሉ።"
+  },
+  "deletedFolders": {
+    "message": "የ$1 አቃፊ(ዎች) ተሰርዟል።",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "ዕልባቶችን በርዕስ ወይም በዩአርኤል ይፈልጉ…"
+  },
+  "chipAll": {
+    "message": "ሁሉም"
+  },
+  "searchResultCount": {
+    "message": "$1 ውጤቶች",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "ክፈት"
+  },
+  "searchEditBtn": {
+    "message": "አርትዕ"
+  },
+  "searchCancelEditBtn": {
+    "message": "ሰርዝ"
+  },
+  "searchDeleteBtn": {
+    "message": "ሰርዝ"
+  },
+  "searchSaveBtn": {
+    "message": "አስቀምጥ"
+  },
+  "searchCancelBtn": {
+    "message": "ሰርዝ"
+  },
+  "emptySearchTitle": {
+    "message": "ምንም ውጤቶች አልተገኙም።"
+  },
+  "emptySearchDesc": {
+    "message": "የተለየ የፍለጋ ቃል ወይም ማጣሪያ ይሞክሩ።"
+  },
+  "deleteConfirmMsg": {
+    "message": "እርግጠኛ ነዎት ይህን ዕልባት መሰረዝ ይፈልጋሉ?"
+  },
+  "deleteConfirmYes": {
+    "message": "አዎ ሰርዝ"
+  },
+  "deleteConfirmNo": {
+    "message": "ሰርዝ"
+  },
+  "toastDeleted": {
+    "message": "$1 ዕልባቶች ተሰርዘዋል።",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "ስረዛ ተቀልብሷል። ዕልባቶች ወደነበሩበት ተመልሰዋል።"
+  },
+  "undoBtn": {
+    "message": "ቀልብስ"
+  },
+  "bookmarkUpdated": {
+    "message": "የዕልባት ርዕስ ተዘምኗል።"
+  },
+  "errorGeneric": {
+    "message": "ስህተት ተከስቷል። እባክህ እንደገና ሞክር።"
+  },
+  "noTitle": {
+    "message": "(ርዕስ የለም)"
+  },
+  "unknownFolder": {
+    "message": "(ያልታወቀ አቃፊ)"
+  },
+  "rootFolder": {
+    "message": "የዕልባቶች ሥር"
+  },
+  "ariaNav": {
+    "message": "ዋና አሰሳ"
+  },
+  "ariaThemeToggle": {
+    "message": "ጨለማ/ቀላል ገጽታን ቀይር"
+  },
+  "ariaSidebarToggle": {
+    "message": "የጎን አሞሌን ቀያይር"
+  },
+  "ariaClearSearch": {
+    "message": "ፍለጋን አጽዳ"
+  },
+  "ariaFilterChips": {
+    "message": "በአቃፊ አጣራ"
+  },
+  "ariaMarkForDeletion": {
+    "message": "ለመሰረዝ ምልክት ያድርጉ፡"
+  },
+  "ariaEditTitle": {
+    "message": "የዕልባት ርዕስ አርትዕ"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Dzadzɛnyenye ƒe Dɔwɔƒe"
+  },
+  "extShortName": {
+    "message": "BK Dzadzɛnyenyedɔwɔla"
+  },
+  "extDescription": {
+    "message": "Di esiwo wogbugbɔ ŋlɔ, kadodo siwo gblẽ, wɔ ɖoɖo ɖe wò dzesiwo katã ŋu eye nàdi wo — kabakaba eye wole dzadzɛ."
+  },
+  "popupBookmarks": {
+    "message": "Dzesiwo ƒe dzesiwo"
+  },
+  "popupFolders": {
+    "message": "Agbalẽdzraɖoƒewo"
+  },
+  "popupOpenManager": {
+    "message": "Ʋu Dzesiwo Dzikpɔla"
+  },
+  "popupTagline": {
+    "message": "Dzadzɛ · Ðoɖowɔwɔ · Di"
+  },
+  "popupLoading": {
+    "message": "Wole akɔntabubuwo xɔm..."
+  },
+  "navHome": {
+    "message": "Aƒeme"
+  },
+  "navDuplicates": {
+    "message": "Di Nuŋlɔɖi Siwo Wogbugbɔ Wɔ"
+  },
+  "navBroken": {
+    "message": "Kadodo Siwo Gblẽ"
+  },
+  "navOrganize": {
+    "message": "Ðoɖowɔwɔ & Ðoɖowɔwɔ Ðe Ðoɖo Nu"
+  },
+  "navSearch": {
+    "message": "Di & Klɔ Nu"
+  },
+  "navTheme": {
+    "message": "Trɔ Tanya la"
+  },
+  "statBookmarks": {
+    "message": "Dzesiwo ƒe dzesiwo"
+  },
+  "statFolders": {
+    "message": "Agbalẽdzraɖoƒewo"
+  },
+  "statDuplicates": {
+    "message": "Nusiwo wogbugbɔ ŋlɔ"
+  },
+  "statEmptyFolders": {
+    "message": "Agbalẽdzraɖoƒe Ƒuƒluwo"
+  },
+  "featureDupTitle": {
+    "message": "Di Nuŋlɔɖi Siwo Wogbugbɔ Wɔ"
+  },
+  "featureDupDesc": {
+    "message": "De dzesi agbalẽdzesi siwo le URL ɖeka me eye nàɖe wo ɖa."
+  },
+  "featureBrkTitle": {
+    "message": "Kadodo Siwo Gblẽ"
+  },
+  "featureBrkDesc": {
+    "message": "De dzesi agbalẽdzesi siwo ŋu URL siwo mesɔ o, ƒuƒlu, alo esiwo menye nyatakakadzraɖoƒe o."
+  },
+  "featureOrgTitle": {
+    "message": "Ðoɖowɔwɔ & Ðoɖowɔwɔ Ðe Ðoɖo Nu"
+  },
+  "featureOrgDesc": {
+    "message": "Ðo agbalẽdzesiwo ɖe ɖoɖo nu eye nàɖe agbalẽdzraɖoƒe ƒuƒluwo ɖa."
+  },
+  "featureSrchTitle": {
+    "message": "Di & Klɔ Nu"
+  },
+  "featureSrchDesc": {
+    "message": "Di enumake le wò dzesiwo katã me le tanya alo URL nu."
+  },
+  "featureRunBtn": {
+    "message": "Ƒu du"
+  },
+  "loadingBookmarks": {
+    "message": "Wole wò dzesiwo tsɔm..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Do kpo agbalẽdzesiwo tsɔtsɔ de eme. Taflatse gadze agbagba ake."
+  },
+  "duplicatesSubtitle": {
+    "message": "Woƒo dzesidenu siwo zãa URL ɖeka la nu ƒu ɖe ete. Dzra ɖeka ɖo, tutu susɔea ɖa."
+  },
+  "dupScanBtn": {
+    "message": "Scan Be Woakpɔ Nu Siwo Wogbugbɔ Akpɔ"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Tia Ðokuisi (Nànɔ Xoxotɔ Me) ."
+  },
+  "dupDeleteBtn": {
+    "message": "Tutu Tiatia"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Tutu $1 Dzesiwo ɖa",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Miyi Esia Dzi"
+  },
+  "dupGroupCount": {
+    "message": "$1 kɔpiwo",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Wolé ŋku ɖe $1 / $2 ƒe dzesiwo ŋu",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Scanning ƒe agbalẽdzraɖoƒewo..."
+  },
+  "emptyDupTitle": {
+    "message": "Womekpɔ Nuŋlɔɖi Siwo Wogbugbɔ Wɔ O"
+  },
+  "emptyDupDesc": {
+    "message": "URL siwo wogbugbɔ ŋlɔ la mele wò agbalẽdzesiwo nuƒoƒoƒu me o. Dɔ gã aɖe ŋutɔ!"
+  },
+  "brokenSubtitle": {
+    "message": "Woŋlɔ dzesidenu siwo ƒe URL mele eteƒe o, ƒuƒlu, alo esiwo menye web dzi o la ɖe ete."
+  },
+  "brkScanBtn": {
+    "message": "Scan Kpɔ Nyawo ɖa"
+  },
+  "brkDeleteBtn": {
+    "message": "Tutu Tiatia"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL ƒuƒlu"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL si mesɔ o"
+  },
+  "badgeLocalFile": {
+    "message": "Nutoa Me ƒe Faɛl"
+  },
+  "badgeNonWeb": {
+    "message": "Menye Nyatakakadzraɖoƒe o"
+  },
+  "badgeSuspicious": {
+    "message": "Nye nu vɔɖi wɔla"
+  },
+  "emptyBrkTitle": {
+    "message": "Womeke Ðe Nya aɖeke Ŋu O"
+  },
+  "emptyBrkDesc": {
+    "message": "Edze abe URL siwo sɔ le wò dzesiwo katã ŋu ene."
+  },
+  "orgTabSort": {
+    "message": "Ðo Dzesiwo Ðe Ðoɖo Nu"
+  },
+  "orgTabEmpty": {
+    "message": "Agbalẽdzraɖoƒe Ƒuƒluwo"
+  },
+  "sortSelectFolder": {
+    "message": "Tia Agbalẽdzraɖoƒe"
+  },
+  "sortAllBookmarks": {
+    "message": "Dzesiwo Katã"
+  },
+  "sortOrder": {
+    "message": "Ðoɖowɔwɔ ɖe Ðoɖo Nu"
+  },
+  "sortAZ": {
+    "message": "A → Z (le tanya nu) ."
+  },
+  "sortZA": {
+    "message": "Z → A (le tanya nu) ."
+  },
+  "sortDomain": {
+    "message": "To URL domenyiŋusẽfianu (A → Z) dzi ."
+  },
+  "sortFolderFirst": {
+    "message": "Folderwo gbã, emegbe dzesiwo"
+  },
+  "sortRecursive": {
+    "message": "Ðo wo ɖe ɖoɖo nu gbugbɔgawɔ (wɔ dɔ ɖe agbalẽdzraɖoƒe suewo katã dzi) ."
+  },
+  "sortPreviewBtn": {
+    "message": "Kpɔe do ŋgɔ"
+  },
+  "sortApplyBtn": {
+    "message": "Zã Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Do ŋgɔ — le ɖoɖowɔwɔ vɔ megbe:"
+  },
+  "sortPreviewMore": {
+    "message": "... kple $1 geɖe wu",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Dzesi aɖeke mele agbalẽdzraɖoƒe sia si wòle be wòaɖo o."
+  },
+  "sortSuccess": {
+    "message": "Woɖo agbalẽdzesiwo ɖe ɖoɖo nu dzidzedzetɔe."
+  },
+  "emptyScanBtn": {
+    "message": "Kpɔ Agbalẽdzraɖoƒe Ƒuƒluwo ɖa"
+  },
+  "emptyDeleteBtn": {
+    "message": "Tsɔ Agbalẽdzraɖoƒe Tiatia Tutu"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Agbalẽdzraɖoƒe Ƒuƒlu aɖeke Meli O"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Nu ɖeka ya teti le wò agbalẽdzraɖoƒewo katã me."
+  },
+  "deletedFolders": {
+    "message": "Wotutu $1 ƒe agbalẽdzraɖoƒe(wo) ɖa.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Di dzesiwo le tanya alo URL nu..."
+  },
+  "chipAll": {
+    "message": "Katã"
+  },
+  "searchResultCount": {
+    "message": "$1 ƒe emetsonuwo",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Ʋu"
+  },
+  "searchEditBtn": {
+    "message": "Wɔ tɔtrɔ"
+  },
+  "searchCancelEditBtn": {
+    "message": "Te fli ɖe eme"
+  },
+  "searchDeleteBtn": {
+    "message": "Ɖe ɖa"
+  },
+  "searchSaveBtn": {
+    "message": "Dzrae ɖo"
+  },
+  "searchCancelBtn": {
+    "message": "Te fli ɖe eme"
+  },
+  "emptySearchTitle": {
+    "message": "Womekpɔ Emetsonu aɖeke O"
+  },
+  "emptySearchDesc": {
+    "message": "Te nya alo nya bubu si nàdi be yeazã la kpɔ."
+  },
+  "deleteConfirmMsg": {
+    "message": "Èka ɖe edzi be yeadi be yeatutu dzeside sia ɖaa?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ẽ, Tsɔe ɖa"
+  },
+  "deleteConfirmNo": {
+    "message": "Te fli ɖe eme"
+  },
+  "toastDeleted": {
+    "message": "$1 woɖe dzesi(wo) ɖa.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Woɖe asi le etutu ŋu. Wogbugbɔ agbalẽdzesiwo ɖo anyi."
+  },
+  "undoBtn": {
+    "message": "Trɔ asi le eŋu"
+  },
+  "bookmarkUpdated": {
+    "message": "Wotrɔ asi le Bookmark ƒe tanya ŋu."
+  },
+  "errorGeneric": {
+    "message": "Vodada aɖe dzɔ. Taflatse gadze agbagba ake."
+  },
+  "noTitle": {
+    "message": "(Tanya aɖeke meli o)"
+  },
+  "unknownFolder": {
+    "message": "(Agbalẽdzraɖoƒe si Womenya O)"
+  },
+  "rootFolder": {
+    "message": "Dzesiwo ƒe Ke"
+  },
+  "ariaNav": {
+    "message": "Mɔfiame vevitɔ"
+  },
+  "ariaThemeToggle": {
+    "message": "Trɔ viviti/kekeli ƒe tanya"
+  },
+  "ariaSidebarToggle": {
+    "message": "Trɔ asi le axadzinuŋɔŋlɔa ŋu"
+  },
+  "ariaClearSearch": {
+    "message": "Didi si me kɔ nyuie"
+  },
+  "ariaFilterChips": {
+    "message": "Tsɔe ƒo ƒu ɖe agbalẽdzraɖoƒewo nu"
+  },
+  "ariaMarkForDeletion": {
+    "message": "De dzesii be nàtutu:"
+  },
+  "ariaEditTitle": {
+    "message": "Trɔ asi le agbalẽdzesi ƒe tanya ŋu"
+  }
+}

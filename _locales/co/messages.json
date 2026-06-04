@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Truvate duplicati, ligami rotti, urganizà è cercate tutti i vostri marcati - veloce è pulita."
+  },
+  "popupBookmarks": {
+    "message": "Segnalibri"
+  },
+  "popupFolders": {
+    "message": "Folders"
+  },
+  "popupOpenManager": {
+    "message": "Open Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Pulite · Organizà · Ricerca"
+  },
+  "popupLoading": {
+    "message": "Caricamentu di statistiche…"
+  },
+  "navHome": {
+    "message": "A casa"
+  },
+  "navDuplicates": {
+    "message": "Truvate Duplicati"
+  },
+  "navBroken": {
+    "message": "Ligami rotti"
+  },
+  "navOrganize": {
+    "message": "Organizà & Sort"
+  },
+  "navSearch": {
+    "message": "Ricerca & Filtru"
+  },
+  "navTheme": {
+    "message": "Cambia u tema"
+  },
+  "statBookmarks": {
+    "message": "Segnalibri"
+  },
+  "statFolders": {
+    "message": "Folders"
+  },
+  "statDuplicates": {
+    "message": "Duplicati"
+  },
+  "statEmptyFolders": {
+    "message": "Cartulari vioti"
+  },
+  "featureDupTitle": {
+    "message": "Truvate Duplicati"
+  },
+  "featureDupDesc": {
+    "message": "Detectà è sguassate e entrate di marcatura chì sparte u listessu URL."
+  },
+  "featureBrkTitle": {
+    "message": "Ligami rotti"
+  },
+  "featureBrkDesc": {
+    "message": "Identificà i marcati cù URL invalidi, vioti o micca web."
+  },
+  "featureOrgTitle": {
+    "message": "Organizà & Sort"
+  },
+  "featureOrgDesc": {
+    "message": "Ordine i marcati in ordine alfabeticu è sguassate i cartulare vioti."
+  },
+  "featureSrchTitle": {
+    "message": "Ricerca & Filtru"
+  },
+  "featureSrchDesc": {
+    "message": "Ricerca istantaneamente in tutti i vostri marcati per titulu o URL."
+  },
+  "featureRunBtn": {
+    "message": "Corri"
+  },
+  "loadingBookmarks": {
+    "message": "Caricamentu di i vostri marcati…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Fiascu à carica i marcati. Per piacè pruvate di novu."
+  },
+  "duplicatesSubtitle": {
+    "message": "I marcati chì sparte u listessu URL sò raggruppati quì sottu. Mantene unu, sguassate u restu."
+  },
+  "dupScanBtn": {
+    "message": "Scansione per Duplicati"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Selezzione automatica (Mantene u più anticu)"
+  },
+  "dupDeleteBtn": {
+    "message": "Sguassà i selezziunati"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Sguassà $1 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Mantene questu"
+  },
+  "dupGroupCount": {
+    "message": "$1 copie",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Marcatori verificati $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Scansione di cartelle..."
+  },
+  "emptyDupTitle": {
+    "message": "Nisun duplicati trovu"
+  },
+  "emptyDupDesc": {
+    "message": "A vostra cullezzione di marcati ùn hà micca URL duplicati. Gran travagliu!"
+  },
+  "brokenSubtitle": {
+    "message": "I marcati cù URL invalidi, vioti o micca web sò listati quì sottu."
+  },
+  "brkScanBtn": {
+    "message": "Scans for Issues"
+  },
+  "brkDeleteBtn": {
+    "message": "Sguassà i selezziunati"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL viotu"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL invalidu"
+  },
+  "badgeLocalFile": {
+    "message": "File Locale"
+  },
+  "badgeNonWeb": {
+    "message": "Non-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Suspittosu"
+  },
+  "emptyBrkTitle": {
+    "message": "Nisun Issues Found"
+  },
+  "emptyBrkDesc": {
+    "message": "Tutti i vostri marcati pareanu avè URL validi."
+  },
+  "orgTabSort": {
+    "message": "Sort Bookmarks"
+  },
+  "orgTabEmpty": {
+    "message": "Cartulari vioti"
+  },
+  "sortSelectFolder": {
+    "message": "Selezziunà u cartulare"
+  },
+  "sortAllBookmarks": {
+    "message": "Tutti i Bookmarks"
+  },
+  "sortOrder": {
+    "message": "Ordine di sorte"
+  },
+  "sortAZ": {
+    "message": "A → Z (par titre)"
+  },
+  "sortZA": {
+    "message": "Z → A (par titre)"
+  },
+  "sortDomain": {
+    "message": "Per u duminiu URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Prima i cartulare, dopu i marcati"
+  },
+  "sortRecursive": {
+    "message": "Ordine recursivamente (applicà à tutti i sottocartuli)"
+  },
+  "sortPreviewBtn": {
+    "message": "Anteprima"
+  },
+  "sortApplyBtn": {
+    "message": "Applicà Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Preview - dopu a classificazione:"
+  },
+  "sortPreviewMore": {
+    "message": "... è $1 più",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Stu cartulare ùn hà micca marcati per sorte."
+  },
+  "sortSuccess": {
+    "message": "I marcati sò ordinati cù successu."
+  },
+  "emptyScanBtn": {
+    "message": "Scansione per i cartelli vacanti"
+  },
+  "emptyDeleteBtn": {
+    "message": "Sguassà i Cartulari Scelti"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Nisun cartulare vacanti"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tutti i vostri cartulare cuntenenu almenu un articulu."
+  },
+  "deletedFolders": {
+    "message": "Cancellati $1 cartulare (s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Cercate i marcati per titulu o URL..."
+  },
+  "chipAll": {
+    "message": "Tuttu"
+  },
+  "searchResultCount": {
+    "message": "$1 risultati",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Apertu"
+  },
+  "searchEditBtn": {
+    "message": "Edit"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cancella"
+  },
+  "searchDeleteBtn": {
+    "message": "Sguassà"
+  },
+  "searchSaveBtn": {
+    "message": "Salvà"
+  },
+  "searchCancelBtn": {
+    "message": "Cancella"
+  },
+  "emptySearchTitle": {
+    "message": "Nisun risultatu trovu"
+  },
+  "emptySearchDesc": {
+    "message": "Pruvate un altru termu di ricerca o filtru."
+  },
+  "deleteConfirmMsg": {
+    "message": "Sò sicuru chì vulete sguassà stu marcatu?"
+  },
+  "deleteConfirmYes": {
+    "message": "Iè, sguassà"
+  },
+  "deleteConfirmNo": {
+    "message": "Cancella"
+  },
+  "toastDeleted": {
+    "message": "$1 bookmark(s) eliminati.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Eliminazione annullata. Segnalibri restaurati."
+  },
+  "undoBtn": {
+    "message": "Annulla"
+  },
+  "bookmarkUpdated": {
+    "message": "Titulu di marcatu aghjurnatu."
+  },
+  "errorGeneric": {
+    "message": "Un errore hè accadutu. Per piacè pruvate di novu."
+  },
+  "noTitle": {
+    "message": "(Sans Titre)"
+  },
+  "unknownFolder": {
+    "message": "(Cartulari scunnisciutu)"
+  },
+  "rootFolder": {
+    "message": "Segnalibri Root"
+  },
+  "ariaNav": {
+    "message": "Navigazione principale"
+  },
+  "ariaThemeToggle": {
+    "message": "Cambia u tema scuru / chjaru"
+  },
+  "ariaSidebarToggle": {
+    "message": "Cambia a barra laterale"
+  },
+  "ariaClearSearch": {
+    "message": "Sguassà a ricerca"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrà per cartulare"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marca per sguassà:"
+  },
+  "ariaEditTitle": {
+    "message": "Edite u titulu di marcatura"
+  }
+}

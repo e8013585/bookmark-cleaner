@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "ブックマーククリーナー"
+  },
+  "extShortName": {
+    "message": "BKクリーナー"
+  },
+  "extDescription": {
+    "message": "重複や壊れたリンクを見つけ、すべてのブックマークを整理して検索します。高速かつクリーンです。"
+  },
+  "popupBookmarks": {
+    "message": "ブックマーク"
+  },
+  "popupFolders": {
+    "message": "フォルダー"
+  },
+  "popupOpenManager": {
+    "message": "ブックマークマネージャーを開く"
+  },
+  "popupTagline": {
+    "message": "掃除・整理・検索"
+  },
+  "popupLoading": {
+    "message": "統計を読み込んでいます…"
+  },
+  "navHome": {
+    "message": "家"
+  },
+  "navDuplicates": {
+    "message": "重複の検索"
+  },
+  "navBroken": {
+    "message": "リンク切れ"
+  },
+  "navOrganize": {
+    "message": "整理と並べ替え"
+  },
+  "navSearch": {
+    "message": "検索とフィルター"
+  },
+  "navTheme": {
+    "message": "テーマの切り替え"
+  },
+  "statBookmarks": {
+    "message": "ブックマーク"
+  },
+  "statFolders": {
+    "message": "フォルダー"
+  },
+  "statDuplicates": {
+    "message": "重複"
+  },
+  "statEmptyFolders": {
+    "message": "空のフォルダー"
+  },
+  "featureDupTitle": {
+    "message": "重複の検索"
+  },
+  "featureDupDesc": {
+    "message": "同じ URL を共有するブックマーク エントリを検出して削除します。"
+  },
+  "featureBrkTitle": {
+    "message": "リンク切れ"
+  },
+  "featureBrkDesc": {
+    "message": "無効な URL、空の URL、または Web 以外の URL を含むブックマークを特定します。"
+  },
+  "featureOrgTitle": {
+    "message": "整理と並べ替え"
+  },
+  "featureOrgDesc": {
+    "message": "ブックマークをアルファベット順に並べ替え、空のフォルダーを削除します。"
+  },
+  "featureSrchTitle": {
+    "message": "検索とフィルター"
+  },
+  "featureSrchDesc": {
+    "message": "タイトルまたは URL ですべてのブックマークを即座に検索します。"
+  },
+  "featureRunBtn": {
+    "message": "走る"
+  },
+  "loadingBookmarks": {
+    "message": "ブックマークを読み込んでいます…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "ブックマークの読み込みに失敗しました。もう一度試してください。"
+  },
+  "duplicatesSubtitle": {
+    "message": "同じ URL を共有するブックマークは以下にグループ化されます。 1 つを保持し、残りは削除します。"
+  },
+  "dupScanBtn": {
+    "message": "重複をスキャン"
+  },
+  "dupSmartSelectBtn": {
+    "message": "自動選択 (最も古いものを保持)"
+  },
+  "dupDeleteBtn": {
+    "message": "選択したものを削除"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 ブックマークを削除",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "これを保管してください"
+  },
+  "dupGroupCount": {
+    "message": "$1 コピー",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 のブックマークを確認しました",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "フォルダーをスキャン中…"
+  },
+  "emptyDupTitle": {
+    "message": "重複は見つかりませんでした"
+  },
+  "emptyDupDesc": {
+    "message": "ブックマーク コレクションには重複した URL はありません。素晴らしい仕事です！"
+  },
+  "brokenSubtitle": {
+    "message": "無効な URL、空の URL、または Web 以外の URL を含むブックマークを以下に示します。"
+  },
+  "brkScanBtn": {
+    "message": "問題をスキャンする"
+  },
+  "brkDeleteBtn": {
+    "message": "選択したものを削除"
+  },
+  "badgeEmptyUrl": {
+    "message": "空の URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "無効な URL"
+  },
+  "badgeLocalFile": {
+    "message": "ローカルファイル"
+  },
+  "badgeNonWeb": {
+    "message": "非ウェブ"
+  },
+  "badgeSuspicious": {
+    "message": "疑わしい"
+  },
+  "emptyBrkTitle": {
+    "message": "問題は見つかりませんでした"
+  },
+  "emptyBrkDesc": {
+    "message": "すべてのブックマークには有効な URL があるようです。"
+  },
+  "orgTabSort": {
+    "message": "ブックマークを並べ替える"
+  },
+  "orgTabEmpty": {
+    "message": "空のフォルダー"
+  },
+  "sortSelectFolder": {
+    "message": "フォルダーの選択"
+  },
+  "sortAllBookmarks": {
+    "message": "すべてのブックマーク"
+  },
+  "sortOrder": {
+    "message": "並べ替え順序"
+  },
+  "sortAZ": {
+    "message": "A→Z（タイトル順）"
+  },
+  "sortZA": {
+    "message": "Z→A（タイトル別）"
+  },
+  "sortDomain": {
+    "message": "URLドメイン別（A→Z）"
+  },
+  "sortFolderFirst": {
+    "message": "最初にフォルダー、次にブックマーク"
+  },
+  "sortRecursive": {
+    "message": "再帰的に並べ替え (すべてのサブフォルダーに適用)"
+  },
+  "sortPreviewBtn": {
+    "message": "プレビュー"
+  },
+  "sortApplyBtn": {
+    "message": "ソートの適用"
+  },
+  "sortPreviewLabel": {
+    "message": "プレビュー - 並べ替え後:"
+  },
+  "sortPreviewMore": {
+    "message": "…そして $1 詳細",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "このフォルダーには並べ替えるブックマークがありません。"
+  },
+  "sortSuccess": {
+    "message": "ブックマークは正常に並べ替えられました。"
+  },
+  "emptyScanBtn": {
+    "message": "空のフォルダーをスキャンする"
+  },
+  "emptyDeleteBtn": {
+    "message": "選択したフォルダーを削除"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "空のフォルダーはありません"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "すべてのフォルダーには少なくとも 1 つのアイテムが含まれています。"
+  },
+  "deletedFolders": {
+    "message": "$1 フォルダーを削除しました。",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "タイトルまたは URL でブックマークを検索…"
+  },
+  "chipAll": {
+    "message": "全て"
+  },
+  "searchResultCount": {
+    "message": "$1 の結果",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "開ける"
+  },
+  "searchEditBtn": {
+    "message": "編集"
+  },
+  "searchCancelEditBtn": {
+    "message": "キャンセル"
+  },
+  "searchDeleteBtn": {
+    "message": "消去"
+  },
+  "searchSaveBtn": {
+    "message": "保存"
+  },
+  "searchCancelBtn": {
+    "message": "キャンセル"
+  },
+  "emptySearchTitle": {
+    "message": "結果が見つかりませんでした"
+  },
+  "emptySearchDesc": {
+    "message": "別の検索語またはフィルターを試してください。"
+  },
+  "deleteConfirmMsg": {
+    "message": "このブックマークを削除してもよろしいですか?"
+  },
+  "deleteConfirmYes": {
+    "message": "はい、削除します"
+  },
+  "deleteConfirmNo": {
+    "message": "キャンセル"
+  },
+  "toastDeleted": {
+    "message": "$1 ブックマークが削除されました。",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "削除は取り消されました。ブックマークが復元されました。"
+  },
+  "undoBtn": {
+    "message": "元に戻す"
+  },
+  "bookmarkUpdated": {
+    "message": "ブックマークのタイトルが更新されました。"
+  },
+  "errorGeneric": {
+    "message": "エラーが発生しました。もう一度試してください。"
+  },
+  "noTitle": {
+    "message": "(タイトルなし)"
+  },
+  "unknownFolder": {
+    "message": "(不明なフォルダー)"
+  },
+  "rootFolder": {
+    "message": "ブックマークルート"
+  },
+  "ariaNav": {
+    "message": "メインナビゲーション"
+  },
+  "ariaThemeToggle": {
+    "message": "ダーク/ライトテーマの切り替え"
+  },
+  "ariaSidebarToggle": {
+    "message": "サイドバーの切り替え"
+  },
+  "ariaClearSearch": {
+    "message": "検索をクリア"
+  },
+  "ariaFilterChips": {
+    "message": "フォルダごとにフィルタリングする"
+  },
+  "ariaMarkForDeletion": {
+    "message": "削除のマークを付ける:"
+  },
+  "ariaEditTitle": {
+    "message": "ブックマークのタイトルを編集する"
+  }
+}

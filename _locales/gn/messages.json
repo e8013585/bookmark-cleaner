@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Marcador Mopotĩha"
+  },
+  "extShortName": {
+    "message": "BK Mopotĩha"
+  },
+  "extDescription": {
+    "message": "Eheka duplicado, enlace oñembyaíva, emohenda ha eheka opaite ne marcador — pya’e ha ipotĩ."
+  },
+  "popupBookmarks": {
+    "message": "Marcador-kuéra rehegua"
+  },
+  "popupFolders": {
+    "message": "Carpetas-kuéra rehegua"
+  },
+  "popupOpenManager": {
+    "message": "Eipe’a Marcador Mohendaha"
+  },
+  "popupTagline": {
+    "message": "Oñemopotî · Oñemohenda · Ojeporeka"
+  },
+  "popupLoading": {
+    "message": "Ojekarga hína estadísticas..."
+  },
+  "navHome": {
+    "message": "Óga"
+  },
+  "navDuplicates": {
+    "message": "Ojejuhu Duplicado-kuéra"
+  },
+  "navBroken": {
+    "message": "Enlaces oñembyaíva"
+  },
+  "navOrganize": {
+    "message": "Oñemohenda & Oñemohenda"
+  },
+  "navSearch": {
+    "message": "Ojeporeka & Ojefiltra"
+  },
+  "navTheme": {
+    "message": "Toggle Tema rehegua"
+  },
+  "statBookmarks": {
+    "message": "Marcador-kuéra rehegua"
+  },
+  "statFolders": {
+    "message": "Carpetas-kuéra rehegua"
+  },
+  "statDuplicates": {
+    "message": "Ojejapo jey jey"
+  },
+  "statEmptyFolders": {
+    "message": "Carpetas Vacías rehegua"
+  },
+  "featureDupTitle": {
+    "message": "Ojejuhu Duplicado-kuéra"
+  },
+  "featureDupDesc": {
+    "message": "Eikuaa ha eipe’a umi jeike marcador rehegua okompartiva peteĩ URL."
+  },
+  "featureBrkTitle": {
+    "message": "Enlaces oñembyaíva"
+  },
+  "featureBrkDesc": {
+    "message": "Ehechakuaa umi kundaha oguerekóva URL ndojeporúiva, nandi térã ndaha’éiva web."
+  },
+  "featureOrgTitle": {
+    "message": "Oñemohenda & Oñemohenda"
+  },
+  "featureOrgDesc": {
+    "message": "Emohenda umi marcador alfabético rupive ha eipe’a umi carpeta nandi."
+  },
+  "featureSrchTitle": {
+    "message": "Ojeporeka & Ojefiltra"
+  },
+  "featureSrchDesc": {
+    "message": "Eheka pya’e opaite ne kundaha rupive título térã URL rupive."
+  },
+  "featureRunBtn": {
+    "message": "Ñañi"
+  },
+  "loadingBookmarks": {
+    "message": "Ojekargávo nde marcador-kuéra..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Ndoikói ojekarga hag̃ua umi marcador. Eñeha’ã jey."
+  },
+  "duplicatesSubtitle": {
+    "message": "Umi marcador okomparti peteĩ URL peteĩchagua oñemboaty ko’ápe. Eñongatu peteĩ, embogue hembýva."
+  },
+  "dupScanBtn": {
+    "message": "Ejesareko umi Duplicado rehe"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Eiporavo ijehegui (Eñongatu itujavéva) ."
+  },
+  "dupDeleteBtn": {
+    "message": "Ombogue Ojeporavóva"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Ombogue $1 Marcador-kuéra",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Eñongatu Kóva"
+  },
+  "dupGroupCount": {
+    "message": "$1 umi copia",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Ojehechákuri $1 / $2 ñanduti renda",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Ojeescanea umi carpeta..."
+  },
+  "emptyDupTitle": {
+    "message": "Ndojejuhúi Duplicado-kuéra"
+  },
+  "emptyDupDesc": {
+    "message": "Nde marcador ñemono’õ ndorekói URL mokõivéva. Tuicha tembiapo!"
+  },
+  "brokenSubtitle": {
+    "message": "Umi marcador oguerekóva URL ndoikóiva, nandi térã ndaha’éiva web-pegua ojehechauka ko’ápe."
+  },
+  "brkScanBtn": {
+    "message": "Escanear umi Cuestiones rehegua"
+  },
+  "brkDeleteBtn": {
+    "message": "Ombogue Ojeporavóva"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL nandi"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL ndoikóiva"
+  },
+  "badgeLocalFile": {
+    "message": "Archivo Local rehegua"
+  },
+  "badgeNonWeb": {
+    "message": "Ndaha’éiva Web rehegua"
+  },
+  "badgeSuspicious": {
+    "message": "Ñembojaha"
+  },
+  "emptyBrkTitle": {
+    "message": "Ndojejuhúi Cuestiones"
+  },
+  "emptyBrkDesc": {
+    "message": "Opaite ne kundaha ojehechauka oguerekoha URL añetegua."
+  },
+  "orgTabSort": {
+    "message": "Oñemohenda Marcador-kuéra"
+  },
+  "orgTabEmpty": {
+    "message": "Carpetas Vacías rehegua"
+  },
+  "sortSelectFolder": {
+    "message": "Eiporavo Carpeta"
+  },
+  "sortAllBookmarks": {
+    "message": "Opaite Marcador-kuéra"
+  },
+  "sortOrder": {
+    "message": "Orden de ordenación rehegua"
+  },
+  "sortAZ": {
+    "message": "A → Z (título rupive) ."
+  },
+  "sortZA": {
+    "message": "Z → A (título rupive) ."
+  },
+  "sortDomain": {
+    "message": "URL dominio rupive (A → Z) ."
+  },
+  "sortFolderFirst": {
+    "message": "Umi carpeta raẽ, upéi umi marcador"
+  },
+  "sortRecursive": {
+    "message": "Oñemohenda recursivamente (oñemboguata opaite subcarpeta-pe) ."
+  },
+  "sortPreviewBtn": {
+    "message": "Tembiecharã tenondegua"
+  },
+  "sortApplyBtn": {
+    "message": "Aplicar Ordenar"
+  },
+  "sortPreviewLabel": {
+    "message": "Tembiecharã — oñemboheko rire:"
+  },
+  "sortPreviewMore": {
+    "message": "... ha $1 hetave",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ko kundaha ndorekói marcador oñemboheko hag̃ua."
+  },
+  "sortSuccess": {
+    "message": "Umi marcador oñembosako’i porã."
+  },
+  "emptyScanBtn": {
+    "message": "Ejesareko umi Carpeta Vacía rehe"
+  },
+  "emptyDeleteBtn": {
+    "message": "Embogue umi Carpeta ojeporavóva"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Ndaipóri Carpetas Vacías"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Opaite ne kundaha oguereko peteĩ mba’e jepe."
+  },
+  "deletedFolders": {
+    "message": "Oñembogue $1 carpeta(kuéra).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Eheka umi marcador título térã URL rupive..."
+  },
+  "chipAll": {
+    "message": "Opavave"
+  },
+  "searchResultCount": {
+    "message": "$1 resultado-kuéra rehegua",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Pe'a"
+  },
+  "searchEditBtn": {
+    "message": "Moambue"
+  },
+  "searchCancelEditBtn": {
+    "message": "Heja"
+  },
+  "searchDeleteBtn": {
+    "message": "Mboje'oha"
+  },
+  "searchSaveBtn": {
+    "message": "Pysyrõ"
+  },
+  "searchCancelBtn": {
+    "message": "Heja"
+  },
+  "emptySearchTitle": {
+    "message": "Ndojejuhúi Resultado"
+  },
+  "emptySearchDesc": {
+    "message": "Eñeha’ã peteĩ ñe’ẽ térã filtro jeheka iñambuéva."
+  },
+  "deleteConfirmMsg": {
+    "message": "¿Eĩpa seguro embogueseha ko marcador?"
+  },
+  "deleteConfirmYes": {
+    "message": "Heẽ, Borrar"
+  },
+  "deleteConfirmNo": {
+    "message": "Heja"
+  },
+  "toastDeleted": {
+    "message": "$1 marcador (kuéra) oñembogue.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Borrar ndojejapóiva. Umi marcador oñemoĩjey."
+  },
+  "undoBtn": {
+    "message": "Deshacer"
+  },
+  "bookmarkUpdated": {
+    "message": "Marcador título oñembopyahúva."
+  },
+  "errorGeneric": {
+    "message": "Oiko peteĩ jejavy. Eñeha’ã jey."
+  },
+  "noTitle": {
+    "message": "(Ndaipóri Título) ."
+  },
+  "unknownFolder": {
+    "message": "(Carpeta ndojekuaáiva)"
+  },
+  "rootFolder": {
+    "message": "Marcadores Hapo"
+  },
+  "ariaNav": {
+    "message": "Navegación principal rehegua"
+  },
+  "ariaThemeToggle": {
+    "message": "Toggle iñypytũ/tesape tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Ombohasa barra lateral"
+  },
+  "ariaClearSearch": {
+    "message": "Ojeporeka hesakã porãva"
+  },
+  "ariaFilterChips": {
+    "message": "Ojefiltra carpeta rupive"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marca oñembogue haguã:"
+  },
+  "ariaEditTitle": {
+    "message": "Emohenda marcador título"
+  }
+}

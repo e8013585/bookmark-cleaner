@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Бетбелгі тазалау құралы"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Көшірмелерді, сынған сілтемелерді табыңыз, барлық бетбелгілерді реттеңіз және іздеңіз — жылдам және таза."
+  },
+  "popupBookmarks": {
+    "message": "Бетбелгілер"
+  },
+  "popupFolders": {
+    "message": "Қалталар"
+  },
+  "popupOpenManager": {
+    "message": "Бетбелгі реттеушісін ашыңыз"
+  },
+  "popupTagline": {
+    "message": "Тазалау · Ұйымдастыру · Іздеу"
+  },
+  "popupLoading": {
+    "message": "Статистика жүктелуде…"
+  },
+  "navHome": {
+    "message": "Үй"
+  },
+  "navDuplicates": {
+    "message": "Көшірмелерді табыңыз"
+  },
+  "navBroken": {
+    "message": "Бұзылған сілтемелер"
+  },
+  "navOrganize": {
+    "message": "Ұйымдастыру және сұрыптау"
+  },
+  "navSearch": {
+    "message": "Іздеу және сүзгі"
+  },
+  "navTheme": {
+    "message": "Тақырыпты ауыстыру"
+  },
+  "statBookmarks": {
+    "message": "Бетбелгілер"
+  },
+  "statFolders": {
+    "message": "Қалталар"
+  },
+  "statDuplicates": {
+    "message": "Көшірмелер"
+  },
+  "statEmptyFolders": {
+    "message": "Бос қалталар"
+  },
+  "featureDupTitle": {
+    "message": "Көшірмелерді табыңыз"
+  },
+  "featureDupDesc": {
+    "message": "Бір URL мекенжайын бөлісетін бетбелгі жазбаларын анықтаңыз және жойыңыз."
+  },
+  "featureBrkTitle": {
+    "message": "Бұзылған сілтемелер"
+  },
+  "featureBrkDesc": {
+    "message": "Жарамсыз, бос немесе веб емес URL мекенжайлары бар бетбелгілерді анықтаңыз."
+  },
+  "featureOrgTitle": {
+    "message": "Ұйымдастыру және сұрыптау"
+  },
+  "featureOrgDesc": {
+    "message": "Бетбелгілерді алфавит бойынша сұрыптаңыз және бос қалталарды жойыңыз."
+  },
+  "featureSrchTitle": {
+    "message": "Іздеу және сүзгі"
+  },
+  "featureSrchDesc": {
+    "message": "Тақырып немесе URL мекенжайы бойынша барлық бетбелгілерден лезде іздеңіз."
+  },
+  "featureRunBtn": {
+    "message": "Жүгіру"
+  },
+  "loadingBookmarks": {
+    "message": "Бетбелгілер жүктелуде…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Бетбелгілер жүктелмеді. Қайталап көріңіз."
+  },
+  "duplicatesSubtitle": {
+    "message": "Бір URL мекенжайын бөлісетін бетбелгілер төменде топтастырылған. Біреуін қалдырыңыз, қалғанын жойыңыз."
+  },
+  "dupScanBtn": {
+    "message": "Көшірмелерді іздеңіз"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Автотаңдау (ең ескісін сақтау)"
+  },
+  "dupDeleteBtn": {
+    "message": "Таңдалғанды ​​жою"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 Бетбелгілерді жою",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Осыны сақтаңыз"
+  },
+  "dupGroupCount": {
+    "message": "$1 көшірмелері",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 бетбелгілері тексерілді",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Қалталар сканерленуде…"
+  },
+  "emptyDupTitle": {
+    "message": "Көшірмелер табылмады"
+  },
+  "emptyDupDesc": {
+    "message": "Бетбелгілер жинағында қайталанатын URL мекенжайлары жоқ. Керемет жұмыс!"
+  },
+  "brokenSubtitle": {
+    "message": "Жарамсыз, бос немесе веб емес URL мекенжайлары бар бетбелгілер төменде берілген."
+  },
+  "brkScanBtn": {
+    "message": "Мәселелерді іздеңіз"
+  },
+  "brkDeleteBtn": {
+    "message": "Таңдалғанды ​​жою"
+  },
+  "badgeEmptyUrl": {
+    "message": "Бос URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Жарамсыз URL"
+  },
+  "badgeLocalFile": {
+    "message": "Жергілікті файл"
+  },
+  "badgeNonWeb": {
+    "message": "Веб емес"
+  },
+  "badgeSuspicious": {
+    "message": "Күдікті"
+  },
+  "emptyBrkTitle": {
+    "message": "Мәселелер табылмады"
+  },
+  "emptyBrkDesc": {
+    "message": "Барлық бетбелгілерде жарамды URL мекенжайлары бар сияқты."
+  },
+  "orgTabSort": {
+    "message": "Бетбелгілерді сұрыптау"
+  },
+  "orgTabEmpty": {
+    "message": "Бос қалталар"
+  },
+  "sortSelectFolder": {
+    "message": "Қалта таңдаңыз"
+  },
+  "sortAllBookmarks": {
+    "message": "Барлық бетбелгілер"
+  },
+  "sortOrder": {
+    "message": "Сұрыптау реті"
+  },
+  "sortAZ": {
+    "message": "A → Z (атауы бойынша)"
+  },
+  "sortZA": {
+    "message": "Z → A (атауы бойынша)"
+  },
+  "sortDomain": {
+    "message": "URL домені бойынша (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Алдымен қалталар, содан кейін бетбелгілер"
+  },
+  "sortRecursive": {
+    "message": "Рекурсивті сұрыптау (барлық ішкі қалталарға қолданылады)"
+  },
+  "sortPreviewBtn": {
+    "message": "Алдын ала қарау"
+  },
+  "sortApplyBtn": {
+    "message": "Сұрыптауды қолдану"
+  },
+  "sortPreviewLabel": {
+    "message": "Алдын ала қарау — сұрыптаудан кейін:"
+  },
+  "sortPreviewMore": {
+    "message": "… және тағы да $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Бұл қалтада сұрыпталатын бетбелгілер жоқ."
+  },
+  "sortSuccess": {
+    "message": "Бетбелгілер сәтті сұрыпталды."
+  },
+  "emptyScanBtn": {
+    "message": "Бос қалталарды іздеңіз"
+  },
+  "emptyDeleteBtn": {
+    "message": "Таңдалған қалталарды жою"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Бос қалталар жоқ"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Барлық қалталарыңызда кемінде бір элемент бар."
+  },
+  "deletedFolders": {
+    "message": "$1 қалта(лар) жойылды.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Бетбелгілерді тақырып немесе URL бойынша іздеу…"
+  },
+  "chipAll": {
+    "message": "Барлығы"
+  },
+  "searchResultCount": {
+    "message": "$1 нәтижелері",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Ашық"
+  },
+  "searchEditBtn": {
+    "message": "Өңдеу"
+  },
+  "searchCancelEditBtn": {
+    "message": "Болдырмау"
+  },
+  "searchDeleteBtn": {
+    "message": "Жою"
+  },
+  "searchSaveBtn": {
+    "message": "Сақтау"
+  },
+  "searchCancelBtn": {
+    "message": "Болдырмау"
+  },
+  "emptySearchTitle": {
+    "message": "Нәтижелер табылмады"
+  },
+  "emptySearchDesc": {
+    "message": "Басқа іздеу терминін немесе сүзгіні қолданып көріңіз."
+  },
+  "deleteConfirmMsg": {
+    "message": "Осы бетбелгіні шынымен жойғыңыз келе ме?"
+  },
+  "deleteConfirmYes": {
+    "message": "Иә, Жою"
+  },
+  "deleteConfirmNo": {
+    "message": "Болдырмау"
+  },
+  "toastDeleted": {
+    "message": "$1 бетбелгі(лер) жойылды.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Жою кері қайтарылды. Бетбелгілер қалпына келтірілді."
+  },
+  "undoBtn": {
+    "message": "Болдырмау"
+  },
+  "bookmarkUpdated": {
+    "message": "Бетбелгі атауы жаңартылды."
+  },
+  "errorGeneric": {
+    "message": "Қате орын алды. Қайталап көріңіз."
+  },
+  "noTitle": {
+    "message": "(Тақырып жоқ)"
+  },
+  "unknownFolder": {
+    "message": "(Белгісіз қалта)"
+  },
+  "rootFolder": {
+    "message": "Бетбелгілер түбірі"
+  },
+  "ariaNav": {
+    "message": "Негізгі навигация"
+  },
+  "ariaThemeToggle": {
+    "message": "Қараңғы/ашық тақырыпты ауыстырып-қосқыш"
+  },
+  "ariaSidebarToggle": {
+    "message": "Бүйірлік тақтаны ауыстыру"
+  },
+  "ariaClearSearch": {
+    "message": "Іздеуді тазалау"
+  },
+  "ariaFilterChips": {
+    "message": "Қалта бойынша сүзу"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Жою үшін белгі:"
+  },
+  "ariaEditTitle": {
+    "message": "Бетбелгі тақырыбын өңдеу"
+  }
+}

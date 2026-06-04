@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Skoonmaker"
+  },
+  "extDescription": {
+    "message": "Vind duplikate, gebreekte skakels, organiseer en soek al jou boekmerke - vinnig en skoon."
+  },
+  "popupBookmarks": {
+    "message": "Boekmerke"
+  },
+  "popupFolders": {
+    "message": "Dopsies"
+  },
+  "popupOpenManager": {
+    "message": "Maak boekmerkbestuurder oop"
+  },
+  "popupTagline": {
+    "message": "Skoon · Organiseer · Soek"
+  },
+  "popupLoading": {
+    "message": "Laai tans statistieke …"
+  },
+  "navHome": {
+    "message": "Tuis"
+  },
+  "navDuplicates": {
+    "message": "Soek duplikate"
+  },
+  "navBroken": {
+    "message": "Gebreekte skakels"
+  },
+  "navOrganize": {
+    "message": "Organiseer en sorteer"
+  },
+  "navSearch": {
+    "message": "Soek en filter"
+  },
+  "navTheme": {
+    "message": "Wissel Tema"
+  },
+  "statBookmarks": {
+    "message": "Boekmerke"
+  },
+  "statFolders": {
+    "message": "Dopsies"
+  },
+  "statDuplicates": {
+    "message": "Duplikate"
+  },
+  "statEmptyFolders": {
+    "message": "Leë dopgehou"
+  },
+  "featureDupTitle": {
+    "message": "Soek duplikate"
+  },
+  "featureDupDesc": {
+    "message": "Bespeur en verwyder boekmerkinskrywings wat dieselfde URL deel."
+  },
+  "featureBrkTitle": {
+    "message": "Gebreekte skakels"
+  },
+  "featureBrkDesc": {
+    "message": "Identifiseer boekmerke met ongeldige, leë of nie-web-URL's."
+  },
+  "featureOrgTitle": {
+    "message": "Organiseer en sorteer"
+  },
+  "featureOrgDesc": {
+    "message": "Sorteer boekmerke alfabeties en verwyder leë dopgehou."
+  },
+  "featureSrchTitle": {
+    "message": "Soek en filter"
+  },
+  "featureSrchDesc": {
+    "message": "Soek onmiddellik deur al jou boekmerke volgens titel of URL."
+  },
+  "featureRunBtn": {
+    "message": "Hardloop"
+  },
+  "loadingBookmarks": {
+    "message": "Laai tans jou boekmerke …"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Kon nie boekmerke laai nie. Probeer asseblief weer."
+  },
+  "duplicatesSubtitle": {
+    "message": "Boekmerke wat dieselfde URL deel, word hieronder gegroepeer. Hou een, vee die res uit."
+  },
+  "dupScanBtn": {
+    "message": "Skandeer vir duplikate"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Outo-kies (hou oudste)"
+  },
+  "dupDeleteBtn": {
+    "message": "Vee geselekteerde uit"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Vee $1 Boekmerke uit",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Hou hierdie"
+  },
+  "dupGroupCount": {
+    "message": "$1 afskrifte",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Gemerk $1 / $2 boekmerke",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Skandeer tans vouers …"
+  },
+  "emptyDupTitle": {
+    "message": "Geen duplikate gevind nie"
+  },
+  "emptyDupDesc": {
+    "message": "Jou boekmerkversameling het geen duplikaat-URL'e nie. Puik werk!"
+  },
+  "brokenSubtitle": {
+    "message": "Boekmerke met ongeldige, leë of nie-web-URL's word hieronder gelys."
+  },
+  "brkScanBtn": {
+    "message": "Soek vir kwessies"
+  },
+  "brkDeleteBtn": {
+    "message": "Vee geselekteerde uit"
+  },
+  "badgeEmptyUrl": {
+    "message": "Leë URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Ongeldige URL"
+  },
+  "badgeLocalFile": {
+    "message": "Plaaslike lêer"
+  },
+  "badgeNonWeb": {
+    "message": "Nie-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Verdag"
+  },
+  "emptyBrkTitle": {
+    "message": "Geen kwessies gevind nie"
+  },
+  "emptyBrkDesc": {
+    "message": "Dit lyk of al jou boekmerke geldige URL's het."
+  },
+  "orgTabSort": {
+    "message": "Sorteer boekmerke"
+  },
+  "orgTabEmpty": {
+    "message": "Leë dopgehou"
+  },
+  "sortSelectFolder": {
+    "message": "Kies Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Alle boekmerke"
+  },
+  "sortOrder": {
+    "message": "Sorteer volgorde"
+  },
+  "sortAZ": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "sortZA": {
+    "message": "Z → A (volgens titel)"
+  },
+  "sortDomain": {
+    "message": "Volgens URL-domein (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Eers dopgehou, dan boekmerke"
+  },
+  "sortRecursive": {
+    "message": "Sorteer rekursief (pas op alle subgidse)"
+  },
+  "sortPreviewBtn": {
+    "message": "Voorskou"
+  },
+  "sortApplyBtn": {
+    "message": "Pas Sorteer toe"
+  },
+  "sortPreviewLabel": {
+    "message": "Voorskou — na sortering:"
+  },
+  "sortPreviewMore": {
+    "message": "… en $1 meer",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Hierdie vouer het geen boekmerke om te sorteer nie."
+  },
+  "sortSuccess": {
+    "message": "Boekmerke is suksesvol gesorteer."
+  },
+  "emptyScanBtn": {
+    "message": "Soek vir leë dopgehou"
+  },
+  "emptyDeleteBtn": {
+    "message": "Vee geselekteerde dopgehou uit"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Geen leë dopgehou nie"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Al jou vouers bevat ten minste een item."
+  },
+  "deletedFolders": {
+    "message": "Geskrap $1 vouer(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Soek boekmerke volgens titel of URL..."
+  },
+  "chipAll": {
+    "message": "Almal"
+  },
+  "searchResultCount": {
+    "message": "$1 resultate",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Maak oop"
+  },
+  "searchEditBtn": {
+    "message": "Wysig"
+  },
+  "searchCancelEditBtn": {
+    "message": "Kanselleer"
+  },
+  "searchDeleteBtn": {
+    "message": "Vee uit"
+  },
+  "searchSaveBtn": {
+    "message": "Stoor"
+  },
+  "searchCancelBtn": {
+    "message": "Kanselleer"
+  },
+  "emptySearchTitle": {
+    "message": "Geen resultate gevind nie"
+  },
+  "emptySearchDesc": {
+    "message": "Probeer 'n ander soekterm of filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Is jy seker jy wil hierdie boekmerk uitvee?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ja, verwyder"
+  },
+  "deleteConfirmNo": {
+    "message": "Kanselleer"
+  },
+  "toastDeleted": {
+    "message": "$1 boekmerk(e) uitgevee.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Uitvee ongedaan gemaak. Boekmerke is herstel."
+  },
+  "undoBtn": {
+    "message": "Ontdoen"
+  },
+  "bookmarkUpdated": {
+    "message": "Boekmerktitel is opgedateer."
+  },
+  "errorGeneric": {
+    "message": "'n Fout het voorgekom. Probeer asseblief weer."
+  },
+  "noTitle": {
+    "message": "(Geen titel)"
+  },
+  "unknownFolder": {
+    "message": "(Onbekende gids)"
+  },
+  "rootFolder": {
+    "message": "Boekmerke Root"
+  },
+  "ariaNav": {
+    "message": "Hoofnavigasie"
+  },
+  "ariaThemeToggle": {
+    "message": "Wissel donker/ligte tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Wissel kantbalk"
+  },
+  "ariaClearSearch": {
+    "message": "Vee soektog uit"
+  },
+  "ariaFilterChips": {
+    "message": "Filter volgens gids"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Merk vir uitvee:"
+  },
+  "ariaEditTitle": {
+    "message": "Wysig boekmerktitel"
+  }
+}

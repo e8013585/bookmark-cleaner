@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Laster-marka garbitzailea"
+  },
+  "extShortName": {
+    "message": "BK Garbitzailea"
+  },
+  "extDescription": {
+    "message": "Bilatu bikoiztuak, hautsitako estekak, antolatu eta bilatu zure laster-mark guztiak — azkar eta garbi."
+  },
+  "popupBookmarks": {
+    "message": "Laster-markak"
+  },
+  "popupFolders": {
+    "message": "Karpetak"
+  },
+  "popupOpenManager": {
+    "message": "Ireki laster-marken kudeatzailea"
+  },
+  "popupTagline": {
+    "message": "Garbitu · Antolatu · Bilatu"
+  },
+  "popupLoading": {
+    "message": "Estatistikak kargatzen…"
+  },
+  "navHome": {
+    "message": "Hasiera"
+  },
+  "navDuplicates": {
+    "message": "Bilatu bikoiztuak"
+  },
+  "navBroken": {
+    "message": "Hautsitako estekak"
+  },
+  "navOrganize": {
+    "message": "Antolatu eta Ordenatu"
+  },
+  "navSearch": {
+    "message": "Bilatu eta Iragazi"
+  },
+  "navTheme": {
+    "message": "Aldatu Gaia"
+  },
+  "statBookmarks": {
+    "message": "Laster-markak"
+  },
+  "statFolders": {
+    "message": "Karpetak"
+  },
+  "statDuplicates": {
+    "message": "Bikoiztuak"
+  },
+  "statEmptyFolders": {
+    "message": "Karpeta hutsak"
+  },
+  "featureDupTitle": {
+    "message": "Bilatu bikoiztuak"
+  },
+  "featureDupDesc": {
+    "message": "Detektatu eta kendu URL bera partekatzen duten laster-marken sarrerak."
+  },
+  "featureBrkTitle": {
+    "message": "Hautsitako estekak"
+  },
+  "featureBrkDesc": {
+    "message": "Identifikatu laster-markak URL baliogabeak, hutsak edo sarekoak ez direnak."
+  },
+  "featureOrgTitle": {
+    "message": "Antolatu eta Ordenatu"
+  },
+  "featureOrgDesc": {
+    "message": "Ordenatu laster-markak alfabetikoki eta kendu karpeta hutsak."
+  },
+  "featureSrchTitle": {
+    "message": "Bilatu eta Iragazi"
+  },
+  "featureSrchDesc": {
+    "message": "Bilatu berehala zure laster-marka guztietan izenburuaren edo URLaren arabera."
+  },
+  "featureRunBtn": {
+    "message": "Korrika"
+  },
+  "loadingBookmarks": {
+    "message": "Zure laster-markak kargatzen…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Ezin izan dira laster-markak kargatu. Mesedez, saiatu berriro."
+  },
+  "duplicatesSubtitle": {
+    "message": "URL bera partekatzen duten laster-markak azpian multzokatzen dira. Mantendu bat, ezabatu gainerakoak."
+  },
+  "dupScanBtn": {
+    "message": "Eskaneatu bikoiztuak bilatzeko"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Hautatu automatikoa (zaharrena mantendu)"
+  },
+  "dupDeleteBtn": {
+    "message": "Ezabatu hautatuak"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Ezabatu $1 Laster-markak",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Jarrai hau"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopiak",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 laster-markak egiaztatuak",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Karpetak eskaneatzen…"
+  },
+  "emptyDupTitle": {
+    "message": "Ez da bikoizturik aurkitu"
+  },
+  "emptyDupDesc": {
+    "message": "Zure laster-marken bildumak ez du bikoiztutako URLrik. Lan bikaina!"
+  },
+  "brokenSubtitle": {
+    "message": "URL baliogabeak, hutsak edo sarekoak ez diren laster-markak behean zerrendatzen dira."
+  },
+  "brkScanBtn": {
+    "message": "Bilatu arazoak bilatzeko"
+  },
+  "brkDeleteBtn": {
+    "message": "Ezabatu hautatuak"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL hutsa"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL baliogabea"
+  },
+  "badgeLocalFile": {
+    "message": "Tokiko Fitxategia"
+  },
+  "badgeNonWeb": {
+    "message": "Weba ez dena"
+  },
+  "badgeSuspicious": {
+    "message": "Susmagarria"
+  },
+  "emptyBrkTitle": {
+    "message": "Ez da Arazorik aurkitu"
+  },
+  "emptyBrkDesc": {
+    "message": "Badirudi zure laster-mark guztiek baliozko URLak dituztela."
+  },
+  "orgTabSort": {
+    "message": "Ordenatu laster-markak"
+  },
+  "orgTabEmpty": {
+    "message": "Karpeta hutsak"
+  },
+  "sortSelectFolder": {
+    "message": "Hautatu Karpeta"
+  },
+  "sortAllBookmarks": {
+    "message": "Laster-marka guztiak"
+  },
+  "sortOrder": {
+    "message": "Ordenatu ordena"
+  },
+  "sortAZ": {
+    "message": "A → Z (tituluaren arabera)"
+  },
+  "sortZA": {
+    "message": "Z → A (tituluaren arabera)"
+  },
+  "sortDomain": {
+    "message": "URL domeinuaren arabera (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Karpetak lehenik, gero laster-markak"
+  },
+  "sortRecursive": {
+    "message": "Ordenatu modu errekurtsiboan (aplikatu azpikarpeta guztiei)"
+  },
+  "sortPreviewBtn": {
+    "message": "Aurrebista"
+  },
+  "sortApplyBtn": {
+    "message": "Aplikatu Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Aurrebista — sailkatu ondoren:"
+  },
+  "sortPreviewMore": {
+    "message": "… eta $1 gehiago",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Karpeta honek ez du laster-markarik ordenatzeko."
+  },
+  "sortSuccess": {
+    "message": "Laster-markak behar bezala ordenatu dira."
+  },
+  "emptyScanBtn": {
+    "message": "Bilatu karpeta hutsak bilatzeko"
+  },
+  "emptyDeleteBtn": {
+    "message": "Ezabatu Hautatutako Karpetak"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Ez dago karpeta hutsik"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Zure karpeta guztiek elementu bat dute gutxienez."
+  },
+  "deletedFolders": {
+    "message": "$1 karpeta(k).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Bilatu laster-markak izenburuaren edo URLaren arabera..."
+  },
+  "chipAll": {
+    "message": "Denak"
+  },
+  "searchResultCount": {
+    "message": "$1 emaitzak",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Ireki"
+  },
+  "searchEditBtn": {
+    "message": "Editatu"
+  },
+  "searchCancelEditBtn": {
+    "message": "Utzi"
+  },
+  "searchDeleteBtn": {
+    "message": "Ezabatu"
+  },
+  "searchSaveBtn": {
+    "message": "Gorde"
+  },
+  "searchCancelBtn": {
+    "message": "Utzi"
+  },
+  "emptySearchTitle": {
+    "message": "Ez da emaitzarik aurkitu"
+  },
+  "emptySearchDesc": {
+    "message": "Saiatu beste bilaketa-termino edo iragazki batekin."
+  },
+  "deleteConfirmMsg": {
+    "message": "Ziur laster-marka hau ezabatu nahi duzula?"
+  },
+  "deleteConfirmYes": {
+    "message": "Bai, ezabatu"
+  },
+  "deleteConfirmNo": {
+    "message": "Utzi"
+  },
+  "toastDeleted": {
+    "message": "$1 laster-markak ezabatu dira.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Ezabatzea desegin. Laster-markak leheneratu dira."
+  },
+  "undoBtn": {
+    "message": "Desegin"
+  },
+  "bookmarkUpdated": {
+    "message": "Laster-markaren izenburua eguneratu da."
+  },
+  "errorGeneric": {
+    "message": "Errore bat gertatu da. Mesedez, saiatu berriro."
+  },
+  "noTitle": {
+    "message": "(Izenbururik gabe)"
+  },
+  "unknownFolder": {
+    "message": "(Karpeta ezezaguna)"
+  },
+  "rootFolder": {
+    "message": "Laster-markak Erroa"
+  },
+  "ariaNav": {
+    "message": "Nabigazio nagusia"
+  },
+  "ariaThemeToggle": {
+    "message": "Aktibatu/desaktibatu gai iluna/argia"
+  },
+  "ariaSidebarToggle": {
+    "message": "Aldatu alboko barra"
+  },
+  "ariaClearSearch": {
+    "message": "Garbitu bilaketa"
+  },
+  "ariaFilterChips": {
+    "message": "Iragazi karpetaren arabera"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Markatu ezabatzeko:"
+  },
+  "ariaEditTitle": {
+    "message": "Editatu laster-markaren izenburua"
+  }
+}

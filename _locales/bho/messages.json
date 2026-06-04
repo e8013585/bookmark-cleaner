@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "बुकमार्क क्लीनर के बा"
+  },
+  "extShortName": {
+    "message": "बीके क्लीनर के बा"
+  },
+  "extDescription": {
+    "message": "डुप्लिकेट, टूटल लिंक खोजीं, आपन सगरी बुकमार्क के व्यवस्थित करीं आ खोजीं — तेजी से आ साफ-सुथरा."
+  },
+  "popupBookmarks": {
+    "message": "बुकमार्क के बारे में बतावल गइल बा"
+  },
+  "popupFolders": {
+    "message": "फोल्डर के बा"
+  },
+  "popupOpenManager": {
+    "message": "बुकमार्क प्रबंधक के खोलीं"
+  },
+  "popupTagline": {
+    "message": "साफ · संगठित · खोज कइल"
+  },
+  "popupLoading": {
+    "message": "आँकड़ा लोड हो रहल बा..."
+  },
+  "navHome": {
+    "message": "घर"
+  },
+  "navDuplicates": {
+    "message": "डुप्लिकेट खोजल जाला"
+  },
+  "navBroken": {
+    "message": "टूटल लिंक बा"
+  },
+  "navOrganize": {
+    "message": "संगठित आ सॉर्ट कइल जाला"
+  },
+  "navSearch": {
+    "message": "खोज & फ़िल्टर के बा"
+  },
+  "navTheme": {
+    "message": "थीम के टॉगल करीं"
+  },
+  "statBookmarks": {
+    "message": "बुकमार्क के बारे में बतावल गइल बा"
+  },
+  "statFolders": {
+    "message": "फोल्डर के बा"
+  },
+  "statDuplicates": {
+    "message": "डुप्लिकेट कइल जाला"
+  },
+  "statEmptyFolders": {
+    "message": "खाली फोल्डर हो गइल बा"
+  },
+  "featureDupTitle": {
+    "message": "डुप्लिकेट खोजल जाला"
+  },
+  "featureDupDesc": {
+    "message": "एकही यूआरएल साझा करे वाली बुकमार्क प्रविष्टि सभ के पता लगाईं आ हटाईं।"
+  },
+  "featureBrkTitle": {
+    "message": "टूटल लिंक बा"
+  },
+  "featureBrkDesc": {
+    "message": "अमान्य, खाली, भा गैर-वेब यूआरएल वाला बुकमार्क सभ के पहिचान करीं।"
+  },
+  "featureOrgTitle": {
+    "message": "संगठित आ सॉर्ट कइल जाला"
+  },
+  "featureOrgDesc": {
+    "message": "बुकमार्क के वर्णमाला के हिसाब से सॉर्ट करीं आ खाली फोल्डर हटाईं।"
+  },
+  "featureSrchTitle": {
+    "message": "खोज & फ़िल्टर के बा"
+  },
+  "featureSrchDesc": {
+    "message": "तुरंत अपना सभ बुकमार्क में टाइटिल भा यूआरएल के आधार पर खोजीं।"
+  },
+  "featureRunBtn": {
+    "message": "दउरीं"
+  },
+  "loadingBookmarks": {
+    "message": "आपन बुकमार्क लोड हो रहल बा..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "बुकमार्क लोड करे में विफल रहल। कृपया दोबारा कोशिश करीं।"
+  },
+  "duplicatesSubtitle": {
+    "message": "एकही यूआरएल साझा करे वाला बुकमार्क सभ के नीचे समूहबद्ध कइल गइल बा। एगो रखीं, बाकी के हटा दीं।"
+  },
+  "dupScanBtn": {
+    "message": "डुप्लिकेट खातिर स्कैन करीं"
+  },
+  "dupSmartSelectBtn": {
+    "message": "ऑटो-सेलेक्ट (सबसे पुरान रखे के बा)"
+  },
+  "dupDeleteBtn": {
+    "message": "हटावल चुनल गइल बा"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 बुकमार्क के हटाईं",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "इहे रखे के बा"
+  },
+  "dupGroupCount": {
+    "message": "$1 प्रतिलिपि बा",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 बुकमार्क के जांच कइल गइल",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "फोल्डर के स्कैन कइल जा रहल बा..."
+  },
+  "emptyDupTitle": {
+    "message": "कवनो डुप्लिकेट ना मिलल"
+  },
+  "emptyDupDesc": {
+    "message": "राउर बुकमार्क संग्रह में कवनो डुप्लिकेट यूआरएल नइखे. बढ़िया काम बा!"
+  },
+  "brokenSubtitle": {
+    "message": "अमान्य, खाली, भा गैर-वेब यूआरएल वाला बुकमार्क सभ के लिस्ट नीचे दिहल गइल बा।"
+  },
+  "brkScanBtn": {
+    "message": "मुद्दा खातिर स्कैन करीं"
+  },
+  "brkDeleteBtn": {
+    "message": "हटावल चुनल गइल बा"
+  },
+  "badgeEmptyUrl": {
+    "message": "खाली यूआरएल बा"
+  },
+  "badgeInvalidUrl": {
+    "message": "अमान्य यूआरएल बा"
+  },
+  "badgeLocalFile": {
+    "message": "स्थानीय फाइल के बा"
+  },
+  "badgeNonWeb": {
+    "message": "गैर-वेब के बा"
+  },
+  "badgeSuspicious": {
+    "message": "संदेह से भरल"
+  },
+  "emptyBrkTitle": {
+    "message": "कवनो मुद्दा ना मिलल"
+  },
+  "emptyBrkDesc": {
+    "message": "राउर सगरी बुकमार्कन पर वैध यूआरएल लउकत बा."
+  },
+  "orgTabSort": {
+    "message": "बुकमार्क के सॉर्ट करीं"
+  },
+  "orgTabEmpty": {
+    "message": "खाली फोल्डर हो गइल बा"
+  },
+  "sortSelectFolder": {
+    "message": "फोल्डर के चयन करीं"
+  },
+  "sortAllBookmarks": {
+    "message": "सब बुकमार्क के बा"
+  },
+  "sortOrder": {
+    "message": "क्रमबद्धता के क्रम में बा"
+  },
+  "sortAZ": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "sortZA": {
+    "message": "जेड → ए (शीर्षक के अनुसार) 1.1."
+  },
+  "sortDomain": {
+    "message": "यूआरएल डोमेन (ए → जेड) के अनुसार"
+  },
+  "sortFolderFirst": {
+    "message": "पहिले फोल्डर, ओकरा बाद बुकमार्क"
+  },
+  "sortRecursive": {
+    "message": "रिकर्सिव रूप से सॉर्ट करीं (सब सबफोल्डर पर लागू होखी)"
+  },
+  "sortPreviewBtn": {
+    "message": "पूर्वावलोकन कइल जाव"
+  },
+  "sortApplyBtn": {
+    "message": "सॉर्ट लागू करीं"
+  },
+  "sortPreviewLabel": {
+    "message": "पूर्वावलोकन — छँटाई के बाद:"
+  },
+  "sortPreviewMore": {
+    "message": "... आ $1 अउरी",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "एह फोल्डर में सॉर्ट करे खातिर कवनो बुकमार्क नइखे।"
+  },
+  "sortSuccess": {
+    "message": "बुकमार्क सफलतापूर्वक सॉर्ट कइल गइल।"
+  },
+  "emptyScanBtn": {
+    "message": "खाली फोल्डर खातिर स्कैन करीं"
+  },
+  "emptyDeleteBtn": {
+    "message": "चुनल फोल्डर के हटा दिहल जाव"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "कवनो खाली फोल्डर ना होखे"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "राउर सगरी फोल्डर में कम से कम एगो आइटम होला."
+  },
+  "deletedFolders": {
+    "message": "$1 फोल्डर (फोल्डर) के हटा दिहल गइल।",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "शीर्षक भा यूआरएल के हिसाब से बुकमार्क खोजीं..."
+  },
+  "chipAll": {
+    "message": "कुल्हि"
+  },
+  "searchResultCount": {
+    "message": "$1 के परिणाम बा",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "खुला"
+  },
+  "searchEditBtn": {
+    "message": "संपादन कईल"
+  },
+  "searchCancelEditBtn": {
+    "message": "मना कइ दीं"
+  },
+  "searchDeleteBtn": {
+    "message": "हटाईं"
+  },
+  "searchSaveBtn": {
+    "message": "बचावल"
+  },
+  "searchCancelBtn": {
+    "message": "मना कइ दीं"
+  },
+  "emptySearchTitle": {
+    "message": "कवनो रिजल्ट ना मिलल"
+  },
+  "emptySearchDesc": {
+    "message": "कवनो अलग खोज शब्द भा फिल्टर के कोशिश करीं."
+  },
+  "deleteConfirmMsg": {
+    "message": "का रउआँ पक्का बानी कि रउआँ ई बुकमार्क हटावल चाहत बानी?"
+  },
+  "deleteConfirmYes": {
+    "message": "हँ, हटा दीं"
+  },
+  "deleteConfirmNo": {
+    "message": "मना कइ दीं"
+  },
+  "toastDeleted": {
+    "message": "$1 बुकमार्क (बुकमार्क) हटा दिहल गइल।",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "हटावे के काम वापस हो गइल. बुकमार्क बहाल हो गइल बा."
+  },
+  "undoBtn": {
+    "message": "पूर्ववत करीं"
+  },
+  "bookmarkUpdated": {
+    "message": "बुकमार्क के शीर्षक अपडेट हो गइल बा."
+  },
+  "errorGeneric": {
+    "message": "एगो त्रुटि हो गइल. कृपया दोबारा कोशिश करीं।"
+  },
+  "noTitle": {
+    "message": "(कोई टाइटिल नइखे)"
+  },
+  "unknownFolder": {
+    "message": "(अज्ञात फोल्डर) के बा।"
+  },
+  "rootFolder": {
+    "message": "बुकमार्क जड़ के बा"
+  },
+  "ariaNav": {
+    "message": "मुख्य नेविगेशन के बा"
+  },
+  "ariaThemeToggle": {
+    "message": "डार्क/लाइट थीम के टॉगल करीं"
+  },
+  "ariaSidebarToggle": {
+    "message": "साइडबार के टॉगल करीं"
+  },
+  "ariaClearSearch": {
+    "message": "खोज के साफ कर दिहल जाव"
+  },
+  "ariaFilterChips": {
+    "message": "फोल्डर के हिसाब से छानल जाला"
+  },
+  "ariaMarkForDeletion": {
+    "message": "हटावे खातिर चिन्हित करीं:"
+  },
+  "ariaEditTitle": {
+    "message": "बुकमार्क के शीर्षक के संपादित करीं"
+  }
+}

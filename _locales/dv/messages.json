@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "ބުކްމާކް ކްލީނަރ އެވެ"
+  },
+  "extShortName": {
+    "message": "ބީކޭ ކްލީނަރ އެވެ"
+  },
+  "extDescription": {
+    "message": "ޑަޕްލިކޭޓްތަކާއި، ފަޅައިގެން ގޮސްފައިވާ ލިންކްތައް ހޯދައި، ހުރިހާ ބުކްމާކްތަކެއް އިންތިޒާމުކޮށް ހޯދުން — އަވަހަށް އަދި ސާފުކޮށް."
+  },
+  "popupBookmarks": {
+    "message": "ބުކްމާކްސް"
+  },
+  "popupFolders": {
+    "message": "ފޯލްޑަރސް"
+  },
+  "popupOpenManager": {
+    "message": "ބުކްމާކް މެނޭޖަރ ހުޅުވާށެވެ"
+  },
+  "popupTagline": {
+    "message": "ސާފުކުރުން · އިންތިޒާމުކުރުން · ހޯދުން"
+  },
+  "popupLoading": {
+    "message": "ސްޓެޓިސްޓިކްސް ލޯޑް ކުރަނީ..."
+  },
+  "navHome": {
+    "message": "ގެ"
+  },
+  "navDuplicates": {
+    "message": "ޑަޕްލިކޭޓްސް ހޯދުން"
+  },
+  "navBroken": {
+    "message": "ބްރޯކޭން ލިންކްސް"
+  },
+  "navOrganize": {
+    "message": "އޯގަނައިޒް އެންޑް ސޯރޓް"
+  },
+  "navSearch": {
+    "message": "ސަރޗް އެންޑް ފިލްޓަރ"
+  },
+  "navTheme": {
+    "message": "ޓޮގްލް ތީމް"
+  },
+  "statBookmarks": {
+    "message": "ބުކްމާކްސް"
+  },
+  "statFolders": {
+    "message": "ފޯލްޑަރސް"
+  },
+  "statDuplicates": {
+    "message": "ޑަބިލިކޭޓްސް"
+  },
+  "statEmptyFolders": {
+    "message": "ހުސް ފޯލްޑަރސް"
+  },
+  "featureDupTitle": {
+    "message": "ޑަޕްލިކޭޓްސް ހޯދުން"
+  },
+  "featureDupDesc": {
+    "message": "އެއް ޔޫއާރްއެލް އެއް ހިއްސާކުރާ ބުކްމާކް އެންޓްރީތައް ހޯދައި ނައްތާލުން."
+  },
+  "featureBrkTitle": {
+    "message": "ބްރޯކޭން ލިންކްސް"
+  },
+  "featureBrkDesc": {
+    "message": "ސައްހަ ނޫން، ހުސް، ނުވަތަ ވެބް ނޫން ޔޫ.އާރ.އެލް ތަކެއް ހުންނަ ބުކްމާކްތައް ދެނެގަތުން."
+  },
+  "featureOrgTitle": {
+    "message": "އޯގަނައިޒް އެންޑް ސޯރޓް"
+  },
+  "featureOrgDesc": {
+    "message": "އަކުރުތަކުގެ ގޮތުގައި ބުކްމާކްތައް ތަރުތީބުކޮށް ހުސް ފޯލްޑަރުތައް ނައްތާލުން."
+  },
+  "featureSrchTitle": {
+    "message": "ސަރޗް އެންޑް ފިލްޓަރ"
+  },
+  "featureSrchDesc": {
+    "message": "ވަގުތުން ތިމާގެ ހުރިހާ ބުކްމާކްތަކެއްގެ ތެރެއިން ސުރުޚީ ނުވަތަ ޔޫއާރްއެލް އިން ހޯދާށެވެ."
+  },
+  "featureRunBtn": {
+    "message": "ދުވުން"
+  },
+  "loadingBookmarks": {
+    "message": "ތިޔަ ބުކްމާކްސް ލޯޑް ކުރަމުން..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "ބުކްމާކްސް ލޯޑް ނުކުރެވިއްޖެއެވެ. އަނެއްކާވެސް މަސައްކަތް ކުރައްވާށެވެ."
+  },
+  "duplicatesSubtitle": {
+    "message": "އެއް ޔޫއާރްއެލް އެއް ހިއްސާކުރާ ބުކްމާކްތައް ތިރީގައި ގްރޫޕްކޮށްފައިވެއެވެ. އެއްޗެއް ބަހައްޓާ، ބާކީ ހުރި އެއްޗެހި ޑިލީޓް ކުރާށެވެ."
+  },
+  "dupScanBtn": {
+    "message": "ޑަޕްލިކޭޓްސް ހޯދުމަށް ސްކޭން ކުރާށެވެ"
+  },
+  "dupSmartSelectBtn": {
+    "message": "އޮޓޯ-ސެލެކްޓް (އެންމެ ދުވަސްވީ ބެހެއްޓުން)"
+  },
+  "dupDeleteBtn": {
+    "message": "ޑިލީޓް ސެލެކްޓް ވެއްޖެ"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 ބުކްމާކްސް ޑިލީޓްކުރުން",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "ކީޕް ދިސް"
+  },
+  "dupGroupCount": {
+    "message": "$1 ކޮޕީތައް",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "ޗެކްކޮށްފައިވާ $1 / $2 ބުކްމާކްސް",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "ފޯލްޑަރުތައް ސްކޭން ކުރަމުން..."
+  },
+  "emptyDupTitle": {
+    "message": "އެއްވެސް ޑަޕްލިކޭޓެއް ނުފެނެއެވެ"
+  },
+  "emptyDupDesc": {
+    "message": "ތިބާގެ ބުކްމާކް ކަލެކްޝަންގައި ޑަބިލިކޭޓް ޔޫއާރްއެލްއެއް ނެތެވެ. މޮޅު މަސައްކަތެއް!"
+  },
+  "brokenSubtitle": {
+    "message": "ސައްހަ ނޫން، ހުސް، ނުވަތަ ވެބް ނޫން ޔޫ.އާރް.އެލް ތަކެއް ހުންނަ ބުކްމާކްތައް ތިރީގައި މިވަނީ ލިސްޓްކޮށްފައެވެ."
+  },
+  "brkScanBtn": {
+    "message": "މައްސަލަތައް ހޯދުމަށް ސްކޭން ކުރާށެވެ"
+  },
+  "brkDeleteBtn": {
+    "message": "ޑިލީޓް ސެލެކްޓް ވެއްޖެ"
+  },
+  "badgeEmptyUrl": {
+    "message": "ހުސް ޔޫ.އާރ.އެލް"
+  },
+  "badgeInvalidUrl": {
+    "message": "ސައްހަ ނޫން ޔޫ.އާރ.އެލް"
+  },
+  "badgeLocalFile": {
+    "message": "ލޯކަލް ފައިލް"
+  },
+  "badgeNonWeb": {
+    "message": "ނޮން ވެބް"
+  },
+  "badgeSuspicious": {
+    "message": "ޝައްކު ކުރެވޭ"
+  },
+  "emptyBrkTitle": {
+    "message": "އެއްވެސް މައްސަލައެއް ނުފެނެއެވެ"
+  },
+  "emptyBrkDesc": {
+    "message": "ތިބާގެ ހުރިހާ ބުކްމާކްތަކެއްގައި ވެސް ސައްހަ ޔޫއާރްއެލްތަކެއް ހުރި ކަމަށް ފެނެއެވެ."
+  },
+  "orgTabSort": {
+    "message": "ބުކްމާކްސް ސޯޓްކުރުން"
+  },
+  "orgTabEmpty": {
+    "message": "ހުސް ފޯލްޑަރސް"
+  },
+  "sortSelectFolder": {
+    "message": "ފޯލްޑަރ ހޮވާށެވެ"
+  },
+  "sortAllBookmarks": {
+    "message": "ހުރިހާ ބުކްމާކްސް"
+  },
+  "sortOrder": {
+    "message": "ސޯޓް އޯޑަރ"
+  },
+  "sortAZ": {
+    "message": "އޭ → ޒެޑް (ސުރުޚީން)"
+  },
+  "sortZA": {
+    "message": "Z → A (ސުރުޚީން)"
+  },
+  "sortDomain": {
+    "message": "ޔޫ.އާރް.އެލް ޑޮމެއިން (A → Z) އިން"
+  },
+  "sortFolderFirst": {
+    "message": "ފުރަތަމަ ފޯލްޑަރސް، ދެން ބުކްމާކްސް"
+  },
+  "sortRecursive": {
+    "message": "ރިކަރސިވްކޮށް ސޯޓްކުރުން (ހުރިހާ ސަބްފޯލްޑަރަކަށް ވެސް އަމަލުކުރެވޭނެ)"
+  },
+  "sortPreviewBtn": {
+    "message": "ޕްރިވިއު"
+  },
+  "sortApplyBtn": {
+    "message": "އެޕްލައި ސޯރޓް"
+  },
+  "sortPreviewLabel": {
+    "message": "ޕްރިވިއު — ސޯޓް ކުރުމަށްފަހު:"
+  },
+  "sortPreviewMore": {
+    "message": "... އަދި $1 އިތުރަށް",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "މި ފޯލްޑަރުގައި ސޯޓް ކުރަން ބުކްމާކްތަކެއް ނެތެވެ."
+  },
+  "sortSuccess": {
+    "message": "ބުކްމާކްސް ކާމިޔާބުކަމާއެކު ސޯޓް ކުރެވުނެވެ."
+  },
+  "emptyScanBtn": {
+    "message": "ހުސް ފޯލްޑަރުތައް ސްކޭން ކުރާށެވެ"
+  },
+  "emptyDeleteBtn": {
+    "message": "ހޮވާފައިވާ ފޯލްޑަރުތައް ޑިލީޓްކުރުން"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "ހުސް ފޯލްޑަރެއް ނެތެވެ"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "ތިބާގެ ހުރިހާ ފޯލްޑަރެއްގައި މަދުވެގެން އެއް އެއްޗެއް ހިމެނެއެވެ."
+  },
+  "deletedFolders": {
+    "message": "ޑިލީޓްކޮށްފައިވަނީ $1 ފޯލްޑަރ(ތަކެއް) އެވެ.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "ސުރުޚީ ނުވަތަ ޔޫއާރްއެލް އިން ބުކްމާކްސް ހޯދުން..."
+  },
+  "chipAll": {
+    "message": "ހުރިހާ"
+  },
+  "searchResultCount": {
+    "message": "$1 ނަތީޖާ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "ހުޅުވުން"
+  },
+  "searchEditBtn": {
+    "message": "ބަދަލު ގެނައުން"
+  },
+  "searchCancelEditBtn": {
+    "message": "ކެންސަލް"
+  },
+  "searchDeleteBtn": {
+    "message": "ޑިލީޓް"
+  },
+  "searchSaveBtn": {
+    "message": "ރައްކާކުރުން"
+  },
+  "searchCancelBtn": {
+    "message": "ކެންސަލް"
+  },
+  "emptySearchTitle": {
+    "message": "އެއްވެސް ނަތީޖާއެއް ނުފެނެއެވެ"
+  },
+  "emptySearchDesc": {
+    "message": "ތަފާތު ސަރޗް ޓާމް ނުވަތަ ފިލްޓަރެއް ޓްރައި ކޮށްލައްވާށެވެ."
+  },
+  "deleteConfirmMsg": {
+    "message": "މި ބުކްމާކް ޑިލީޓް ކުރަން ބޭނުންވާކަން ޔަގީން ހެއްޔެވެ؟"
+  },
+  "deleteConfirmYes": {
+    "message": "އާދެ، ޑިލީޓް"
+  },
+  "deleteConfirmNo": {
+    "message": "ކެންސަލް"
+  },
+  "toastDeleted": {
+    "message": "$1 ބުކްމާކް (ތަކެއް) އުނިވެއްޖެއެވެ.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "ޑިލީޝަން އަންޑޯން. ބުކްމާކްސް ރިސްޓޯރ ކޮށްފިއެވެ."
+  },
+  "undoBtn": {
+    "message": "އަންޑޯ"
+  },
+  "bookmarkUpdated": {
+    "message": "ބުކްމާކް ސުރުޚީ އަޕްޑޭޓް ކޮށްފި."
+  },
+  "errorGeneric": {
+    "message": "ގޯހެއް ދިމާވިއެވެ. އަނެއްކާވެސް މަސައްކަތް ކުރައްވާށެވެ."
+  },
+  "noTitle": {
+    "message": "(ސުރުޚީއެއް ނެތް)"
+  },
+  "unknownFolder": {
+    "message": "(ނޭނގޭ ފޯލްޑަރ)"
+  },
+  "rootFolder": {
+    "message": "ބުކްމާކްސް ރޫޓް"
+  },
+  "ariaNav": {
+    "message": "މައި ނޭވިގޭޝަން"
+  },
+  "ariaThemeToggle": {
+    "message": "ޓޮގްލް ޑާކް/ލައިޓް ތީމް"
+  },
+  "ariaSidebarToggle": {
+    "message": "ސައިޑްބާ ޓޮގްލް ކުރާށެވެ"
+  },
+  "ariaClearSearch": {
+    "message": "ސާފު ހޯދުން"
+  },
+  "ariaFilterChips": {
+    "message": "ފޯލްޑަރ އަށް ބަލާފައި ފިލްޓަރ ކުރުން"
+  },
+  "ariaMarkForDeletion": {
+    "message": "ޑިލީޓް ކުރުމަށް މާކް ކުރާށެވެ:"
+  },
+  "ariaEditTitle": {
+    "message": "ބުކްމާކް ސުރުޚީ އެޑިޓްކުރުން"
+  }
+}

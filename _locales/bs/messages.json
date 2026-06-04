@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Pronađite duplikate, neispravne veze, organizirajte i pretražite sve svoje oznake - brzo i čisto."
+  },
+  "popupBookmarks": {
+    "message": "Bookmarks"
+  },
+  "popupFolders": {
+    "message": "Fascikle"
+  },
+  "popupOpenManager": {
+    "message": "Otvorite Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Očistiti · Organizirati · Tražiti"
+  },
+  "popupLoading": {
+    "message": "Učitavanje statistike…"
+  },
+  "navHome": {
+    "message": "Dom"
+  },
+  "navDuplicates": {
+    "message": "Pronađite duplikate"
+  },
+  "navBroken": {
+    "message": "Pokvarene veze"
+  },
+  "navOrganize": {
+    "message": "Organiziraj i sortiraj"
+  },
+  "navSearch": {
+    "message": "Pretraži i filtriraj"
+  },
+  "navTheme": {
+    "message": "Toggle Theme"
+  },
+  "statBookmarks": {
+    "message": "Bookmarks"
+  },
+  "statFolders": {
+    "message": "Fascikle"
+  },
+  "statDuplicates": {
+    "message": "Duplikati"
+  },
+  "statEmptyFolders": {
+    "message": "Empty Folders"
+  },
+  "featureDupTitle": {
+    "message": "Pronađite duplikate"
+  },
+  "featureDupDesc": {
+    "message": "Otkrijte i uklonite unose obeleživača koji dele isti URL."
+  },
+  "featureBrkTitle": {
+    "message": "Pokvarene veze"
+  },
+  "featureBrkDesc": {
+    "message": "Identificirajte oznake s nevažećim, praznim ili ne-web URL-ovima."
+  },
+  "featureOrgTitle": {
+    "message": "Organiziraj i sortiraj"
+  },
+  "featureOrgDesc": {
+    "message": "Sortirajte oznake po abecednom redu i uklonite prazne foldere."
+  },
+  "featureSrchTitle": {
+    "message": "Pretraži i filtriraj"
+  },
+  "featureSrchDesc": {
+    "message": "Odmah pretražite sve svoje oznake prema naslovu ili URL-u."
+  },
+  "featureRunBtn": {
+    "message": "Trči"
+  },
+  "loadingBookmarks": {
+    "message": "Učitavanje vaših oznaka…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Učitavanje oznaka nije uspjelo. Molimo pokušajte ponovo."
+  },
+  "duplicatesSubtitle": {
+    "message": "Oznake koje dijele isti URL su grupisane u nastavku. Zadrži jednu, izbriši ostale."
+  },
+  "dupScanBtn": {
+    "message": "Skeniraj za duplikate"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automatski odabir (zadrži najstarije)"
+  },
+  "dupDeleteBtn": {
+    "message": "Izbriši odabrano"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Izbrišite $1 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Zadrži ovo"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopije",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Označene oznake $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Skeniranje foldera…"
+  },
+  "emptyDupTitle": {
+    "message": "Duplikati nisu pronađeni"
+  },
+  "emptyDupDesc": {
+    "message": "Vaša kolekcija oznaka nema duple URL-ove. Odličan posao!"
+  },
+  "brokenSubtitle": {
+    "message": "Oznake s nevažećim, praznim ili ne-web URL-ovima su navedene ispod."
+  },
+  "brkScanBtn": {
+    "message": "Skeniraj za probleme"
+  },
+  "brkDeleteBtn": {
+    "message": "Izbriši odabrano"
+  },
+  "badgeEmptyUrl": {
+    "message": "Prazan URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Nevažeći URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokalni fajl"
+  },
+  "badgeNonWeb": {
+    "message": "Non-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Sumnjivo"
+  },
+  "emptyBrkTitle": {
+    "message": "Nisu pronađeni problemi"
+  },
+  "emptyBrkDesc": {
+    "message": "Čini se da sve vaše oznake imaju važeće URL-ove."
+  },
+  "orgTabSort": {
+    "message": "Sortiraj oznake"
+  },
+  "orgTabEmpty": {
+    "message": "Empty Folders"
+  },
+  "sortSelectFolder": {
+    "message": "Odaberite Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Svi Bookmarks"
+  },
+  "sortOrder": {
+    "message": "Redoslijed sortiranja"
+  },
+  "sortAZ": {
+    "message": "A → Z (po naslovu)"
+  },
+  "sortZA": {
+    "message": "Z → A (po naslovu)"
+  },
+  "sortDomain": {
+    "message": "Po URL domeni (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Prvo folderi, a zatim oznake"
+  },
+  "sortRecursive": {
+    "message": "Sortiraj rekurzivno (primijeni na sve podmape)"
+  },
+  "sortPreviewBtn": {
+    "message": "Pregled"
+  },
+  "sortApplyBtn": {
+    "message": "Primijeni sortiranje"
+  },
+  "sortPreviewLabel": {
+    "message": "Pregled — nakon sortiranja:"
+  },
+  "sortPreviewMore": {
+    "message": "… i $1 više",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ovaj folder nema oznake za sortiranje."
+  },
+  "sortSuccess": {
+    "message": "Oznake uspješno sortirane."
+  },
+  "emptyScanBtn": {
+    "message": "Skenirajte prazne fascikle"
+  },
+  "emptyDeleteBtn": {
+    "message": "Izbrišite odabrane fascikle"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Nema praznih fascikli"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Svi vaši folderi sadrže barem jednu stavku."
+  },
+  "deletedFolders": {
+    "message": "Izbrisani $1 folder(i).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Pretražite oznake po naslovu ili URL-u…"
+  },
+  "chipAll": {
+    "message": "Sve"
+  },
+  "searchResultCount": {
+    "message": "$1 rezultati",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Otvori"
+  },
+  "searchEditBtn": {
+    "message": "Uredi"
+  },
+  "searchCancelEditBtn": {
+    "message": "Otkaži"
+  },
+  "searchDeleteBtn": {
+    "message": "Izbriši"
+  },
+  "searchSaveBtn": {
+    "message": "Sačuvaj"
+  },
+  "searchCancelBtn": {
+    "message": "Otkaži"
+  },
+  "emptySearchTitle": {
+    "message": "Nema rezultata"
+  },
+  "emptySearchDesc": {
+    "message": "Pokušajte s drugim pojmom za pretraživanje ili filterom."
+  },
+  "deleteConfirmMsg": {
+    "message": "Jeste li sigurni da želite izbrisati ovu oznaku?"
+  },
+  "deleteConfirmYes": {
+    "message": "Da, Izbriši"
+  },
+  "deleteConfirmNo": {
+    "message": "Otkaži"
+  },
+  "toastDeleted": {
+    "message": "$1 obeleživač(e) izbrisani.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Brisanje je poništeno. Oznake su vraćene."
+  },
+  "undoBtn": {
+    "message": "Poništi"
+  },
+  "bookmarkUpdated": {
+    "message": "Naslov oznake je ažuriran."
+  },
+  "errorGeneric": {
+    "message": "Došlo je do greške. Molimo pokušajte ponovo."
+  },
+  "noTitle": {
+    "message": "(bez naslova)"
+  },
+  "unknownFolder": {
+    "message": "(Nepoznati folder)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks Root"
+  },
+  "ariaNav": {
+    "message": "Glavna navigacija"
+  },
+  "ariaThemeToggle": {
+    "message": "Uključite tamnu/svjetlu temu"
+  },
+  "ariaSidebarToggle": {
+    "message": "Prebaci bočnu traku"
+  },
+  "ariaClearSearch": {
+    "message": "Obriši pretragu"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrirajte po folderu"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Označi za brisanje:"
+  },
+  "ariaEditTitle": {
+    "message": "Uredite naslov oznake"
+  }
+}

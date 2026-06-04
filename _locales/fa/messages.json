@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "پاک کننده نشانک"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "موارد تکراری، لینک های شکسته را پیدا کنید، همه نشانک های خود را سازماندهی و جستجو کنید — سریع و تمیز."
+  },
+  "popupBookmarks": {
+    "message": "نشانک ها"
+  },
+  "popupFolders": {
+    "message": "پوشه ها"
+  },
+  "popupOpenManager": {
+    "message": "مدیر نشانک را باز کنید"
+  },
+  "popupTagline": {
+    "message": "تمیز · سازماندهی · جستجو"
+  },
+  "popupLoading": {
+    "message": "در حال بارگیری آمار…"
+  },
+  "navHome": {
+    "message": "صفحه اصلی"
+  },
+  "navDuplicates": {
+    "message": "موارد تکراری را پیدا کنید"
+  },
+  "navBroken": {
+    "message": "لینک های شکسته"
+  },
+  "navOrganize": {
+    "message": "سازماندهی و مرتب سازی"
+  },
+  "navSearch": {
+    "message": "جستجو و فیلتر"
+  },
+  "navTheme": {
+    "message": "تغییر موضوع"
+  },
+  "statBookmarks": {
+    "message": "نشانک ها"
+  },
+  "statFolders": {
+    "message": "پوشه ها"
+  },
+  "statDuplicates": {
+    "message": "موارد تکراری"
+  },
+  "statEmptyFolders": {
+    "message": "پوشه های خالی"
+  },
+  "featureDupTitle": {
+    "message": "موارد تکراری را پیدا کنید"
+  },
+  "featureDupDesc": {
+    "message": "ورودی های نشانک را که همان URL را به اشتراک می گذارند، شناسایی و حذف کنید."
+  },
+  "featureBrkTitle": {
+    "message": "لینک های شکسته"
+  },
+  "featureBrkDesc": {
+    "message": "نشانک‌های دارای نشانی‌های اینترنتی نامعتبر، خالی یا غیر وب را شناسایی کنید."
+  },
+  "featureOrgTitle": {
+    "message": "سازماندهی و مرتب سازی"
+  },
+  "featureOrgDesc": {
+    "message": "بوک مارک ها را بر اساس حروف الفبا مرتب کنید و پوشه های خالی را حذف کنید."
+  },
+  "featureSrchTitle": {
+    "message": "جستجو و فیلتر"
+  },
+  "featureSrchDesc": {
+    "message": "فوراً در همه نشانک‌های خود بر اساس عنوان یا URL جستجو کنید."
+  },
+  "featureRunBtn": {
+    "message": "اجرا کنید"
+  },
+  "loadingBookmarks": {
+    "message": "در حال بارگیری نشانک های شما…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "بارگیری نشانک ها انجام نشد. لطفا دوباره امتحان کنید."
+  },
+  "duplicatesSubtitle": {
+    "message": "نشانک‌هایی که همان URL را به اشتراک می‌گذارند در زیر گروه‌بندی می‌شوند. یکی را نگه دارید، بقیه را حذف کنید."
+  },
+  "dupScanBtn": {
+    "message": "برای موارد تکراری اسکن کنید"
+  },
+  "dupSmartSelectBtn": {
+    "message": "انتخاب خودکار (قدیمی‌ترین را نگه دارید)"
+  },
+  "dupDeleteBtn": {
+    "message": "حذف انتخاب شده"
+  },
+  "dupDeleteBtnCount": {
+    "message": "حذف $1 نشانک ها",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "این را نگه دارید"
+  },
+  "dupGroupCount": {
+    "message": "$1 کپی",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "نشانک‌های $1 / $2 را بررسی کرد",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "در حال اسکن پوشه ها…"
+  },
+  "emptyDupTitle": {
+    "message": "هیچ مورد تکراری یافت نشد"
+  },
+  "emptyDupDesc": {
+    "message": "مجموعه نشانک شما URL تکراری ندارد. کار عالی!"
+  },
+  "brokenSubtitle": {
+    "message": "نشانک‌های دارای نشانی‌های اینترنتی نامعتبر، خالی یا غیر وب در زیر فهرست شده‌اند."
+  },
+  "brkScanBtn": {
+    "message": "اسکن برای مشکلات"
+  },
+  "brkDeleteBtn": {
+    "message": "حذف انتخاب شده"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL خالی"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL نامعتبر است"
+  },
+  "badgeLocalFile": {
+    "message": "فایل محلی"
+  },
+  "badgeNonWeb": {
+    "message": "غیر وب"
+  },
+  "badgeSuspicious": {
+    "message": "مشکوک"
+  },
+  "emptyBrkTitle": {
+    "message": "هیچ مشکلی پیدا نشد"
+  },
+  "emptyBrkDesc": {
+    "message": "به نظر می‌رسد همه نشانک‌های شما URL معتبری دارند."
+  },
+  "orgTabSort": {
+    "message": "مرتب سازی نشانک ها"
+  },
+  "orgTabEmpty": {
+    "message": "پوشه های خالی"
+  },
+  "sortSelectFolder": {
+    "message": "پوشه را انتخاب کنید"
+  },
+  "sortAllBookmarks": {
+    "message": "همه نشانک ها"
+  },
+  "sortOrder": {
+    "message": "ترتیب مرتب سازی"
+  },
+  "sortAZ": {
+    "message": "A → Z (بر اساس عنوان)"
+  },
+  "sortZA": {
+    "message": "Z → A (بر اساس عنوان)"
+  },
+  "sortDomain": {
+    "message": "بر اساس دامنه URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "ابتدا پوشه ها، سپس نشانک ها"
+  },
+  "sortRecursive": {
+    "message": "مرتب سازی بازگشتی (اعمال برای همه زیرپوشه ها)"
+  },
+  "sortPreviewBtn": {
+    "message": "پیش نمایش"
+  },
+  "sortApplyBtn": {
+    "message": "مرتب سازی را اعمال کنید"
+  },
+  "sortPreviewLabel": {
+    "message": "پیش نمایش - پس از مرتب سازی:"
+  },
+  "sortPreviewMore": {
+    "message": "… و $1 بیشتر",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "این پوشه هیچ نشانکی برای مرتب سازی ندارد."
+  },
+  "sortSuccess": {
+    "message": "نشانک ها با موفقیت مرتب شدند."
+  },
+  "emptyScanBtn": {
+    "message": "اسکن پوشه های خالی"
+  },
+  "emptyDeleteBtn": {
+    "message": "حذف پوشه های انتخاب شده"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "پوشه خالی وجود ندارد"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "همه پوشه های شما حداقل شامل یک مورد هستند."
+  },
+  "deletedFolders": {
+    "message": "پوشه(های) $1 حذف شد.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "جستجوی نشانک‌ها بر اساس عنوان یا URL…"
+  },
+  "chipAll": {
+    "message": "همه"
+  },
+  "searchResultCount": {
+    "message": "نتایج $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "باز کنید"
+  },
+  "searchEditBtn": {
+    "message": "ویرایش کنید"
+  },
+  "searchCancelEditBtn": {
+    "message": "لغو کنید"
+  },
+  "searchDeleteBtn": {
+    "message": "حذف کنید"
+  },
+  "searchSaveBtn": {
+    "message": "ذخیره کنید"
+  },
+  "searchCancelBtn": {
+    "message": "لغو کنید"
+  },
+  "emptySearchTitle": {
+    "message": "هیچ نتیجه ای یافت نشد"
+  },
+  "emptySearchDesc": {
+    "message": "عبارت جستجو یا فیلتر دیگری را امتحان کنید."
+  },
+  "deleteConfirmMsg": {
+    "message": "آیا مطمئن هستید که می خواهید این نشانک را حذف کنید؟"
+  },
+  "deleteConfirmYes": {
+    "message": "بله حذف کنید"
+  },
+  "deleteConfirmNo": {
+    "message": "لغو کنید"
+  },
+  "toastDeleted": {
+    "message": "$1 نشانک(های) حذف شد.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "حذف لغو شد. نشانک ها بازیابی شدند."
+  },
+  "undoBtn": {
+    "message": "واگرد"
+  },
+  "bookmarkUpdated": {
+    "message": "عنوان نشانک به روز شد."
+  },
+  "errorGeneric": {
+    "message": "خطایی رخ داد. لطفا دوباره امتحان کنید."
+  },
+  "noTitle": {
+    "message": "(بدون عنوان)"
+  },
+  "unknownFolder": {
+    "message": "(پوشه ناشناخته)"
+  },
+  "rootFolder": {
+    "message": "ریشه نشانک ها"
+  },
+  "ariaNav": {
+    "message": "ناوبری اصلی"
+  },
+  "ariaThemeToggle": {
+    "message": "تغییر موضوع تاریک/روشن"
+  },
+  "ariaSidebarToggle": {
+    "message": "نوار کناری را تغییر دهید"
+  },
+  "ariaClearSearch": {
+    "message": "جستجو را پاک کنید"
+  },
+  "ariaFilterChips": {
+    "message": "فیلتر بر اساس پوشه"
+  },
+  "ariaMarkForDeletion": {
+    "message": "علامت گذاری برای حذف:"
+  },
+  "ariaEditTitle": {
+    "message": "عنوان نشانک را ویرایش کنید"
+  }
+}

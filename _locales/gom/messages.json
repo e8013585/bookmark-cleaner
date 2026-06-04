@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "बुकमार्क निवळ करपी"
+  },
+  "extShortName": {
+    "message": "बी के क्लीनर"
+  },
+  "extDescription": {
+    "message": "डुप्लीकेट, मोडलेले दुवे सोदून काडात, तुमचे सगळे बुकमार्क संघटीत करात आनी सोद घेयात — वेगान आनी निवळ."
+  },
+  "popupBookmarks": {
+    "message": "बुकमार्क करप"
+  },
+  "popupFolders": {
+    "message": "फोल्डरांचो आस्पाव जाता"
+  },
+  "popupOpenManager": {
+    "message": "बुकमार्क वेवस्थापक उगडात"
+  },
+  "popupTagline": {
+    "message": "निवळ करप · संघटीत करप · सोदप"
+  },
+  "popupLoading": {
+    "message": "आकडेवारी लोड करप..."
+  },
+  "navHome": {
+    "message": "घर"
+  },
+  "navDuplicates": {
+    "message": "डुप्लीकेट सोदून काडात"
+  },
+  "navBroken": {
+    "message": "मोडलेले दुवे"
+  },
+  "navOrganize": {
+    "message": "संघटीत करप आनी क्रमवारी करप"
+  },
+  "navSearch": {
+    "message": "सोद आनी फिल्टर करप"
+  },
+  "navTheme": {
+    "message": "टॉगल थीम"
+  },
+  "statBookmarks": {
+    "message": "बुकमार्क करप"
+  },
+  "statFolders": {
+    "message": "फोल्डरांचो आस्पाव जाता"
+  },
+  "statDuplicates": {
+    "message": "डुप्लीकेट करतात"
+  },
+  "statEmptyFolders": {
+    "message": "रिते फोल्डर"
+  },
+  "featureDupTitle": {
+    "message": "डुप्लीकेट सोदून काडात"
+  },
+  "featureDupDesc": {
+    "message": "समान URL वांटून घेवपी बुकमार्क नोंदी सोदून काडात आनी काडून उडोवचीं."
+  },
+  "featureBrkTitle": {
+    "message": "मोडलेले दुवे"
+  },
+  "featureBrkDesc": {
+    "message": "अवैध, रिकाम्या वा बिगर वेब URL आशिल्ले बुकमार्क वळखुप."
+  },
+  "featureOrgTitle": {
+    "message": "संघटीत करप आनी क्रमवारी करप"
+  },
+  "featureOrgDesc": {
+    "message": "बुकमार्क वर्णमाळे प्रमाणें क्रमवारीत करात आनी रिते फोल्डर काडून उडोवचे."
+  },
+  "featureSrchTitle": {
+    "message": "सोद आनी फिल्टर करप"
+  },
+  "featureSrchDesc": {
+    "message": "तुमच्या सगळ्या बुकमार्कांतल्यान शीर्षक वा URL वरवीं क्षणार्ध सोद घेयात."
+  },
+  "featureRunBtn": {
+    "message": "धांवप"
+  },
+  "loadingBookmarks": {
+    "message": "तुमचे बुकमार्क लोड करतना..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "बुकमार्क लोड करपाक अपेस आयलें. उपकार करून परतून यत्न करात."
+  },
+  "duplicatesSubtitle": {
+    "message": "समान URL वांटून घेवपी बुकमार्क सकयल गट केल्यात. एक दवरात, उरिल्लें काडून उडोवचें."
+  },
+  "dupScanBtn": {
+    "message": "डुप्लीकेटां खातीर स्कॅन करात"
+  },
+  "dupSmartSelectBtn": {
+    "message": "ऑटो-सेलेक्ट (सगल्यांत पोरणें दवरचें)"
+  },
+  "dupDeleteBtn": {
+    "message": "काडून उडोवप निवडलां"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 बुकमार्क काडून उडोवप",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "हें दवरात"
+  },
+  "dupGroupCount": {
+    "message": "$1 प्रतींचो आस्पाव जाता",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 बुकमार्क तपासले",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "फोल्डर स्कॅन करप..."
+  },
+  "emptyDupTitle": {
+    "message": "डुप्लीकेट मेळूंक ना"
+  },
+  "emptyDupDesc": {
+    "message": "तुमच्या बुकमार्क संग्रहांत डुप्लीकेट URL नात. ग्रेट काम!"
+  },
+  "brokenSubtitle": {
+    "message": "अवैध, रिकामे, वा बिगर वेब URL आशिल्ले बुकमार्क सकयल दिल्ले आसात."
+  },
+  "brkScanBtn": {
+    "message": "मुद्दे स्कॅन करात"
+  },
+  "brkDeleteBtn": {
+    "message": "काडून उडोवप निवडलां"
+  },
+  "badgeEmptyUrl": {
+    "message": "रिकामे URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "अवैध URL"
+  },
+  "badgeLocalFile": {
+    "message": "थळावी फायल"
+  },
+  "badgeNonWeb": {
+    "message": "बिगर वेब"
+  },
+  "badgeSuspicious": {
+    "message": "दुबावीत"
+  },
+  "emptyBrkTitle": {
+    "message": "मुद्दे मेळूंक नात"
+  },
+  "emptyBrkDesc": {
+    "message": "तुमच्या सगळ्या बुकमार्कांत वैध URL आसात अशें दिसता."
+  },
+  "orgTabSort": {
+    "message": "बुकमार्क क्रमवारीत करात"
+  },
+  "orgTabEmpty": {
+    "message": "रिते फोल्डर"
+  },
+  "sortSelectFolder": {
+    "message": "फोल्डर निवडात"
+  },
+  "sortAllBookmarks": {
+    "message": "सगळे बुकमार्क"
+  },
+  "sortOrder": {
+    "message": "क्रमवारी क्रमवारी"
+  },
+  "sortAZ": {
+    "message": "अ → झ (शीर्षका प्रमाण) २."
+  },
+  "sortZA": {
+    "message": "झ → अ (शीर्षका प्रमाण) २."
+  },
+  "sortDomain": {
+    "message": "URL डोमेना प्रमाणें (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "पयलीं फोल्डर, मागीर बुकमार्क"
+  },
+  "sortRecursive": {
+    "message": "रिकर्सिवली क्रमवारीत करात (सगल्या उपफोल्डरांक लागू जाता)"
+  },
+  "sortPreviewBtn": {
+    "message": "पूर्वावलोकन करचें"
+  },
+  "sortApplyBtn": {
+    "message": "लागू करचें क्रमवारी"
+  },
+  "sortPreviewLabel": {
+    "message": "पूर्वावलोकन — क्रमवारी केल्या उपरांत:"
+  },
+  "sortPreviewMore": {
+    "message": "... आनी $1 चड",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "ह्या फोल्डराक क्रमवारी करपाक बुकमार्क नात."
+  },
+  "sortSuccess": {
+    "message": "बुकमार्क यशस्वीपणान क्रमवारीत केल्यात."
+  },
+  "emptyScanBtn": {
+    "message": "रिकाम्या फोल्डरां खातीर स्कॅन करात"
+  },
+  "emptyDeleteBtn": {
+    "message": "निवडिल्ले फोल्डर काडून उडोवप"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "रिते फोल्डर ना"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "तुमच्या सगळ्या फोल्डरांत उण्यांत उणी एक वस्तू आसता."
+  },
+  "deletedFolders": {
+    "message": "$1 फोल्डर (फोल्डर) काडून उडयलां.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "शीर्षक वा URL प्रमाणें बुकमार्क सोदचें..."
+  },
+  "chipAll": {
+    "message": "सगलें"
+  },
+  "searchResultCount": {
+    "message": "$1 परिणाम",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "उकतें"
+  },
+  "searchEditBtn": {
+    "message": "संपादन करचें"
+  },
+  "searchCancelEditBtn": {
+    "message": "रद्द"
+  },
+  "searchDeleteBtn": {
+    "message": "वगळावचें"
+  },
+  "searchSaveBtn": {
+    "message": "सांबाळचें"
+  },
+  "searchCancelBtn": {
+    "message": "रद्द"
+  },
+  "emptySearchTitle": {
+    "message": "कसलोच निकाल मेळूंक ना"
+  },
+  "emptySearchDesc": {
+    "message": "वेगळो सोद संज्ञा वा फिल्टर वापरून पळयात."
+  },
+  "deleteConfirmMsg": {
+    "message": "तुमकां हो बुकमार्क काडून उडोवपाचो आसा हाची खात्री आसा?"
+  },
+  "deleteConfirmYes": {
+    "message": "हो, डिलीट करचें"
+  },
+  "deleteConfirmNo": {
+    "message": "रद्द"
+  },
+  "toastDeleted": {
+    "message": "$1 बुकमार्क (बुकमार्क) काडून उडयले.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "डिलीशन फाटीं पडलें. बुकमार्क परतून मेळ्ळे."
+  },
+  "undoBtn": {
+    "message": "पूर्ववत करचें"
+  },
+  "bookmarkUpdated": {
+    "message": "बुकमार्क शीर्षक अद्ययावत केलां."
+  },
+  "errorGeneric": {
+    "message": "एक त्रुटी जाली. उपकार करून परतून यत्न करात."
+  },
+  "noTitle": {
+    "message": "(शीर्षक ना) ."
+  },
+  "unknownFolder": {
+    "message": "(अज्ञात फोल्डर)"
+  },
+  "rootFolder": {
+    "message": "बुकमार्क मुळ"
+  },
+  "ariaNav": {
+    "message": "मुखेल संचारण"
+  },
+  "ariaThemeToggle": {
+    "message": "काळो / उजवाडाचो थीम टॉगल करचो"
+  },
+  "ariaSidebarToggle": {
+    "message": "बाजूची पट्टी टॉगल करची"
+  },
+  "ariaClearSearch": {
+    "message": "सोद स्पश्ट करचो"
+  },
+  "ariaFilterChips": {
+    "message": "फोल्डरा प्रमाणें फिल्टर करचें"
+  },
+  "ariaMarkForDeletion": {
+    "message": "काडून उडोवपा खातीर चिन्न करचें:"
+  },
+  "ariaEditTitle": {
+    "message": "बुकमार्क शीर्षक संपादीत करचें"
+  }
+}

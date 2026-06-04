@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner Kab"
+  },
+  "extDescription": {
+    "message": "Temokake duplikat, tautan sing rusak, atur lan telusuri kabeh tetenger sampeyan - cepet lan resik."
+  },
+  "popupBookmarks": {
+    "message": "Tetenger"
+  },
+  "popupFolders": {
+    "message": "Folder"
+  },
+  "popupOpenManager": {
+    "message": "Bukak Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Resik · Atur · Telusuri"
+  },
+  "popupLoading": {
+    "message": "Memuat statistik…"
+  },
+  "navHome": {
+    "message": "Ngarep"
+  },
+  "navDuplicates": {
+    "message": "Golek Duplikat"
+  },
+  "navBroken": {
+    "message": "Broken Links"
+  },
+  "navOrganize": {
+    "message": "Atur & Urut"
+  },
+  "navSearch": {
+    "message": "Panelusuran & Filter"
+  },
+  "navTheme": {
+    "message": "Ngalih Tema"
+  },
+  "statBookmarks": {
+    "message": "Tetenger"
+  },
+  "statFolders": {
+    "message": "Folder"
+  },
+  "statDuplicates": {
+    "message": "Duplikat"
+  },
+  "statEmptyFolders": {
+    "message": "Folder Kosong"
+  },
+  "featureDupTitle": {
+    "message": "Golek Duplikat"
+  },
+  "featureDupDesc": {
+    "message": "Ndeteksi lan mbusak entri tetenger sing nuduhake URL sing padha."
+  },
+  "featureBrkTitle": {
+    "message": "Broken Links"
+  },
+  "featureBrkDesc": {
+    "message": "Ngenali tetenger kanthi URL sing ora valid, kosong, utawa non-web."
+  },
+  "featureOrgTitle": {
+    "message": "Atur & Urut"
+  },
+  "featureOrgDesc": {
+    "message": "Urut tetenger miturut abjad lan mbusak folder kosong."
+  },
+  "featureSrchTitle": {
+    "message": "Panelusuran & Filter"
+  },
+  "featureSrchDesc": {
+    "message": "Telusuri kanthi cepet ing kabeh tetenger kanthi judhul utawa URL."
+  },
+  "featureRunBtn": {
+    "message": "Mlayu"
+  },
+  "loadingBookmarks": {
+    "message": "Memuat tetenger sampeyan…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Gagal mbukak tetenger. Coba maneh."
+  },
+  "duplicatesSubtitle": {
+    "message": "Tetenger sing nuduhake URL sing padha diklompokake ing ngisor iki. Simpen siji, mbusak liyane."
+  },
+  "dupScanBtn": {
+    "message": "Pindai kanggo Duplikat"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Pilih Otomatis (Tetep Paling Lawas)"
+  },
+  "dupDeleteBtn": {
+    "message": "Mbusak Dipilih"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Busak $1 Tetenger",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Terus Iki"
+  },
+  "dupGroupCount": {
+    "message": "$1 salinan",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Dicenthang $1 / $2 tetenger",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Pindai folder…"
+  },
+  "emptyDupTitle": {
+    "message": "Ora Duplikat Ditemokake"
+  },
+  "emptyDupDesc": {
+    "message": "Koleksi tetenger sampeyan ora duwe duplikat URL. proyek apik!"
+  },
+  "brokenSubtitle": {
+    "message": "Tetenger kanthi URL sing ora valid, kosong, utawa non-web kapacak ing ngisor iki."
+  },
+  "brkScanBtn": {
+    "message": "Pindai Masalah"
+  },
+  "brkDeleteBtn": {
+    "message": "Mbusak Dipilih"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL kosong"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL ora valid"
+  },
+  "badgeLocalFile": {
+    "message": "File Lokal"
+  },
+  "badgeNonWeb": {
+    "message": "Non-Web"
+  },
+  "badgeSuspicious": {
+    "message": "curiga"
+  },
+  "emptyBrkTitle": {
+    "message": "Ora ana masalah sing ditemokake"
+  },
+  "emptyBrkDesc": {
+    "message": "Kabeh tetenger sampeyan katon duwe URL sing bener."
+  },
+  "orgTabSort": {
+    "message": "Urut Tetenger"
+  },
+  "orgTabEmpty": {
+    "message": "Folder Kosong"
+  },
+  "sortSelectFolder": {
+    "message": "Pilih Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Kabeh Tetenger"
+  },
+  "sortOrder": {
+    "message": "Urut Urutan"
+  },
+  "sortAZ": {
+    "message": "A → Z (miturut judhul)"
+  },
+  "sortZA": {
+    "message": "Z → A (miturut judhul)"
+  },
+  "sortDomain": {
+    "message": "Miturut domain URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Folder pisanan, banjur tetenger"
+  },
+  "sortRecursive": {
+    "message": "Urut kanthi rekursif (ditrapake kanggo kabeh subfolder)"
+  },
+  "sortPreviewBtn": {
+    "message": "Pratinjau"
+  },
+  "sortApplyBtn": {
+    "message": "Aplikasi Urut"
+  },
+  "sortPreviewLabel": {
+    "message": "Pratinjau - sawise ngurutake:"
+  },
+  "sortPreviewMore": {
+    "message": "... lan $1 liyane",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Folder iki ora duwe tetenger kanggo diurutake."
+  },
+  "sortSuccess": {
+    "message": "Tetenger kasil diurutake."
+  },
+  "emptyScanBtn": {
+    "message": "Pindai Folder Kosong"
+  },
+  "emptyDeleteBtn": {
+    "message": "Busak Folder sing Dipilih"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Ora ana Folder Kosong"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Kabeh folder sampeyan ngemot paling ora siji item."
+  },
+  "deletedFolders": {
+    "message": "Dibusak $1 folder(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Telusuri tetenger miturut judhul utawa URL…"
+  },
+  "chipAll": {
+    "message": "Kabeh"
+  },
+  "searchResultCount": {
+    "message": "$1 asil",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Mbukak"
+  },
+  "searchEditBtn": {
+    "message": "Sunting"
+  },
+  "searchCancelEditBtn": {
+    "message": "Batal"
+  },
+  "searchDeleteBtn": {
+    "message": "Mbusak"
+  },
+  "searchSaveBtn": {
+    "message": "Simpen"
+  },
+  "searchCancelBtn": {
+    "message": "Batal"
+  },
+  "emptySearchTitle": {
+    "message": "Ora Ana Asil Ditemokake"
+  },
+  "emptySearchDesc": {
+    "message": "Coba istilah telusuran utawa saringan liyane."
+  },
+  "deleteConfirmMsg": {
+    "message": "Apa sampeyan yakin pengin mbusak tetenger iki?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ya, Mbusak"
+  },
+  "deleteConfirmNo": {
+    "message": "Batal"
+  },
+  "toastDeleted": {
+    "message": "$1 tetenger (e) dibusak.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Pambusakan dibatalake. Tetenger dibalekake."
+  },
+  "undoBtn": {
+    "message": "batalaken"
+  },
+  "bookmarkUpdated": {
+    "message": "Judhul tetenger dianyari."
+  },
+  "errorGeneric": {
+    "message": "Ana kesalahan. Coba maneh."
+  },
+  "noTitle": {
+    "message": "(Ora ana Judul)"
+  },
+  "unknownFolder": {
+    "message": "(Folder ora dingerteni)"
+  },
+  "rootFolder": {
+    "message": "Tetenger Root"
+  },
+  "ariaNav": {
+    "message": "Pandhu arah utama"
+  },
+  "ariaThemeToggle": {
+    "message": "Ngalih tema peteng/terang"
+  },
+  "ariaSidebarToggle": {
+    "message": "Ngalih sidebar"
+  },
+  "ariaClearSearch": {
+    "message": "Mbusak panelusuran"
+  },
+  "ariaFilterChips": {
+    "message": "Filter miturut folder"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Tandha kanggo mbusak:"
+  },
+  "ariaEditTitle": {
+    "message": "Sunting judhul tetenger"
+  }
+}

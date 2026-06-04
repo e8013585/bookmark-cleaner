@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Čistač oznaka"
+  },
+  "extShortName": {
+    "message": "BK Čistač"
+  },
+  "extDescription": {
+    "message": "Pronađite duplikate, neispravne veze, organizirajte i pretražujte sve svoje knjižne oznake — brzo i čisto."
+  },
+  "popupBookmarks": {
+    "message": "Knjižne oznake"
+  },
+  "popupFolders": {
+    "message": "mape"
+  },
+  "popupOpenManager": {
+    "message": "Otvorite upravitelja oznaka"
+  },
+  "popupTagline": {
+    "message": "Čisti · Organiziraj · Pretraživanje"
+  },
+  "popupLoading": {
+    "message": "Učitavanje statistike..."
+  },
+  "navHome": {
+    "message": "Dom"
+  },
+  "navDuplicates": {
+    "message": "Pronađite duplikate"
+  },
+  "navBroken": {
+    "message": "Neispravne veze"
+  },
+  "navOrganize": {
+    "message": "Organizirajte i sortirajte"
+  },
+  "navSearch": {
+    "message": "Pretraživanje i filtriranje"
+  },
+  "navTheme": {
+    "message": "Uključi/isključi temu"
+  },
+  "statBookmarks": {
+    "message": "Knjižne oznake"
+  },
+  "statFolders": {
+    "message": "mape"
+  },
+  "statDuplicates": {
+    "message": "Duplikati"
+  },
+  "statEmptyFolders": {
+    "message": "Prazne mape"
+  },
+  "featureDupTitle": {
+    "message": "Pronađite duplikate"
+  },
+  "featureDupDesc": {
+    "message": "Otkrijte i uklonite knjižne oznake koje dijele isti URL."
+  },
+  "featureBrkTitle": {
+    "message": "Neispravne veze"
+  },
+  "featureBrkDesc": {
+    "message": "Prepoznajte oznake s nevažećim, praznim URL-ovima ili URL-ovima koji nisu web."
+  },
+  "featureOrgTitle": {
+    "message": "Organizirajte i sortirajte"
+  },
+  "featureOrgDesc": {
+    "message": "Poredajte oznake abecednim redom i uklonite prazne mape."
+  },
+  "featureSrchTitle": {
+    "message": "Pretraživanje i filtriranje"
+  },
+  "featureSrchDesc": {
+    "message": "Odmah pretražite sve svoje knjižne oznake prema naslovu ili URL-u."
+  },
+  "featureRunBtn": {
+    "message": "Trčanje"
+  },
+  "loadingBookmarks": {
+    "message": "Učitavanje vaših oznaka..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Učitavanje oznaka nije uspjelo. Molimo pokušajte ponovo."
+  },
+  "duplicatesSubtitle": {
+    "message": "Knjižne oznake koje dijele isti URL grupirane su u nastavku. Jedno zadržite, ostalo izbrišite."
+  },
+  "dupScanBtn": {
+    "message": "Skenirajte duplikate"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "dupDeleteBtn": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "dupDeleteBtnCount": {
+    "message": "Brisanje oznaka $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Zadrži ovo"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopije",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Provjerene oznake $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Skeniranje mapa…"
+  },
+  "emptyDupTitle": {
+    "message": "Nema pronađenih duplikata"
+  },
+  "emptyDupDesc": {
+    "message": "Vaša kolekcija oznaka nema dupliciranih URL-ova. odličan posao!"
+  },
+  "brokenSubtitle": {
+    "message": "Oznake s nevažećim, praznim URL-ovima ili URL-ovima koji nisu web navedeni su u nastavku."
+  },
+  "brkScanBtn": {
+    "message": "Traži probleme"
+  },
+  "brkDeleteBtn": {
+    "message": "Izbriši odabrano"
+  },
+  "badgeEmptyUrl": {
+    "message": "Prazan URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Nevažeći URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokalna datoteka"
+  },
+  "badgeNonWeb": {
+    "message": "Ne-web"
+  },
+  "badgeSuspicious": {
+    "message": "Sumnjivo"
+  },
+  "emptyBrkTitle": {
+    "message": "Nema pronađenih problema"
+  },
+  "emptyBrkDesc": {
+    "message": "Čini se da sve vaše oznake imaju važeće URL-ove."
+  },
+  "orgTabSort": {
+    "message": "Poredaj oznake"
+  },
+  "orgTabEmpty": {
+    "message": "Prazne mape"
+  },
+  "sortSelectFolder": {
+    "message": "Odaberite mapu"
+  },
+  "sortAllBookmarks": {
+    "message": "Sve oznake"
+  },
+  "sortOrder": {
+    "message": "Redoslijed sortiranja"
+  },
+  "sortAZ": {
+    "message": "A → Z (po naslovu)"
+  },
+  "sortZA": {
+    "message": "Z → A (po naslovu)"
+  },
+  "sortDomain": {
+    "message": "Prema URL domeni (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Prvo mape, a zatim oznake"
+  },
+  "sortRecursive": {
+    "message": "Sortiraj rekurzivno (primjeni na sve podmape)"
+  },
+  "sortPreviewBtn": {
+    "message": "Pregled"
+  },
+  "sortApplyBtn": {
+    "message": "Primijeni sortiranje"
+  },
+  "sortPreviewLabel": {
+    "message": "Pregled — nakon sortiranja:"
+  },
+  "sortPreviewMore": {
+    "message": "… i još $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Ova mapa nema oznaka za sortiranje."
+  },
+  "sortSuccess": {
+    "message": "Oznake su uspješno sortirane."
+  },
+  "emptyScanBtn": {
+    "message": "Skenirajte prazne mape"
+  },
+  "emptyDeleteBtn": {
+    "message": "Izbriši odabrane mape"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Nema praznih mapa"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Sve vaše mape sadrže barem jednu stavku."
+  },
+  "deletedFolders": {
+    "message": "Izbrisane mape $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Pretraživanje oznaka prema naslovu ili URL-u…"
+  },
+  "chipAll": {
+    "message": "Sve"
+  },
+  "searchResultCount": {
+    "message": "$1 rezultati",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Otvoriti"
+  },
+  "searchEditBtn": {
+    "message": "Uredi"
+  },
+  "searchCancelEditBtn": {
+    "message": "Otkazati"
+  },
+  "searchDeleteBtn": {
+    "message": "Izbrisati"
+  },
+  "searchSaveBtn": {
+    "message": "Uštedjeti"
+  },
+  "searchCancelBtn": {
+    "message": "Otkazati"
+  },
+  "emptySearchTitle": {
+    "message": "Nema pronađenih rezultata"
+  },
+  "emptySearchDesc": {
+    "message": "Pokušajte s drugim pojmom za pretraživanje ili filtrom."
+  },
+  "deleteConfirmMsg": {
+    "message": "Jeste li sigurni da želite izbrisati ovu oznaku?"
+  },
+  "deleteConfirmYes": {
+    "message": "Da, Izbriši"
+  },
+  "deleteConfirmNo": {
+    "message": "Otkazati"
+  },
+  "toastDeleted": {
+    "message": "$1 oznake(e) izbrisane.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Brisanje poništeno. Knjižne oznake vraćene."
+  },
+  "undoBtn": {
+    "message": "Poništi"
+  },
+  "bookmarkUpdated": {
+    "message": "Naslov knjižne oznake ažuriran."
+  },
+  "errorGeneric": {
+    "message": "Došlo je do pogreške. Molimo pokušajte ponovo."
+  },
+  "noTitle": {
+    "message": "(bez naslova)"
+  },
+  "unknownFolder": {
+    "message": "(Nepoznata mapa)"
+  },
+  "rootFolder": {
+    "message": "Oznake Root"
+  },
+  "ariaNav": {
+    "message": "Glavna navigacija"
+  },
+  "ariaThemeToggle": {
+    "message": "Prebaci tamnu/svijetlu temu"
+  },
+  "ariaSidebarToggle": {
+    "message": "Uključi/isključi bočnu traku"
+  },
+  "ariaClearSearch": {
+    "message": "Očisti pretragu"
+  },
+  "ariaFilterChips": {
+    "message": "Filtriraj po mapi"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Označi za brisanje:"
+  },
+  "ariaEditTitle": {
+    "message": "Uredi naslov oznake"
+  }
+}

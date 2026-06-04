@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Limpyo"
+  },
+  "extDescription": {
+    "message": "Pangitag mga duplicate, guba nga mga link, pag-organisar ug pangitaa ang tanan nimong mga bookmark — paspas ug limpyo."
+  },
+  "popupBookmarks": {
+    "message": "Mga bookmark"
+  },
+  "popupFolders": {
+    "message": "Mga folder"
+  },
+  "popupOpenManager": {
+    "message": "Ablihi ang Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Limpyo · Pag-organisar · Pangita"
+  },
+  "popupLoading": {
+    "message": "Nagkarga sa mga istatistika…"
+  },
+  "navHome": {
+    "message": "Balay"
+  },
+  "navDuplicates": {
+    "message": "Pangitag Duplicate"
+  },
+  "navBroken": {
+    "message": "Naputol nga mga Link"
+  },
+  "navOrganize": {
+    "message": "Pag-organisar ug Paghan-ay"
+  },
+  "navSearch": {
+    "message": "Pagpangita ug Pagsala"
+  },
+  "navTheme": {
+    "message": "I-toggle ang Tema"
+  },
+  "statBookmarks": {
+    "message": "Mga bookmark"
+  },
+  "statFolders": {
+    "message": "Mga folder"
+  },
+  "statDuplicates": {
+    "message": "Mga duplicate"
+  },
+  "statEmptyFolders": {
+    "message": "Walay sulod nga mga Folder"
+  },
+  "featureDupTitle": {
+    "message": "Pangitag Duplicate"
+  },
+  "featureDupDesc": {
+    "message": "Makita ug tangtangon ang mga entry sa bookmark nga nag-ambit sa parehas nga URL."
+  },
+  "featureBrkTitle": {
+    "message": "Naputol nga mga Link"
+  },
+  "featureBrkDesc": {
+    "message": "Ilha ang mga bookmark nga adunay dili balido, walay sulod, o dili web nga mga URL."
+  },
+  "featureOrgTitle": {
+    "message": "Pag-organisar ug Paghan-ay"
+  },
+  "featureOrgDesc": {
+    "message": "Pagsunud sa mga bookmark sa alpabeto ug kuhaa ang mga walay sulod nga folder."
+  },
+  "featureSrchTitle": {
+    "message": "Pagpangita ug Pagsala"
+  },
+  "featureSrchDesc": {
+    "message": "Pangita dayon sa tanan nimong mga bookmark pinaagi sa titulo o URL."
+  },
+  "featureRunBtn": {
+    "message": "Dagan"
+  },
+  "loadingBookmarks": {
+    "message": "Nagkarga sa imong mga bookmark…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Napakyas sa pagkarga sa mga bookmark. Palihug sulayi pag-usab."
+  },
+  "duplicatesSubtitle": {
+    "message": "Ang mga bookmark nga nag-ambit sa parehas nga URL gi-grupo sa ubos. Pagtipig og usa, kuhaa ang uban."
+  },
+  "dupScanBtn": {
+    "message": "Pag-scan alang sa mga Duplicate"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Awtomatikong Pagpili (Ipadayon ang Kinaraan)"
+  },
+  "dupDeleteBtn": {
+    "message": "Pagtangtang Gipili"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Pagtangtang sa $1 Mga Bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Hupti Kini"
+  },
+  "dupGroupCount": {
+    "message": "$1 mga kopya",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Gisusi ang $1 / $2 nga mga bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Nag-scan sa mga folder…"
+  },
+  "emptyDupTitle": {
+    "message": "Walay Nakit-an nga mga Duplicate"
+  },
+  "emptyDupDesc": {
+    "message": "Ang imong koleksyon sa bookmark walay duplicate nga mga URL. Nindot nga trabaho!"
+  },
+  "brokenSubtitle": {
+    "message": "Ang mga bookmark nga adunay dili balido, walay sulod, o dili web nga mga URL gilista sa ubos."
+  },
+  "brkScanBtn": {
+    "message": "Pag-scan alang sa mga Isyu"
+  },
+  "brkDeleteBtn": {
+    "message": "Pagtangtang Gipili"
+  },
+  "badgeEmptyUrl": {
+    "message": "Walay sulod nga URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Dili balido nga URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokal nga File"
+  },
+  "badgeNonWeb": {
+    "message": "Dili Web"
+  },
+  "badgeSuspicious": {
+    "message": "Makaduda"
+  },
+  "emptyBrkTitle": {
+    "message": "Walay Nakit-an nga Isyu"
+  },
+  "emptyBrkDesc": {
+    "message": "Ang tanan nimong mga bookmark makita nga adunay balido nga mga URL."
+  },
+  "orgTabSort": {
+    "message": "Pagsunud sa mga Bookmark"
+  },
+  "orgTabEmpty": {
+    "message": "Walay sulod nga mga Folder"
+  },
+  "sortSelectFolder": {
+    "message": "Pilia ang Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Tanan nga mga Bookmark"
+  },
+  "sortOrder": {
+    "message": "Pagsunud-sunod"
+  },
+  "sortAZ": {
+    "message": "A → Z (sa ulohan)"
+  },
+  "sortZA": {
+    "message": "Z → A (sa ulohan)"
+  },
+  "sortDomain": {
+    "message": "Pinaagi sa domain sa URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Mga folder una, dayon mga bookmark"
+  },
+  "sortRecursive": {
+    "message": "Pag-sort sa balikbalik nga paagi (i-apply sa tanang subfolder)"
+  },
+  "sortPreviewBtn": {
+    "message": "Preview"
+  },
+  "sortApplyBtn": {
+    "message": "Ibutang ang Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "I-preview — human sa paghan-ay:"
+  },
+  "sortPreviewMore": {
+    "message": "… ug $1 pa",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Kini nga folder walay mga bookmark nga ihan-ay."
+  },
+  "sortSuccess": {
+    "message": "Malampuson nga nahan-ay ang mga bookmark."
+  },
+  "emptyScanBtn": {
+    "message": "Pag-scan alang sa mga Bakanteng Folder"
+  },
+  "emptyDeleteBtn": {
+    "message": "Pagtangtang sa Pinili nga mga Folder"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Walay Kuwang nga mga Folder"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Ang tanan nimong mga folder adunay labing menos usa ka butang."
+  },
+  "deletedFolders": {
+    "message": "Gitangtang ang $1 (mga) folder.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Pangitaa ang mga bookmark pinaagi sa titulo o URL…"
+  },
+  "chipAll": {
+    "message": "Tanan"
+  },
+  "searchResultCount": {
+    "message": "$1 resulta",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Bukas"
+  },
+  "searchEditBtn": {
+    "message": "Edit"
+  },
+  "searchCancelEditBtn": {
+    "message": "Pagkanselar"
+  },
+  "searchDeleteBtn": {
+    "message": "Pagtangtang"
+  },
+  "searchSaveBtn": {
+    "message": "Tipigi"
+  },
+  "searchCancelBtn": {
+    "message": "Pagkanselar"
+  },
+  "emptySearchTitle": {
+    "message": "Walay Resulta nga Nakit-an"
+  },
+  "emptySearchDesc": {
+    "message": "Sulayi ang lain nga termino sa pagpangita o filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Sigurado ka ba nga gusto nimong papason kini nga bookmark?"
+  },
+  "deleteConfirmYes": {
+    "message": "Oo, Delete"
+  },
+  "deleteConfirmNo": {
+    "message": "Pagkanselar"
+  },
+  "toastDeleted": {
+    "message": "$1 (mga) bookmark gitangtang.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Gibawi ang pagtangtang. Gipahiuli ang mga bookmark."
+  },
+  "undoBtn": {
+    "message": "I-undo"
+  },
+  "bookmarkUpdated": {
+    "message": "Gi-update ang titulo sa bookmark."
+  },
+  "errorGeneric": {
+    "message": "Usa ka sayup ang nahitabo. Palihug sulayi pag-usab."
+  },
+  "noTitle": {
+    "message": "(Walay Titulo)"
+  },
+  "unknownFolder": {
+    "message": "(Wala mailhi nga Folder)"
+  },
+  "rootFolder": {
+    "message": "Mga bookmark nga gamut"
+  },
+  "ariaNav": {
+    "message": "Panguna nga nabigasyon"
+  },
+  "ariaThemeToggle": {
+    "message": "I-toggle ang ngitngit/hayag nga tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "I-toggle ang sidebar"
+  },
+  "ariaClearSearch": {
+    "message": "Klaro nga pagpangita"
+  },
+  "ariaFilterChips": {
+    "message": "Salain pinaagi sa folder"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Markahan para sa pagtangtang:"
+  },
+  "ariaEditTitle": {
+    "message": "I-edit ang ulohan sa bookmark"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Ачышчальнік закладак"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Знайдзіце дублікаты, непрацуючыя спасылкі, упарадкуйце і шукайце ўсе свае закладкі — хутка і чыста."
+  },
+  "popupBookmarks": {
+    "message": "Закладкі"
+  },
+  "popupFolders": {
+    "message": "Папкі"
+  },
+  "popupOpenManager": {
+    "message": "Адкрыйце дыспетчар закладак"
+  },
+  "popupTagline": {
+    "message": "Ачысціць · Арганізаваць · Пошук"
+  },
+  "popupLoading": {
+    "message": "Загрузка статыстыкі..."
+  },
+  "navHome": {
+    "message": "дадому"
+  },
+  "navDuplicates": {
+    "message": "Знайдзіце дублікаты"
+  },
+  "navBroken": {
+    "message": "Непрацуючыя спасылкі"
+  },
+  "navOrganize": {
+    "message": "Арганізаваць і сартаваць"
+  },
+  "navSearch": {
+    "message": "Пошук і фільтр"
+  },
+  "navTheme": {
+    "message": "Пераключыць тэму"
+  },
+  "statBookmarks": {
+    "message": "Закладкі"
+  },
+  "statFolders": {
+    "message": "Папкі"
+  },
+  "statDuplicates": {
+    "message": "Дублікаты"
+  },
+  "statEmptyFolders": {
+    "message": "Пустыя тэчкі"
+  },
+  "featureDupTitle": {
+    "message": "Знайдзіце дублікаты"
+  },
+  "featureDupDesc": {
+    "message": "Выяўленне і выдаленне закладак, якія маюць адзін і той жа URL."
+  },
+  "featureBrkTitle": {
+    "message": "Непрацуючыя спасылкі"
+  },
+  "featureBrkDesc": {
+    "message": "Ідэнтыфікуйце закладкі з несапраўднымі, пустымі або невэб-адрасамі."
+  },
+  "featureOrgTitle": {
+    "message": "Арганізаваць і сартаваць"
+  },
+  "featureOrgDesc": {
+    "message": "Сартуйце закладкі ў алфавітным парадку і выдаляйце пустыя папкі."
+  },
+  "featureSrchTitle": {
+    "message": "Пошук і фільтр"
+  },
+  "featureSrchDesc": {
+    "message": "Імгненны пошук ва ўсіх закладках па назве або URL."
+  },
+  "featureRunBtn": {
+    "message": "Бегчы"
+  },
+  "loadingBookmarks": {
+    "message": "Загрузка вашых закладак…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Не ўдалося загрузіць закладкі. Калі ласка, паспрабуйце яшчэ раз."
+  },
+  "duplicatesSubtitle": {
+    "message": "Закладкі з адным і тым жа URL згрупаваны ніжэй. Захаваць адзін, выдаліць астатнія."
+  },
+  "dupScanBtn": {
+    "message": "Сканіраванне дублікатаў"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Аўтаматычны выбар (захоўваць старыя)"
+  },
+  "dupDeleteBtn": {
+    "message": "Выдаліць выбранае"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Выдаліць $1 закладкі",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Трымайце гэта"
+  },
+  "dupGroupCount": {
+    "message": "$1 экз",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Правераныя закладкі $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Сканаванне папак..."
+  },
+  "emptyDupTitle": {
+    "message": "Дублікаты не знойдзены"
+  },
+  "emptyDupDesc": {
+    "message": "У вашай калекцыі закладак няма дублікатаў URL. Выдатная праца!"
+  },
+  "brokenSubtitle": {
+    "message": "Закладкі з няправільнымі, пустымі або невэб-адрасамі пералічаны ніжэй."
+  },
+  "brkScanBtn": {
+    "message": "Пошук праблем"
+  },
+  "brkDeleteBtn": {
+    "message": "Выдаліць выбранае"
+  },
+  "badgeEmptyUrl": {
+    "message": "Пусты URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Няправільны URL"
+  },
+  "badgeLocalFile": {
+    "message": "Лакальны файл"
+  },
+  "badgeNonWeb": {
+    "message": "Невэб"
+  },
+  "badgeSuspicious": {
+    "message": "Падазроны"
+  },
+  "emptyBrkTitle": {
+    "message": "Праблем не знойдзена"
+  },
+  "emptyBrkDesc": {
+    "message": "Усе вашыя закладкі маюць сапраўдныя URL-адрасы."
+  },
+  "orgTabSort": {
+    "message": "Сартаваць закладкі"
+  },
+  "orgTabEmpty": {
+    "message": "Пустыя тэчкі"
+  },
+  "sortSelectFolder": {
+    "message": "Выберыце Папка"
+  },
+  "sortAllBookmarks": {
+    "message": "Усе закладкі"
+  },
+  "sortOrder": {
+    "message": "Парадак сартавання"
+  },
+  "sortAZ": {
+    "message": "А → Я (па назве)"
+  },
+  "sortZA": {
+    "message": "Я → А (па назве)"
+  },
+  "sortDomain": {
+    "message": "Па дамене URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Спачатку тэчкі, потым закладкі"
+  },
+  "sortRecursive": {
+    "message": "Сартаваць рэкурсіўна (прымяніць да ўсіх укладзеных тэчак)"
+  },
+  "sortPreviewBtn": {
+    "message": "Папярэдні прагляд"
+  },
+  "sortApplyBtn": {
+    "message": "Прымяніць Сартаванне"
+  },
+  "sortPreviewLabel": {
+    "message": "Папярэдні прагляд — пасля сартавання:"
+  },
+  "sortPreviewMore": {
+    "message": "… і яшчэ $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "У гэтай папцы няма закладак для сартавання."
+  },
+  "sortSuccess": {
+    "message": "Закладкі паспяхова адсартаваны."
+  },
+  "emptyScanBtn": {
+    "message": "Сканіраванне пустых тэчак"
+  },
+  "emptyDeleteBtn": {
+    "message": "Выдаліць выбраныя тэчкі"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Няма пустых тэчак"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Усе вашы папкі ўтрымліваюць хаця б адзін элемент."
+  },
+  "deletedFolders": {
+    "message": "Выдалена папка(і) $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Пошук у закладках па назве або URL-адрасе…"
+  },
+  "chipAll": {
+    "message": "Усе"
+  },
+  "searchResultCount": {
+    "message": "$1 вынікі",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Адкрыты"
+  },
+  "searchEditBtn": {
+    "message": "Рэдагаваць"
+  },
+  "searchCancelEditBtn": {
+    "message": "Адмяніць"
+  },
+  "searchDeleteBtn": {
+    "message": "Выдаліць"
+  },
+  "searchSaveBtn": {
+    "message": "Захаваць"
+  },
+  "searchCancelBtn": {
+    "message": "Адмяніць"
+  },
+  "emptySearchTitle": {
+    "message": "Вынікаў не знойдзена"
+  },
+  "emptySearchDesc": {
+    "message": "Паспрабуйце іншы тэрмін пошуку або фільтр."
+  },
+  "deleteConfirmMsg": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "deleteConfirmYes": {
+    "message": "Так, Выдаліць"
+  },
+  "deleteConfirmNo": {
+    "message": "Адмяніць"
+  },
+  "toastDeleted": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Выдаленне адменена. Закладкі адноўлены."
+  },
+  "undoBtn": {
+    "message": "Адмяніць"
+  },
+  "bookmarkUpdated": {
+    "message": "Назва закладкі абноўлена."
+  },
+  "errorGeneric": {
+    "message": "Адбылася памылка. Калі ласка, паспрабуйце яшчэ раз."
+  },
+  "noTitle": {
+    "message": "(Без назвы)"
+  },
+  "unknownFolder": {
+    "message": "(Невядомая папка)"
+  },
+  "rootFolder": {
+    "message": "Закладкі Root"
+  },
+  "ariaNav": {
+    "message": "Галоўная навігацыя"
+  },
+  "ariaThemeToggle": {
+    "message": "Пераключыць цёмную/светлую тэму"
+  },
+  "ariaSidebarToggle": {
+    "message": "Пераключыць бакавую панэль"
+  },
+  "ariaClearSearch": {
+    "message": "Выразны пошук"
+  },
+  "ariaFilterChips": {
+    "message": "Фільтр па папках"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Пазначыць для выдалення:"
+  },
+  "ariaEditTitle": {
+    "message": "Рэдагаваць назву закладкі"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Limpiador de marcadores"
+  },
+  "extShortName": {
+    "message": "Limpiador BK"
+  },
+  "extDescription": {
+    "message": "Encuentre duplicados, enlaces rotos, organice y busque todos sus marcadores, de forma rápida y limpia."
+  },
+  "popupBookmarks": {
+    "message": "Marcadores"
+  },
+  "popupFolders": {
+    "message": "Carpetas"
+  },
+  "popupOpenManager": {
+    "message": "Abrir Administrador de marcadores"
+  },
+  "popupTagline": {
+    "message": "Limpiar · Organizar · Buscar"
+  },
+  "popupLoading": {
+    "message": "Cargando estadísticas…"
+  },
+  "navHome": {
+    "message": "Hogar"
+  },
+  "navDuplicates": {
+    "message": "Buscar duplicados"
+  },
+  "navBroken": {
+    "message": "Enlaces rotos"
+  },
+  "navOrganize": {
+    "message": "Organizar y ordenar"
+  },
+  "navSearch": {
+    "message": "Buscar y filtrar"
+  },
+  "navTheme": {
+    "message": "Alternar tema"
+  },
+  "statBookmarks": {
+    "message": "Marcadores"
+  },
+  "statFolders": {
+    "message": "Carpetas"
+  },
+  "statDuplicates": {
+    "message": "Duplicados"
+  },
+  "statEmptyFolders": {
+    "message": "Carpetas vacías"
+  },
+  "featureDupTitle": {
+    "message": "Buscar duplicados"
+  },
+  "featureDupDesc": {
+    "message": "Detecta y elimina entradas de marcadores que comparten la misma URL."
+  },
+  "featureBrkTitle": {
+    "message": "Enlaces rotos"
+  },
+  "featureBrkDesc": {
+    "message": "Identifique marcadores con URL no válidas, vacías o que no sean web."
+  },
+  "featureOrgTitle": {
+    "message": "Organizar y ordenar"
+  },
+  "featureOrgDesc": {
+    "message": "Ordene los marcadores alfabéticamente y elimine las carpetas vacías."
+  },
+  "featureSrchTitle": {
+    "message": "Buscar y filtrar"
+  },
+  "featureSrchDesc": {
+    "message": "Busque instantáneamente en todos sus marcadores por título o URL."
+  },
+  "featureRunBtn": {
+    "message": "Correr"
+  },
+  "loadingBookmarks": {
+    "message": "Cargando tus marcadores…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "No se pudieron cargar los marcadores. Por favor inténtalo de nuevo."
+  },
+  "duplicatesSubtitle": {
+    "message": "Los marcadores que comparten la misma URL se agrupan a continuación. Quédate uno, elimina el resto."
+  },
+  "dupScanBtn": {
+    "message": "Escanear en busca de duplicados"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Selección automática (mantener más antiguo)"
+  },
+  "dupDeleteBtn": {
+    "message": "Eliminar seleccionado"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Eliminar $1 Marcadores",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Mantenga esto"
+  },
+  "dupGroupCount": {
+    "message": "$1 copias",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Marcadores $1 / $2 marcados",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Escaneando carpetas…"
+  },
+  "emptyDupTitle": {
+    "message": "No se encontraron duplicados"
+  },
+  "emptyDupDesc": {
+    "message": "Tu colección de marcadores no tiene URL duplicadas. ¡Buen trabajo!"
+  },
+  "brokenSubtitle": {
+    "message": "A continuación se enumeran los marcadores con URL no válidas, vacías o que no pertenecen a la web."
+  },
+  "brkScanBtn": {
+    "message": "Escanear en busca de problemas"
+  },
+  "brkDeleteBtn": {
+    "message": "Eliminar seleccionado"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL vacía"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL no válida"
+  },
+  "badgeLocalFile": {
+    "message": "Archivo local"
+  },
+  "badgeNonWeb": {
+    "message": "No web"
+  },
+  "badgeSuspicious": {
+    "message": "Sospechoso"
+  },
+  "emptyBrkTitle": {
+    "message": "No se encontraron problemas"
+  },
+  "emptyBrkDesc": {
+    "message": "Todos sus marcadores parecen tener URL válidas."
+  },
+  "orgTabSort": {
+    "message": "Ordenar marcadores"
+  },
+  "orgTabEmpty": {
+    "message": "Carpetas vacías"
+  },
+  "sortSelectFolder": {
+    "message": "Seleccionar carpeta"
+  },
+  "sortAllBookmarks": {
+    "message": "Todos los marcadores"
+  },
+  "sortOrder": {
+    "message": "Orden de clasificación"
+  },
+  "sortAZ": {
+    "message": "A → Z (por título)"
+  },
+  "sortZA": {
+    "message": "Z → A (por título)"
+  },
+  "sortDomain": {
+    "message": "Por dominio URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Primero las carpetas y luego los marcadores."
+  },
+  "sortRecursive": {
+    "message": "Ordenar recursivamente (aplicar a todas las subcarpetas)"
+  },
+  "sortPreviewBtn": {
+    "message": "Avance"
+  },
+  "sortApplyBtn": {
+    "message": "Aplicar orden"
+  },
+  "sortPreviewLabel": {
+    "message": "Vista previa - después de ordenar:"
+  },
+  "sortPreviewMore": {
+    "message": "… y $1 más",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Esta carpeta no tiene marcadores para ordenar."
+  },
+  "sortSuccess": {
+    "message": "Marcadores ordenados correctamente."
+  },
+  "emptyScanBtn": {
+    "message": "Escanear en busca de carpetas vacías"
+  },
+  "emptyDeleteBtn": {
+    "message": "Eliminar carpetas seleccionadas"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Sin carpetas vacías"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Todas sus carpetas contienen al menos un elemento."
+  },
+  "deletedFolders": {
+    "message": "Carpetas $1 eliminadas.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Buscar marcadores por título o URL..."
+  },
+  "chipAll": {
+    "message": "Todo"
+  },
+  "searchResultCount": {
+    "message": "$1 resultados",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Abierto"
+  },
+  "searchEditBtn": {
+    "message": "Editar"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cancelar"
+  },
+  "searchDeleteBtn": {
+    "message": "Borrar"
+  },
+  "searchSaveBtn": {
+    "message": "Ahorrar"
+  },
+  "searchCancelBtn": {
+    "message": "Cancelar"
+  },
+  "emptySearchTitle": {
+    "message": "No se encontraron resultados"
+  },
+  "emptySearchDesc": {
+    "message": "Pruebe con un término de búsqueda o filtro diferente."
+  },
+  "deleteConfirmMsg": {
+    "message": "¿Está seguro de que desea eliminar este marcador?"
+  },
+  "deleteConfirmYes": {
+    "message": "Sí, eliminar"
+  },
+  "deleteConfirmNo": {
+    "message": "Cancelar"
+  },
+  "toastDeleted": {
+    "message": "$1 marcador(s) eliminado(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Eliminación deshecha. Marcadores restaurados."
+  },
+  "undoBtn": {
+    "message": "Deshacer"
+  },
+  "bookmarkUpdated": {
+    "message": "Título del marcador actualizado."
+  },
+  "errorGeneric": {
+    "message": "Se produjo un error. Por favor inténtalo de nuevo."
+  },
+  "noTitle": {
+    "message": "(Sin título)"
+  },
+  "unknownFolder": {
+    "message": "(Carpeta desconocida)"
+  },
+  "rootFolder": {
+    "message": "Raíz de marcadores"
+  },
+  "ariaNav": {
+    "message": "Navegación principal"
+  },
+  "ariaThemeToggle": {
+    "message": "Alternar tema oscuro/claro"
+  },
+  "ariaSidebarToggle": {
+    "message": "Alternar barra lateral"
+  },
+  "ariaClearSearch": {
+    "message": "Borrar búsqueda"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrar por carpeta"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marcar para eliminación:"
+  },
+  "ariaEditTitle": {
+    "message": "Editar título del marcador"
+  }
+}

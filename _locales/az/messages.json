@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Əlfəcin Təmizləyicisi"
+  },
+  "extShortName": {
+    "message": "BK Təmizləyici"
+  },
+  "extDescription": {
+    "message": "Dublikatları, pozulmuş keçidləri tapın, bütün əlfəcinlərinizi təşkil edin və axtarın — sürətli və təmiz."
+  },
+  "popupBookmarks": {
+    "message": "Əlfəcinlər"
+  },
+  "popupFolders": {
+    "message": "Qovluqlar"
+  },
+  "popupOpenManager": {
+    "message": "Əlfəcin menecerini açın"
+  },
+  "popupTagline": {
+    "message": "Təmizləmək · Təşkil etmək · Axtarış"
+  },
+  "popupLoading": {
+    "message": "Statistikalar yüklənir..."
+  },
+  "navHome": {
+    "message": "Ev"
+  },
+  "navDuplicates": {
+    "message": "Dublikatları tapın"
+  },
+  "navBroken": {
+    "message": "Qırılmış Bağlantılar"
+  },
+  "navOrganize": {
+    "message": "Təşkil et və çeşidləyin"
+  },
+  "navSearch": {
+    "message": "Axtarış və Filtr"
+  },
+  "navTheme": {
+    "message": "Mövzunu dəyişin"
+  },
+  "statBookmarks": {
+    "message": "Əlfəcinlər"
+  },
+  "statFolders": {
+    "message": "Qovluqlar"
+  },
+  "statDuplicates": {
+    "message": "Dublikatlar"
+  },
+  "statEmptyFolders": {
+    "message": "Boş Qovluqlar"
+  },
+  "featureDupTitle": {
+    "message": "Dublikatları tapın"
+  },
+  "featureDupDesc": {
+    "message": "Eyni URL-i paylaşan əlfəcin qeydlərini aşkar edin və silin."
+  },
+  "featureBrkTitle": {
+    "message": "Qırılmış Bağlantılar"
+  },
+  "featureBrkDesc": {
+    "message": "Yanlış, boş və ya qeyri-veb URL-ləri olan əlfəcinləri müəyyənləşdirin."
+  },
+  "featureOrgTitle": {
+    "message": "Təşkil et və çeşidləyin"
+  },
+  "featureOrgDesc": {
+    "message": "Əlfəcinləri əlifba sırası ilə sıralayın və boş qovluqları silin."
+  },
+  "featureSrchTitle": {
+    "message": "Axtarış və Filtr"
+  },
+  "featureSrchDesc": {
+    "message": "Başlıq və ya URL ilə bütün əlfəcinlərinizdə dərhal axtarış edin."
+  },
+  "featureRunBtn": {
+    "message": "Qaç"
+  },
+  "loadingBookmarks": {
+    "message": "Əlfəcinləriniz yüklənir..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Əlfəcinləri yükləmək alınmadı. Yenidən cəhd edin."
+  },
+  "duplicatesSubtitle": {
+    "message": "Eyni URL-i paylaşan əlfəcinlər aşağıda qruplaşdırılıb. Birini saxlayın, qalanını silin."
+  },
+  "dupScanBtn": {
+    "message": "Dublikatları skan edin"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Avtomatik Seçim (Ən köhnə saxla)"
+  },
+  "dupDeleteBtn": {
+    "message": "Seçilmişi Sil"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 Əlfəcinləri silin",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Bunu Saxla"
+  },
+  "dupGroupCount": {
+    "message": "$1 nüsxələri",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 əlfəcinləri yoxlanıldı",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Qovluqlar skan edilir..."
+  },
+  "emptyDupTitle": {
+    "message": "Dublikatlar tapılmadı"
+  },
+  "emptyDupDesc": {
+    "message": "Əlfəcin kolleksiyanızda dublikat URL yoxdur. Əla iş!"
+  },
+  "brokenSubtitle": {
+    "message": "Yanlış, boş və ya qeyri-veb URL-ləri olan əlfəcinlər aşağıda verilmişdir."
+  },
+  "brkScanBtn": {
+    "message": "Problemləri skan edin"
+  },
+  "brkDeleteBtn": {
+    "message": "Seçilmişi Sil"
+  },
+  "badgeEmptyUrl": {
+    "message": "Boş URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Yanlış URL"
+  },
+  "badgeLocalFile": {
+    "message": "Yerli Fayl"
+  },
+  "badgeNonWeb": {
+    "message": "Qeyri-Veb"
+  },
+  "badgeSuspicious": {
+    "message": "şübhəli"
+  },
+  "emptyBrkTitle": {
+    "message": "Heç bir problem tapılmadı"
+  },
+  "emptyBrkDesc": {
+    "message": "Bütün əlfəcinlərinizin etibarlı URL-ləri var."
+  },
+  "orgTabSort": {
+    "message": "Əlfəcinləri çeşidləyin"
+  },
+  "orgTabEmpty": {
+    "message": "Boş Qovluqlar"
+  },
+  "sortSelectFolder": {
+    "message": "Qovluq seçin"
+  },
+  "sortAllBookmarks": {
+    "message": "Bütün Əlfəcinlər"
+  },
+  "sortOrder": {
+    "message": "Sırala"
+  },
+  "sortAZ": {
+    "message": "A → Z (başlığa görə)"
+  },
+  "sortZA": {
+    "message": "Z → A (başlığa görə)"
+  },
+  "sortDomain": {
+    "message": "URL domeni üzrə (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Əvvəlcə qovluqlar, sonra əlfəcinlər"
+  },
+  "sortRecursive": {
+    "message": "Rekursiv şəkildə çeşidləyin (bütün alt qovluqlara tətbiq edin)"
+  },
+  "sortPreviewBtn": {
+    "message": "Önizləmə"
+  },
+  "sortApplyBtn": {
+    "message": "Sort tətbiq edin"
+  },
+  "sortPreviewLabel": {
+    "message": "Önizləmə — çeşidləndikdən sonra:"
+  },
+  "sortPreviewMore": {
+    "message": "… və daha çox $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Bu qovluğun çeşidləmək üçün əlfəcinləri yoxdur."
+  },
+  "sortSuccess": {
+    "message": "Əlfəcinlər uğurla çeşidləndi."
+  },
+  "emptyScanBtn": {
+    "message": "Boş Qovluqları Skan edin"
+  },
+  "emptyDeleteBtn": {
+    "message": "Seçilmiş Qovluqları Sil"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Boş Qovluq Yoxdur"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Bütün qovluqlarınızda ən azı bir element var."
+  },
+  "deletedFolders": {
+    "message": "$1 qovluq(lar)ı silindi.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Əlfəcinləri başlıq və ya URL üzrə axtarın..."
+  },
+  "chipAll": {
+    "message": "Hamısı"
+  },
+  "searchResultCount": {
+    "message": "$1 nəticələri",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Açıq"
+  },
+  "searchEditBtn": {
+    "message": "Redaktə et"
+  },
+  "searchCancelEditBtn": {
+    "message": "Ləğv et"
+  },
+  "searchDeleteBtn": {
+    "message": "Sil"
+  },
+  "searchSaveBtn": {
+    "message": "Saxla"
+  },
+  "searchCancelBtn": {
+    "message": "Ləğv et"
+  },
+  "emptySearchTitle": {
+    "message": "Heç bir nəticə tapılmadı"
+  },
+  "emptySearchDesc": {
+    "message": "Fərqli axtarış termini və ya filtri sınayın."
+  },
+  "deleteConfirmMsg": {
+    "message": "Bu əlfəcin silmək istədiyinizə əminsiniz?"
+  },
+  "deleteConfirmYes": {
+    "message": "Bəli, Sil"
+  },
+  "deleteConfirmNo": {
+    "message": "Ləğv et"
+  },
+  "toastDeleted": {
+    "message": "$1 əlfəcin(lər) silindi.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Silinmə geri qaytarıldı. Əlfəcinlər bərpa edildi."
+  },
+  "undoBtn": {
+    "message": "Geri al"
+  },
+  "bookmarkUpdated": {
+    "message": "Əlfəcin başlığı yeniləndi."
+  },
+  "errorGeneric": {
+    "message": "Xəta baş verdi. Yenidən cəhd edin."
+  },
+  "noTitle": {
+    "message": "(Başlıq yoxdur)"
+  },
+  "unknownFolder": {
+    "message": "(Naməlum Qovluq)"
+  },
+  "rootFolder": {
+    "message": "Əlfəcinlər Kökü"
+  },
+  "ariaNav": {
+    "message": "Əsas naviqasiya"
+  },
+  "ariaThemeToggle": {
+    "message": "Qaranlıq/açıq mövzunu dəyişin"
+  },
+  "ariaSidebarToggle": {
+    "message": "Yan panelə keçin"
+  },
+  "ariaClearSearch": {
+    "message": "Axtarışı təmizləyin"
+  },
+  "ariaFilterChips": {
+    "message": "Qovluq üzrə süzün"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Silinmək üçün işarələyin:"
+  },
+  "ariaEditTitle": {
+    "message": "Əlfəcin başlığını redaktə edin"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Էջանիշ մաքրող միջոց"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Գտեք կրկնօրինակներ, կոտրված հղումներ, կազմակերպեք և որոնեք ձեր բոլոր էջանիշները՝ արագ և մաքուր:"
+  },
+  "popupBookmarks": {
+    "message": "Էջանիշեր"
+  },
+  "popupFolders": {
+    "message": "Թղթապանակներ"
+  },
+  "popupOpenManager": {
+    "message": "Բացեք Էջանիշերի կառավարիչը"
+  },
+  "popupTagline": {
+    "message": "Մաքուր · Կազմակերպել · Որոնել"
+  },
+  "popupLoading": {
+    "message": "Վիճակագրության բեռնում…"
+  },
+  "navHome": {
+    "message": "Տուն"
+  },
+  "navDuplicates": {
+    "message": "Գտեք կրկնօրինակներ"
+  },
+  "navBroken": {
+    "message": "Կոտրված հղումներ"
+  },
+  "navOrganize": {
+    "message": "Կազմակերպել և տեսակավորել"
+  },
+  "navSearch": {
+    "message": "Որոնում և զտում"
+  },
+  "navTheme": {
+    "message": "Փոխարկել թեման"
+  },
+  "statBookmarks": {
+    "message": "Էջանիշեր"
+  },
+  "statFolders": {
+    "message": "Թղթապանակներ"
+  },
+  "statDuplicates": {
+    "message": "Կրկնօրինակներ"
+  },
+  "statEmptyFolders": {
+    "message": "Դատարկ Թղթապանակներ"
+  },
+  "featureDupTitle": {
+    "message": "Գտեք կրկնօրինակներ"
+  },
+  "featureDupDesc": {
+    "message": "Հայտնաբերել և հեռացնել էջանիշերի գրառումները, որոնք կիսում են նույն URL-ը:"
+  },
+  "featureBrkTitle": {
+    "message": "Կոտրված հղումներ"
+  },
+  "featureBrkDesc": {
+    "message": "Որոշեք էջանիշները անվավեր, դատարկ կամ ոչ վեբ URL-ներով:"
+  },
+  "featureOrgTitle": {
+    "message": "Կազմակերպել և տեսակավորել"
+  },
+  "featureOrgDesc": {
+    "message": "Դասավորել էջանիշները այբբենական կարգով և հեռացնել դատարկ թղթապանակները:"
+  },
+  "featureSrchTitle": {
+    "message": "Որոնում և զտում"
+  },
+  "featureSrchDesc": {
+    "message": "Անմիջապես որոնեք ձեր բոլոր էջանիշներում՝ ըստ վերնագրի կամ URL-ի:"
+  },
+  "featureRunBtn": {
+    "message": "Վազիր"
+  },
+  "loadingBookmarks": {
+    "message": "Ձեր էջանիշները բեռնվում են…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Չհաջողվեց բեռնել էջանիշները: Խնդրում ենք կրկին փորձել:"
+  },
+  "duplicatesSubtitle": {
+    "message": "Նույն URL-ը կիսող էջանիշները խմբավորված են ստորև: Մեկը պահիր, մնացածը ջնջիր։"
+  },
+  "dupScanBtn": {
+    "message": "Սկան կրկնօրինակների համար"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Ավտոմատ ընտրություն (Պահպանել ամենահինը)"
+  },
+  "dupDeleteBtn": {
+    "message": "Ջնջել ընտրվածը"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Ջնջել $1 էջանիշները",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Պահպանեք սա"
+  },
+  "dupGroupCount": {
+    "message": "$1 պատճենները",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Ստուգված $1 / $2 էջանիշները",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Թղթապանակների սկանավորում…"
+  },
+  "emptyDupTitle": {
+    "message": "Կրկնօրինակներ չեն գտնվել"
+  },
+  "emptyDupDesc": {
+    "message": "Ձեր էջանիշերի հավաքածուն կրկնօրինակ URL-ներ չունի: Հիանալի աշխատանք:"
+  },
+  "brokenSubtitle": {
+    "message": "Անվավեր, դատարկ կամ ոչ վեբ URL-ներով էջանիշները ներկայացված են ստորև:"
+  },
+  "brkScanBtn": {
+    "message": "Խնդիրների սկանավորում"
+  },
+  "brkDeleteBtn": {
+    "message": "Ջնջել ընտրվածը"
+  },
+  "badgeEmptyUrl": {
+    "message": "Դատարկ URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Անվավեր URL"
+  },
+  "badgeLocalFile": {
+    "message": "Տեղական ֆայլ"
+  },
+  "badgeNonWeb": {
+    "message": "Ոչ վեբ"
+  },
+  "badgeSuspicious": {
+    "message": "Կասկածելի"
+  },
+  "emptyBrkTitle": {
+    "message": "Ոչ մի խնդիր չի գտնվել"
+  },
+  "emptyBrkDesc": {
+    "message": "Ձեր բոլոր էջանիշները կարծես վավեր URL-ներ ունեն:"
+  },
+  "orgTabSort": {
+    "message": "Տեսակավորել էջանիշները"
+  },
+  "orgTabEmpty": {
+    "message": "Դատարկ Թղթապանակներ"
+  },
+  "sortSelectFolder": {
+    "message": "Ընտրեք Թղթապանակ"
+  },
+  "sortAllBookmarks": {
+    "message": "Բոլոր էջանիշները"
+  },
+  "sortOrder": {
+    "message": "Տեսակավորելու կարգը"
+  },
+  "sortAZ": {
+    "message": "A → Z (ըստ վերնագրի)"
+  },
+  "sortZA": {
+    "message": "Z → A (ըստ վերնագրի)"
+  },
+  "sortDomain": {
+    "message": "Ըստ URL տիրույթի (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Սկզբում թղթապանակներ, ապա էջանիշներ"
+  },
+  "sortRecursive": {
+    "message": "Դասավորել ռեկուրսիվորեն (կիրառել բոլոր ենթաթղթապանակներին)"
+  },
+  "sortPreviewBtn": {
+    "message": "Նախադիտում"
+  },
+  "sortApplyBtn": {
+    "message": "Կիրառել տեսակավորումը"
+  },
+  "sortPreviewLabel": {
+    "message": "Նախադիտում — տեսակավորումից հետո."
+  },
+  "sortPreviewMore": {
+    "message": "… և $1 ավելին",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Այս թղթապանակը տեսակավորելու էջանիշեր չունի:"
+  },
+  "sortSuccess": {
+    "message": "Էջանիշները հաջողությամբ տեսակավորվել են:"
+  },
+  "emptyScanBtn": {
+    "message": "Սկան դատարկ թղթապանակներ"
+  },
+  "emptyDeleteBtn": {
+    "message": "Ջնջել ընտրված թղթապանակները"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Դատարկ թղթապանակներ չկան"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Ձեր բոլոր թղթապանակները պարունակում են առնվազն մեկ տարր:"
+  },
+  "deletedFolders": {
+    "message": "Ջնջված է $1 պանակ(ներ):",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Որոնեք էջանիշներն ըստ վերնագրի կամ URL-ի…"
+  },
+  "chipAll": {
+    "message": "Բոլորը"
+  },
+  "searchResultCount": {
+    "message": "$1 արդյունքները",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Բաց"
+  },
+  "searchEditBtn": {
+    "message": "Խմբագրել"
+  },
+  "searchCancelEditBtn": {
+    "message": "Չեղարկել"
+  },
+  "searchDeleteBtn": {
+    "message": "Ջնջել"
+  },
+  "searchSaveBtn": {
+    "message": "Պահպանել"
+  },
+  "searchCancelBtn": {
+    "message": "Չեղարկել"
+  },
+  "emptySearchTitle": {
+    "message": "Արդյունքներ չեն գտնվել"
+  },
+  "emptySearchDesc": {
+    "message": "Փորձեք այլ որոնման տերմին կամ զտիչ:"
+  },
+  "deleteConfirmMsg": {
+    "message": "Իսկապե՞ս ուզում եք ջնջել այս էջանիշը:"
+  },
+  "deleteConfirmYes": {
+    "message": "Այո, Ջնջել"
+  },
+  "deleteConfirmNo": {
+    "message": "Չեղարկել"
+  },
+  "toastDeleted": {
+    "message": "$1 էջանիշ(ներ)ը ջնջված է:",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Ջնջումը չեղարկվեց: Էջանիշները վերականգնվեցին։"
+  },
+  "undoBtn": {
+    "message": "Հետարկել"
+  },
+  "bookmarkUpdated": {
+    "message": "Էջանիշի վերնագիրը թարմացվել է:"
+  },
+  "errorGeneric": {
+    "message": "Սխալ է տեղի ունեցել: Խնդրում ենք կրկին փորձել:"
+  },
+  "noTitle": {
+    "message": "(Առանց վերնագրի)"
+  },
+  "unknownFolder": {
+    "message": "(Անհայտ թղթապանակ)"
+  },
+  "rootFolder": {
+    "message": "Էջանիշներ Արմատ"
+  },
+  "ariaNav": {
+    "message": "Հիմնական նավարկություն"
+  },
+  "ariaThemeToggle": {
+    "message": "Միացնել մուգ/թեթև թեման"
+  },
+  "ariaSidebarToggle": {
+    "message": "Միացնել կողագոտին"
+  },
+  "ariaClearSearch": {
+    "message": "Մաքրել որոնումը"
+  },
+  "ariaFilterChips": {
+    "message": "Զտել ըստ թղթապանակի"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Նշել ջնջման համար."
+  },
+  "ariaEditTitle": {
+    "message": "Խմբագրել էջանիշի անվանումը"
+  }
+}

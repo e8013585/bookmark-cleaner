@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Βρείτε διπλότυπους, κατεστραμμένους συνδέσμους, οργανώστε και αναζητήστε όλους τους σελιδοδείκτες σας — γρήγορα και καθαρά."
+  },
+  "popupBookmarks": {
+    "message": "Σελιδοδείκτες"
+  },
+  "popupFolders": {
+    "message": "Φάκελοι"
+  },
+  "popupOpenManager": {
+    "message": "Ανοίξτε τη Διαχείριση σελιδοδεικτών"
+  },
+  "popupTagline": {
+    "message": "Καθαρισμός · Οργάνωση · Αναζήτηση"
+  },
+  "popupLoading": {
+    "message": "Φόρτωση στατιστικών…"
+  },
+  "navHome": {
+    "message": "Σπίτι"
+  },
+  "navDuplicates": {
+    "message": "Βρείτε διπλότυπα"
+  },
+  "navBroken": {
+    "message": "Κατεστραμμένοι σύνδεσμοι"
+  },
+  "navOrganize": {
+    "message": "Οργάνωση & Ταξινόμηση"
+  },
+  "navSearch": {
+    "message": "Αναζήτηση & Φίλτρο"
+  },
+  "navTheme": {
+    "message": "Εναλλαγή θέματος"
+  },
+  "statBookmarks": {
+    "message": "Σελιδοδείκτες"
+  },
+  "statFolders": {
+    "message": "Φάκελοι"
+  },
+  "statDuplicates": {
+    "message": "Αντίγραφα"
+  },
+  "statEmptyFolders": {
+    "message": "Κενοί φάκελοι"
+  },
+  "featureDupTitle": {
+    "message": "Βρείτε διπλότυπα"
+  },
+  "featureDupDesc": {
+    "message": "Εντοπίστε και αφαιρέστε καταχωρίσεις σελιδοδεικτών που μοιράζονται την ίδια διεύθυνση URL."
+  },
+  "featureBrkTitle": {
+    "message": "Κατεστραμμένοι σύνδεσμοι"
+  },
+  "featureBrkDesc": {
+    "message": "Προσδιορίστε σελιδοδείκτες με μη έγκυρες, κενές ή μη διευθύνσεις URL ιστού."
+  },
+  "featureOrgTitle": {
+    "message": "Οργάνωση & Ταξινόμηση"
+  },
+  "featureOrgDesc": {
+    "message": "Ταξινομήστε τους σελιδοδείκτες αλφαβητικά και αφαιρέστε τους άδειους φακέλους."
+  },
+  "featureSrchTitle": {
+    "message": "Αναζήτηση & Φίλτρο"
+  },
+  "featureSrchDesc": {
+    "message": "Κάντε άμεση αναζήτηση σε όλους τους σελιδοδείκτες σας ανά τίτλο ή διεύθυνση URL."
+  },
+  "featureRunBtn": {
+    "message": "Τρέξιμο"
+  },
+  "loadingBookmarks": {
+    "message": "Φόρτωση των σελιδοδεικτών σας…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Η φόρτωση των σελιδοδεικτών απέτυχε. Δοκιμάστε ξανά."
+  },
+  "duplicatesSubtitle": {
+    "message": "Οι σελιδοδείκτες που μοιράζονται την ίδια διεύθυνση URL ομαδοποιούνται παρακάτω. Κρατήστε ένα, διαγράψτε τα υπόλοιπα."
+  },
+  "dupScanBtn": {
+    "message": "Σάρωση για διπλότυπα"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Αυτόματη επιλογή (Διατήρηση παλαιότερων)"
+  },
+  "dupDeleteBtn": {
+    "message": "Διαγραφή επιλεγμένων"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Διαγραφή $1 Σελιδοδεικτών",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Κρατήστε αυτό"
+  },
+  "dupGroupCount": {
+    "message": "$1 αντίγραφα",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Έλεγξε τους σελιδοδείκτες $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Σάρωση φακέλων…"
+  },
+  "emptyDupTitle": {
+    "message": "Δεν βρέθηκαν διπλότυπα"
+  },
+  "emptyDupDesc": {
+    "message": "Η συλλογή σελιδοδεικτών σας δεν έχει διπλότυπες διευθύνσεις URL. Μεγάλη δουλειά!"
+  },
+  "brokenSubtitle": {
+    "message": "Παρακάτω παρατίθενται σελιδοδείκτες με μη έγκυρες, κενές ή μη διευθύνσεις URL."
+  },
+  "brkScanBtn": {
+    "message": "Σάρωση για ζητήματα"
+  },
+  "brkDeleteBtn": {
+    "message": "Διαγραφή επιλεγμένων"
+  },
+  "badgeEmptyUrl": {
+    "message": "Κενό URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Μη έγκυρη διεύθυνση URL"
+  },
+  "badgeLocalFile": {
+    "message": "Τοπικό αρχείο"
+  },
+  "badgeNonWeb": {
+    "message": "Μη Web"
+  },
+  "badgeSuspicious": {
+    "message": "Υποπτος"
+  },
+  "emptyBrkTitle": {
+    "message": "Δεν βρέθηκαν προβλήματα"
+  },
+  "emptyBrkDesc": {
+    "message": "Όλοι οι σελιδοδείκτες σας φαίνεται να έχουν έγκυρες διευθύνσεις URL."
+  },
+  "orgTabSort": {
+    "message": "Ταξινόμηση σελιδοδεικτών"
+  },
+  "orgTabEmpty": {
+    "message": "Κενοί φάκελοι"
+  },
+  "sortSelectFolder": {
+    "message": "Επιλέξτε Φάκελος"
+  },
+  "sortAllBookmarks": {
+    "message": "Όλοι οι σελιδοδείκτες"
+  },
+  "sortOrder": {
+    "message": "Σειρά ταξινόμησης"
+  },
+  "sortAZ": {
+    "message": "A → Z (κατά τίτλο)"
+  },
+  "sortZA": {
+    "message": "Z → A (κατά τίτλο)"
+  },
+  "sortDomain": {
+    "message": "Κατά τομέα διεύθυνσης URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Πρώτα οι φάκελοι και μετά οι σελιδοδείκτες"
+  },
+  "sortRecursive": {
+    "message": "Αναδρομική ταξινόμηση (εφαρμογή σε όλους τους υποφακέλους)"
+  },
+  "sortPreviewBtn": {
+    "message": "Πρεμιέρα"
+  },
+  "sortApplyBtn": {
+    "message": "Εφαρμογή Ταξινόμησης"
+  },
+  "sortPreviewLabel": {
+    "message": "Προεπισκόπηση — μετά από ταξινόμηση:"
+  },
+  "sortPreviewMore": {
+    "message": "… και $1 περισσότερα",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Αυτός ο φάκελος δεν έχει σελιδοδείκτες για ταξινόμηση."
+  },
+  "sortSuccess": {
+    "message": "Οι σελιδοδείκτες ταξινομήθηκαν με επιτυχία."
+  },
+  "emptyScanBtn": {
+    "message": "Σάρωση για άδειους φακέλους"
+  },
+  "emptyDeleteBtn": {
+    "message": "Διαγραφή επιλεγμένων φακέλων"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Δεν υπάρχουν κενοί φάκελοι"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Όλοι οι φάκελοί σας περιέχουν τουλάχιστον ένα στοιχείο."
+  },
+  "deletedFolders": {
+    "message": "Διαγράφηκαν φάκελοι $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Αναζήτηση σελιδοδεικτών κατά τίτλο ή διεύθυνση URL…"
+  },
+  "chipAll": {
+    "message": "Ολοι"
+  },
+  "searchResultCount": {
+    "message": "Αποτελέσματα $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Ανοιχτό"
+  },
+  "searchEditBtn": {
+    "message": "Εκδίδω"
+  },
+  "searchCancelEditBtn": {
+    "message": "Ματαίωση"
+  },
+  "searchDeleteBtn": {
+    "message": "Διαγράφω"
+  },
+  "searchSaveBtn": {
+    "message": "Εκτός"
+  },
+  "searchCancelBtn": {
+    "message": "Ματαίωση"
+  },
+  "emptySearchTitle": {
+    "message": "Δεν βρέθηκαν αποτελέσματα"
+  },
+  "emptySearchDesc": {
+    "message": "Δοκιμάστε έναν διαφορετικό όρο αναζήτησης ή φίλτρο."
+  },
+  "deleteConfirmMsg": {
+    "message": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον σελιδοδείκτη;"
+  },
+  "deleteConfirmYes": {
+    "message": "Ναι, Διαγραφή"
+  },
+  "deleteConfirmNo": {
+    "message": "Ματαίωση"
+  },
+  "toastDeleted": {
+    "message": "$1 οι σελιδοδείκτες διαγράφηκαν.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Η διαγραφή αναιρέθηκε. Οι σελιδοδείκτες αποκαταστάθηκαν."
+  },
+  "undoBtn": {
+    "message": "Ξεκάνω"
+  },
+  "bookmarkUpdated": {
+    "message": "Ο τίτλος του σελιδοδείκτη ενημερώθηκε."
+  },
+  "errorGeneric": {
+    "message": "Παρουσιάστηκε σφάλμα. Δοκιμάστε ξανά."
+  },
+  "noTitle": {
+    "message": "(Χωρίς τίτλο)"
+  },
+  "unknownFolder": {
+    "message": "(Άγνωστος φάκελος)"
+  },
+  "rootFolder": {
+    "message": "Ρίζα σελιδοδεικτών"
+  },
+  "ariaNav": {
+    "message": "Κύρια πλοήγηση"
+  },
+  "ariaThemeToggle": {
+    "message": "Εναλλαγή σκούρου/ανοιχτού θέματος"
+  },
+  "ariaSidebarToggle": {
+    "message": "Εναλλαγή πλευρικής γραμμής"
+  },
+  "ariaClearSearch": {
+    "message": "Εκκαθάριση αναζήτησης"
+  },
+  "ariaFilterChips": {
+    "message": "Φιλτράρισμα ανά φάκελο"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Επισήμανση για διαγραφή:"
+  },
+  "ariaEditTitle": {
+    "message": "Επεξεργασία τίτλου σελιδοδείκτη"
+  }
+}

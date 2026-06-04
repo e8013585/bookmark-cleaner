@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "বুকমার্ক ক্লিনার"
+  },
+  "extShortName": {
+    "message": "বিকে ক্লিনার"
+  },
+  "extDescription": {
+    "message": "সদৃশ, ভাঙা লিঙ্কগুলি খুঁজুন, আপনার সমস্ত বুকমার্কগুলি সংগঠিত করুন এবং অনুসন্ধান করুন — দ্রুত এবং পরিষ্কার৷"
+  },
+  "popupBookmarks": {
+    "message": "বুকমার্ক"
+  },
+  "popupFolders": {
+    "message": "ফোল্ডার"
+  },
+  "popupOpenManager": {
+    "message": "বুকমার্ক ম্যানেজার খুলুন"
+  },
+  "popupTagline": {
+    "message": "পরিষ্কার · সংগঠিত · অনুসন্ধান"
+  },
+  "popupLoading": {
+    "message": "পরিসংখ্যান লোড হচ্ছে..."
+  },
+  "navHome": {
+    "message": "বাড়ি"
+  },
+  "navDuplicates": {
+    "message": "ডুপ্লিকেট খুঁজুন"
+  },
+  "navBroken": {
+    "message": "ভাঙা লিঙ্ক"
+  },
+  "navOrganize": {
+    "message": "সংগঠিত করুন এবং সাজান"
+  },
+  "navSearch": {
+    "message": "অনুসন্ধান এবং ফিল্টার"
+  },
+  "navTheme": {
+    "message": "থিম টগল করুন"
+  },
+  "statBookmarks": {
+    "message": "বুকমার্ক"
+  },
+  "statFolders": {
+    "message": "ফোল্ডার"
+  },
+  "statDuplicates": {
+    "message": "ডুপ্লিকেট"
+  },
+  "statEmptyFolders": {
+    "message": "খালি ফোল্ডার"
+  },
+  "featureDupTitle": {
+    "message": "ডুপ্লিকেট খুঁজুন"
+  },
+  "featureDupDesc": {
+    "message": "একই URL শেয়ার করা বুকমার্ক এন্ট্রি সনাক্ত করুন এবং সরান৷"
+  },
+  "featureBrkTitle": {
+    "message": "ভাঙা লিঙ্ক"
+  },
+  "featureBrkDesc": {
+    "message": "অবৈধ, খালি বা নন-ওয়েব ইউআরএল সহ বুকমার্ক চিহ্নিত করুন।"
+  },
+  "featureOrgTitle": {
+    "message": "সংগঠিত করুন এবং সাজান"
+  },
+  "featureOrgDesc": {
+    "message": "বুকমার্কগুলিকে বর্ণানুক্রমিকভাবে সাজান এবং খালি ফোল্ডারগুলি সরান৷"
+  },
+  "featureSrchTitle": {
+    "message": "অনুসন্ধান এবং ফিল্টার"
+  },
+  "featureSrchDesc": {
+    "message": "শিরোনাম বা URL দ্বারা অবিলম্বে আপনার সমস্ত বুকমার্ক জুড়ে অনুসন্ধান করুন."
+  },
+  "featureRunBtn": {
+    "message": "চালান"
+  },
+  "loadingBookmarks": {
+    "message": "আপনার বুকমার্ক লোড হচ্ছে..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "বুকমার্ক লোড করতে ব্যর্থ হয়েছে. আবার চেষ্টা করুন."
+  },
+  "duplicatesSubtitle": {
+    "message": "একই URL ভাগ করে নেওয়া বুকমার্কগুলি নীচে গোষ্ঠীভুক্ত করা হয়েছে৷ একটা রাখুন, বাকিটা মুছে দিন।"
+  },
+  "dupScanBtn": {
+    "message": "ডুপ্লিকেটের জন্য স্ক্যান করুন"
+  },
+  "dupSmartSelectBtn": {
+    "message": "স্বতঃ-নির্বাচন (প্রাচীনতম রাখুন)"
+  },
+  "dupDeleteBtn": {
+    "message": "নির্বাচিত মুছুন"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 বুকমার্ক মুছুন",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "এই রাখুন"
+  },
+  "dupGroupCount": {
+    "message": "$1 কপি",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 বুকমার্ক চেক করা হয়েছে",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "ফোল্ডার স্ক্যান করা হচ্ছে..."
+  },
+  "emptyDupTitle": {
+    "message": "কোন ডুপ্লিকেট পাওয়া যায়নি"
+  },
+  "emptyDupDesc": {
+    "message": "আপনার বুকমার্ক সংগ্রহে কোনো ডুপ্লিকেট URL নেই৷ দারুণ কাজ!"
+  },
+  "brokenSubtitle": {
+    "message": "অবৈধ, খালি বা নন-ওয়েব URL সহ বুকমার্কগুলি নীচে তালিকাভুক্ত করা হয়েছে৷"
+  },
+  "brkScanBtn": {
+    "message": "সমস্যার জন্য স্ক্যান করুন"
+  },
+  "brkDeleteBtn": {
+    "message": "নির্বাচিত মুছুন"
+  },
+  "badgeEmptyUrl": {
+    "message": "খালি URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "অবৈধ URL"
+  },
+  "badgeLocalFile": {
+    "message": "স্থানীয় ফাইল"
+  },
+  "badgeNonWeb": {
+    "message": "নন-ওয়েব"
+  },
+  "badgeSuspicious": {
+    "message": "সন্দেহজনক"
+  },
+  "emptyBrkTitle": {
+    "message": "কোন সমস্যা পাওয়া যায়নি"
+  },
+  "emptyBrkDesc": {
+    "message": "আপনার সমস্ত বুকমার্কে বৈধ URL আছে বলে মনে হচ্ছে৷"
+  },
+  "orgTabSort": {
+    "message": "বুকমার্ক সাজান"
+  },
+  "orgTabEmpty": {
+    "message": "খালি ফোল্ডার"
+  },
+  "sortSelectFolder": {
+    "message": "ফোল্ডার নির্বাচন করুন"
+  },
+  "sortAllBookmarks": {
+    "message": "সমস্ত বুকমার্ক"
+  },
+  "sortOrder": {
+    "message": "সাজানোর অর্ডার"
+  },
+  "sortAZ": {
+    "message": "A → Z (শিরোনাম অনুসারে)"
+  },
+  "sortZA": {
+    "message": "Z → A (শিরোনাম অনুসারে)"
+  },
+  "sortDomain": {
+    "message": "URL ডোমেন দ্বারা (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "প্রথমে ফোল্ডার, তারপর বুকমার্ক"
+  },
+  "sortRecursive": {
+    "message": "পুনরাবৃত্তিমূলকভাবে সাজান (সমস্ত সাবফোল্ডারে প্রযোজ্য)"
+  },
+  "sortPreviewBtn": {
+    "message": "পূর্বরূপ"
+  },
+  "sortApplyBtn": {
+    "message": "সাজান প্রয়োগ করুন"
+  },
+  "sortPreviewLabel": {
+    "message": "পূর্বরূপ — সাজানোর পরে:"
+  },
+  "sortPreviewMore": {
+    "message": "… এবং $1 আরো",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "এই ফোল্ডারে সাজানোর জন্য কোনো বুকমার্ক নেই৷"
+  },
+  "sortSuccess": {
+    "message": "বুকমার্ক সফলভাবে সাজানো হয়েছে৷"
+  },
+  "emptyScanBtn": {
+    "message": "খালি ফোল্ডারের জন্য স্ক্যান করুন"
+  },
+  "emptyDeleteBtn": {
+    "message": "নির্বাচিত ফোল্ডার মুছুন"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "কোনো খালি ফোল্ডার নেই"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "আপনার সমস্ত ফোল্ডারে অন্তত একটি আইটেম রয়েছে৷"
+  },
+  "deletedFolders": {
+    "message": "$1 ফোল্ডার(গুলি) মুছে ফেলা হয়েছে।",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "শিরোনাম বা URL দ্বারা বুকমার্ক অনুসন্ধান করুন..."
+  },
+  "chipAll": {
+    "message": "সব"
+  },
+  "searchResultCount": {
+    "message": "$1 ফলাফল",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "খোলা"
+  },
+  "searchEditBtn": {
+    "message": "সম্পাদনা করুন"
+  },
+  "searchCancelEditBtn": {
+    "message": "বাতিল করুন"
+  },
+  "searchDeleteBtn": {
+    "message": "মুছে দিন"
+  },
+  "searchSaveBtn": {
+    "message": "সংরক্ষণ করুন"
+  },
+  "searchCancelBtn": {
+    "message": "বাতিল করুন"
+  },
+  "emptySearchTitle": {
+    "message": "কোন ফলাফল পাওয়া যায়নি"
+  },
+  "emptySearchDesc": {
+    "message": "একটি ভিন্ন অনুসন্ধান শব্দ বা ফিল্টার চেষ্টা করুন."
+  },
+  "deleteConfirmMsg": {
+    "message": "আপনি কি এই বুকমার্ক মুছে ফেলার বিষয়ে নিশ্চিত?"
+  },
+  "deleteConfirmYes": {
+    "message": "হ্যাঁ, মুছুন"
+  },
+  "deleteConfirmNo": {
+    "message": "বাতিল করুন"
+  },
+  "toastDeleted": {
+    "message": "$1 বুকমার্ক(গুলি) মুছে ফেলা হয়েছে৷",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "মোছা পূর্বাবস্থায়। বুকমার্ক পুনরুদ্ধার করা হয়েছে৷"
+  },
+  "undoBtn": {
+    "message": "পূর্বাবস্থায় ফেরান"
+  },
+  "bookmarkUpdated": {
+    "message": "বুকমার্ক শিরোনাম আপডেট করা হয়েছে।"
+  },
+  "errorGeneric": {
+    "message": "একটি ত্রুটি ঘটেছে. আবার চেষ্টা করুন."
+  },
+  "noTitle": {
+    "message": "(কোন শিরোনাম নেই)"
+  },
+  "unknownFolder": {
+    "message": "(অজানা ফোল্ডার)"
+  },
+  "rootFolder": {
+    "message": "বুকমার্ক রুট"
+  },
+  "ariaNav": {
+    "message": "প্রধান নেভিগেশন"
+  },
+  "ariaThemeToggle": {
+    "message": "অন্ধকার/হালকা থিম টগল করুন"
+  },
+  "ariaSidebarToggle": {
+    "message": "সাইডবার টগল করুন"
+  },
+  "ariaClearSearch": {
+    "message": "সাফ অনুসন্ধান"
+  },
+  "ariaFilterChips": {
+    "message": "ফোল্ডার দ্বারা ফিল্টার করুন"
+  },
+  "ariaMarkForDeletion": {
+    "message": "মুছে ফেলার জন্য চিহ্নিত করুন:"
+  },
+  "ariaEditTitle": {
+    "message": "বুকমার্ক শিরোনাম সম্পাদনা করুন"
+  }
+}

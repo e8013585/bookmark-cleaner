@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Glanadair comharra-leabhair"
+  },
+  "extShortName": {
+    "message": "Inneal-glanaidh BK"
+  },
+  "extDescription": {
+    "message": "Lorg dùblaidhean, ceanglaichean briste, cuir air dòigh agus rannsaich na comharran-leabhair agad gu lèir - luath agus glan."
+  },
+  "popupBookmarks": {
+    "message": "Comharran-leabhair"
+  },
+  "popupFolders": {
+    "message": "Filltean"
+  },
+  "popupOpenManager": {
+    "message": "Fosgail Manaidsear Comharran-leabhair"
+  },
+  "popupTagline": {
+    "message": "Glan · Eagraich · Rannsaich"
+  },
+  "popupLoading": {
+    "message": "A’ luchdachadh stats…"
+  },
+  "navHome": {
+    "message": "Dhachaigh"
+  },
+  "navDuplicates": {
+    "message": "Lorg dùblaidhean"
+  },
+  "navBroken": {
+    "message": "Ceanglaichean briste"
+  },
+  "navOrganize": {
+    "message": "Eagraich & Deasaich"
+  },
+  "navSearch": {
+    "message": "Rannsaich & criathradh"
+  },
+  "navTheme": {
+    "message": "Tog Cuspair"
+  },
+  "statBookmarks": {
+    "message": "Comharran-leabhair"
+  },
+  "statFolders": {
+    "message": "Filltean"
+  },
+  "statDuplicates": {
+    "message": "Dùblachadh"
+  },
+  "statEmptyFolders": {
+    "message": "Filltean falamh"
+  },
+  "featureDupTitle": {
+    "message": "Lorg dùblaidhean"
+  },
+  "featureDupDesc": {
+    "message": "Lorg agus thoir air falbh inntrigidhean comharra-leabhair a’ roinn an aon URL."
+  },
+  "featureBrkTitle": {
+    "message": "Ceanglaichean briste"
+  },
+  "featureBrkDesc": {
+    "message": "Comharraich comharran-leabhair le URLan neo-dhligheach, falamh no neo-lìn."
+  },
+  "featureOrgTitle": {
+    "message": "Eagraich & Deasaich"
+  },
+  "featureOrgDesc": {
+    "message": "Deasaich comharran-leabhair a rèir na h-aibideil agus thoir air falbh pasganan falamh."
+  },
+  "featureSrchTitle": {
+    "message": "Rannsaich & criathradh"
+  },
+  "featureSrchDesc": {
+    "message": "Dèan sgrùdadh sa bhad air na comharran-leabhair agad gu lèir a rèir tiotal no URL."
+  },
+  "featureRunBtn": {
+    "message": "Ruith"
+  },
+  "loadingBookmarks": {
+    "message": "A’ luchdachadh do chomharran-leabhair…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Dh'fhàillig luchdachadh nan comharran-leabhair. Feuch ris a-rithist."
+  },
+  "duplicatesSubtitle": {
+    "message": "Tha comharran-leabhair a tha a’ roinn an aon URL air an cruinneachadh gu h-ìosal. Cùm aon, cuir às don chòrr."
+  },
+  "dupScanBtn": {
+    "message": "Dèan scan airson dùblaidhean"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Taghadh fèin-ghluasadach (Cùm an tè as sine)"
+  },
+  "dupDeleteBtn": {
+    "message": "Sguab às Taghte"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Sguab às $1 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Cùm seo"
+  },
+  "dupGroupCount": {
+    "message": "$1 leth-bhreacan",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Check comharran-leabhair $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "A’ sganadh phasganan…"
+  },
+  "emptyDupTitle": {
+    "message": "Cha deach leth-bhreacan a lorg"
+  },
+  "emptyDupDesc": {
+    "message": "Chan eil URLan dùblaichte aig a’ chruinneachadh chomharran-leabhair agad. Deagh obair!"
+  },
+  "brokenSubtitle": {
+    "message": "Tha comharran-leabhair le URLan neo-dhligheach, falamh no neo-lìn air an liostadh gu h-ìosal."
+  },
+  "brkScanBtn": {
+    "message": "Dèan scan airson cùisean"
+  },
+  "brkDeleteBtn": {
+    "message": "Sguab às Taghte"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL falamh"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL mì-dhligheach"
+  },
+  "badgeLocalFile": {
+    "message": "Faidhle Ionadail"
+  },
+  "badgeNonWeb": {
+    "message": "Neo-lìn"
+  },
+  "badgeSuspicious": {
+    "message": "amharasach"
+  },
+  "emptyBrkTitle": {
+    "message": "Cha deach cùisean a lorg"
+  },
+  "emptyBrkDesc": {
+    "message": "Tha coltas gu bheil URLan dligheach aig na comharran-leabhair agad uile."
+  },
+  "orgTabSort": {
+    "message": "Deasaich comharran-leabhair"
+  },
+  "orgTabEmpty": {
+    "message": "Filltean falamh"
+  },
+  "sortSelectFolder": {
+    "message": "Tagh Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "A h-uile comharra-leabhair"
+  },
+  "sortOrder": {
+    "message": "Òrdugh Deasaich"
+  },
+  "sortAZ": {
+    "message": "A → Z (a rèir tiotal)"
+  },
+  "sortZA": {
+    "message": "Z → A (a rèir tiotal)"
+  },
+  "sortDomain": {
+    "message": "Le àrainn URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Filltearan an toiseach, an uairsin comharran-leabhair"
+  },
+  "sortRecursive": {
+    "message": "Deasaich a-rithist (cuir a-steach a h-uile fo-phasgan)"
+  },
+  "sortPreviewBtn": {
+    "message": "Ro-shealladh"
+  },
+  "sortApplyBtn": {
+    "message": "Cuir a-steach Deasaich"
+  },
+  "sortPreviewLabel": {
+    "message": "Ro-shealladh - às deidh a sheòrsachadh:"
+  },
+  "sortPreviewMore": {
+    "message": "... agus $1 tuilleadh",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Chan eil comharran-leabhair sa phasgan seo ri rèiteach."
+  },
+  "sortSuccess": {
+    "message": "Comharran-leabhair air an rèiteachadh gu soirbheachail."
+  },
+  "emptyScanBtn": {
+    "message": "Dèan sgrùdadh airson pasganan falamh"
+  },
+  "emptyDeleteBtn": {
+    "message": "Sguab às na pasganan taghte"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Gun phasganan falamh"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tha co-dhiù aon nì anns na pasganan agad uile."
+  },
+  "deletedFolders": {
+    "message": "Pasgan(ean) $1 air a sguabadh às.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Rannsaich comharran-leabhair a rèir tiotal no URL…"
+  },
+  "chipAll": {
+    "message": "Uile"
+  },
+  "searchResultCount": {
+    "message": "$1 toraidhean",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Fosgailte"
+  },
+  "searchEditBtn": {
+    "message": "Deasaich"
+  },
+  "searchCancelEditBtn": {
+    "message": "Sguir dheth"
+  },
+  "searchDeleteBtn": {
+    "message": "Sguab às"
+  },
+  "searchSaveBtn": {
+    "message": "Sàbhail"
+  },
+  "searchCancelBtn": {
+    "message": "Sguir dheth"
+  },
+  "emptySearchTitle": {
+    "message": "Cha deach toraidhean a lorg"
+  },
+  "emptySearchDesc": {
+    "message": "Feuch teirm rannsachaidh no criathrag eile."
+  },
+  "deleteConfirmMsg": {
+    "message": "A bheil thu cinnteach gu bheil thu airson an comharra-leabhair seo a sguabadh às?"
+  },
+  "deleteConfirmYes": {
+    "message": "Seadh, Sguab às"
+  },
+  "deleteConfirmNo": {
+    "message": "Sguir dheth"
+  },
+  "toastDeleted": {
+    "message": "$1 comharra-leabhair air a sguabadh às.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Sguab às air a dhèanamh. Comharran-leabhair air an ath-nuadhachadh."
+  },
+  "undoBtn": {
+    "message": "Neo-dhèanamh"
+  },
+  "bookmarkUpdated": {
+    "message": "Chaidh an tiotal comharra-leabhair ùrachadh."
+  },
+  "errorGeneric": {
+    "message": "Thachair mearachd. Feuch ris a-rithist."
+  },
+  "noTitle": {
+    "message": "(Gun tiotal)"
+  },
+  "unknownFolder": {
+    "message": "(Pasgan neo-aithnichte)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks Root"
+  },
+  "ariaNav": {
+    "message": "Prìomh seòladh"
+  },
+  "ariaThemeToggle": {
+    "message": "Tog cuspair dorcha / aotrom"
+  },
+  "ariaSidebarToggle": {
+    "message": "Tog am bàr-taoibh"
+  },
+  "ariaClearSearch": {
+    "message": "Glan lorg"
+  },
+  "ariaFilterChips": {
+    "message": "Criathraich le pasgan"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Comharra airson a sguabadh às:"
+  },
+  "ariaEditTitle": {
+    "message": "Deasaich tiotal comharra-leabhair"
+  }
+}

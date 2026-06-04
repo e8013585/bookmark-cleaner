@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Jwenn doublons, lyen kase, òganize epi chèche tout makè ou yo - vit epi pwòp."
+  },
+  "popupBookmarks": {
+    "message": "Bookmarks"
+  },
+  "popupFolders": {
+    "message": "Dosye"
+  },
+  "popupOpenManager": {
+    "message": "Louvri Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Netwaye · Òganize · Rechèch"
+  },
+  "popupLoading": {
+    "message": "Chaje estatistik..."
+  },
+  "navHome": {
+    "message": "Lakay"
+  },
+  "navDuplicates": {
+    "message": "Jwenn kopi"
+  },
+  "navBroken": {
+    "message": "Lyen kase"
+  },
+  "navOrganize": {
+    "message": "Òganize & Triye"
+  },
+  "navSearch": {
+    "message": "Rechèch & Filtre"
+  },
+  "navTheme": {
+    "message": "Aktivite Tèm"
+  },
+  "statBookmarks": {
+    "message": "Bookmarks"
+  },
+  "statFolders": {
+    "message": "Dosye"
+  },
+  "statDuplicates": {
+    "message": "Kopi"
+  },
+  "statEmptyFolders": {
+    "message": "Dosye Vide"
+  },
+  "featureDupTitle": {
+    "message": "Jwenn kopi"
+  },
+  "featureDupDesc": {
+    "message": "Detekte epi retire antre makè ki pataje menm URL la."
+  },
+  "featureBrkTitle": {
+    "message": "Lyen kase"
+  },
+  "featureBrkDesc": {
+    "message": "Idantifye makè yo ak URL ki pa valab, ki vid oswa ki pa entènèt."
+  },
+  "featureOrgTitle": {
+    "message": "Òganize & Triye"
+  },
+  "featureOrgDesc": {
+    "message": "Ranje makè yo alfabetikman epi retire dosye vid yo."
+  },
+  "featureSrchTitle": {
+    "message": "Rechèch & Filtre"
+  },
+  "featureSrchDesc": {
+    "message": "Chèche imedyatman nan tout makè ou yo pa tit oswa URL."
+  },
+  "featureRunBtn": {
+    "message": "Kouri"
+  },
+  "loadingBookmarks": {
+    "message": "Chaje makè ou yo..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Echwe pou chaje signets. Tanpri eseye ankò."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bookmarks ki pataje menm URL la gwoupe anba a. Kenbe youn, efase rès la."
+  },
+  "dupScanBtn": {
+    "message": "Eskane pou kopi"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Chwazi otomatik (Kenbe pi ansyen)"
+  },
+  "dupDeleteBtn": {
+    "message": "Efase Chwazi yo"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Efase $1 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Kenbe sa"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopi",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Tcheke $1 / $2 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Analyse dosye..."
+  },
+  "emptyDupTitle": {
+    "message": "Pa gen kopi yo jwenn"
+  },
+  "emptyDupDesc": {
+    "message": "Koleksyon makè ou a pa gen okenn URL kopi. Gwo travay!"
+  },
+  "brokenSubtitle": {
+    "message": "Signets ak adrès entènèt ki pa valab, vid, oswa ki pa entènèt yo nan lis anba a."
+  },
+  "brkScanBtn": {
+    "message": "Eskane pou Pwoblèm"
+  },
+  "brkDeleteBtn": {
+    "message": "Efase Chwazi yo"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL vid"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL pa valab"
+  },
+  "badgeLocalFile": {
+    "message": "Dosye lokal"
+  },
+  "badgeNonWeb": {
+    "message": "Ki pa Peye-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Sispèk"
+  },
+  "emptyBrkTitle": {
+    "message": "Pa gen pwoblèm jwenn"
+  },
+  "emptyBrkDesc": {
+    "message": "Tout makè ou yo sanble gen URL ki valab."
+  },
+  "orgTabSort": {
+    "message": "Triye Bookmarks"
+  },
+  "orgTabEmpty": {
+    "message": "Dosye Vide"
+  },
+  "sortSelectFolder": {
+    "message": "Chwazi Dosye"
+  },
+  "sortAllBookmarks": {
+    "message": "Tout Bookmarks"
+  },
+  "sortOrder": {
+    "message": "Triye Lòd"
+  },
+  "sortAZ": {
+    "message": "A → Z (pa tit)"
+  },
+  "sortZA": {
+    "message": "Z → A (pa tit)"
+  },
+  "sortDomain": {
+    "message": "Pa URL domèn (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Dosye an premye, Lè sa a, Bookmarks"
+  },
+  "sortRecursive": {
+    "message": "Triye repetitivman (aplike nan tout sousdosye)"
+  },
+  "sortPreviewBtn": {
+    "message": "Preview"
+  },
+  "sortApplyBtn": {
+    "message": "Aplike Triye"
+  },
+  "sortPreviewLabel": {
+    "message": "Preview - apre klasman:"
+  },
+  "sortPreviewMore": {
+    "message": "… ak $1 plis",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Katab sa a pa gen okenn makè pou triye."
+  },
+  "sortSuccess": {
+    "message": "Bookmarks klase avèk siksè."
+  },
+  "emptyScanBtn": {
+    "message": "Eskane pou Dosye Vide"
+  },
+  "emptyDeleteBtn": {
+    "message": "Efase Dosye Chwazi yo"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Pa gen Dosye Vide"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tout dosye ou yo genyen omwen yon atik."
+  },
+  "deletedFolders": {
+    "message": "Efase $1 folder (yo).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Chèche makè yo pa tit oswa URL..."
+  },
+  "chipAll": {
+    "message": "Tout"
+  },
+  "searchResultCount": {
+    "message": "$1 rezilta yo",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Louvri"
+  },
+  "searchEditBtn": {
+    "message": "Edit"
+  },
+  "searchCancelEditBtn": {
+    "message": "Anile"
+  },
+  "searchDeleteBtn": {
+    "message": "Efase"
+  },
+  "searchSaveBtn": {
+    "message": "Sove"
+  },
+  "searchCancelBtn": {
+    "message": "Anile"
+  },
+  "emptySearchTitle": {
+    "message": "Pa gen rezilta yo jwenn"
+  },
+  "emptySearchDesc": {
+    "message": "Eseye yon lòt tèm rechèch oswa filtre."
+  },
+  "deleteConfirmMsg": {
+    "message": "Èske w sèten ou vle efase makè sa a?"
+  },
+  "deleteConfirmYes": {
+    "message": "Wi, Efase"
+  },
+  "deleteConfirmNo": {
+    "message": "Anile"
+  },
+  "toastDeleted": {
+    "message": "$1 Bookmark (yo) efase.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Efase defèt. Bookmarks retabli."
+  },
+  "undoBtn": {
+    "message": "Defèt"
+  },
+  "bookmarkUpdated": {
+    "message": "Tit Bookmark mete ajou."
+  },
+  "errorGeneric": {
+    "message": "Yon erè te fèt. Tanpri eseye ankò."
+  },
+  "noTitle": {
+    "message": "(Pa gen Tit)"
+  },
+  "unknownFolder": {
+    "message": "(Dosye enkoni)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks Rasin"
+  },
+  "ariaNav": {
+    "message": "Navigasyon prensipal la"
+  },
+  "ariaThemeToggle": {
+    "message": "Deklanche tèm nwa/limyè"
+  },
+  "ariaSidebarToggle": {
+    "message": "Aktivite ba bò"
+  },
+  "ariaClearSearch": {
+    "message": "Klè rechèch"
+  },
+  "ariaFilterChips": {
+    "message": "Filtre pa katab"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Make pou efase:"
+  },
+  "ariaEditTitle": {
+    "message": "Edit tit signets"
+  }
+}

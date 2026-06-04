@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "სანიშნეების გამწმენდი"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "იპოვეთ დუბლიკატები, გატეხილი ბმულები, მოაწყვეთ და მოძებნეთ ყველა თქვენი სანიშნე — სწრაფი და სუფთა."
+  },
+  "popupBookmarks": {
+    "message": "სანიშნეები"
+  },
+  "popupFolders": {
+    "message": "საქაღალდეები"
+  },
+  "popupOpenManager": {
+    "message": "გახსენით სანიშნეების მენეჯერი"
+  },
+  "popupTagline": {
+    "message": "დასუფთავება · ორგანიზება · ძებნა"
+  },
+  "popupLoading": {
+    "message": "სტატისტიკის ჩატვირთვა…"
+  },
+  "navHome": {
+    "message": "მთავარი"
+  },
+  "navDuplicates": {
+    "message": "იპოვეთ დუბლიკატები"
+  },
+  "navBroken": {
+    "message": "გატეხილი ლინკები"
+  },
+  "navOrganize": {
+    "message": "ორგანიზება და დალაგება"
+  },
+  "navSearch": {
+    "message": "ძიება და გაფილტვრა"
+  },
+  "navTheme": {
+    "message": "თემის გადართვა"
+  },
+  "statBookmarks": {
+    "message": "სანიშნეები"
+  },
+  "statFolders": {
+    "message": "საქაღალდეები"
+  },
+  "statDuplicates": {
+    "message": "დუბლიკატები"
+  },
+  "statEmptyFolders": {
+    "message": "ცარიელი საქაღალდეები"
+  },
+  "featureDupTitle": {
+    "message": "იპოვეთ დუბლიკატები"
+  },
+  "featureDupDesc": {
+    "message": "აღმოაჩინეთ და წაშალეთ სანიშნეების ჩანაწერები, რომლებიც აზიარებენ იმავე URL-ს."
+  },
+  "featureBrkTitle": {
+    "message": "გატეხილი ლინკები"
+  },
+  "featureBrkDesc": {
+    "message": "სანიშნეების იდენტიფიცირება არასწორი, ცარიელი ან არა ვებ URL-ებით."
+  },
+  "featureOrgTitle": {
+    "message": "ორგანიზება და დალაგება"
+  },
+  "featureOrgDesc": {
+    "message": "დაალაგეთ სანიშნეები ანბანურად და წაშალეთ ცარიელი საქაღალდეები."
+  },
+  "featureSrchTitle": {
+    "message": "ძიება და გაფილტვრა"
+  },
+  "featureSrchDesc": {
+    "message": "მყისიერად მოძებნეთ ყველა თქვენი სანიშნე სათაურის ან URL-ის მიხედვით."
+  },
+  "featureRunBtn": {
+    "message": "გაიქეცი"
+  },
+  "loadingBookmarks": {
+    "message": "თქვენი სანიშნეების ჩატვირთვა…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "სანიშნეების ჩატვირთვა ვერ მოხერხდა. გთხოვთ, სცადოთ ხელახლა."
+  },
+  "duplicatesSubtitle": {
+    "message": "იმავე URL-ის გაზიარების სანიშნეები დაჯგუფებულია ქვემოთ. შეინახე ერთი, წაშალე დანარჩენი."
+  },
+  "dupScanBtn": {
+    "message": "დუბლიკატების სკანირება"
+  },
+  "dupSmartSelectBtn": {
+    "message": "ავტომატური არჩევა (ძველის შენარჩუნება)"
+  },
+  "dupDeleteBtn": {
+    "message": "არჩეული წაშლა"
+  },
+  "dupDeleteBtnCount": {
+    "message": "წაშალეთ $1 სანიშნეები",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "შეინახეთ ეს"
+  },
+  "dupGroupCount": {
+    "message": "$1 ასლები",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "შეამოწმეთ $1 / $2 სანიშნეები",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "მიმდინარეობს საქაღალდეების სკანირება…"
+  },
+  "emptyDupTitle": {
+    "message": "დუბლიკატები ვერ მოიძებნა"
+  },
+  "emptyDupDesc": {
+    "message": "თქვენს სანიშნეების კოლექციას არ აქვს დუბლიკატი URL. დიდი სამუშაო!"
+  },
+  "brokenSubtitle": {
+    "message": "სანიშნეები არასწორი, ცარიელი ან არა ვებ URL-ებით ჩამოთვლილია ქვემოთ."
+  },
+  "brkScanBtn": {
+    "message": "პრობლემების სკანირება"
+  },
+  "brkDeleteBtn": {
+    "message": "არჩეული წაშლა"
+  },
+  "badgeEmptyUrl": {
+    "message": "ცარიელი URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "არასწორი URL"
+  },
+  "badgeLocalFile": {
+    "message": "ლოკალური ფაილი"
+  },
+  "badgeNonWeb": {
+    "message": "არა ვებ"
+  },
+  "badgeSuspicious": {
+    "message": "საეჭვო"
+  },
+  "emptyBrkTitle": {
+    "message": "პრობლემები არ მოიძებნა"
+  },
+  "emptyBrkDesc": {
+    "message": "როგორც ჩანს, ყველა თქვენს სანიშნეს აქვს სწორი URL-ები."
+  },
+  "orgTabSort": {
+    "message": "სანიშნეების დალაგება"
+  },
+  "orgTabEmpty": {
+    "message": "ცარიელი საქაღალდეები"
+  },
+  "sortSelectFolder": {
+    "message": "აირჩიეთ საქაღალდე"
+  },
+  "sortAllBookmarks": {
+    "message": "ყველა სანიშნე"
+  },
+  "sortOrder": {
+    "message": "დალაგების რიგი"
+  },
+  "sortAZ": {
+    "message": "A → Z (სათაურის მიხედვით)"
+  },
+  "sortZA": {
+    "message": "Z → A (სათაურის მიხედვით)"
+  },
+  "sortDomain": {
+    "message": "URL დომენის მიხედვით (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "ჯერ საქაღალდეები, შემდეგ სანიშნეები"
+  },
+  "sortRecursive": {
+    "message": "რეკურსიულად დალაგება (გამოიყენება ყველა ქვესაქაღალდეზე)"
+  },
+  "sortPreviewBtn": {
+    "message": "გადახედვა"
+  },
+  "sortApplyBtn": {
+    "message": "გამოიყენეთ დახარისხება"
+  },
+  "sortPreviewLabel": {
+    "message": "გადახედვა - დახარისხების შემდეგ:"
+  },
+  "sortPreviewMore": {
+    "message": "… და $1 მეტი",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "ამ საქაღალდეს არ აქვს დასალაგებელი სანიშნეები."
+  },
+  "sortSuccess": {
+    "message": "სანიშნეები წარმატებით დალაგდა."
+  },
+  "emptyScanBtn": {
+    "message": "ცარიელი საქაღალდეების სკანირება"
+  },
+  "emptyDeleteBtn": {
+    "message": "არჩეული საქაღალდეების წაშლა"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "ცარიელი საქაღალდეები არ არის"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "თქვენი ყველა საქაღალდე შეიცავს მინიმუმ ერთ ელემენტს."
+  },
+  "deletedFolders": {
+    "message": "წაშლილია $1 საქაღალდე(ები).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "სანიშნეების ძიება სათაურის ან URL-ის მიხედვით…"
+  },
+  "chipAll": {
+    "message": "ყველა"
+  },
+  "searchResultCount": {
+    "message": "$1 შედეგები",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "გახსენით"
+  },
+  "searchEditBtn": {
+    "message": "რედაქტირება"
+  },
+  "searchCancelEditBtn": {
+    "message": "გაუქმება"
+  },
+  "searchDeleteBtn": {
+    "message": "წაშლა"
+  },
+  "searchSaveBtn": {
+    "message": "შენახვა"
+  },
+  "searchCancelBtn": {
+    "message": "გაუქმება"
+  },
+  "emptySearchTitle": {
+    "message": "შედეგი ვერ მოიძებნა"
+  },
+  "emptySearchDesc": {
+    "message": "სცადეთ სხვა საძიებო ტერმინი ან ფილტრი."
+  },
+  "deleteConfirmMsg": {
+    "message": "დარწმუნებული ხართ, რომ გსურთ წაშალოთ ეს სანიშნე?"
+  },
+  "deleteConfirmYes": {
+    "message": "დიახ, წაშლა"
+  },
+  "deleteConfirmNo": {
+    "message": "გაუქმება"
+  },
+  "toastDeleted": {
+    "message": "$1 სანიშნე(ებ)ი წაშლილია.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "წაშლა გაუქმდა. სანიშნეები აღდგენილია."
+  },
+  "undoBtn": {
+    "message": "გაუქმება"
+  },
+  "bookmarkUpdated": {
+    "message": "სანიშნეს სათაური განახლებულია."
+  },
+  "errorGeneric": {
+    "message": "მოხდა შეცდომა. გთხოვთ, სცადოთ ხელახლა."
+  },
+  "noTitle": {
+    "message": "(სათაურის გარეშე)"
+  },
+  "unknownFolder": {
+    "message": "(უცნობი საქაღალდე)"
+  },
+  "rootFolder": {
+    "message": "სანიშნეების Root"
+  },
+  "ariaNav": {
+    "message": "მთავარი ნავიგაცია"
+  },
+  "ariaThemeToggle": {
+    "message": "მუქი/ღია თემის გადართვა"
+  },
+  "ariaSidebarToggle": {
+    "message": "გვერდითი ზოლის გადართვა"
+  },
+  "ariaClearSearch": {
+    "message": "ძიების გასუფთავება"
+  },
+  "ariaFilterChips": {
+    "message": "გაფილტვრა საქაღალდის მიხედვით"
+  },
+  "ariaMarkForDeletion": {
+    "message": "მონიშნე წაშლისთვის:"
+  },
+  "ariaEditTitle": {
+    "message": "სანიშნეს სათაურის რედაქტირება"
+  }
+}

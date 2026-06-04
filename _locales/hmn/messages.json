@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Nrhiav qhov sib npaug, sib txuas sib txuas, teeb tsa thiab tshawb xyuas tag nrho koj cov bookmarks - ceev thiab huv."
+  },
+  "popupBookmarks": {
+    "message": "Bookmarks"
+  },
+  "popupFolders": {
+    "message": "Cov ntawv tais ceev tseg"
+  },
+  "popupOpenManager": {
+    "message": "Qhib Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Clean · Organize · Nrhiav"
+  },
+  "popupLoading": {
+    "message": "Loading stats…"
+  },
+  "navHome": {
+    "message": "Tsev"
+  },
+  "navDuplicates": {
+    "message": "Nrhiav Duplicates"
+  },
+  "navBroken": {
+    "message": "Txuas Txuas"
+  },
+  "navOrganize": {
+    "message": "Organize & Sort"
+  },
+  "navSearch": {
+    "message": "Nrhiav & Lim"
+  },
+  "navTheme": {
+    "message": "Toggle ntsiab"
+  },
+  "statBookmarks": {
+    "message": "Bookmarks"
+  },
+  "statFolders": {
+    "message": "Cov ntawv tais ceev tseg"
+  },
+  "statDuplicates": {
+    "message": "Duplicates"
+  },
+  "statEmptyFolders": {
+    "message": "Empty Folders"
+  },
+  "featureDupTitle": {
+    "message": "Nrhiav Duplicates"
+  },
+  "featureDupDesc": {
+    "message": "Tshawb xyuas thiab tshem tawm bookmark nkag sib koom tib qhov URL."
+  },
+  "featureBrkTitle": {
+    "message": "Txuas Txuas"
+  },
+  "featureBrkDesc": {
+    "message": "Txheeb xyuas bookmarks uas tsis raug, khoob, lossis tsis-web URLs."
+  },
+  "featureOrgTitle": {
+    "message": "Organize & Sort"
+  },
+  "featureOrgDesc": {
+    "message": "Xaiv bookmarks alphabetically thiab tshem tawm cov folders khoob."
+  },
+  "featureSrchTitle": {
+    "message": "Nrhiav & Lim"
+  },
+  "featureSrchDesc": {
+    "message": "Tshawb nrhiav tam sim hla tag nrho koj cov bookmarks los ntawm lub npe lossis URL."
+  },
+  "featureRunBtn": {
+    "message": "Khiav"
+  },
+  "loadingBookmarks": {
+    "message": "Loading koj bookmarks…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Ua tsis tau tejyam thauj bookmarks. Thov rov sim dua."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bookmarks sib koom tib URL yog pawg hauv qab no. Khaws ib qho, rho tawm tus so."
+  },
+  "dupScanBtn": {
+    "message": "Luam theej duab rau Duplicates"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Auto-Select (Keep Oldest)"
+  },
+  "dupDeleteBtn": {
+    "message": "Rho tawm Xaiv"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Rho tawm $1 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Khaws Qhov no"
+  },
+  "dupGroupCount": {
+    "message": "§ § 1 §§ § 1 ZPO",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Kos $1/$2 bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "scanning folders…"
+  },
+  "emptyDupTitle": {
+    "message": "Tsis pom Duplicates"
+  },
+  "emptyDupDesc": {
+    "message": "Koj phau ntawv sau sau tsis muaj qhov sib npaug URLs. Txoj hauj lwm zoo!"
+  },
+  "brokenSubtitle": {
+    "message": "Bookmarks uas tsis raug, khoob, lossis tsis-web URLs tau teev tseg hauv qab no."
+  },
+  "brkScanBtn": {
+    "message": "Tshawb nrhiav qhov teeb meem"
+  },
+  "brkDeleteBtn": {
+    "message": "Rho tawm Xaiv"
+  },
+  "badgeEmptyUrl": {
+    "message": "Tsis muaj URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Qhov URL tsis raug"
+  },
+  "badgeLocalFile": {
+    "message": "Cov ntaub ntawv hauv zos"
+  },
+  "badgeNonWeb": {
+    "message": "Tsis-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Muaj kev xav tsis thoob"
+  },
+  "emptyBrkTitle": {
+    "message": "Tsis pom muaj teeb meem"
+  },
+  "emptyBrkDesc": {
+    "message": "Tag nrho koj cov bookmarks zoo li muaj URLs siv tau."
+  },
+  "orgTabSort": {
+    "message": "Xaiv Bookmarks"
+  },
+  "orgTabEmpty": {
+    "message": "Empty Folders"
+  },
+  "sortSelectFolder": {
+    "message": "Xaiv Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Txhua Bookmarks"
+  },
+  "sortOrder": {
+    "message": "Xam xaj"
+  },
+  "sortAZ": {
+    "message": "A → Z (los ntawm lub npe)"
+  },
+  "sortZA": {
+    "message": "Z → A (los ntawm lub npe)"
+  },
+  "sortDomain": {
+    "message": "Los ntawm URL domain (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Folders ua ntej, ces bookmarks"
+  },
+  "sortRecursive": {
+    "message": "Sort recursively (siv rau tag nrho cov subfolders)"
+  },
+  "sortPreviewBtn": {
+    "message": "Saib ua ntej"
+  },
+  "sortApplyBtn": {
+    "message": "Thov Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Saib ua ntej - tom qab sorting:"
+  },
+  "sortPreviewMore": {
+    "message": "… thiab $1 ntau",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Cov folders no tsis muaj bookmarks los txheeb."
+  },
+  "sortSuccess": {
+    "message": "Bookmarks tau txheeb tiav."
+  },
+  "emptyScanBtn": {
+    "message": "Luam theej duab rau Empty Folders"
+  },
+  "emptyDeleteBtn": {
+    "message": "Rho tawm Xaiv cov folders"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Tsis muaj Folders Empty"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tag nrho koj cov folders muaj tsawg kawg yog ib yam khoom."
+  },
+  "deletedFolders": {
+    "message": "Deleted $1 folder(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Nrhiav bookmarks los ntawm lub npe lossis URL…"
+  },
+  "chipAll": {
+    "message": "Tag nrho"
+  },
+  "searchResultCount": {
+    "message": "§§ 1§§ § § 1 ZPO",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Qhib"
+  },
+  "searchEditBtn": {
+    "message": "Kho kom raug"
+  },
+  "searchCancelEditBtn": {
+    "message": "Tso tseg"
+  },
+  "searchDeleteBtn": {
+    "message": "Rho tawm"
+  },
+  "searchSaveBtn": {
+    "message": "Txuag"
+  },
+  "searchCancelBtn": {
+    "message": "Tso tseg"
+  },
+  "emptySearchTitle": {
+    "message": "Tsis pom qhov tshwm sim"
+  },
+  "emptySearchDesc": {
+    "message": "Sim lwm lo lus tshawb nrhiav lossis lim."
+  },
+  "deleteConfirmMsg": {
+    "message": "Koj puas paub tseeb tias koj xav rho tawm phau ntawv no?"
+  },
+  "deleteConfirmYes": {
+    "message": "Yog, Rho tawm"
+  },
+  "deleteConfirmNo": {
+    "message": "Tso tseg"
+  },
+  "toastDeleted": {
+    "message": "$1 bookmark(s) deleted.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Kev tshem tawm rov qab. Rov qab bookmarks."
+  },
+  "undoBtn": {
+    "message": "Tshem tawm"
+  },
+  "bookmarkUpdated": {
+    "message": "Bookmark lub npe hloov tshiab."
+  },
+  "errorGeneric": {
+    "message": "Ib qho yuam kev tshwm sim. Thov rov sim dua."
+  },
+  "noTitle": {
+    "message": "(Tsis muaj npe)"
+  },
+  "unknownFolder": {
+    "message": "(Unknown Folder)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks hauv paus"
+  },
+  "ariaNav": {
+    "message": "Main navigation"
+  },
+  "ariaThemeToggle": {
+    "message": "Toggle tsaus / lub teeb lub ntsiab"
+  },
+  "ariaSidebarToggle": {
+    "message": "Toggle sidebar"
+  },
+  "ariaClearSearch": {
+    "message": "Nrhiav kom meej"
+  },
+  "ariaFilterChips": {
+    "message": "Lim los ntawm cov ntawv tais ceev tseg"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Kos rau deletion:"
+  },
+  "ariaEditTitle": {
+    "message": "Kho lub npe bookmark"
+  }
+}

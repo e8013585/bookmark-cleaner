@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Pembersih Bookmark"
+  },
+  "extShortName": {
+    "message": "Pembersih BK"
+  },
+  "extDescription": {
+    "message": "Temukan duplikat, tautan rusak, atur dan cari semua bookmark Anda — cepat dan bersih."
+  },
+  "popupBookmarks": {
+    "message": "Bookmark"
+  },
+  "popupFolders": {
+    "message": "Folder"
+  },
+  "popupOpenManager": {
+    "message": "Buka Pengelola Bookmark"
+  },
+  "popupTagline": {
+    "message": "Bersih · Atur · Cari"
+  },
+  "popupLoading": {
+    "message": "Memuat statistik…"
+  },
+  "navHome": {
+    "message": "Rumah"
+  },
+  "navDuplicates": {
+    "message": "Temukan Duplikat"
+  },
+  "navBroken": {
+    "message": "Tautan Rusak"
+  },
+  "navOrganize": {
+    "message": "Atur & Sortir"
+  },
+  "navSearch": {
+    "message": "Cari & Filter"
+  },
+  "navTheme": {
+    "message": "Alihkan Tema"
+  },
+  "statBookmarks": {
+    "message": "Bookmark"
+  },
+  "statFolders": {
+    "message": "Folder"
+  },
+  "statDuplicates": {
+    "message": "Duplikat"
+  },
+  "statEmptyFolders": {
+    "message": "Folder Kosong"
+  },
+  "featureDupTitle": {
+    "message": "Temukan Duplikat"
+  },
+  "featureDupDesc": {
+    "message": "Deteksi dan hapus entri bookmark yang berbagi URL yang sama."
+  },
+  "featureBrkTitle": {
+    "message": "Tautan Rusak"
+  },
+  "featureBrkDesc": {
+    "message": "Identifikasi bookmark dengan URL yang tidak valid, kosong, atau non-web."
+  },
+  "featureOrgTitle": {
+    "message": "Atur & Sortir"
+  },
+  "featureOrgDesc": {
+    "message": "Urutkan bookmark berdasarkan abjad dan hapus folder kosong."
+  },
+  "featureSrchTitle": {
+    "message": "Cari & Filter"
+  },
+  "featureSrchDesc": {
+    "message": "Telusuri seluruh bookmark Anda secara instan berdasarkan judul atau URL."
+  },
+  "featureRunBtn": {
+    "message": "Berlari"
+  },
+  "loadingBookmarks": {
+    "message": "Memuat bookmark Anda…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Gagal memuat bookmark. Silakan coba lagi."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bookmark yang berbagi URL yang sama dikelompokkan di bawah. Simpan satu, hapus sisanya."
+  },
+  "dupScanBtn": {
+    "message": "Pindai Duplikat"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Pilih Otomatis (Tetap Terlama)"
+  },
+  "dupDeleteBtn": {
+    "message": "Hapus yang Dipilih"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Hapus $1 Bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Simpan Ini"
+  },
+  "dupGroupCount": {
+    "message": "$1 salinan",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Memeriksa $1 / $2 bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Memindai folder…"
+  },
+  "emptyDupTitle": {
+    "message": "Tidak Ada Duplikat yang Ditemukan"
+  },
+  "emptyDupDesc": {
+    "message": "Koleksi bookmark Anda tidak memiliki URL duplikat. Kerja bagus!"
+  },
+  "brokenSubtitle": {
+    "message": "Bookmark dengan URL yang tidak valid, kosong, atau non-web tercantum di bawah."
+  },
+  "brkScanBtn": {
+    "message": "Pindai Masalah"
+  },
+  "brkDeleteBtn": {
+    "message": "Hapus yang Dipilih"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL kosong"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL tidak valid"
+  },
+  "badgeLocalFile": {
+    "message": "File Lokal"
+  },
+  "badgeNonWeb": {
+    "message": "Non-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Mencurigakan"
+  },
+  "emptyBrkTitle": {
+    "message": "Tidak Ada Masalah yang Ditemukan"
+  },
+  "emptyBrkDesc": {
+    "message": "Semua bookmark Anda tampaknya memiliki URL yang valid."
+  },
+  "orgTabSort": {
+    "message": "Urutkan Bookmark"
+  },
+  "orgTabEmpty": {
+    "message": "Folder Kosong"
+  },
+  "sortSelectFolder": {
+    "message": "Pilih Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Semua Bookmark"
+  },
+  "sortOrder": {
+    "message": "Urutkan Urutan"
+  },
+  "sortAZ": {
+    "message": "A → Z (menurut judul)"
+  },
+  "sortZA": {
+    "message": "Z → A (menurut judul)"
+  },
+  "sortDomain": {
+    "message": "Berdasarkan domain URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Folder dulu, lalu bookmark"
+  },
+  "sortRecursive": {
+    "message": "Urutkan secara rekursif (berlaku untuk semua subfolder)"
+  },
+  "sortPreviewBtn": {
+    "message": "Pratinjau"
+  },
+  "sortApplyBtn": {
+    "message": "Terapkan Sortir"
+  },
+  "sortPreviewLabel": {
+    "message": "Pratinjau — setelah penyortiran:"
+  },
+  "sortPreviewMore": {
+    "message": "… dan $1 lainnya",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Folder ini tidak memiliki penanda untuk diurutkan."
+  },
+  "sortSuccess": {
+    "message": "Bookmark berhasil diurutkan."
+  },
+  "emptyScanBtn": {
+    "message": "Pindai Folder Kosong"
+  },
+  "emptyDeleteBtn": {
+    "message": "Hapus Folder yang Dipilih"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Tidak Ada Folder Kosong"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Semua folder Anda berisi setidaknya satu item."
+  },
+  "deletedFolders": {
+    "message": "Folder $1 dihapus.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Cari bookmark berdasarkan judul atau URL…"
+  },
+  "chipAll": {
+    "message": "Semua"
+  },
+  "searchResultCount": {
+    "message": "$1 hasil",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Membuka"
+  },
+  "searchEditBtn": {
+    "message": "Sunting"
+  },
+  "searchCancelEditBtn": {
+    "message": "Membatalkan"
+  },
+  "searchDeleteBtn": {
+    "message": "Menghapus"
+  },
+  "searchSaveBtn": {
+    "message": "Menyimpan"
+  },
+  "searchCancelBtn": {
+    "message": "Membatalkan"
+  },
+  "emptySearchTitle": {
+    "message": "Tidak Ada Hasil yang Ditemukan"
+  },
+  "emptySearchDesc": {
+    "message": "Coba istilah pencarian atau filter lain."
+  },
+  "deleteConfirmMsg": {
+    "message": "Apakah Anda yakin ingin menghapus bookmark ini?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ya, Hapus"
+  },
+  "deleteConfirmNo": {
+    "message": "Membatalkan"
+  },
+  "toastDeleted": {
+    "message": "$1 bookmark dihapus.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Penghapusan dibatalkan. Bookmark dipulihkan."
+  },
+  "undoBtn": {
+    "message": "Membuka"
+  },
+  "bookmarkUpdated": {
+    "message": "Judul penanda diperbarui."
+  },
+  "errorGeneric": {
+    "message": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "noTitle": {
+    "message": "(Tanpa Judul)"
+  },
+  "unknownFolder": {
+    "message": "(Folder Tidak Dikenal)"
+  },
+  "rootFolder": {
+    "message": "Akar Bookmark"
+  },
+  "ariaNav": {
+    "message": "Navigasi utama"
+  },
+  "ariaThemeToggle": {
+    "message": "Alihkan tema gelap/terang"
+  },
+  "ariaSidebarToggle": {
+    "message": "Alihkan bilah sisi"
+  },
+  "ariaClearSearch": {
+    "message": "Hapus pencarian"
+  },
+  "ariaFilterChips": {
+    "message": "Filter berdasarkan folder"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Tandai untuk dihapus:"
+  },
+  "ariaEditTitle": {
+    "message": "Edit judul penanda"
+  }
+}

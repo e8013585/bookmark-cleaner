@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Pagdalus ti Bookmark"
+  },
+  "extShortName": {
+    "message": "BK nga Pagdalus"
+  },
+  "extDescription": {
+    "message": "Agbirok kadagiti duplikado, nadadael a silpo, urnosen ken sapulen amin a bookmark-mo — napartak ken nadalus."
+  },
+  "popupBookmarks": {
+    "message": "Dagiti Bookmark"
+  },
+  "popupFolders": {
+    "message": "Dagiti folder"
+  },
+  "popupOpenManager": {
+    "message": "Luktan ti Manager ti Bookmark"
+  },
+  "popupTagline": {
+    "message": "Dalusan · Mangurnos · Agbirok"
+  },
+  "popupLoading": {
+    "message": "Karga dagiti estadistika..."
+  },
+  "navHome": {
+    "message": "Balay"
+  },
+  "navDuplicates": {
+    "message": "Sapulen dagiti Duplikado"
+  },
+  "navBroken": {
+    "message": "Naburak nga Links"
+  },
+  "navOrganize": {
+    "message": "Organisaren & Urnosen"
+  },
+  "navSearch": {
+    "message": "Panagsapul & Pagsala"
+  },
+  "navTheme": {
+    "message": "I-toggle ti Tema"
+  },
+  "statBookmarks": {
+    "message": "Dagiti Bookmark"
+  },
+  "statFolders": {
+    "message": "Dagiti folder"
+  },
+  "statDuplicates": {
+    "message": "Duplikado"
+  },
+  "statEmptyFolders": {
+    "message": "Dagiti Empty a Folder"
+  },
+  "featureDupTitle": {
+    "message": "Sapulen dagiti Duplikado"
+  },
+  "featureDupDesc": {
+    "message": "Detektaren ken ikkaten dagiti entry ti bookmark a makibingbingay iti isu met laeng nga URL."
+  },
+  "featureBrkTitle": {
+    "message": "Naburak nga Links"
+  },
+  "featureBrkDesc": {
+    "message": "Mailasin dagiti bookmark nga addaan kadagiti saan nga umiso, empty, wenno saan a web URL."
+  },
+  "featureOrgTitle": {
+    "message": "Organisaren & Urnosen"
+  },
+  "featureOrgDesc": {
+    "message": "Urnosen dagiti bookmark sigun iti alpabeto ken ikkaten dagiti awan kargana a folder."
+  },
+  "featureSrchTitle": {
+    "message": "Panagsapul & Pagsala"
+  },
+  "featureSrchDesc": {
+    "message": "Dagus a sapulem iti ballasiw ti amin a bookmark-mo babaen ti paulo wenno URL."
+  },
+  "featureRunBtn": {
+    "message": "Agtaray"
+  },
+  "loadingBookmarks": {
+    "message": "Ti panagkarga kadagiti bookmark-mo..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Napaay a mangikarga kadagiti bookmark. Pangngaasiyo ta padasenyo manen."
+  },
+  "duplicatesSubtitle": {
+    "message": "Dagiti bookmark a mangibingbingay ti isu met laeng nga URL ket nagrupo iti baba. Idulin ti maysa, i-delete ti nabati."
+  },
+  "dupScanBtn": {
+    "message": "I-scan dagiti Duplikado"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Auto-Select (Pagtalinaeden a Kadaanan) ."
+  },
+  "dupDeleteBtn": {
+    "message": "Buraken ti Napili"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Ikkaten ti $1 Dagiti Bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Idulinmo Daytoy"
+  },
+  "dupGroupCount": {
+    "message": "$1 dagiti kopia",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Nasukimat dagiti $1 / $2 a bookmark",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Panag-scan kadagiti folder..."
+  },
+  "emptyDupTitle": {
+    "message": "Awan ti Nasarakan a Duplikado"
+  },
+  "emptyDupDesc": {
+    "message": "Awan ti duplikado nga URL ti koleksionmo iti bookmark. Dakkel a trabaho!"
+  },
+  "brokenSubtitle": {
+    "message": "Dagiti bookmark nga addaan kadagiti saan nga umiso, awan kargana, wenno saan a web URL ket nailista iti baba."
+  },
+  "brkScanBtn": {
+    "message": "I-scan dagiti Isyu"
+  },
+  "brkDeleteBtn": {
+    "message": "Buraken ti Napili"
+  },
+  "badgeEmptyUrl": {
+    "message": "Empty nga URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Di umiso nga URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokal a File"
+  },
+  "badgeNonWeb": {
+    "message": "Saan a Web"
+  },
+  "badgeSuspicious": {
+    "message": "Agduda"
+  },
+  "emptyBrkTitle": {
+    "message": "Awan ti Nasarakan nga Isyu"
+  },
+  "emptyBrkDesc": {
+    "message": "Agparang nga amin dagiti bookmark-mo ket addaan kadagiti balido nga URL."
+  },
+  "orgTabSort": {
+    "message": "Urnosen dagiti Bookmark"
+  },
+  "orgTabEmpty": {
+    "message": "Dagiti Empty a Folder"
+  },
+  "sortSelectFolder": {
+    "message": "Pilien ti Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "Amin nga Bookmark"
+  },
+  "sortOrder": {
+    "message": "Urnos ti Urnos"
+  },
+  "sortAZ": {
+    "message": "A → Z (babaen ti paulo) ."
+  },
+  "sortZA": {
+    "message": "Z → A (babaen ti paulo) ."
+  },
+  "sortDomain": {
+    "message": "Babaen ti dominio ti URL (A → Z) ."
+  },
+  "sortFolderFirst": {
+    "message": "Umuna dagiti folder, kalpasanna dagiti bookmark"
+  },
+  "sortRecursive": {
+    "message": "Urnosen a rekursibo (agaplikar kadagiti amin a subfolder) ."
+  },
+  "sortPreviewBtn": {
+    "message": "Preview ti umuna"
+  },
+  "sortApplyBtn": {
+    "message": "Iyaplikar ti Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Preview — kalpasan ti panagurnos:"
+  },
+  "sortPreviewMore": {
+    "message": "... ken $1 ad-adu pay",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Awan ti bookmark daytoy a folder a maurnos."
+  },
+  "sortSuccess": {
+    "message": "Naballigi a naurnos dagiti bookmark."
+  },
+  "emptyScanBtn": {
+    "message": "I-scan dagiti Empty Folder"
+  },
+  "emptyDeleteBtn": {
+    "message": "Buraken Dagiti Napili a Folder"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Awan dagiti Empty Folders"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Amin a folder-mo ket naglaon iti di kumurang a maysa a banag."
+  },
+  "deletedFolders": {
+    "message": "Naikkat ti (dagiti) folder ti $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Agbirok kadagiti bookmark babaen ti paulo wenno URL..."
+  },
+  "chipAll": {
+    "message": "Amin"
+  },
+  "searchResultCount": {
+    "message": "$1 dagiti resulta",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Lukatan"
+  },
+  "searchEditBtn": {
+    "message": "Sabalian"
+  },
+  "searchCancelEditBtn": {
+    "message": "Ikansela"
+  },
+  "searchDeleteBtn": {
+    "message": "Ikkaten"
+  },
+  "searchSaveBtn": {
+    "message": "Ispalen"
+  },
+  "searchCancelBtn": {
+    "message": "Ikansela"
+  },
+  "emptySearchTitle": {
+    "message": "Awan ti Nasarakan a Resulta"
+  },
+  "emptySearchDesc": {
+    "message": "Padasem ti sabali a search term wenno filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Sigurado kadi a kayatmo nga ibura daytoy a bookmark?"
+  },
+  "deleteConfirmYes": {
+    "message": "Wen, I-delete"
+  },
+  "deleteConfirmNo": {
+    "message": "Ikansela"
+  },
+  "toastDeleted": {
+    "message": "$1 naikkat ti (dagiti) bookmark.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Naikkat ti pannakaikkat. Naisubli dagiti bookmark."
+  },
+  "undoBtn": {
+    "message": "I-undo ti"
+  },
+  "bookmarkUpdated": {
+    "message": "Na-update ti paulo ti bookmark."
+  },
+  "errorGeneric": {
+    "message": "Napasamak ti biddut. Pangngaasiyo ta padasenyo manen."
+  },
+  "noTitle": {
+    "message": "(Awan ti Titulo) ."
+  },
+  "unknownFolder": {
+    "message": "(Di Ammo a Folder)"
+  },
+  "rootFolder": {
+    "message": "Dagiti Bookmark Ramut"
+  },
+  "ariaNav": {
+    "message": "Kangrunaan a panaglayag"
+  },
+  "ariaThemeToggle": {
+    "message": "I-toggle ti nasipnget/nalawag a tema"
+  },
+  "ariaSidebarToggle": {
+    "message": "I-toggle ti sidebar"
+  },
+  "ariaClearSearch": {
+    "message": "Nalawag ti panagbirok"
+  },
+  "ariaFilterChips": {
+    "message": "Salaan babaen ti folder"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marka para iti pannakaikkat:"
+  },
+  "ariaEditTitle": {
+    "message": "Urnosen ti paulo ti bookmark"
+  }
+}

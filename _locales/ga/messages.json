@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Glantóir Leabharmharcanna"
+  },
+  "extShortName": {
+    "message": "Glantóir BK"
+  },
+  "extDescription": {
+    "message": "Aimsigh dúblaigh, naisc briste, eagraigh agus cuardaigh do leabharmharcanna go léir - tapa agus glan."
+  },
+  "popupBookmarks": {
+    "message": "Leabharmharcanna"
+  },
+  "popupFolders": {
+    "message": "Fillteáin"
+  },
+  "popupOpenManager": {
+    "message": "Oscail Bainisteoir Leabharmharcanna"
+  },
+  "popupTagline": {
+    "message": "Glan · Eagraigh · Cuardach"
+  },
+  "popupLoading": {
+    "message": "Staitisticí á lódáil…"
+  },
+  "navHome": {
+    "message": "Baile"
+  },
+  "navDuplicates": {
+    "message": "Aimsigh Dúblaigh"
+  },
+  "navBroken": {
+    "message": "Naisc Bhriste"
+  },
+  "navOrganize": {
+    "message": "Eagraigh & Sórtáil"
+  },
+  "navSearch": {
+    "message": "Cuardach & Scagaire"
+  },
+  "navTheme": {
+    "message": "Scoránaigh Téama"
+  },
+  "statBookmarks": {
+    "message": "Leabharmharcanna"
+  },
+  "statFolders": {
+    "message": "Fillteáin"
+  },
+  "statDuplicates": {
+    "message": "Dúblaigh"
+  },
+  "statEmptyFolders": {
+    "message": "Fillteáin Folamh"
+  },
+  "featureDupTitle": {
+    "message": "Aimsigh Dúblaigh"
+  },
+  "featureDupDesc": {
+    "message": "Braith agus bain iontrálacha leabharmharc a roinneann an URL céanna."
+  },
+  "featureBrkTitle": {
+    "message": "Naisc Bhriste"
+  },
+  "featureBrkDesc": {
+    "message": "Sainaithin leabharmharcanna a bhfuil URLanna neamhbhailí, folamh nó nach URLanna gréasáin orthu."
+  },
+  "featureOrgTitle": {
+    "message": "Eagraigh & Sórtáil"
+  },
+  "featureOrgDesc": {
+    "message": "Sórtáil leabharmharcanna in ord aibítre agus bain fillteáin fholmha."
+  },
+  "featureSrchTitle": {
+    "message": "Cuardach & Scagaire"
+  },
+  "featureSrchDesc": {
+    "message": "Déan cuardach láithreach ar do leabharmharcanna go léir de réir teidil nó URL."
+  },
+  "featureRunBtn": {
+    "message": "Rith"
+  },
+  "loadingBookmarks": {
+    "message": "Do leabharmharcanna á lódáil…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Theip ar lódáil leabharmharcanna. Bain triail eile as."
+  },
+  "duplicatesSubtitle": {
+    "message": "Tá leabharmharcanna a roinneann an URL céanna le chéile thíos. Coinnigh ceann amháin, scrios an chuid eile."
+  },
+  "dupScanBtn": {
+    "message": "Scan do Dhúblaigh"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Uathroghnú (Coinnigh an Duine Is sine)"
+  },
+  "dupDeleteBtn": {
+    "message": "Scrios Roghnaithe"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Scrios $1 Leabharmharcanna",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Coinnigh Seo"
+  },
+  "dupGroupCount": {
+    "message": "§§ 1§§ cóipeanna",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Seiceáilte $1 / $2 leabharmharcanna",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Fillteáin á scanadh…"
+  },
+  "emptyDupTitle": {
+    "message": "Níor aimsíodh aon dúblaigh"
+  },
+  "emptyDupDesc": {
+    "message": "Níl aon URLanna dúblacha ag do bhailiúchán leabharmharc. Jab iontach!"
+  },
+  "brokenSubtitle": {
+    "message": "Tá leabharmharcanna le URLanna neamhbhailí, folamh nó neamh- Ghréasáin liostaithe thíos."
+  },
+  "brkScanBtn": {
+    "message": "Scan le haghaidh Ceisteanna"
+  },
+  "brkDeleteBtn": {
+    "message": "Scrios Roghnaithe"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL folamh"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL neamhbhailí"
+  },
+  "badgeLocalFile": {
+    "message": "Comhad Áitiúil"
+  },
+  "badgeNonWeb": {
+    "message": "Neamh-Ghréasáin"
+  },
+  "badgeSuspicious": {
+    "message": "amhrasach"
+  },
+  "emptyBrkTitle": {
+    "message": "Níor aimsíodh aon saincheisteanna"
+  },
+  "emptyBrkDesc": {
+    "message": "Is cosúil go bhfuil URLanna bailí ag do leabharmharcanna go léir."
+  },
+  "orgTabSort": {
+    "message": "Sórtáil Leabharmharcanna"
+  },
+  "orgTabEmpty": {
+    "message": "Fillteáin Folamh"
+  },
+  "sortSelectFolder": {
+    "message": "Roghnaigh Fillteán"
+  },
+  "sortAllBookmarks": {
+    "message": "Gach Leabharmharcanna"
+  },
+  "sortOrder": {
+    "message": "Ordú Sórtála"
+  },
+  "sortAZ": {
+    "message": "A → Z (de réir teidil)"
+  },
+  "sortZA": {
+    "message": "Z → A (de réir teidil)"
+  },
+  "sortDomain": {
+    "message": "De réir fearainn URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Fillteáin ar dtús, ansin leabharmharcanna"
+  },
+  "sortRecursive": {
+    "message": "Sórtáil go hathchúrsach (cuir i bhfeidhm ar gach fofhillteán)"
+  },
+  "sortPreviewBtn": {
+    "message": "Réamhamharc"
+  },
+  "sortApplyBtn": {
+    "message": "Cuir Sórtáil i bhfeidhm"
+  },
+  "sortPreviewLabel": {
+    "message": "Réamhamharc - tar éis sórtáil:"
+  },
+  "sortPreviewMore": {
+    "message": "… agus $1 níos mó",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Níl aon leabharmharcanna ag an bhfillteán seo le sórtáil."
+  },
+  "sortSuccess": {
+    "message": "Sórtáil leabharmharcanna go rathúil."
+  },
+  "emptyScanBtn": {
+    "message": "Scan le haghaidh Fillteáin Folamh"
+  },
+  "emptyDeleteBtn": {
+    "message": "Scrios Fillteáin Roghnaithe"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Uimh Fillteáin Folamh"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Tá mír amháin ar a laghad i do fhillteáin go léir."
+  },
+  "deletedFolders": {
+    "message": "Scriosadh $1 fillteán(í).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Cuardaigh leabharmharcanna de réir teidil nó URL…"
+  },
+  "chipAll": {
+    "message": "Gach"
+  },
+  "searchResultCount": {
+    "message": "$1 torthaí",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Oscail"
+  },
+  "searchEditBtn": {
+    "message": "Cuir in eagar"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cealaigh"
+  },
+  "searchDeleteBtn": {
+    "message": "Scrios"
+  },
+  "searchSaveBtn": {
+    "message": "Sábháil"
+  },
+  "searchCancelBtn": {
+    "message": "Cealaigh"
+  },
+  "emptySearchTitle": {
+    "message": "Níor aimsíodh aon torthaí"
+  },
+  "emptySearchDesc": {
+    "message": "Bain triail as téarma cuardaigh nó scagaire eile."
+  },
+  "deleteConfirmMsg": {
+    "message": "An bhfuil tú cinnte gur mhaith leat an leabharmharc seo a scriosadh?"
+  },
+  "deleteConfirmYes": {
+    "message": "Sea, Scrios"
+  },
+  "deleteConfirmNo": {
+    "message": "Cealaigh"
+  },
+  "toastDeleted": {
+    "message": "§§ 1§§ scriosta leabharmharc(í).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Scriosadh cealaithe. Leabharmharcanna athchóirithe."
+  },
+  "undoBtn": {
+    "message": "Cealaigh"
+  },
+  "bookmarkUpdated": {
+    "message": "Nuashonraíodh an teideal leabharmharc."
+  },
+  "errorGeneric": {
+    "message": "Tharla earráid. Bain triail eile as."
+  },
+  "noTitle": {
+    "message": "(Gan Teideal)"
+  },
+  "unknownFolder": {
+    "message": "(Fillteán Anaithnid)"
+  },
+  "rootFolder": {
+    "message": "Leabharmharcanna Fréamh"
+  },
+  "ariaNav": {
+    "message": "Príomh-loingseoireachta"
+  },
+  "ariaThemeToggle": {
+    "message": "Scoránaigh téama dorcha/éadrom"
+  },
+  "ariaSidebarToggle": {
+    "message": "Scoránaigh barra taoibh"
+  },
+  "ariaClearSearch": {
+    "message": "Glan cuardach"
+  },
+  "ariaFilterChips": {
+    "message": "Scag de réir fillteán"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marcáil le scriosadh:"
+  },
+  "ariaEditTitle": {
+    "message": "Cuir teideal leabharmharc in eagar"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Limpador de marcadores"
+  },
+  "extShortName": {
+    "message": "Limpador BK"
+  },
+  "extDescription": {
+    "message": "Busca duplicados, ligazóns rotas, organiza e busca todos os teus marcadores de forma rápida e limpa."
+  },
+  "popupBookmarks": {
+    "message": "Marcadores"
+  },
+  "popupFolders": {
+    "message": "Cartafoles"
+  },
+  "popupOpenManager": {
+    "message": "Abre o Xestor de marcadores"
+  },
+  "popupTagline": {
+    "message": "Limpar · Organizar · Busca"
+  },
+  "popupLoading": {
+    "message": "Cargando estatísticas..."
+  },
+  "navHome": {
+    "message": "Casa"
+  },
+  "navDuplicates": {
+    "message": "Buscar duplicados"
+  },
+  "navBroken": {
+    "message": "Ligazóns rotas"
+  },
+  "navOrganize": {
+    "message": "Organizar e Ordenar"
+  },
+  "navSearch": {
+    "message": "Busca e filtra"
+  },
+  "navTheme": {
+    "message": "Alternar o tema"
+  },
+  "statBookmarks": {
+    "message": "Marcadores"
+  },
+  "statFolders": {
+    "message": "Cartafoles"
+  },
+  "statDuplicates": {
+    "message": "Duplicados"
+  },
+  "statEmptyFolders": {
+    "message": "Carpetas baleiras"
+  },
+  "featureDupTitle": {
+    "message": "Buscar duplicados"
+  },
+  "featureDupDesc": {
+    "message": "Detecta e elimina entradas de marcadores que comparten o mesmo URL."
+  },
+  "featureBrkTitle": {
+    "message": "Ligazóns rotas"
+  },
+  "featureBrkDesc": {
+    "message": "Identifica os marcadores con URL non válidos, baleiros ou non web."
+  },
+  "featureOrgTitle": {
+    "message": "Organizar e Ordenar"
+  },
+  "featureOrgDesc": {
+    "message": "Ordena os marcadores alfabeticamente e elimina os cartafoles baleiros."
+  },
+  "featureSrchTitle": {
+    "message": "Busca e filtra"
+  },
+  "featureSrchDesc": {
+    "message": "Busca instantáneamente en todos os teus marcadores por título ou URL."
+  },
+  "featureRunBtn": {
+    "message": "Corre"
+  },
+  "loadingBookmarks": {
+    "message": "Cargando os teus marcadores..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "Produciuse un erro ao cargar os marcadores. Téntao de novo."
+  },
+  "duplicatesSubtitle": {
+    "message": "Os marcadores que comparten o mesmo URL agrúpanse a continuación. Garda un, elimina o resto."
+  },
+  "dupScanBtn": {
+    "message": "Busca duplicados"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Selección automática (Manter o máis antigo)"
+  },
+  "dupDeleteBtn": {
+    "message": "Eliminar o seleccionado"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Eliminar os marcadores $1",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Manteña isto"
+  },
+  "dupGroupCount": {
+    "message": "$1 copias",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Marcadores marcados $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Escaneando cartafoles..."
+  },
+  "emptyDupTitle": {
+    "message": "Non se atoparon duplicados"
+  },
+  "emptyDupDesc": {
+    "message": "A túa colección de marcadores non ten URL duplicados. Gran traballo!"
+  },
+  "brokenSubtitle": {
+    "message": "A continuación móstranse os marcadores con URL non válidos, baleiros ou non web."
+  },
+  "brkScanBtn": {
+    "message": "Busca problemas"
+  },
+  "brkDeleteBtn": {
+    "message": "Eliminar o seleccionado"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL baleiro"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL non válido"
+  },
+  "badgeLocalFile": {
+    "message": "Ficheiro local"
+  },
+  "badgeNonWeb": {
+    "message": "Non web"
+  },
+  "badgeSuspicious": {
+    "message": "Sospeitoso"
+  },
+  "emptyBrkTitle": {
+    "message": "Non se atoparon problemas"
+  },
+  "emptyBrkDesc": {
+    "message": "Todos os teus marcadores parecen ter URL válidos."
+  },
+  "orgTabSort": {
+    "message": "Ordenar marcadores"
+  },
+  "orgTabEmpty": {
+    "message": "Carpetas baleiras"
+  },
+  "sortSelectFolder": {
+    "message": "Seleccione Cartafol"
+  },
+  "sortAllBookmarks": {
+    "message": "Todos os marcadores"
+  },
+  "sortOrder": {
+    "message": "Orde de ordenación"
+  },
+  "sortAZ": {
+    "message": "A → Z (por título)"
+  },
+  "sortZA": {
+    "message": "Z → A (por título)"
+  },
+  "sortDomain": {
+    "message": "Por dominio URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Primeiro os cartafoles e despois os marcadores"
+  },
+  "sortRecursive": {
+    "message": "Ordenar recursivamente (aplícase a todos os subcartafoles)"
+  },
+  "sortPreviewBtn": {
+    "message": "Vista previa"
+  },
+  "sortApplyBtn": {
+    "message": "Aplicar Ordenación"
+  },
+  "sortPreviewLabel": {
+    "message": "Vista previa - despois de ordenar:"
+  },
+  "sortPreviewMore": {
+    "message": "… e $1 máis",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Este cartafol non ten marcadores para ordenar."
+  },
+  "sortSuccess": {
+    "message": "Os marcadores clasificáronse correctamente."
+  },
+  "emptyScanBtn": {
+    "message": "Busca carpetas baleiras"
+  },
+  "emptyDeleteBtn": {
+    "message": "Eliminar os cartafoles seleccionados"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Non hai cartafoles baleiros"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Todos os teus cartafoles conteñen polo menos un elemento."
+  },
+  "deletedFolders": {
+    "message": "Elimináronse cartafoles $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Busca marcadores por título ou URL..."
+  },
+  "chipAll": {
+    "message": "Todos"
+  },
+  "searchResultCount": {
+    "message": "$1 resultados",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Aberto"
+  },
+  "searchEditBtn": {
+    "message": "Editar"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cancelar"
+  },
+  "searchDeleteBtn": {
+    "message": "Eliminar"
+  },
+  "searchSaveBtn": {
+    "message": "Gardar"
+  },
+  "searchCancelBtn": {
+    "message": "Cancelar"
+  },
+  "emptySearchTitle": {
+    "message": "Non se atoparon resultados"
+  },
+  "emptySearchDesc": {
+    "message": "Proba un termo de busca ou un filtro diferente."
+  },
+  "deleteConfirmMsg": {
+    "message": "Estás seguro de que queres eliminar este marcador?"
+  },
+  "deleteConfirmYes": {
+    "message": "Si, Eliminar"
+  },
+  "deleteConfirmNo": {
+    "message": "Cancelar"
+  },
+  "toastDeleted": {
+    "message": "Elimináronse os marcadores $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Desfixo a eliminación. Os marcadores restauráronse."
+  },
+  "undoBtn": {
+    "message": "Desfacer"
+  },
+  "bookmarkUpdated": {
+    "message": "Actualizouse o título do marcador."
+  },
+  "errorGeneric": {
+    "message": "Produciuse un erro. Téntao de novo."
+  },
+  "noTitle": {
+    "message": "(Sen título)"
+  },
+  "unknownFolder": {
+    "message": "(Cartafol descoñecido)"
+  },
+  "rootFolder": {
+    "message": "Marcadores raíz"
+  },
+  "ariaNav": {
+    "message": "Navegación principal"
+  },
+  "ariaThemeToggle": {
+    "message": "Alterna o tema escuro/claro"
+  },
+  "ariaSidebarToggle": {
+    "message": "Alterna a barra lateral"
+  },
+  "ariaClearSearch": {
+    "message": "Limpar a busca"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrar por cartafol"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marcar para borrar:"
+  },
+  "ariaEditTitle": {
+    "message": "Editar o título do marcador"
+  }
+}

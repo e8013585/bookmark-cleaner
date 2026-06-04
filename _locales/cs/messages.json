@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Čistič záložek"
+  },
+  "extShortName": {
+    "message": "BK čistič"
+  },
+  "extDescription": {
+    "message": "Najděte duplikáty, nefunkční odkazy, uspořádejte a prohledejte všechny své záložky – rychle a čistě."
+  },
+  "popupBookmarks": {
+    "message": "Záložky"
+  },
+  "popupFolders": {
+    "message": "Složky"
+  },
+  "popupOpenManager": {
+    "message": "Otevřete Správce záložek"
+  },
+  "popupTagline": {
+    "message": "Čistit · Uspořádat · Hledat"
+  },
+  "popupLoading": {
+    "message": "Načítání statistik…"
+  },
+  "navHome": {
+    "message": "Domov"
+  },
+  "navDuplicates": {
+    "message": "Najít duplikáty"
+  },
+  "navBroken": {
+    "message": "Nefunkční odkazy"
+  },
+  "navOrganize": {
+    "message": "Uspořádat a třídit"
+  },
+  "navSearch": {
+    "message": "Hledat a filtrovat"
+  },
+  "navTheme": {
+    "message": "Přepnout motiv"
+  },
+  "statBookmarks": {
+    "message": "Záložky"
+  },
+  "statFolders": {
+    "message": "Složky"
+  },
+  "statDuplicates": {
+    "message": "Duplikáty"
+  },
+  "statEmptyFolders": {
+    "message": "Prázdné složky"
+  },
+  "featureDupTitle": {
+    "message": "Najít duplikáty"
+  },
+  "featureDupDesc": {
+    "message": "Zjistit a odstranit položky záložek sdílející stejnou adresu URL."
+  },
+  "featureBrkTitle": {
+    "message": "Nefunkční odkazy"
+  },
+  "featureBrkDesc": {
+    "message": "Identifikujte záložky s neplatnými, prázdnými nebo newebovými adresami URL."
+  },
+  "featureOrgTitle": {
+    "message": "Uspořádat a třídit"
+  },
+  "featureOrgDesc": {
+    "message": "Seřadit záložky podle abecedy a odstranit prázdné složky."
+  },
+  "featureSrchTitle": {
+    "message": "Hledat a filtrovat"
+  },
+  "featureSrchDesc": {
+    "message": "Okamžitě vyhledávejte ve všech svých záložkách podle názvu nebo adresy URL."
+  },
+  "featureRunBtn": {
+    "message": "Běh"
+  },
+  "loadingBookmarks": {
+    "message": "Načítání záložek…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Záložky se nepodařilo načíst. Zkuste to prosím znovu."
+  },
+  "duplicatesSubtitle": {
+    "message": "Záložky sdílející stejnou adresu URL jsou seskupeny níže. Jednu si nechte, zbytek smažte."
+  },
+  "dupScanBtn": {
+    "message": "Vyhledat duplikáty"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automatický výběr (ponechat nejstarší)"
+  },
+  "dupDeleteBtn": {
+    "message": "Smazat vybrané"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Smazat $1 Záložky",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Toto si nechte"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopie",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Zaškrtnuté záložky $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Skenování složek…"
+  },
+  "emptyDupTitle": {
+    "message": "Nebyly nalezeny žádné duplikáty"
+  },
+  "emptyDupDesc": {
+    "message": "Vaše sbírka záložek nemá žádné duplicitní adresy URL. Skvělá práce!"
+  },
+  "brokenSubtitle": {
+    "message": "Níže jsou uvedeny záložky s neplatnými, prázdnými nebo newebovými adresami URL."
+  },
+  "brkScanBtn": {
+    "message": "Vyhledat problémy"
+  },
+  "brkDeleteBtn": {
+    "message": "Smazat vybrané"
+  },
+  "badgeEmptyUrl": {
+    "message": "Prázdná adresa URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Neplatná adresa URL"
+  },
+  "badgeLocalFile": {
+    "message": "Místní soubor"
+  },
+  "badgeNonWeb": {
+    "message": "Newebové"
+  },
+  "badgeSuspicious": {
+    "message": "Podezřelý"
+  },
+  "emptyBrkTitle": {
+    "message": "Nebyly nalezeny žádné problémy"
+  },
+  "emptyBrkDesc": {
+    "message": "Zdá se, že všechny vaše záložky mají platné adresy URL."
+  },
+  "orgTabSort": {
+    "message": "Řazení záložek"
+  },
+  "orgTabEmpty": {
+    "message": "Prázdné složky"
+  },
+  "sortSelectFolder": {
+    "message": "Vyberte složku"
+  },
+  "sortAllBookmarks": {
+    "message": "Všechny záložky"
+  },
+  "sortOrder": {
+    "message": "Pořadí řazení"
+  },
+  "sortAZ": {
+    "message": "A → Z (podle názvu)"
+  },
+  "sortZA": {
+    "message": "Z → A (podle názvu)"
+  },
+  "sortDomain": {
+    "message": "Podle domény URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Nejprve složky, potom záložky"
+  },
+  "sortRecursive": {
+    "message": "Řadit rekurzivně (platí pro všechny podsložky)"
+  },
+  "sortPreviewBtn": {
+    "message": "Náhled"
+  },
+  "sortApplyBtn": {
+    "message": "Použít řazení"
+  },
+  "sortPreviewLabel": {
+    "message": "Náhled — po seřazení:"
+  },
+  "sortPreviewMore": {
+    "message": "… a $1 další",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Tato složka nemá žádné záložky k řazení."
+  },
+  "sortSuccess": {
+    "message": "Záložky byly úspěšně seřazeny."
+  },
+  "emptyScanBtn": {
+    "message": "Vyhledejte prázdné složky"
+  },
+  "emptyDeleteBtn": {
+    "message": "Smazat vybrané složky"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Žádné prázdné složky"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Všechny vaše složky obsahují alespoň jednu položku."
+  },
+  "deletedFolders": {
+    "message": "Smazané složky $1.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Hledat záložky podle názvu nebo adresy URL…"
+  },
+  "chipAll": {
+    "message": "Vše"
+  },
+  "searchResultCount": {
+    "message": "$1 výsledky",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "OTEVŘENO"
+  },
+  "searchEditBtn": {
+    "message": "Upravit"
+  },
+  "searchCancelEditBtn": {
+    "message": "Zrušit"
+  },
+  "searchDeleteBtn": {
+    "message": "Vymazat"
+  },
+  "searchSaveBtn": {
+    "message": "Uložit"
+  },
+  "searchCancelBtn": {
+    "message": "Zrušit"
+  },
+  "emptySearchTitle": {
+    "message": "Nebyly nalezeny žádné výsledky"
+  },
+  "emptySearchDesc": {
+    "message": "Zkuste jiný hledaný výraz nebo filtr."
+  },
+  "deleteConfirmMsg": {
+    "message": "Opravdu chcete smazat tuto záložku?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ano, smazat"
+  },
+  "deleteConfirmNo": {
+    "message": "Zrušit"
+  },
+  "toastDeleted": {
+    "message": "$1 záložka(y) smazána.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Smazání bylo vráceno. Záložky obnoveny."
+  },
+  "undoBtn": {
+    "message": "Vrátit zpět"
+  },
+  "bookmarkUpdated": {
+    "message": "Název záložky byl aktualizován."
+  },
+  "errorGeneric": {
+    "message": "Došlo k chybě. Zkuste to prosím znovu."
+  },
+  "noTitle": {
+    "message": "(Bez názvu)"
+  },
+  "unknownFolder": {
+    "message": "(Neznámá složka)"
+  },
+  "rootFolder": {
+    "message": "Kořen záložek"
+  },
+  "ariaNav": {
+    "message": "Hlavní navigace"
+  },
+  "ariaThemeToggle": {
+    "message": "Přepnout tmavý/světlý motiv"
+  },
+  "ariaSidebarToggle": {
+    "message": "Přepnout postranní panel"
+  },
+  "ariaClearSearch": {
+    "message": "Vymazat vyhledávání"
+  },
+  "ariaFilterChips": {
+    "message": "Filtrovat podle složky"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Označit ke smazání:"
+  },
+  "ariaEditTitle": {
+    "message": "Upravit název záložky"
+  }
+}

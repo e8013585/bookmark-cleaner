@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Lesezeichenreiniger"
+  },
+  "extShortName": {
+    "message": "BK-Reiniger"
+  },
+  "extDescription": {
+    "message": "Finden Sie Duplikate und defekte Links, organisieren und durchsuchen Sie alle Ihre Lesezeichen – schnell und sauber."
+  },
+  "popupBookmarks": {
+    "message": "Lesezeichen"
+  },
+  "popupFolders": {
+    "message": "Ordner"
+  },
+  "popupOpenManager": {
+    "message": "Öffnen Sie den Lesezeichen-Manager"
+  },
+  "popupTagline": {
+    "message": "Bereinigen · Organisieren · Suchen"
+  },
+  "popupLoading": {
+    "message": "Statistiken werden geladen…"
+  },
+  "navHome": {
+    "message": "Heim"
+  },
+  "navDuplicates": {
+    "message": "Finden Sie Duplikate"
+  },
+  "navBroken": {
+    "message": "Defekte Links"
+  },
+  "navOrganize": {
+    "message": "Organisieren und sortieren"
+  },
+  "navSearch": {
+    "message": "Suchen und filtern"
+  },
+  "navTheme": {
+    "message": "Thema umschalten"
+  },
+  "statBookmarks": {
+    "message": "Lesezeichen"
+  },
+  "statFolders": {
+    "message": "Ordner"
+  },
+  "statDuplicates": {
+    "message": "Duplikate"
+  },
+  "statEmptyFolders": {
+    "message": "Leere Ordner"
+  },
+  "featureDupTitle": {
+    "message": "Finden Sie Duplikate"
+  },
+  "featureDupDesc": {
+    "message": "Erkennen und entfernen Sie Lesezeicheneinträge mit derselben URL."
+  },
+  "featureBrkTitle": {
+    "message": "Defekte Links"
+  },
+  "featureBrkDesc": {
+    "message": "Identifizieren Sie Lesezeichen mit ungültigen, leeren oder Nicht-Web-URLs."
+  },
+  "featureOrgTitle": {
+    "message": "Organisieren und sortieren"
+  },
+  "featureOrgDesc": {
+    "message": "Lesezeichen alphabetisch sortieren und leere Ordner entfernen."
+  },
+  "featureSrchTitle": {
+    "message": "Suchen und filtern"
+  },
+  "featureSrchDesc": {
+    "message": "Durchsuchen Sie alle Ihre Lesezeichen sofort nach Titel oder URL."
+  },
+  "featureRunBtn": {
+    "message": "Laufen"
+  },
+  "loadingBookmarks": {
+    "message": "Deine Lesezeichen werden geladen…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Lesezeichen konnten nicht geladen werden. Bitte versuchen Sie es erneut."
+  },
+  "duplicatesSubtitle": {
+    "message": "Lesezeichen mit derselben URL werden unten gruppiert. Behalten Sie einen, löschen Sie den Rest."
+  },
+  "dupScanBtn": {
+    "message": "Nach Duplikaten suchen"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automatische Auswahl (Älteste beibehalten)"
+  },
+  "dupDeleteBtn": {
+    "message": "Ausgewählte löschen"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 Lesezeichen löschen",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Behalten Sie dies"
+  },
+  "dupGroupCount": {
+    "message": "$1 Kopien",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 Lesezeichen überprüft",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Ordner scannen…"
+  },
+  "emptyDupTitle": {
+    "message": "Keine Duplikate gefunden"
+  },
+  "emptyDupDesc": {
+    "message": "Ihre Lesezeichensammlung enthält keine doppelten URLs. Tolle Arbeit!"
+  },
+  "brokenSubtitle": {
+    "message": "Lesezeichen mit ungültigen, leeren oder Nicht-Web-URLs werden unten aufgeführt."
+  },
+  "brkScanBtn": {
+    "message": "Nach Problemen suchen"
+  },
+  "brkDeleteBtn": {
+    "message": "Ausgewählte löschen"
+  },
+  "badgeEmptyUrl": {
+    "message": "Leere URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Ungültige URL"
+  },
+  "badgeLocalFile": {
+    "message": "Lokale Datei"
+  },
+  "badgeNonWeb": {
+    "message": "Nicht-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Verdächtig"
+  },
+  "emptyBrkTitle": {
+    "message": "Keine Probleme gefunden"
+  },
+  "emptyBrkDesc": {
+    "message": "Alle Ihre Lesezeichen scheinen gültige URLs zu haben."
+  },
+  "orgTabSort": {
+    "message": "Lesezeichen sortieren"
+  },
+  "orgTabEmpty": {
+    "message": "Leere Ordner"
+  },
+  "sortSelectFolder": {
+    "message": "Wählen Sie Ordner aus"
+  },
+  "sortAllBookmarks": {
+    "message": "Alle Lesezeichen"
+  },
+  "sortOrder": {
+    "message": "Sortierreihenfolge"
+  },
+  "sortAZ": {
+    "message": "A → Z (nach Titel)"
+  },
+  "sortZA": {
+    "message": "Z → A (nach Titel)"
+  },
+  "sortDomain": {
+    "message": "Nach URL-Domäne (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Zuerst Ordner, dann Lesezeichen"
+  },
+  "sortRecursive": {
+    "message": "Rekursiv sortieren (auf alle Unterordner anwenden)"
+  },
+  "sortPreviewBtn": {
+    "message": "Vorschau"
+  },
+  "sortApplyBtn": {
+    "message": "Sortieren anwenden"
+  },
+  "sortPreviewLabel": {
+    "message": "Vorschau – nach dem Sortieren:"
+  },
+  "sortPreviewMore": {
+    "message": "… und $1 mehr",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Dieser Ordner enthält keine zu sortierenden Lesezeichen."
+  },
+  "sortSuccess": {
+    "message": "Lesezeichen erfolgreich sortiert."
+  },
+  "emptyScanBtn": {
+    "message": "Nach leeren Ordnern suchen"
+  },
+  "emptyDeleteBtn": {
+    "message": "Ausgewählte Ordner löschen"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Keine leeren Ordner"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Alle Ihre Ordner enthalten mindestens ein Element."
+  },
+  "deletedFolders": {
+    "message": "$1-Ordner gelöscht.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Lesezeichen nach Titel oder URL durchsuchen…"
+  },
+  "chipAll": {
+    "message": "Alle"
+  },
+  "searchResultCount": {
+    "message": "$1 Ergebnisse",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Offen"
+  },
+  "searchEditBtn": {
+    "message": "Bearbeiten"
+  },
+  "searchCancelEditBtn": {
+    "message": "Stornieren"
+  },
+  "searchDeleteBtn": {
+    "message": "Löschen"
+  },
+  "searchSaveBtn": {
+    "message": "Speichern"
+  },
+  "searchCancelBtn": {
+    "message": "Stornieren"
+  },
+  "emptySearchTitle": {
+    "message": "Keine Ergebnisse gefunden"
+  },
+  "emptySearchDesc": {
+    "message": "Versuchen Sie es mit einem anderen Suchbegriff oder Filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Möchten Sie dieses Lesezeichen wirklich löschen?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ja, löschen"
+  },
+  "deleteConfirmNo": {
+    "message": "Stornieren"
+  },
+  "toastDeleted": {
+    "message": "$1 Lesezeichen gelöscht.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Löschung rückgängig gemacht. Lesezeichen wiederhergestellt."
+  },
+  "undoBtn": {
+    "message": "Rückgängig machen"
+  },
+  "bookmarkUpdated": {
+    "message": "Lesezeichentitel aktualisiert."
+  },
+  "errorGeneric": {
+    "message": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "noTitle": {
+    "message": "(Kein Titel)"
+  },
+  "unknownFolder": {
+    "message": "(Unbekannter Ordner)"
+  },
+  "rootFolder": {
+    "message": "Lesezeichen-Stamm"
+  },
+  "ariaNav": {
+    "message": "Hauptnavigation"
+  },
+  "ariaThemeToggle": {
+    "message": "Schalten Sie das dunkle/helle Thema um"
+  },
+  "ariaSidebarToggle": {
+    "message": "Seitenleiste umschalten"
+  },
+  "ariaClearSearch": {
+    "message": "Suche löschen"
+  },
+  "ariaFilterChips": {
+    "message": "Nach Ordner filtern"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Zum Löschen markieren:"
+  },
+  "ariaEditTitle": {
+    "message": "Lesezeichentitel bearbeiten"
+  }
+}

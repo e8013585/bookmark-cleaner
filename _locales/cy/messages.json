@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Glanhawr Nod tudalen"
+  },
+  "extShortName": {
+    "message": "Glanhawr BK"
+  },
+  "extDescription": {
+    "message": "Dewch o hyd i ddyblygiadau, dolenni wedi'u torri, trefnwch a chwiliwch eich holl nodau tudalen - yn gyflym ac yn lân."
+  },
+  "popupBookmarks": {
+    "message": "Llyfrnodau"
+  },
+  "popupFolders": {
+    "message": "Ffolderi"
+  },
+  "popupOpenManager": {
+    "message": "Agor Rheolwr Nod tudalen"
+  },
+  "popupTagline": {
+    "message": "Glanhau · Trefnu · Chwilio"
+  },
+  "popupLoading": {
+    "message": "Wrthi'n llwytho ystadegau…"
+  },
+  "navHome": {
+    "message": "Cartref"
+  },
+  "navDuplicates": {
+    "message": "Darganfod Dyblygiadau"
+  },
+  "navBroken": {
+    "message": "Dolenni toredig"
+  },
+  "navOrganize": {
+    "message": "Trefnu a Didoli"
+  },
+  "navSearch": {
+    "message": "Chwilio a Hidlo"
+  },
+  "navTheme": {
+    "message": "Toglo Thema"
+  },
+  "statBookmarks": {
+    "message": "Llyfrnodau"
+  },
+  "statFolders": {
+    "message": "Ffolderi"
+  },
+  "statDuplicates": {
+    "message": "Dyblyg"
+  },
+  "statEmptyFolders": {
+    "message": "Ffolderi Gwag"
+  },
+  "featureDupTitle": {
+    "message": "Darganfod Dyblygiadau"
+  },
+  "featureDupDesc": {
+    "message": "Canfod a dileu cofnodion nod tudalen sy'n rhannu'r un URL."
+  },
+  "featureBrkTitle": {
+    "message": "Dolenni toredig"
+  },
+  "featureBrkDesc": {
+    "message": "Nodi nodau tudalen ag URLau annilys, gwag neu nad ydynt yn rhai gwe."
+  },
+  "featureOrgTitle": {
+    "message": "Trefnu a Didoli"
+  },
+  "featureOrgDesc": {
+    "message": "Trefnu nodau tudalen yn nhrefn yr wyddor a thynnu ffolderi gwag."
+  },
+  "featureSrchTitle": {
+    "message": "Chwilio a Hidlo"
+  },
+  "featureSrchDesc": {
+    "message": "Chwiliwch ar unwaith ar draws eich holl nodau tudalen yn ôl teitl neu URL."
+  },
+  "featureRunBtn": {
+    "message": "Rhedeg"
+  },
+  "loadingBookmarks": {
+    "message": "Wrthi'n llwytho eich nodau tudalen…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Wedi methu llwytho nodau tudalen. Ceisiwch eto."
+  },
+  "duplicatesSubtitle": {
+    "message": "Mae nodau tudalen sy'n rhannu'r un URL wedi'u grwpio isod. Cadwch un, dilëwch y gweddill."
+  },
+  "dupScanBtn": {
+    "message": "Sganio am Dyblygiadau"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Awto-ddewis (Cadw'r Hynaf)"
+  },
+  "dupDeleteBtn": {
+    "message": "Dileu Wedi'i Ddewis"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Dileu $1 Llyfrnodau",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Cadw Hwn"
+  },
+  "dupGroupCount": {
+    "message": "$1 copiau",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Wedi gwirio nodau tudalen $1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Wrthi'n sganio ffolderi…"
+  },
+  "emptyDupTitle": {
+    "message": "Heb Ddarganfod Dyblygiadau"
+  },
+  "emptyDupDesc": {
+    "message": "Nid oes gan eich casgliad nodau tudalen unrhyw URLau dyblyg. Gwaith gwych!"
+  },
+  "brokenSubtitle": {
+    "message": "Rhestrir nodau tudalen gydag URLau annilys, gwag neu nad ydynt ar y we isod."
+  },
+  "brkScanBtn": {
+    "message": "Sganio am Faterion"
+  },
+  "brkDeleteBtn": {
+    "message": "Dileu Wedi'i Ddewis"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL gwag"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL annilys"
+  },
+  "badgeLocalFile": {
+    "message": "Ffeil Leol"
+  },
+  "badgeNonWeb": {
+    "message": "Heb fod yn We"
+  },
+  "badgeSuspicious": {
+    "message": "Amheus"
+  },
+  "emptyBrkTitle": {
+    "message": "Dim Materion wedi'u Canfod"
+  },
+  "emptyBrkDesc": {
+    "message": "Mae'n ymddangos bod gan eich holl nodau tudalen URLau dilys."
+  },
+  "orgTabSort": {
+    "message": "Trefnu Nodau Tudalen"
+  },
+  "orgTabEmpty": {
+    "message": "Ffolderi Gwag"
+  },
+  "sortSelectFolder": {
+    "message": "Dewiswch Ffolder"
+  },
+  "sortAllBookmarks": {
+    "message": "Pob Nod tudalen"
+  },
+  "sortOrder": {
+    "message": "Trefn Didoli"
+  },
+  "sortAZ": {
+    "message": "A → Z (yn ôl teitl)"
+  },
+  "sortZA": {
+    "message": "Z → A (yn ôl teitl)"
+  },
+  "sortDomain": {
+    "message": "Yn ôl parth URL (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Ffolderi yn gyntaf, yna nodau tudalen"
+  },
+  "sortRecursive": {
+    "message": "Trefnu'n rheolaidd (yn berthnasol i bob is-ffolder)"
+  },
+  "sortPreviewBtn": {
+    "message": "Rhagolwg"
+  },
+  "sortApplyBtn": {
+    "message": "Cymhwyso Trefnu"
+  },
+  "sortPreviewLabel": {
+    "message": "Rhagolwg - ar ôl didoli:"
+  },
+  "sortPreviewMore": {
+    "message": "… a $1 mwy",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Nid oes gan y ffolder hwn nodau tudalen i'w didoli."
+  },
+  "sortSuccess": {
+    "message": "Trefnwyd nodau tudalen yn llwyddiannus."
+  },
+  "emptyScanBtn": {
+    "message": "Sganio am Ffolderi Gwag"
+  },
+  "emptyDeleteBtn": {
+    "message": "Dileu Ffolderi a Ddewiswyd"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Dim Ffolderi Gwag"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Mae eich holl ffolderi yn cynnwys o leiaf un eitem."
+  },
+  "deletedFolders": {
+    "message": "Wedi dileu $1 ffolder(i).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Chwilio nodau tudalen yn ôl teitl neu URL…"
+  },
+  "chipAll": {
+    "message": "Pawb"
+  },
+  "searchResultCount": {
+    "message": "$1 canlyniadau",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Agor"
+  },
+  "searchEditBtn": {
+    "message": "Golygu"
+  },
+  "searchCancelEditBtn": {
+    "message": "Canslo"
+  },
+  "searchDeleteBtn": {
+    "message": "Dileu"
+  },
+  "searchSaveBtn": {
+    "message": "Arbed"
+  },
+  "searchCancelBtn": {
+    "message": "Canslo"
+  },
+  "emptySearchTitle": {
+    "message": "Dim Canlyniadau"
+  },
+  "emptySearchDesc": {
+    "message": "Rhowch gynnig ar derm chwilio neu hidlydd gwahanol."
+  },
+  "deleteConfirmMsg": {
+    "message": "Ydych chi'n siŵr eich bod am ddileu'r nod tudalen hwn?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ydw, Dileu"
+  },
+  "deleteConfirmNo": {
+    "message": "Canslo"
+  },
+  "toastDeleted": {
+    "message": "§§ 1§§ dilëwyd nod(iau) tudalen.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Dileu wedi'i ddadwneud. Llyfrnodau wedi'u hadfer."
+  },
+  "undoBtn": {
+    "message": "Dadwneud"
+  },
+  "bookmarkUpdated": {
+    "message": "Teitl y nod tudalen wedi'i ddiweddaru."
+  },
+  "errorGeneric": {
+    "message": "Digwyddodd gwall. Ceisiwch eto."
+  },
+  "noTitle": {
+    "message": "(Dim Teitl)"
+  },
+  "unknownFolder": {
+    "message": "(Plygell Anhysbys)"
+  },
+  "rootFolder": {
+    "message": "Llyfrnodau Gwraidd"
+  },
+  "ariaNav": {
+    "message": "Prif fordwyo"
+  },
+  "ariaThemeToggle": {
+    "message": "Toglo thema dywyll/golau"
+  },
+  "ariaSidebarToggle": {
+    "message": "Toglo bar ochr"
+  },
+  "ariaClearSearch": {
+    "message": "Chwiliad clir"
+  },
+  "ariaFilterChips": {
+    "message": "Hidlo yn ôl ffolder"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marc i'w ddileu:"
+  },
+  "ariaEditTitle": {
+    "message": "Golygu teitl nod tudalen"
+  }
+}

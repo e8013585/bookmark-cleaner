@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Kirjanmerkkien puhdistaja"
+  },
+  "extShortName": {
+    "message": "BK puhdistusaine"
+  },
+  "extDescription": {
+    "message": "Etsi kopioita, rikkinäisiä linkkejä, järjestä ja hae kaikista kirjanmerkeistäsi – nopeasti ja siististi."
+  },
+  "popupBookmarks": {
+    "message": "Kirjanmerkit"
+  },
+  "popupFolders": {
+    "message": "Kansiot"
+  },
+  "popupOpenManager": {
+    "message": "Avaa Kirjanmerkkien hallinta"
+  },
+  "popupTagline": {
+    "message": "Puhdista · Järjestä · Etsi"
+  },
+  "popupLoading": {
+    "message": "Ladataan tilastoja…"
+  },
+  "navHome": {
+    "message": "Kotiin"
+  },
+  "navDuplicates": {
+    "message": "Etsi kaksoiskappaleet"
+  },
+  "navBroken": {
+    "message": "Rikkinäiset linkit"
+  },
+  "navOrganize": {
+    "message": "Järjestä & Lajittele"
+  },
+  "navSearch": {
+    "message": "Haku ja suodatin"
+  },
+  "navTheme": {
+    "message": "Vaihda teema"
+  },
+  "statBookmarks": {
+    "message": "Kirjanmerkit"
+  },
+  "statFolders": {
+    "message": "Kansiot"
+  },
+  "statDuplicates": {
+    "message": "Kopiot"
+  },
+  "statEmptyFolders": {
+    "message": "Tyhjät kansiot"
+  },
+  "featureDupTitle": {
+    "message": "Etsi kaksoiskappaleet"
+  },
+  "featureDupDesc": {
+    "message": "Tunnista ja poista kirjanmerkkimerkinnät, joilla on sama URL-osoite."
+  },
+  "featureBrkTitle": {
+    "message": "Rikkinäiset linkit"
+  },
+  "featureBrkDesc": {
+    "message": "Tunnista kirjanmerkit, joissa on virheellisiä, tyhjiä tai muita kuin verkko-URL-osoitteita."
+  },
+  "featureOrgTitle": {
+    "message": "Järjestä & Lajittele"
+  },
+  "featureOrgDesc": {
+    "message": "Lajittele kirjanmerkit aakkosjärjestykseen ja poista tyhjät kansiot."
+  },
+  "featureSrchTitle": {
+    "message": "Haku ja suodatin"
+  },
+  "featureSrchDesc": {
+    "message": "Hae välittömästi kaikista kirjanmerkeistäsi otsikon tai URL-osoitteen perusteella."
+  },
+  "featureRunBtn": {
+    "message": "Juokse"
+  },
+  "loadingBookmarks": {
+    "message": "Ladataan kirjanmerkkejäsi…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Kirjanmerkkien lataaminen epäonnistui. Yritä uudelleen."
+  },
+  "duplicatesSubtitle": {
+    "message": "Kirjanmerkit, joilla on sama URL-osoite, on ryhmitelty alla. Pidä yksi, poista loput."
+  },
+  "dupScanBtn": {
+    "message": "Etsi kaksoiskappaleita"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Automaattinen valinta (säilytä vanhin)"
+  },
+  "dupDeleteBtn": {
+    "message": "Poista valitut"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Poista $1 Kirjanmerkit",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Pidä tämä"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopioita",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Tarkistettu $1 / $2 kirjanmerkit",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Kansioita skannataan…"
+  },
+  "emptyDupTitle": {
+    "message": "Kopioita ei löytynyt"
+  },
+  "emptyDupDesc": {
+    "message": "Kirjanmerkkikokoelmassasi ei ole päällekkäisiä URL-osoitteita. Hienoa työtä!"
+  },
+  "brokenSubtitle": {
+    "message": "Kirjanmerkit, joissa on virheellisiä, tyhjiä tai muita kuin verkko-URL-osoitteita, on lueteltu alla."
+  },
+  "brkScanBtn": {
+    "message": "Etsi ongelmia"
+  },
+  "brkDeleteBtn": {
+    "message": "Poista valitut"
+  },
+  "badgeEmptyUrl": {
+    "message": "Tyhjä URL-osoite"
+  },
+  "badgeInvalidUrl": {
+    "message": "Virheellinen URL-osoite"
+  },
+  "badgeLocalFile": {
+    "message": "Paikallinen tiedosto"
+  },
+  "badgeNonWeb": {
+    "message": "Ei-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Epäilyttävä"
+  },
+  "emptyBrkTitle": {
+    "message": "Ei ongelmia"
+  },
+  "emptyBrkDesc": {
+    "message": "Kaikilla kirjanmerkeilläsi näyttää olevan kelvolliset URL-osoitteet."
+  },
+  "orgTabSort": {
+    "message": "Lajittele kirjanmerkit"
+  },
+  "orgTabEmpty": {
+    "message": "Tyhjät kansiot"
+  },
+  "sortSelectFolder": {
+    "message": "Valitse Kansio"
+  },
+  "sortAllBookmarks": {
+    "message": "Kaikki kirjanmerkit"
+  },
+  "sortOrder": {
+    "message": "Lajittelujärjestys"
+  },
+  "sortAZ": {
+    "message": "A → Z (otsikon mukaan)"
+  },
+  "sortZA": {
+    "message": "Z → A (otsikon mukaan)"
+  },
+  "sortDomain": {
+    "message": "URL-verkkotunnuksen mukaan (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Kansiot ensin, sitten kirjanmerkit"
+  },
+  "sortRecursive": {
+    "message": "Lajittele rekursiivisesti (koskee kaikkia alikansioita)"
+  },
+  "sortPreviewBtn": {
+    "message": "Esikatselu"
+  },
+  "sortApplyBtn": {
+    "message": "Käytä lajittelua"
+  },
+  "sortPreviewLabel": {
+    "message": "Esikatselu - lajittelun jälkeen:"
+  },
+  "sortPreviewMore": {
+    "message": "… ja $1 lisää",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Tässä kansiossa ei ole lajiteltavia kirjanmerkkejä."
+  },
+  "sortSuccess": {
+    "message": "Kirjanmerkit lajiteltu onnistuneesti."
+  },
+  "emptyScanBtn": {
+    "message": "Etsi tyhjiä kansioita"
+  },
+  "emptyDeleteBtn": {
+    "message": "Poista valitut kansiot"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Ei tyhjiä kansioita"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "Kaikissa kansioissasi on vähintään yksi kohde."
+  },
+  "deletedFolders": {
+    "message": "Poistettu $1-kansio(t).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Hae kirjanmerkkejä otsikon tai URL-osoitteen perusteella…"
+  },
+  "chipAll": {
+    "message": "Kaikki"
+  },
+  "searchResultCount": {
+    "message": "$1 tulokset",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Avata"
+  },
+  "searchEditBtn": {
+    "message": "Muokata"
+  },
+  "searchCancelEditBtn": {
+    "message": "Peruuttaa"
+  },
+  "searchDeleteBtn": {
+    "message": "Poistaa"
+  },
+  "searchSaveBtn": {
+    "message": "Tallentaa"
+  },
+  "searchCancelBtn": {
+    "message": "Peruuttaa"
+  },
+  "emptySearchTitle": {
+    "message": "Tuloksia ei löytynyt"
+  },
+  "emptySearchDesc": {
+    "message": "Kokeile toista hakutermiä tai suodatinta."
+  },
+  "deleteConfirmMsg": {
+    "message": "Haluatko varmasti poistaa tämän kirjanmerkin?"
+  },
+  "deleteConfirmYes": {
+    "message": "Kyllä, Poista"
+  },
+  "deleteConfirmNo": {
+    "message": "Peruuttaa"
+  },
+  "toastDeleted": {
+    "message": "$1 kirjanmerkki(t) poistettu.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Poisto kumottu. Kirjanmerkit palautettu."
+  },
+  "undoBtn": {
+    "message": "Kumoa"
+  },
+  "bookmarkUpdated": {
+    "message": "Kirjanmerkin otsikko päivitetty."
+  },
+  "errorGeneric": {
+    "message": "Tapahtui virhe. Yritä uudelleen."
+  },
+  "noTitle": {
+    "message": "(Ei otsikkoa)"
+  },
+  "unknownFolder": {
+    "message": "(Tuntematon kansio)"
+  },
+  "rootFolder": {
+    "message": "Kirjanmerkit Root"
+  },
+  "ariaNav": {
+    "message": "Päänavigointi"
+  },
+  "ariaThemeToggle": {
+    "message": "Vaihda tumma/vaalea teema"
+  },
+  "ariaSidebarToggle": {
+    "message": "Vaihda sivupalkki"
+  },
+  "ariaClearSearch": {
+    "message": "Tyhjennä haku"
+  },
+  "ariaFilterChips": {
+    "message": "Suodata kansion mukaan"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Merkitse poistettavaksi:"
+  },
+  "ariaEditTitle": {
+    "message": "Muokkaa kirjanmerkin otsikkoa"
+  }
+}

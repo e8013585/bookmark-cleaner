@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Saniyabaga"
+  },
+  "extShortName": {
+    "message": "BK Saniyabaga"
+  },
+  "extDescription": {
+    "message": "Duplicates, links tiɲɛnenw ɲini, ka i ka bookmarks bɛɛ labɛn ani k’u ɲini — teliya la ani saniyalen."
+  },
+  "popupBookmarks": {
+    "message": "Gafew taamasiyɛnw"
+  },
+  "popupFolders": {
+    "message": "Foli (foli) minnu bɛ yen"
+  },
+  "popupOpenManager": {
+    "message": "Aw ye Bookmark Manager da wuli"
+  },
+  "popupTagline": {
+    "message": "Saniya · Labɛn · Ɲini"
+  },
+  "popupLoading": {
+    "message": "Statistiques chargement..."
+  },
+  "navHome": {
+    "message": "So"
+  },
+  "navDuplicates": {
+    "message": "Duplicates (Duplicates) ɲini"
+  },
+  "navBroken": {
+    "message": "Liens karilenw"
+  },
+  "navOrganize": {
+    "message": "Labɛn & Labɛn"
+  },
+  "navSearch": {
+    "message": "Ɲini & Filɛri"
+  },
+  "navTheme": {
+    "message": "Toggle Barokun"
+  },
+  "statBookmarks": {
+    "message": "Gafew taamasiyɛnw"
+  },
+  "statFolders": {
+    "message": "Foli (foli) minnu bɛ yen"
+  },
+  "statDuplicates": {
+    "message": "Duplicates (Duplicates) minnu bɛ kɛ"
+  },
+  "statEmptyFolders": {
+    "message": "Foli lankolonw"
+  },
+  "featureDupTitle": {
+    "message": "Duplicates (Duplicates) ɲini"
+  },
+  "featureDupDesc": {
+    "message": "Bookmark sɛbɛnni minnu bɛ URL kelen na, olu dɔn ani k’u bɔ yen."
+  },
+  "featureBrkTitle": {
+    "message": "Liens karilenw"
+  },
+  "featureBrkDesc": {
+    "message": "I ka taamasiyɛnw dɔn minnu bɛ ni URL tiɲɛnenw ye, minnu lankolon don, walima minnu tɛ ɛntɛrinɛti kan."
+  },
+  "featureOrgTitle": {
+    "message": "Labɛn & Labɛn"
+  },
+  "featureOrgDesc": {
+    "message": "Aw bɛ taamasiyɛnw labɛn ka kɛɲɛ ni alfabɛti ye ani ka foli lankolonw bɔ yen."
+  },
+  "featureSrchTitle": {
+    "message": "Ɲini & Filɛri"
+  },
+  "featureSrchDesc": {
+    "message": "I ka ɲinini kɛ o yɔrɔnin bɛɛ la i ka taamasiyɛnw bɛɛ kɔnɔ ka kɛɲɛ ni u tɔgɔ walima URL ye."
+  },
+  "featureRunBtn": {
+    "message": "Ka boli"
+  },
+  "loadingBookmarks": {
+    "message": "Aw bɛ aw ka taamasiyɛnw doni..."
+  },
+  "errorLoadingBookmarks": {
+    "message": "A ma se ka taamasiyɛnw doni. Aw ye aw jija ka segin a kan."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bookmark minnu bɛ URL kelen tila, olu bɛ kuluw kɔnɔ jukɔrɔ. Aw bɛ kelen mara, ka tɔw bɔ yen."
+  },
+  "dupScanBtn": {
+    "message": "Scan kɛ ka Duplicates (Duplicates) sɔrɔ"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Auto-Select (To kɔrɔlen) ."
+  },
+  "dupDeleteBtn": {
+    "message": "Sugandili Sugandili"
+  },
+  "dupDeleteBtnCount": {
+    "message": "$1 Jatebɔsɛbɛnw bɔ yen",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Aw ye Nin mara"
+  },
+  "dupGroupCount": {
+    "message": "$1 kopiw",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "$1 / $2 taamasiyɛnw lajɛ",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Foli minnu bɛ scanner..."
+  },
+  "emptyDupTitle": {
+    "message": "Duplicates (Duplicates) si ma Sɔrɔ"
+  },
+  "emptyDupDesc": {
+    "message": "I ka taamasiyɛnw lajɛlen tɛ ni URL ɲɔgɔnna ye. Baara ɲumanba don!"
+  },
+  "brokenSubtitle": {
+    "message": "Bookmark minnu bɛ ni URL tiɲɛnenw ye, minnu lankolon don, walima minnu tɛ ɛntɛrinɛti kan, olu bɛ sɔrɔ jukɔrɔ."
+  },
+  "brkScanBtn": {
+    "message": "Scan for Issues (Koɲɛw) kama"
+  },
+  "brkDeleteBtn": {
+    "message": "Sugandili Sugandili"
+  },
+  "badgeEmptyUrl": {
+    "message": "URL lankolon don"
+  },
+  "badgeInvalidUrl": {
+    "message": "URL min tɛ tiɲɛ ye"
+  },
+  "badgeLocalFile": {
+    "message": "Sigida Filen"
+  },
+  "badgeNonWeb": {
+    "message": "Min tɛ Web ye"
+  },
+  "badgeSuspicious": {
+    "message": "Siganama"
+  },
+  "emptyBrkTitle": {
+    "message": "Ko si ma Sɔrɔ"
+  },
+  "emptyBrkDesc": {
+    "message": "A bɛ iko i ka taamasiyɛnw bɛɛ bɛ ni URL ɲumanw ye."
+  },
+  "orgTabSort": {
+    "message": "Sort Bookmarks (Kɛwalew taamasiyɛnw)."
+  },
+  "orgTabEmpty": {
+    "message": "Foli lankolonw"
+  },
+  "sortSelectFolder": {
+    "message": "Foli (Folder) sugandi"
+  },
+  "sortAllBookmarks": {
+    "message": "Bookmarkw bɛɛ"
+  },
+  "sortOrder": {
+    "message": "Sort Order (Sɔrɔcogo sigicogo)."
+  },
+  "sortAZ": {
+    "message": "A → Z (ka kɛɲɛ ni tɔgɔ ye) ."
+  },
+  "sortZA": {
+    "message": "Z → A (ka kɛɲɛ ni tɔgɔ ye) ."
+  },
+  "sortDomain": {
+    "message": "Ka kɛɲɛ ni URL yɔrɔ ye (A → Z) ."
+  },
+  "sortFolderFirst": {
+    "message": "Foli fɔlɔw, o kɔfɛ, taamasiyɛnw"
+  },
+  "sortRecursive": {
+    "message": "Sort recursively (a bɛ tali kɛ foli fitininw bɛɛ la) ."
+  },
+  "sortPreviewBtn": {
+    "message": "A lajɛ fɔlɔ"
+  },
+  "sortApplyBtn": {
+    "message": "A’ ye Sort (Sort) kɛ"
+  },
+  "sortPreviewLabel": {
+    "message": "Preview — a kɛlen kɔ ka a tila:"
+  },
+  "sortPreviewMore": {
+    "message": "... ani $1 ka tɛmɛ o kan",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "Nin foli in tɛ ni taamasiyɛnw ye minnu bɛ se ka labɛn."
+  },
+  "sortSuccess": {
+    "message": "Bookmarks (daɲɛw) labɛnna ka ɲɛ."
+  },
+  "emptyScanBtn": {
+    "message": "Scan for Folders lankolonw"
+  },
+  "emptyDeleteBtn": {
+    "message": "Foli sugandilenw bɔ yen"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "Foli lankolonw tɛ yen"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "I ka foli bɛɛ kɔnɔ, fɛn kelen dɔrɔn de bɛ yen."
+  },
+  "deletedFolders": {
+    "message": "$1 foli (w) bɔra.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "A ɲini ka taamasiyɛnw ɲini ka kɛɲɛ ni u tɔgɔ walima URL ye..."
+  },
+  "chipAll": {
+    "message": "Bɛɛ"
+  },
+  "searchResultCount": {
+    "message": "$1 jaabiw",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Ka dayɛlɛ"
+  },
+  "searchEditBtn": {
+    "message": "Ka korize"
+  },
+  "searchCancelEditBtn": {
+    "message": "ka dankari"
+  },
+  "searchDeleteBtn": {
+    "message": "Ka jɔsi"
+  },
+  "searchSaveBtn": {
+    "message": "Ka mara"
+  },
+  "searchCancelBtn": {
+    "message": "ka dankari"
+  },
+  "emptySearchTitle": {
+    "message": "Résultat si ma Sɔrɔ"
+  },
+  "emptySearchDesc": {
+    "message": "Aw bɛ ɲinini daɲɛ walima filɛri wɛrɛ kɛ k’a lajɛ."
+  },
+  "deleteConfirmMsg": {
+    "message": "Yala i dalen b’a la ko i b’a fɛ ka nin taamasiyɛn in bɔ yen wa?"
+  },
+  "deleteConfirmYes": {
+    "message": "Ɔwɔ, Delete"
+  },
+  "deleteConfirmNo": {
+    "message": "ka dankari"
+  },
+  "toastDeleted": {
+    "message": "$1 taamasiyɛn (w) bɔra.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Deletion (bɔli) ma Kɛ. Bookmarks (taamaʃyɛnw) seginna."
+  },
+  "undoBtn": {
+    "message": "Undo (Undo) la"
+  },
+  "bookmarkUpdated": {
+    "message": "Bookmark tɔgɔ kura donna."
+  },
+  "errorGeneric": {
+    "message": "Misali dɔ kɛra. Aw ye aw jija ka segin a kan."
+  },
+  "noTitle": {
+    "message": "(Titre tɛ)"
+  },
+  "unknownFolder": {
+    "message": "(Foli min tɛ dɔn)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks (dakunw) Root"
+  },
+  "ariaNav": {
+    "message": "Navigasiyɔn kunbaba"
+  },
+  "ariaThemeToggle": {
+    "message": "Toggle dibi/yeelen barokun"
+  },
+  "ariaSidebarToggle": {
+    "message": "Toggle kɛ kɛrɛfɛla la"
+  },
+  "ariaClearSearch": {
+    "message": "Ɲini jɛlen"
+  },
+  "ariaFilterChips": {
+    "message": "Filɛri ka kɛɲɛ ni foli ye"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Marka kɛ walasa ka bɔ yen:"
+  },
+  "ariaEditTitle": {
+    "message": "Bookmark tɔgɔ ladilan"
+  }
+}

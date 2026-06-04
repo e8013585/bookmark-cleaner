@@ -1,0 +1,348 @@
+{
+  "extName": {
+    "message": "Bookmark Cleaner"
+  },
+  "extShortName": {
+    "message": "BK Cleaner"
+  },
+  "extDescription": {
+    "message": "Find duplicates, broken links, organize and search all your bookmarks — fast and clean."
+  },
+  "popupBookmarks": {
+    "message": "Bookmarks"
+  },
+  "popupFolders": {
+    "message": "Folders"
+  },
+  "popupOpenManager": {
+    "message": "Open Bookmark Manager"
+  },
+  "popupTagline": {
+    "message": "Clean · Organize · Search"
+  },
+  "popupLoading": {
+    "message": "Loading stats…"
+  },
+  "navHome": {
+    "message": "Home"
+  },
+  "navDuplicates": {
+    "message": "Find Duplicates"
+  },
+  "navBroken": {
+    "message": "Broken Links"
+  },
+  "navOrganize": {
+    "message": "Organize & Sort"
+  },
+  "navSearch": {
+    "message": "Search & Filter"
+  },
+  "navTheme": {
+    "message": "Toggle Theme"
+  },
+  "statBookmarks": {
+    "message": "Bookmarks"
+  },
+  "statFolders": {
+    "message": "Folders"
+  },
+  "statDuplicates": {
+    "message": "Duplicates"
+  },
+  "statEmptyFolders": {
+    "message": "Empty Folders"
+  },
+  "featureDupTitle": {
+    "message": "Find Duplicates"
+  },
+  "featureDupDesc": {
+    "message": "Detect and remove bookmark entries sharing the same URL."
+  },
+  "featureBrkTitle": {
+    "message": "Broken Links"
+  },
+  "featureBrkDesc": {
+    "message": "Identify bookmarks with invalid, empty, or non-web URLs."
+  },
+  "featureOrgTitle": {
+    "message": "Organize & Sort"
+  },
+  "featureOrgDesc": {
+    "message": "Sort bookmarks alphabetically and remove empty folders."
+  },
+  "featureSrchTitle": {
+    "message": "Search & Filter"
+  },
+  "featureSrchDesc": {
+    "message": "Instantly search across all your bookmarks by title or URL."
+  },
+  "featureRunBtn": {
+    "message": "Run"
+  },
+  "loadingBookmarks": {
+    "message": "Loading your bookmarks…"
+  },
+  "errorLoadingBookmarks": {
+    "message": "Failed to load bookmarks. Please try again."
+  },
+  "duplicatesSubtitle": {
+    "message": "Bookmarks sharing the same URL are grouped below. Keep one, delete the rest."
+  },
+  "dupScanBtn": {
+    "message": "Scan for Duplicates"
+  },
+  "dupSmartSelectBtn": {
+    "message": "Auto-Select (Keep Oldest)"
+  },
+  "dupDeleteBtn": {
+    "message": "Delete Selected"
+  },
+  "dupDeleteBtnCount": {
+    "message": "Delete $1 Bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "dupKeepBtn": {
+    "message": "Keep This"
+  },
+  "dupGroupCount": {
+    "message": "$1 copies",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "scanProgress": {
+    "message": "Checked $1 / $2 bookmarks",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "245"
+      },
+      "2": {
+        "content": "$2",
+        "example": "1203"
+      }
+    }
+  },
+  "scanningFolders": {
+    "message": "Scanning folders…"
+  },
+  "emptyDupTitle": {
+    "message": "No Duplicates Found"
+  },
+  "emptyDupDesc": {
+    "message": "Your bookmark collection has no duplicate URLs. Great job!"
+  },
+  "brokenSubtitle": {
+    "message": "Bookmarks with invalid, empty, or non-web URLs are listed below."
+  },
+  "brkScanBtn": {
+    "message": "Scan for Issues"
+  },
+  "brkDeleteBtn": {
+    "message": "Delete Selected"
+  },
+  "badgeEmptyUrl": {
+    "message": "Empty URL"
+  },
+  "badgeInvalidUrl": {
+    "message": "Invalid URL"
+  },
+  "badgeLocalFile": {
+    "message": "Local File"
+  },
+  "badgeNonWeb": {
+    "message": "Non-Web"
+  },
+  "badgeSuspicious": {
+    "message": "Suspicious"
+  },
+  "emptyBrkTitle": {
+    "message": "No Issues Found"
+  },
+  "emptyBrkDesc": {
+    "message": "All your bookmarks appear to have valid URLs."
+  },
+  "orgTabSort": {
+    "message": "Sort Bookmarks"
+  },
+  "orgTabEmpty": {
+    "message": "Empty Folders"
+  },
+  "sortSelectFolder": {
+    "message": "Select Folder"
+  },
+  "sortAllBookmarks": {
+    "message": "All Bookmarks"
+  },
+  "sortOrder": {
+    "message": "Sort Order"
+  },
+  "sortAZ": {
+    "message": "A → Z (by title)"
+  },
+  "sortZA": {
+    "message": "Z → A (by title)"
+  },
+  "sortDomain": {
+    "message": "By URL domain (A → Z)"
+  },
+  "sortFolderFirst": {
+    "message": "Folders first, then bookmarks"
+  },
+  "sortRecursive": {
+    "message": "Sort recursively (apply to all subfolders)"
+  },
+  "sortPreviewBtn": {
+    "message": "Preview"
+  },
+  "sortApplyBtn": {
+    "message": "Apply Sort"
+  },
+  "sortPreviewLabel": {
+    "message": "Preview — after sorting:"
+  },
+  "sortPreviewMore": {
+    "message": "… and $1 more",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "50"
+      }
+    }
+  },
+  "sortNoChildren": {
+    "message": "This folder has no bookmarks to sort."
+  },
+  "sortSuccess": {
+    "message": "Bookmarks sorted successfully."
+  },
+  "emptyScanBtn": {
+    "message": "Scan for Empty Folders"
+  },
+  "emptyDeleteBtn": {
+    "message": "Delete Selected Folders"
+  },
+  "emptyFolderNoneTitle": {
+    "message": "No Empty Folders"
+  },
+  "emptyFolderNoneDesc": {
+    "message": "All your folders contain at least one item."
+  },
+  "deletedFolders": {
+    "message": "Deleted $1 folder(s).",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "3"
+      }
+    }
+  },
+  "searchPlaceholder": {
+    "message": "Search bookmarks by title or URL…"
+  },
+  "chipAll": {
+    "message": "All"
+  },
+  "searchResultCount": {
+    "message": "$1 results",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "42"
+      }
+    }
+  },
+  "searchOpenBtn": {
+    "message": "Open"
+  },
+  "searchEditBtn": {
+    "message": "Edit"
+  },
+  "searchCancelEditBtn": {
+    "message": "Cancel"
+  },
+  "searchDeleteBtn": {
+    "message": "Delete"
+  },
+  "searchSaveBtn": {
+    "message": "Save"
+  },
+  "searchCancelBtn": {
+    "message": "Cancel"
+  },
+  "emptySearchTitle": {
+    "message": "No Results Found"
+  },
+  "emptySearchDesc": {
+    "message": "Try a different search term or filter."
+  },
+  "deleteConfirmMsg": {
+    "message": "Are you sure you want to delete this bookmark?"
+  },
+  "deleteConfirmYes": {
+    "message": "Yes, Delete"
+  },
+  "deleteConfirmNo": {
+    "message": "Cancel"
+  },
+  "toastDeleted": {
+    "message": "$1 bookmark(s) deleted.",
+    "placeholders": {
+      "1": {
+        "content": "$1",
+        "example": "5"
+      }
+    }
+  },
+  "toastUndone": {
+    "message": "Deletion undone. Bookmarks restored."
+  },
+  "undoBtn": {
+    "message": "Undo"
+  },
+  "bookmarkUpdated": {
+    "message": "Bookmark title updated."
+  },
+  "errorGeneric": {
+    "message": "An error occurred. Please try again."
+  },
+  "noTitle": {
+    "message": "(No Title)"
+  },
+  "unknownFolder": {
+    "message": "(Unknown Folder)"
+  },
+  "rootFolder": {
+    "message": "Bookmarks Root"
+  },
+  "ariaNav": {
+    "message": "Main navigation"
+  },
+  "ariaThemeToggle": {
+    "message": "Toggle dark/light theme"
+  },
+  "ariaSidebarToggle": {
+    "message": "Toggle sidebar"
+  },
+  "ariaClearSearch": {
+    "message": "Clear search"
+  },
+  "ariaFilterChips": {
+    "message": "Filter by folder"
+  },
+  "ariaMarkForDeletion": {
+    "message": "Mark for deletion:"
+  },
+  "ariaEditTitle": {
+    "message": "Edit bookmark title"
+  }
+}
